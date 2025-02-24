@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:A1YKW8	rtxC	PMID:30405113		GO:0018030	peptidyl-lysine N6-myristoyltransferase activity	IDA				20220222	UniProtKB:A1YKW7|GO:0019835	NCBITaxon:504
+UniProt	MGI:MGI:1196617	Ninj1	PMID:37980412		GO:0140912	membrane destabilizing activity	IDA			PANTHER:PTHR12316	20240501	GO:0019835|GO:0071474	NCBITaxon:10090
+UniProt	MGI:MGI:1196617	Ninj1	PMID:39476863		GO:0140912	membrane destabilizing activity	IDA			PANTHER:PTHR12316	20241113	GO:0019835	NCBITaxon:10090
+UniProt	UniProtKB:A1YKW8	rtxC	PMID:32461253		GO:0018030	peptidyl-lysine N6-myristoyltransferase activity	IDA				20220222	UniProtKB:A1YKW7|GO:0051715	NCBITaxon:504
