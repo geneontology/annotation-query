@@ -1,0 +1,180 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	RGD:2350	Chrnb2	PMID:21540349|RGD:12790638		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	UniProtKB:P04757		PANTHER:PTHR18945	20211119	CL:0002608|GO:0044853	NCBITaxon:10116
+ARUK-UCL	RGD:2348	Chrna7	PMID:21540349|RGD:12790638		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20211119	CL:0002608|GO:0044853	NCBITaxon:10116
+ARUK-UCL	RGD:2345	Chrna3	PMID:21540349|RGD:12790638		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	UniProtKB:P12390		PANTHER:PTHR18945	20211119	CL:0002608|GO:0044853	NCBITaxon:10116
+ComplexPortal	ComplexPortal:CPX-173	2xchrna4-3xchrnb2_chick	PMID:10908297		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	NAS				20240827		NCBITaxon:9031
+ComplexPortal	ComplexPortal:CPX-172	3xchrna4-2xchrnb2_chick	PMID:10908297		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20240827		NCBITaxon:9031
+ComplexPortal	ComplexPortal:CPX-2193	chrna3-chrnb2_human	PMID:11044728		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-2171	chrna9-chrna10_human	PMID:11752216		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-2635	chnra1-chrnb1_torma	PMID:21480901		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20241114		NCBITaxon:7788
+ComplexPortal	ComplexPortal:CPX-2179	chrna1-chrng_human	PMID:21480901		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	NAS				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-254	chrna1-chrng_chick	PMID:21480901		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	NAS				20240827		NCBITaxon:9031
+ComplexPortal	ComplexPortal:CPX-2203	chrna4-chrnb4_human	PMID:22309577		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-2200	chrna3-chrnb4_human	PMID:22309577		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-2190	chrna2-chrnb4_human	PMID:22309577		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-2170	chrna2-chrnb2_human	PMID:22309577		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-2187	chnra1-chrnb1_torca	PMID:22622285		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP				20240827		NCBITaxon:7787
+ComplexPortal	ComplexPortal:CPX-240	chrna7-beta2_human	PMID:25002271		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20241115		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-236	chrna7_human	PMID:25002271		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20241115		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-229	chrna9_chick	PMID:25193338		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20240827		NCBITaxon:9031
+ComplexPortal	ComplexPortal:CPX-225	chrna9-chrna10_chick	PMID:25193338		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20240827		NCBITaxon:9031
+ComplexPortal	ComplexPortal:CPX-226	chrna9_human	PMID:25282151		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-2180	2xchrna4-3xchrnb2_human	PMID:25869137		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-168	3xchrna4-2xchrnb2_human	PMID:25869137		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-210	chrna3-chrna5-chrnb4_human	PMID:8663494		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-187	chrna3-chrna5-chrnb2_human	PMID:8663494		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-235	chrna7_chick	PMID:9215704		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA				20240827		NCBITaxon:9031
+DFLAT	UniProtKB:P32297	CHRNA3	PMID:20438829		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	TAS		UniProtKB:P32297	PANTHER:PTHR18945	20100512		NCBITaxon:9606
+DFLAT	UniProtKB:P30926	CHRNB4	PMID:20438829		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	TAS		UniProtKB:P30926	PANTHER:PTHR18945	20100512		NCBITaxon:9606
+DFLAT	UniProtKB:P30532	CHRNA5	PMID:20438829		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	TAS		UniProtKB:P30532	PANTHER:PTHR18945	20100512		NCBITaxon:9606
+DFLAT	UniProtKB:P17787	CHRNB2	PMID:20438829		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	TAS		UniProtKB:P17787	PANTHER:PTHR18945	20100512		NCBITaxon:9606
+DFLAT	UniProtKB:P43681	CHRNA4	PMID:20438829		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	TAS		UniProtKB:P43681	PANTHER:PTHR18945	20100512		NCBITaxon:9606
+FlyBase	FB:FBgn0000039	nAChRalpha2	PMID:10820216|FB:FBrf0128637	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20130627		NCBITaxon:7227
+FlyBase	FB:FBgn0000036	nAChRalpha1	PMID:10820216|FB:FBrf0128637	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20130627		NCBITaxon:7227
+FlyBase	FB:FBgn0000039	nAChRalpha2	PMID:18208544|FB:FBrf0205266	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20120510		NCBITaxon:7227
+FlyBase	FB:FBgn0032151	nAChRalpha6	PMID:19944756|FB:FBrf0210843	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20100722		NCBITaxon:7227
+FlyBase	FB:FBgn0028875	nAChRalpha5	PMID:19944756|FB:FBrf0210843	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20100722		NCBITaxon:7227
+FlyBase	FB:FBgn0086778	nAChRalpha7	PMID:22727315|FB:FBrf0219423		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20130627		NCBITaxon:7227
+FlyBase	FB:FBgn0032151	nAChRalpha6	PMID:22727315|FB:FBrf0219423	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20130627		NCBITaxon:7227
+FlyBase	FB:FBgn0028875	nAChRalpha5	PMID:22727315|FB:FBrf0219423		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20130627		NCBITaxon:7227
+FlyBase	FB:FBgn0015519	nAChRalpha3	PMID:9681478|FB:FBrf0103365	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20130627		NCBITaxon:7227
+MGI	MGI:MGI:87888	Chrna4	PMID:10964949		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	TAS			PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87891	Chrnb2	PMID:11222635		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:1926253		PANTHER:PTHR18945	20161212	CL:0000617|EMAPA:16974	NCBITaxon:10090
+MGI	MGI:MGI:87891	Chrnb2	PMID:11222635		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:1926253		PANTHER:PTHR18945	20161212	CL:0000700|EMAPA:16974	NCBITaxon:10090
+MGI	MGI:MGI:87888	Chrna4	PMID:11222635		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:1926251		PANTHER:PTHR18945	20161212	CL:0000617|EMAPA:16974	NCBITaxon:10090
+MGI	MGI:MGI:87888	Chrna4	PMID:11222635		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:1926251		PANTHER:PTHR18945	20161212	CL:0000700|EMAPA:16974	NCBITaxon:10090
+MGI	RGD:2348	Chrna7	PMID:11222635|RGD:8554133		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20070413		NCBITaxon:10116
+MGI	MGI:MGI:99779	Chrna7	PMID:11834293		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:1888407		PANTHER:PTHR18945	20070410	EMAPA:32845	NCBITaxon:10090
+MGI	MGI:MGI:99779	Chrna7	PMID:11834293		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:1888407		PANTHER:PTHR18945	20070410	EMAPA:17544	NCBITaxon:10090
+MGI	MGI:MGI:99779	Chrna7	PMID:11834293		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:1888407		PANTHER:PTHR18945	20070410	EMAPA:32869	NCBITaxon:10090
+MGI	MGI:MGI:99779	Chrna7	PMID:11834293		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:1888407		PANTHER:PTHR18945	20070410	EMAPA:19095	NCBITaxon:10090
+MGI	MGI:MGI:106213	Chrna6	PMID:11850448		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2179133		PANTHER:PTHR18945	20161212	EMAPA:17168	NCBITaxon:10090
+MGI	MGI:MGI:106213	Chrna6	PMID:11850448		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2179133		PANTHER:PTHR18945	20161212	EMAPA:35914	NCBITaxon:10090
+MGI	MGI:MGI:106213	Chrna6	PMID:11850448		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2179133		PANTHER:PTHR18945	20161212	EMAPA:19095	NCBITaxon:10090
+MGI	MGI:MGI:106213	Chrna6	PMID:11850448		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2179133		PANTHER:PTHR18945	20161212	EMAPA:35478	NCBITaxon:10090
+MGI	MGI:MGI:106213	Chrna6	PMID:11850448		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2179133		PANTHER:PTHR18945	20161212	EMAPA:17544	NCBITaxon:10090
+MGI	MGI:MGI:106213	Chrna6	PMID:11850448		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2179133		PANTHER:PTHR18945	20161212	EMAPA:32869	NCBITaxon:10090
+MGI	MGI:MGI:87887	Chrna3	PMID:11923417		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2155602		PANTHER:PTHR18945	20161212	CL:0000117|EMAPA:35546	NCBITaxon:10090
+MGI	MGI:MGI:87887	Chrna3	PMID:11923417		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2155602		PANTHER:PTHR18945	20161212	CL:0000117|EMAPA:35439	NCBITaxon:10090
+MGI	MGI:MGI:87887	Chrna3	PMID:11923417		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2155602		PANTHER:PTHR18945	20161212	CL:0000117|EMAPA:35547	NCBITaxon:10090
+MGI	MGI:MGI:87887	Chrna3	PMID:11923417		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2155602		PANTHER:PTHR18945	20161212	CL:0000117|EMAPA:35608	NCBITaxon:10090
+MGI	MGI:MGI:87887	Chrna3	PMID:11923417		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2155602		PANTHER:PTHR18945	20161212	CL:0000117|EMAPA:36622	NCBITaxon:10090
+MGI	MGI:MGI:87887	Chrna3	PMID:11923417		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2155602		PANTHER:PTHR18945	20161212	CL:0000117|EMAPA:35610	NCBITaxon:10090
+MGI	MGI:MGI:87887	Chrna3	PMID:11923417		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2155602		PANTHER:PTHR18945	20161212	CL:0000117|EMAPA:35108	NCBITaxon:10090
+MGI	MGI:MGI:87887	Chrna3	PMID:11923417		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2155602		PANTHER:PTHR18945	20161212	CL:0000117|EMAPA:35132	NCBITaxon:10090
+MGI	MGI:MGI:87887	Chrna3	PMID:11923417		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2155602		PANTHER:PTHR18945	20161212	CL:0000117|EMAPA:35554	NCBITaxon:10090
+MGI	MGI:MGI:87887	Chrna3	PMID:11923417		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2155602		PANTHER:PTHR18945	20161212	CL:0000117|EMAPA:35111	NCBITaxon:10090
+MGI	MGI:MGI:87887	Chrna3	PMID:11923417		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2155602		PANTHER:PTHR18945	20161212	CL:0000117|EMAPA:32870	NCBITaxon:10090
+MGI	MGI:MGI:87888	Chrna4	PMID:12130686		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP			PANTHER:PTHR18945	20161212	EMAPA:16894	NCBITaxon:10090
+MGI	UniProtKB:P36544	CHRNA7	PMID:12508119		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P36544	PANTHER:PTHR18945	20071015		NCBITaxon:9606
+MGI	MGI:MGI:87888	Chrna4	PMID:15528443		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:3511287		PANTHER:PTHR18945	20161212	EMAPA:32869	NCBITaxon:10090
+MGI	MGI:MGI:87888	Chrna4	PMID:15528443		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:3511287		PANTHER:PTHR18945	20161212	EMAPA:32870	NCBITaxon:10090
+MGI	MGI:MGI:87891	Chrnb2	PMID:15569257		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87888		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87888	Chrna4	PMID:15569257		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87891		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87891	Chrnb2	PMID:15741168		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87888		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87888	Chrna4	PMID:15741168		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87891		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	RGD:2348	Chrna7	PMID:15760934|RGD:8554382		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP			PANTHER:PTHR18945	20071015		NCBITaxon:10116
+MGI	MGI:MGI:87891	Chrnb2	PMID:17470777		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20161212	EMAPA:32789	NCBITaxon:10090
+MGI	MGI:MGI:87891	Chrnb2	PMID:17470777		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20161212	EMAPA:19095	NCBITaxon:10090
+MGI	MGI:MGI:87891	Chrnb2	PMID:17470777		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20161212	EMAPA:35485	NCBITaxon:10090
+MGI	MGI:MGI:3609260	Chrna10	PMID:18077337		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:3774038		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:1202403	Chrna9	PMID:18077337		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2158742		PANTHER:PTHR18945	20080620		NCBITaxon:10090
+MGI	MGI:MGI:87895	Chrng	PMID:2383398		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87890		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87895	Chrng	PMID:2383398		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87893		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87895	Chrng	PMID:2383398		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87885		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87893	Chrnd	PMID:2383398	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87890		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87893	Chrnd	PMID:2383398	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87895		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87893	Chrnd	PMID:2383398	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87885		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87893	Chrnd	PMID:2383398	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87894		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87890	Chrnb1	PMID:2383398	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87885		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87890	Chrnb1	PMID:2383398	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87894		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87890	Chrnb1	PMID:2383398	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87893		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87890	Chrnb1	PMID:2383398	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87895		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87885	Chrna1	PMID:2383398	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87893		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87885	Chrna1	PMID:2383398	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87895		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87885	Chrna1	PMID:2383398	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87890		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87885	Chrna1	PMID:2383398	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87894		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87894	Chrne	PMID:2383398	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87890		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87894	Chrne	PMID:2383398	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87885		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87894	Chrne	PMID:2383398	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87893		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87895	Chrng	PMID:8798466		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87890		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87895	Chrng	PMID:8798466		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87893		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87893	Chrnd	PMID:8798466		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87890		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87893	Chrnd	PMID:8798466		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87895		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87890	Chrnb1	PMID:8798466		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87893		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:87890	Chrnb1	PMID:8798466		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IGI	MGI:MGI:87895		PANTHER:PTHR18945	20161212		NCBITaxon:10090
+MGI	MGI:MGI:99779	Chrna7	PMID:9037516		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP			PANTHER:PTHR18945	20070410	EMAPA:32845	NCBITaxon:10090
+MGI	MGI:MGI:99779	Chrna7	PMID:9037516		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP			PANTHER:PTHR18945	20070410	EMAPA:36556	NCBITaxon:10090
+MGI	MGI:MGI:99779	Chrna7	PMID:9037516		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP			PANTHER:PTHR18945	20070410	EMAPA:17536	NCBITaxon:10090
+MGI	UniProtKB:P02708	CHRNA1	PMID:9221765		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP		UniProtKB:P02708	PANTHER:PTHR18945	20161212		NCBITaxon:9606
+MGI	MGI:MGI:99779	Chrna7	PMID:9364063		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:1888407		PANTHER:PTHR18945	20070410	EMAPA:32845	NCBITaxon:10090
+MGI	MGI:MGI:99779	Chrna7	PMID:9495872		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20070917	EMAPA:36556	NCBITaxon:10090
+MGI	MGI:MGI:99779	Chrna7	PMID:9495872		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20070917	EMAPA:32845	NCBITaxon:10090
+MGI	MGI:MGI:99779	Chrna7	PMID:9495872		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20070917	EMAPA:17549	NCBITaxon:10090
+MGI	MGI:MGI:99779	Chrna7	PMID:9495872		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20070917	EMAPA:17536	NCBITaxon:10090
+MGI	MGI:MGI:87891	Chrnb2	PMID:9614223		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20161212	EMAPA:16894	NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:P36544	CHRNA7	PMID:21718690		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P36544	PANTHER:PTHR18945	20240714	GO:0060079	NCBITaxon:9606
+RGD	RGD:2350	Chrnb2	PMID:11259617|RGD:8549520		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP			PANTHER:PTHR18945	20140327		NCBITaxon:10116
+RGD	RGD:2348	Chrna7	PMID:11259617|RGD:8549520		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP			PANTHER:PTHR18945	20140327		NCBITaxon:10116
+RGD	RGD:2346	Chrna4	PMID:11259617|RGD:8549520		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP			PANTHER:PTHR18945	20140327		NCBITaxon:10116
+RGD	RGD:2348	Chrna7	PMID:11297818|RGD:1643016		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP			PANTHER:PTHR18945	20071127		NCBITaxon:10116
+RGD	RGD:2347	Chrna5	PMID:11297818|RGD:1643016		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP			PANTHER:PTHR18945	20071127		NCBITaxon:10116
+RGD	RGD:2345	Chrna3	PMID:11297818|RGD:1643016		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP			PANTHER:PTHR18945	20071127		NCBITaxon:10116
+RGD	RGD:2346	Chrna4	PMID:11904236|RGD:704387		GO:1903048	regulation of acetylcholine-gated cation channel activity	IMP			PANTHER:PTHR18945	20150216		NCBITaxon:10116
+RGD	RGD:2350	Chrnb2	PMID:11956333|RGD:727635		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20050217		NCBITaxon:10116
+RGD	RGD:2348	Chrna7	PMID:12069582|RGD:727702		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20050217		NCBITaxon:10116
+RGD	RGD:2346	Chrna4	PMID:12202488|RGD:727641		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20050217		NCBITaxon:10116
+RGD	RGD:2347	Chrna5	PMID:12814364|RGD:1298760		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP			PANTHER:PTHR18945	20060321		NCBITaxon:10116
+RGD	RGD:2348	Chrna7	PMID:16186249|RGD:1600971		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP			PANTHER:PTHR18945	20070402		NCBITaxon:10116
+RGD	RGD:2349	Chrnb1	PMID:1702709|RGD:68734		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20050217		NCBITaxon:10116
+RGD	RGD:69277	Chrna1	PMID:1702709|RGD:68734		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20050217		NCBITaxon:10116
+RGD	RGD:2352	Chrnd	PMID:1702709|RGD:68734		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20050217		NCBITaxon:10116
+RGD	RGD:2354	Chrng	PMID:1702709|RGD:68734		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20050217		NCBITaxon:10116
+RGD	RGD:2349	Chrnb1	PMID:22461452|RGD:8549758		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20140404		NCBITaxon:10116
+RGD	RGD:69277	Chrna1	PMID:22461452|RGD:8549758		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20140404		NCBITaxon:10116
+RGD	RGD:2352	Chrnd	PMID:22461452|RGD:8549758		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20140404		NCBITaxon:10116
+RGD	RGD:2353	Chrne	PMID:22461452|RGD:8549758		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20140404		NCBITaxon:10116
+RGD	RGD:2354	Chrng	PMID:22461452|RGD:8549758		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20140404		NCBITaxon:10116
+RGD	RGD:621533	Chrna2	PMID:2832952|RGD:728252		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20050217		NCBITaxon:10116
+RGD	RGD:621534	Chrna9	PMID:7954834|RGD:728400		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20050217		NCBITaxon:10116
+UniProt	UniProtKB:P30926	CHRNB4	PMID:11742001		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	TAS		UniProtKB:P30926	PANTHER:PTHR18945	20061127		NCBITaxon:9606
+UniProt	WB:WBGene00001133	eat-2	PMID:15020415|WB_REF:WBPaper00006439		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP			PANTHER:PTHR18945	20081125		NCBITaxon:6239
+UniProt	UniProtKB:P30532	CHRNA5	PMID:1542648		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	NAS		UniProtKB:P30532	PANTHER:PTHR18945	20040406		NCBITaxon:9606
+UniProt	UniProtKB:P17787	CHRNB2	PMID:17132685		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P17787	PANTHER:PTHR18945	20241120		NCBITaxon:9606
+UniProt	UniProtKB:P43681	CHRNA4	PMID:17132685		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P43681	PANTHER:PTHR18945	20241120		NCBITaxon:9606
+UniProt	RGD:2348	Chrna7	PMID:17510177|RGD:596936198		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20241111		NCBITaxon:10116
+UniProt	UniProtKB:P36544	CHRNA7	PMID:18387948		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P36544	PANTHER:PTHR18945	20170526		NCBITaxon:9606
+UniProt	UniProtKB:P30926	CHRNB4	PMID:18387948		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P30926	PANTHER:PTHR18945	20170526		NCBITaxon:9606
+UniProt	UniProtKB:P17787	CHRNB2	PMID:18387948		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P17787	PANTHER:PTHR18945	20170526		NCBITaxon:9606
+UniProt	RGD:2346	Chrna4	PMID:22593584|RGD:596936208		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20241120		NCBITaxon:10116
+UniProt	MGI:MGI:106213	Chrna6	PMID:22836257		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2179133		PANTHER:PTHR18945	20241219		NCBITaxon:10090
+UniProt	UniProtKB:P02709	CHRNA1	PMID:2423878	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P02709	PANTHER:PTHR18945	20231207		NCBITaxon:9913
+UniProt	UniProtKB:P04759	CHRND	PMID:2423878	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P04759	PANTHER:PTHR18945	20231207		NCBITaxon:9913
+UniProt	UniProtKB:P04758	CHRNB1	PMID:2423878	contributes_to	GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P04758	PANTHER:PTHR18945	20231207		NCBITaxon:9913
+UniProt	MGI:MGI:106213	Chrna6	PMID:24266758		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	MGI:MGI:2179133		PANTHER:PTHR18945	20241219		NCBITaxon:10090
+UniProt	UniProtKB:Q9UGM1	CHRNA9	PMID:25282151		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:Q9UGM1	PANTHER:PTHR18945	20141023		NCBITaxon:9606
+UniProt	UniProtKB:P17787	CHRNB2	PMID:27698419		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P17787	PANTHER:PTHR18945	20241120		NCBITaxon:9606
+UniProt	UniProtKB:P43681	CHRNA4	PMID:27698419		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P43681	PANTHER:PTHR18945	20241120		NCBITaxon:9606
+UniProt	UniProtKB:P17787	CHRNB2	PMID:29720657		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P17787	PANTHER:PTHR18945	20241120		NCBITaxon:9606
+UniProt	UniProtKB:P43681	CHRNA4	PMID:29720657		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P43681	PANTHER:PTHR18945	20241120		NCBITaxon:9606
+UniProt	UniProtKB:P17787	CHRNB2	PMID:38454578		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P17787	PANTHER:PTHR18945	20241120		NCBITaxon:9606
+UniProt	UniProtKB:P43681	CHRNA4	PMID:38454578		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P43681	PANTHER:PTHR18945	20241120		NCBITaxon:9606
+UniProt	UniProtKB:P36544	CHRNA7	PMID:8145738		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P36544	PANTHER:PTHR18945	20071012		NCBITaxon:9606
+UniProt	UniProtKB:Q15822	CHRNA2	PMID:8906617		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:Q15822	PANTHER:PTHR18945	20071016		NCBITaxon:9606
+UniProt	UniProtKB:P32297	CHRNA3	PMID:8906617		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P32297	PANTHER:PTHR18945	20071016		NCBITaxon:9606
+UniProt	UniProtKB:P36544	CHRNA7	PMID:8906617		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P36544	PANTHER:PTHR18945	20071012		NCBITaxon:9606
+UniProt	UniProtKB:P30926	CHRNB4	PMID:8906617		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	TAS		UniProtKB:P30926	PANTHER:PTHR18945	20071016		NCBITaxon:9606
+UniProt	UniProtKB:P17787	CHRNB2	PMID:8906617		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P17787	PANTHER:PTHR18945	20071016		NCBITaxon:9606
+UniProt	UniProtKB:P43681	CHRNA4	PMID:8906617		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA		UniProtKB:P43681	PANTHER:PTHR18945	20071016		NCBITaxon:9606
+UniProt	RGD:2346	Chrna4	PMID:9882698|RGD:596936194		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20241120		NCBITaxon:10116
+WB	WB:WBGene00006797	unc-63	PMID:15280391|WB_REF:WBPaper00024530		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	WB:WBVar00275227		PANTHER:PTHR18945	20080620		NCBITaxon:6239
+WB	WB:WBGene00002974	lev-1	PMID:15280391|WB_REF:WBPaper00024530		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	WB:WBVar00143038		PANTHER:PTHR18945	20080620		NCBITaxon:6239
+WB	WB:WBGene00000055	acr-16	PMID:19020092|WB_REF:WBPaper00032366		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20140627		NCBITaxon:6239
+WB	WB:WBGene00006797	unc-63	PMID:20027209|WB_REF:WBPaper00035548		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20180109		NCBITaxon:6239
+WB	WB:WBGene00006774	unc-38	PMID:20027209|WB_REF:WBPaper00035548		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20180109		NCBITaxon:6239
+WB	WB:WBGene00000051	acr-12	PMID:20027209|WB_REF:WBPaper00035548		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20180109		NCBITaxon:6239
+WB	WB:WBGene00000043	acr-3	PMID:20027209|WB_REF:WBPaper00035548		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20180109		NCBITaxon:6239
+WB	WB:WBGene00000042	acr-2	PMID:20027209|WB_REF:WBPaper00035548		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20180109		NCBITaxon:6239
+WB	WB:WBGene00006797	unc-63	PMID:20966081|WB_REF:WBPaper00037697		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	WB:WBVar00275220|WB:WBVar00275227		PANTHER:PTHR18945	20111207		NCBITaxon:6239
+WB	WB:WBGene00006765	unc-29	PMID:9221782|WB_REF:WBPaper00002860		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IDA			PANTHER:PTHR18945	20180109		NCBITaxon:6239
+ZFIN	ZFIN:ZDB-GENE-030131-6665	chrnd	PMID:19270440		GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	IMP	ZFIN:ZDB-GENO-980202-1045		PANTHER:PTHR18945	20101104		NCBITaxon:7955
