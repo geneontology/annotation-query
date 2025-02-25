@@ -1,0 +1,64 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P83406	P83406	PMID:15067003		GO:0044472	envenomation resulting in modulation of calcium channel activity in another organism	IDA				20241219		NCBITaxon:6863
+UniProt	UniProtKB:P83405	P83405	PMID:15067003		GO:0044472	envenomation resulting in modulation of calcium channel activity in another organism	IDA				20241219		NCBITaxon:6863
+UniProt	UniProtKB:P49268	P49268	PMID:23473802		GO:0044475	envenomation resulting in negative regulation of high voltage-gated calcium channel activity in another organism	IDA				20130319		NCBITaxon:12944
+UniProt	UniProtKB:P49268	P49268	PMID:23473802		GO:0044476	envenomation resulting in negative regulation of low voltage-gated calcium channel activity in another organism	IDA				20130319		NCBITaxon:12944
+UniProt	UniProtKB:E7CLP2	E7CLP2	PMID:21605585		GO:0044492	envenomation resulting in modulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:419285
+UniProt	UniProtKB:A0A5H1ZR48	A0A5H1ZR48	PMID:31226259	not	GO:0044492	envenomation resulting in modulation of voltage-gated sodium channel activity in another organism	IDA				20220209		NCBITaxon:6878
+UniProt	UniProtKB:P83257	P83257	PMID:10971590		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241217		NCBITaxon:185217
+UniProt	UniProtKB:P83258	P83258	PMID:10971590		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241217		NCBITaxon:185217
+UniProt	UniProtKB:P83259	P83259	PMID:10971590		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241217		NCBITaxon:185217
+UniProt	UniProtKB:P60214	P60214	PMID:11821128		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241217		NCBITaxon:1221240
+UniProt	UniProtKB:P60212	P60212	PMID:15025998		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:1221240
+UniProt	UniProtKB:O61705	O61705	PMID:15200476		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:34649
+UniProt	UniProtKB:P84510	P84510	PMID:16267209		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:269635
+UniProt	UniProtKB:P84508	P84508	PMID:16267209		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:316287
+UniProt	UniProtKB:P84507	P84507	PMID:16267209		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:316287
+UniProt	UniProtKB:P84509	P84509	PMID:16267209		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:316287
+UniProt	UniProtKB:Q1A3R1	Q1A3R1	PMID:17961831		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:89445
+UniProt	UniProtKB:P49268	P49268	PMID:23473802		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20130319		NCBITaxon:12944
+UniProt	UniProtKB:C0HJM9	C0HJM9	PMID:26083731		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20170411		NCBITaxon:203543
+UniProt	UniProtKB:C0HLM1	C0HLM1	PMID:31402191	not	GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20210315		NCBITaxon:2599738
+UniProt	UniProtKB:C0HLM1	C0HLM1	PMID:31402191		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20210315		NCBITaxon:2599738
+UniProt	UniProtKB:C0HLM0	C0HLM0	PMID:31402191	not	GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20210315		NCBITaxon:2599738
+UniProt	UniProtKB:C0HLM0	C0HLM0	PMID:31402191		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20210315		NCBITaxon:2599738
+UniProt	UniProtKB:C0HLL9	C0HLL9	PMID:31402191		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20210216		NCBITaxon:2599738
+UniProt	UniProtKB:C0HLF2	C0HLF2	PMID:31734253		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20200226		NCBITaxon:2338500
+UniProt	UniProtKB:C0HLF4	C0HLF4	PMID:31734253		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20200226		NCBITaxon:2338500
+UniProt	UniProtKB:C0HLF3	C0HLF3	PMID:31734253		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20200226		NCBITaxon:2338500
+UniProt	UniProtKB:C0HLR5	C0HLR5	PMID:32479835		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20200611		NCBITaxon:329350
+UniProt	UniProtKB:C0HLR4	C0HLR4	PMID:32479835		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20200611		NCBITaxon:329350
+UniProt	UniProtKB:C0HLR3	C0HLR3	PMID:32479835		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20200611		NCBITaxon:329350
+UniProt	UniProtKB:C0HLR6	C0HLR6	PMID:32973807		GO:0044493	envenomation resulting in negative regulation of voltage-gated sodium channel activity in another organism	IDA				20210216		NCBITaxon:2718978
+UniProt	UniProtKB:Q2I2Q5	Q2I2Q5	PMID:19562324		GO:0044494	envenomation resulting in positive regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:89445
+UniProt	UniProtKB:P0DOC5	P0DOC5	PMID:27281198		GO:0044494	envenomation resulting in positive regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:268413
+UniProt	UniProtKB:P60992	P60992	PMID:27281198		GO:0044494	envenomation resulting in positive regulation of voltage-gated sodium channel activity in another organism	IDA				20241219		NCBITaxon:268413
+UniProt	UniProtKB:E7CLP2	E7CLP2	PMID:21605585		GO:0044559	envenomation resulting in modulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:419285
+UniProt	UniProtKB:A0A5H1ZR48	A0A5H1ZR48	PMID:31226259	not	GO:0044559	envenomation resulting in modulation of voltage-gated potassium channel activity in another organism	IDA				20220209		NCBITaxon:6878
+UniProt	UniProtKB:P83243	P83243	PMID:11113450		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241217		NCBITaxon:1221240
+UniProt	UniProtKB:P83244	P83244	PMID:11527374		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241217		NCBITaxon:6892
+UniProt	UniProtKB:P60211	P60211	PMID:12445473		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241217		NCBITaxon:1221240
+UniProt	UniProtKB:P60210	P60210	PMID:12445473		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241217		NCBITaxon:1221240
+UniProt	UniProtKB:Q6WGI9	Q6WGI9	PMID:14561751		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:242110
+UniProt	UniProtKB:P60165	P60165	PMID:14561751		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:252780
+UniProt	UniProtKB:P60164	P60164	PMID:14561751		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:252780
+UniProt	UniProtKB:P84713	P84713	PMID:15081394		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:351660
+UniProt	UniProtKB:P84777	P84777	PMID:15369825		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:57059
+UniProt	UniProtKB:P0CC12	P0CC12	PMID:17070524		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:342590
+UniProt	UniProtKB:P85528	P85528	PMID:18699777		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:520031
+UniProt	UniProtKB:P0DJ48	P0DJ48	PMID:22354971		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20120612		NCBITaxon:172552
+UniProt	UniProtKB:P0C8W3	P0C8W3	PMID:22354971		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20120612		NCBITaxon:380989
+UniProt	UniProtKB:P0DJ46	P0DJ46	PMID:22354971		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20120612		NCBITaxon:172552
+UniProt	UniProtKB:P0DJ50	P0DJ50	PMID:22354971		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20120612		NCBITaxon:34649
+UniProt	UniProtKB:P0DJ49	P0DJ49	PMID:22354971		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20120612		NCBITaxon:34649
+UniProt	UniProtKB:P0DJ47	P0DJ47	PMID:22354971		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20120612		NCBITaxon:34649
+UniProt	UniProtKB:P0DJ45	P0DJ45	PMID:22354971		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20120612		NCBITaxon:172552
+UniProt	UniProtKB:C0HJC3	C0HJC3	PMID:23466933		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:31165
+UniProt	UniProtKB:C0HJC2	C0HJC2	PMID:23466933		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:31165
+UniProt	UniProtKB:P49268	P49268	PMID:23473802	not	GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20130319		NCBITaxon:12944
+UniProt	UniProtKB:C0HJC4	C0HJC4	PMID:23895459		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:31165
+UniProt	UniProtKB:C0HJQ2	C0HJQ2	PMID:26398235		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:6871
+UniProt	UniProtKB:A0A1L2FZD4	A0A1L2FZD4	PMID:28179135		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20241219		NCBITaxon:6892
+UniProt	UniProtKB:C0HLM3	C0HLM3	PMID:34201318		GO:0044562	envenomation resulting in negative regulation of voltage-gated potassium channel activity in another organism	IDA				20210805		NCBITaxon:29018
+UniProt	UniProtKB:Q9PWF3	CRO2	PMID:22498659		GO:0044564	envenomation resulting in occlusion of the pore of voltage-gated potassium channel in another organism	IDA				20130924		NCBITaxon:8732
+UniProt	UniProtKB:C0HM65	C0HM65	PMID:36668861		GO:0044564	envenomation resulting in occlusion of the pore of voltage-gated potassium channel in another organism	IDA				20230223		NCBITaxon:29018
