@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPBC19C7.09c	uve1	PMID:8614629		GO:1990043	5' deoxyribonuclease (pyrimidine dimer) activity	IDA			PANTHER:PTHR31290	20140801		NCBITaxon:4896
+PomBase	PomBase:SPBC19C7.09c	uve1	PMID:9708997		GO:1990043	5' deoxyribonuclease (pyrimidine dimer) activity	IDA			PANTHER:PTHR31290	20130218		NCBITaxon:4896
