@@ -1,0 +1,11 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	UniProtKB:Q46920	queF	PMID:15767583		GO:0008616	queuosine biosynthetic process	IMP			PANTHER:PTHR34354	20110426		NCBITaxon:83333
+EcoCyc	UniProtKB:P77756	queC	PMID:16199558		GO:0008616	queuosine biosynthetic process	EXP			PANTHER:PTHR42914	20110426		NCBITaxon:83333
+EcoCyc	UniProtKB:P0A7F9	queA	PMID:1706703		GO:0008616	queuosine biosynthetic process	IMP			PANTHER:PTHR30307	20110107		NCBITaxon:83333
+EcoCyc	UniProtKB:P0A6T5	folE	PMID:18931107		GO:0008616	queuosine biosynthetic process	IMP			PANTHER:PTHR11109	20081106		NCBITaxon:83333
+EcoCyc	UniProtKB:P64554	queE	PMID:21502530		GO:0008616	queuosine biosynthetic process	IMP			PANTHER:PTHR42836	20171222		NCBITaxon:83333
+EcoCyc	UniProtKB:P39288	queG	PMID:21502530		GO:0008616	queuosine biosynthetic process	IMP			PANTHER:PTHR30002	20110425		NCBITaxon:83333
+EcoCyc	UniProtKB:P65870	queD	PMID:28208705		GO:0008616	queuosine biosynthetic process	IMP			PANTHER:PTHR12589	20170307		NCBITaxon:83333
+EcoCyc	UniProtKB:P37619	yhhQ	PMID:28208705		GO:1990397	queuosine salvage	IDA			PANTHER:PTHR34300	20170307		NCBITaxon:83333
+EcoCyc	UniProtKB:P0A847	tgt	PMID:6804468		GO:0008616	queuosine biosynthetic process	IMP			PANTHER:PTHR46499	20110106		NCBITaxon:83333
+EcoCyc	UniProtKB:P0A7F9	queA	PMID:8347586		GO:0008616	queuosine biosynthetic process	IMP			PANTHER:PTHR30307	20110107		NCBITaxon:83333
