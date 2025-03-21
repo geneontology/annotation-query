@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:104630	Wars1	PMID:19941862		GO:0004830	tryptophan-tRNA ligase activity	IDA			PANTHER:PTHR10055	20170830	GO:0006436	NCBITaxon:10090
