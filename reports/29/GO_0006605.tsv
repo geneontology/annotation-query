@@ -1,0 +1,1043 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:Q9NZ52	GGA3	PMID:17116753		GO:0006622	protein targeting to lysosome	IPI	UniProtKB:P46934	UniProtKB:Q9NZ52	PANTHER:PTHR45905	20201005	UniProtKB:Q13571|CL:0000451	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P46934	NEDD4	PMID:17116753		GO:0006622	protein targeting to lysosome	IPI	UniProtKB:Q9NZ52	UniProtKB:P46934	PANTHER:PTHR11254	20201005	UniProtKB:Q13571|CL:0000451	NCBITaxon:9606
+ARUK-UCL	MGI:MGI:108046	Laptm5	PMID:18619870		GO:0006622	protein targeting to lysosome	IDA			PANTHER:PTHR12479	20201002	CL:0000912|UBERON:0002106	NCBITaxon:10090
+ARUK-UCL	UniProtKB:P05107	ITGB2	PMID:18981141		GO:0090314	positive regulation of protein targeting to membrane	NAS		UniProtKB:P05107	PANTHER:PTHR10082	20210429	UBERON:0001891|CL:0000125|GO:0033554|UniProtKB:P14598	NCBITaxon:9606
+ARUK-UCL	MGI:MGI:96607	Itgam	PMID:18981141		GO:0090314	positive regulation of protein targeting to membrane	IMP			PANTHER:PTHR23220	20210429	UBERON:0001891|CL:0000125|GO:0033554|UniProtKB:Q09014	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:95602	Fyn	PMID:22820466		GO:0090314	positive regulation of protein targeting to membrane	IGI	UniProtKB:P04925		PANTHER:PTHR24418	20230517	CL:0010012|GO:1904645|UniProtKB:Q01097|GO:0098703	NCBITaxon:10090
+ARUK-UCL	MGI:MGI:97769	Prnp	PMID:22820466		GO:0090314	positive regulation of protein targeting to membrane	IGI	UniProtKB:P39688		PANTHER:PTHR15506	20230517	CL:0010012|GO:1904645|UniProtKB:Q01097|GO:0098703	NCBITaxon:10090
+ARUK-UCL	UniProtKB:Q14108	SCARB2	PMID:25202012		GO:0006622	protein targeting to lysosome	NAS		UniProtKB:Q14108	PANTHER:PTHR11923	20181031	UniProtKB:P04062|GO:0005783	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P10909	CLU	PMID:9228033		GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	IDA		UniProtKB:P10909	PANTHER:PTHR10970	20210415	UniProtKB:P05067-PRO_0000000093	NCBITaxon:9606
+AgBase	MGI:MGI:95403	Stom	PMID:25262680		GO:0090314	positive regulation of protein targeting to membrane	IMP			PANTHER:PTHR10264	20150120	UniProtKB:Q9WMX2-PRO_0000037552	NCBITaxon:10090
+AgBase	UniProtKB:Q9ZQY2	LOC542483	PMID:9952460		GO:0006626	protein targeting to mitochondrion	TAS				20090414		NCBITaxon:4577
+AgBase	UniProtKB:Q9ZQY0	Q9ZQY0	PMID:9952460		GO:0006626	protein targeting to mitochondrion	TAS				20090416		NCBITaxon:4577
+Alzheimers_University_of_Toronto	UniProtKB:Q92673	SORL1	PMID:16407538		GO:0006605	protein targeting	IDA		UniProtKB:Q92673	PANTHER:PTHR12106	20140401		NCBITaxon:9606
+Alzheimers_University_of_Toronto	UniProtKB:Q92673	SORL1	PMID:24523320		GO:0006622	protein targeting to lysosome	IDA		UniProtKB:Q92673	PANTHER:PTHR12106	20140416		NCBITaxon:9606
+AspGD	UniProtKB:C8VJ57	ANIA_02925	PMID:18245820		GO:0006625	protein targeting to peroxisome	IMP			PANTHER:PTHR23077	20091029		NCBITaxon:227321
+AspGD	UniProtKB:Q5BF00	ANIA_00880	PMID:18245820		GO:0006625	protein targeting to peroxisome	IMP			PANTHER:PTHR46027	20091029		NCBITaxon:227321
+AspGD	UniProtKB:Q5BD69	ANIA_01511	PMID:18245820		GO:0006625	protein targeting to peroxisome	IMP			PANTHER:PTHR19332	20091029		NCBITaxon:227321
+AspGD	UniProtKB:Q5B6I8	ANIA_03842	PMID:20534811		GO:0006623	protein targeting to vacuole	IMP			PANTHER:PTHR24073	20100719		NCBITaxon:227321
+BHF-UCL	MGI:MGI:1353436	Timm9	PMID:14726512		GO:0045039	protein insertion into mitochondrial inner membrane	IDA			PANTHER:PTHR13172	20110711		NCBITaxon:10090
+BHF-UCL	MGI:MGI:1353429	Timm10	PMID:14726512		GO:0045039	protein insertion into mitochondrial inner membrane	IDA			PANTHER:PTHR11038	20110711		NCBITaxon:10090
+BHF-UCL	UniProtKB:Q9Y584	TIMM22	PMID:14726512		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		UniProtKB:Q9Y584	PANTHER:PTHR14110	20110714		NCBITaxon:9606
+BHF-UCL	UniProtKB:P34932	HSPA4	PMID:15644312		GO:0030150	protein import into mitochondrial matrix	IDA		UniProtKB:P34932	PANTHER:PTHR45639	20250220		NCBITaxon:9606
+BHF-UCL	UniProtKB:P07900	HSP90AA1	PMID:15644312		GO:0030150	protein import into mitochondrial matrix	IDA		UniProtKB:P07900	PANTHER:PTHR11528	20250220		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9P0U1	TOMM7	PMID:15644312		GO:0030150	protein import into mitochondrial matrix	TAS		UniProtKB:Q9P0U1	PANTHER:PTHR46722	20250219		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9NS69	TOMM22	PMID:15644312		GO:0030150	protein import into mitochondrial matrix	IDA		UniProtKB:Q9NS69	PANTHER:PTHR12504	20250220		NCBITaxon:9606
+BHF-UCL	UniProtKB:O94826	TOMM70	PMID:15644312		GO:0030150	protein import into mitochondrial matrix	TAS		UniProtKB:O94826	PANTHER:PTHR46208	20250220		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9Y512	SAMM50	PMID:15644312		GO:0030150	protein import into mitochondrial matrix	IDA		UniProtKB:Q9Y512	PANTHER:PTHR12815	20250220		NCBITaxon:9606
+BHF-UCL	UniProtKB:O60220	TIMM8A	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		UniProtKB:O60220	PANTHER:PTHR19338	20210210		NCBITaxon:9606
+BHF-UCL	UniProtKB:P62072	TIMM10	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:P62072	PANTHER:PTHR11038	20110715		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9Y5J9	TIMM8B	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		UniProtKB:Q9Y5J9	PANTHER:PTHR19338	20210210		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9Y5L4	TIMM13	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		UniProtKB:Q9Y5L4	PANTHER:PTHR19338	20210210		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9Y5J7	TIMM9	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9Y5J7	PANTHER:PTHR13172	20210210		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q14108	SCARB2	PMID:18022370		GO:0006622	protein targeting to lysosome	IMP		UniProtKB:Q14108	PANTHER:PTHR11923	20181031	UniProtKB:P04062|GO:0043470|GO:0005783	NCBITaxon:9606
+BHF-UCL	MGI:MGI:1196458	Scarb2	PMID:18022370		GO:0006622	protein targeting to lysosome	IMP			PANTHER:PTHR11923	20181031	UniProtKB:P17439|GO:0043470	NCBITaxon:10090
+BHF-UCL	UniProtKB:Q8N6S4	ANKRD13C	PMID:20959461		GO:0006612	protein targeting to membrane	IMP		UniProtKB:Q8N6S4	PANTHER:PTHR12447	20250221	UniProtKB:Q13258|UniProtKB:Q9Y5Y4	NCBITaxon:9606
+BHF-UCL	UniProtKB:P51149	RAB7A	PMID:22115783		GO:0006622	protein targeting to lysosome	IMP		UniProtKB:P51149	PANTHER:PTHR47981	20120810	UniProtKB:Q96S99	NCBITaxon:9606
+CACAO	AGI_LocusCode:AT5G09420	TOC64-V	PMID:29374544|TAIR:Publication:501778643		GO:0030150	protein import into mitochondrial matrix	IMP		TAIR:locus:2184757		20200411		NCBITaxon:3702
+CACAO	AGI_LocusCode:AT5G09420	TOC64-V	PMID:29374544|TAIR:Publication:501778643		GO:0030150	protein import into mitochondrial matrix	IMP		TAIR:locus:2184757		20210331		NCBITaxon:3702
+CAFA	RGD:1310230	Mff	PMID:23792689|RGD:12793033		GO:0006626	protein targeting to mitochondrion	IMP			PANTHER:PTHR16501	20161101	UniProtKB:O35303	NCBITaxon:10116
+CGD	CGD:CAL0000177775	PEX5	PMID:16963628|CGD_REF:CAL0116907		GO:0006625	protein targeting to peroxisome	IMP			PANTHER:PTHR10130	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000185873	ATG9	PMID:17185534|CGD_REF:CAL0117104		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP			PANTHER:PTHR13038	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000180282	VPS4	PMID:17506830|CGD_REF:CAL0118319		GO:0006623	protein targeting to vacuole	IMP			PANTHER:PTHR23074	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000198753	VPS1	PMID:18296085|CGD_REF:CAL0118903		GO:0006623	protein targeting to vacuole	IGI	SGD:S000001709		PANTHER:PTHR11566	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000198753	VPS1	PMID:18296085|CGD_REF:CAL0118903		GO:0006623	protein targeting to vacuole	IMP			PANTHER:PTHR11566	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000187201	SNF7	PMID:18974864|CGD_REF:CAL0120463		GO:0006623	protein targeting to vacuole	IMP			PANTHER:PTHR22761	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000194345	VPS36	PMID:18974864|CGD_REF:CAL0120463		GO:0006623	protein targeting to vacuole	IMP			PANTHER:PTHR13128	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000199653	KAR2	PMID:20886215|CGD_REF:CAL0126490		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IGI	SGD:S000003571		PANTHER:PTHR19375	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000199653	KAR2	PMID:20886215|CGD_REF:CAL0126490		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IMP			PANTHER:PTHR19375	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000190799	SAM51	PMID:23151513|CGD_REF:CAL0000158127		GO:0045040	protein insertion into mitochondrial outer membrane	IMP			PANTHER:PTHR12815	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000201225	YPT52	PMID:23709183|CGD_REF:CAL0000172370		GO:0006623	protein targeting to vacuole	IGI	CGD:CAL0000352|CGD:CAL0005648		PANTHER:PTHR24073	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000201225	YPT52	PMID:23709183|CGD_REF:CAL0000172370		GO:0006623	protein targeting to vacuole	IMP			PANTHER:PTHR24073	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000181874	VPS21	PMID:23709183|CGD_REF:CAL0000172370		GO:0006623	protein targeting to vacuole	IGI	CGD:CAL0003771|CGD:CAL0005648		PANTHER:PTHR24073	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000194609	YPT53	PMID:23709183|CGD_REF:CAL0000172370		GO:0006623	protein targeting to vacuole	IGI	CGD:CAL0003771|CGD:CAL0000352		PANTHER:PTHR24073	20140625		NCBITaxon:237561
+CGD	CGD:CAL0000178676	MAS2	PMID:29082232|CGD_REF:CAL0000215227		GO:0006626	protein targeting to mitochondrion	IMP			PANTHER:PTHR11851	20171206		NCBITaxon:237561
+CGD	CGD:CAL0000196010	YDJ1	PMID:29082232|CGD_REF:CAL0000215227		GO:0006626	protein targeting to mitochondrion	IMP			PANTHER:PTHR43888	20171206		NCBITaxon:237561
+CGD	CGD:CAL0000195289	MAS1	PMID:29082232|CGD_REF:CAL0000215227		GO:0006626	protein targeting to mitochondrion	IMP			PANTHER:PTHR11851	20171206		NCBITaxon:237561
+CGD	CGD:CAL0000193644	SEC65	PMID:9723915|CGD_REF:CAL0081911		GO:0006617	SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	IGI	SGD:S000004573		PANTHER:PTHR17453	20140625		NCBITaxon:237561
+ComplexPortal	SGD:S000217949	CPX-1629	PMID:10648604		GO:0045039	protein insertion into mitochondrial inner membrane	IDA				20141016		NCBITaxon:559292
+ComplexPortal	UniProtKB:O60220	TIMM8A	PMID:11956200		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		UniProtKB:O60220	PANTHER:PTHR19338	20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y5J9	TIMM8B	PMID:11956200		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		UniProtKB:Q9Y5J9	PANTHER:PTHR19338	20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y5L4	TIMM13	PMID:11956200		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		UniProtKB:Q9Y5L4	PANTHER:PTHR19338	20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6132	timm13-timm8b_human	PMID:11956200		GO:0045039	protein insertion into mitochondrial inner membrane	NAS				20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6131	timm13-timm8a_human	PMID:11956200		GO:0045039	protein insertion into mitochondrial inner membrane	NAS				20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:P62072	TIMM10	PMID:14726512		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		UniProtKB:P62072	PANTHER:PTHR11038	20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y5J7	TIMM9	PMID:14726512		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		UniProtKB:Q9Y5J7	PANTHER:PTHR13172	20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y5J6	TIMM10B	PMID:14726512		GO:0045039	protein insertion into mitochondrial inner membrane	NAS		UniProtKB:Q9Y5J6	PANTHER:PTHR13172	20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6126	tim9-tim10-tim10b_human	PMID:14726512		GO:0045039	protein insertion into mitochondrial inner membrane	NAS				20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:P62072	TIMM10	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:P62072	PANTHER:PTHR11038	20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y5J7	TIMM9	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9Y5J7	PANTHER:PTHR13172	20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6125	tim9-tim10_human	PMID:16387659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA				20240823		NCBITaxon:9606
+ComplexPortal	MGI:MGI:1914648	Srpra	PMID:16439358		GO:0006617	SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	NAS			PANTHER:PTHR43134	20241127		NCBITaxon:10090
+ComplexPortal	MGI:MGI:102964	Srprb	PMID:16439358		GO:0006617	SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	NAS			PANTHER:PTHR11485	20241127		NCBITaxon:10090
+ComplexPortal	UniProtKB:P08240	SRPRA	PMID:16439358		GO:0006617	SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	NAS		UniProtKB:P08240	PANTHER:PTHR43134	20241128		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-630	srpr_human	PMID:16439358		GO:0006617	SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	NAS				20241128		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y5M8	SRPRB	PMID:16439358		GO:0006617	SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	NAS		UniProtKB:Q9Y5M8	PANTHER:PTHR11485	20241128		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q6ZNE5	ATG14	PMID:16467569		GO:0006622	protein targeting to lysosome	NAS		UniProtKB:Q6ZNE5	PANTHER:PTHR13664	20241126		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q14457	BECN1	PMID:16467569		GO:0006622	protein targeting to lysosome	NAS		UniProtKB:Q14457	PANTHER:PTHR12768	20241126		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-73	pik3c3-atg14_human	PMID:16467569		GO:0006622	protein targeting to lysosome	NAS				20241126		NCBITaxon:9606
+ComplexPortal	MGI:MGI:1261775	Atg14	PMID:16467569		GO:0006622	protein targeting to lysosome	NAS			PANTHER:PTHR13664	20240827		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1922919	Pik3r4	PMID:16467569		GO:0006622	protein targeting to lysosome	NAS			PANTHER:PTHR17583	20240827		NCBITaxon:10090
+ComplexPortal	MGI:MGI:2445019	Pik3c3	PMID:16467569		GO:0006622	protein targeting to lysosome	NAS			PANTHER:PTHR10048	20240827		NCBITaxon:10090
+ComplexPortal	MGI:MGI:1891828	Becn1	PMID:16467569		GO:0006622	protein targeting to lysosome	NAS			PANTHER:PTHR12768	20240827		NCBITaxon:10090
+ComplexPortal	UniProtKB:Q99570	PIK3R4	PMID:16467569		GO:0006622	protein targeting to lysosome	NAS		UniProtKB:Q99570	PANTHER:PTHR17583	20241126		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q8NEB9	PIK3C3	PMID:16467569		GO:0006622	protein targeting to lysosome	NAS		UniProtKB:Q8NEB9	PANTHER:PTHR10048	20241126		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q15388	TOMM20	PMID:18331822		GO:0045040	protein insertion into mitochondrial outer membrane	NAS		UniProtKB:Q15388	PANTHER:PTHR12430	20240902		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q96B49	TOMM6	PMID:18331822		GO:0045040	protein insertion into mitochondrial outer membrane	NAS		UniProtKB:Q96B49	PANTHER:PTHR15527	20240902		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9P0U1	TOMM7	PMID:18331822		GO:0045040	protein insertion into mitochondrial outer membrane	NAS		UniProtKB:Q9P0U1	PANTHER:PTHR46722	20240902		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9NS69	TOMM22	PMID:18331822		GO:0045040	protein insertion into mitochondrial outer membrane	NAS		UniProtKB:Q9NS69	PANTHER:PTHR12504	20240902		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6121	tomm40_human	PMID:18331822		GO:0045040	protein insertion into mitochondrial outer membrane	NAS				20240902		NCBITaxon:9606
+ComplexPortal	UniProtKB:O94826	TOMM70	PMID:18331822		GO:0045040	protein insertion into mitochondrial outer membrane	NAS		UniProtKB:O94826	PANTHER:PTHR46208	20240902		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q8N4H5	TOMM5	PMID:18331822		GO:0045040	protein insertion into mitochondrial outer membrane	NAS		UniProtKB:Q8N4H5	PANTHER:PTHR28436	20240902		NCBITaxon:9606
+ComplexPortal	UniProtKB:O96008	TOMM40	PMID:18331822		GO:0045040	protein insertion into mitochondrial outer membrane	NAS		UniProtKB:O96008	PANTHER:PTHR10802	20240902		NCBITaxon:9606
+ComplexPortal	SGD:S000218148	CPX-2268	PMID:19037098		GO:0045039	protein insertion into mitochondrial inner membrane	IDA				20200826		NCBITaxon:559292
+ComplexPortal	SGD:S000217950	CPX-1630	PMID:2007593		GO:0006627	protein processing involved in protein targeting to mitochondrion	IDA				20201006		NCBITaxon:559292
+ComplexPortal	SGD:S000218216	CPX-1744	PMID:23911324		GO:0030150	protein import into mitochondrial matrix	IDA				20141016		NCBITaxon:559292
+ComplexPortal	SGD:S000218140	CPX-3056	PMID:25097231		GO:0031204	post-translational protein targeting to membrane, translocation	IDA				20141016		NCBITaxon:559292
+ComplexPortal	ComplexPortal:CPX-6841	glcnac1ptransferase_human	PMID:25505245		GO:0016256	N-glycan processing to lysosome	NAS				20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9UJJ9	GNPTG	PMID:25505245		GO:0016256	N-glycan processing to lysosome	NAS		UniProtKB:Q9UJJ9	PANTHER:PTHR12630	20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:P11441	UBL4A	PMID:25535373		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IDA		UniProtKB:P11441	PANTHER:PTHR46555	20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q7L5D6	GET4	PMID:25535373		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IDA		UniProtKB:Q7L5D6	PANTHER:PTHR12875	20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:P46379	BAG6	PMID:25535373		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IDA		UniProtKB:P46379	PANTHER:PTHR15204	20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-132	bag6-ubl4a-get4_human	PMID:25535373		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IDA				20240823		NCBITaxon:9606
+ComplexPortal	SGD:S000218106	CPX-1718	PMID:30694181		GO:0006623	protein targeting to vacuole	IDA				20141016		NCBITaxon:559292
+ComplexPortal	UniProtKB:O75431	MTX2	PMID:31387448		GO:0045040	protein insertion into mitochondrial outer membrane	NAS		UniProtKB:O75431	PANTHER:PTHR12289	20241031		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q13505	MTX1	PMID:31387448		GO:0045040	protein insertion into mitochondrial outer membrane	NAS		UniProtKB:Q13505	PANTHER:PTHR12289	20241031		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6133	sam_human	PMID:31387448		GO:0045040	protein insertion into mitochondrial outer membrane	NAS				20241031		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y512	SAMM50	PMID:31387448		GO:0045040	protein insertion into mitochondrial outer membrane	NAS		UniProtKB:Q9Y512	PANTHER:PTHR12815	20241031		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q10713	PMPCA	PMID:32443488		GO:0006627	protein processing involved in protein targeting to mitochondrion	NAS		UniProtKB:Q10713	PANTHER:PTHR11851	20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:O75439	PMPCB	PMID:32443488		GO:0006627	protein processing involved in protein targeting to mitochondrion	NAS		UniProtKB:O75439	PANTHER:PTHR11851	20240823		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6243	mpp_human	PMID:32443488		GO:0006627	protein processing involved in protein targeting to mitochondrion	NAS				20240823		NCBITaxon:9606
+ComplexPortal	UniProtKB:P62072	TIMM10	PMID:32901109		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:P62072	PANTHER:PTHR11038	20241113		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q53H12	AGK	PMID:32901109		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q53H12	PANTHER:PTHR12358	20241113		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q6PF06	TRMT10B	PMID:32901109		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q6PF06	PANTHER:PTHR13563	20241113		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y5J7	TIMM9	PMID:32901109		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9Y5J7	PANTHER:PTHR13172	20241113		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9BSF4	TIMM29	PMID:32901109		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9BSF4	PANTHER:PTHR21435	20241113		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-6124	tim22_human-1	PMID:32901109		GO:0045039	protein insertion into mitochondrial inner membrane	IDA				20241113		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q9Y584	TIMM22	PMID:32901109		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9Y584	PANTHER:PTHR14110	20241113		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-2652	srp_human	PMID:34208095		GO:0006617	SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	NAS				20241113		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-8169	sec61_human-1	PMID:35940906		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	NAS				20241112		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-8073	sec61_human	PMID:35940906		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	NAS				20241112		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-8024	trap_human	PMID:36697828		GO:0031204	post-translational protein targeting to membrane, translocation	NAS				20240823		NCBITaxon:9606
+ComplexPortal	SGD:S000218019	CPX-474	PMID:9774667		GO:0045040	protein insertion into mitochondrial outer membrane	IDA				20191120		NCBITaxon:559292
+EcoCyc	UniProtKB:P0AG99	secG	PMID:10397756		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IDA			PANTHER:PTHR34182	20160901		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AGA2	secY	PMID:10397756		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IDA			PANTHER:PTHR10906	20160831		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AG96	secE	PMID:10397756		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IDA			PANTHER:PTHR33910	20160901		NCBITaxon:83333
+EcoCyc	UniProtKB:P10408	secA	PMID:2170023		GO:0006612	protein targeting to membrane	IDA			PANTHER:PTHR30612	20220602		NCBITaxon:83333
+EcoCyc	UniProtKB:P10408	secA	PMID:28928132		GO:0006612	protein targeting to membrane	IDA			PANTHER:PTHR30612	20220602		NCBITaxon:83333
+EcoCyc	UniProtKB:P28249	asmA	PMID:7476172		GO:0090313	regulation of protein targeting to membrane	IMP			PANTHER:PTHR30441	20120706		NCBITaxon:83333
+EcoCyc	UniProtKB:P10121	ftsY	PMID:8107852		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IDA			PANTHER:PTHR43134	20220602		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AG99	secG	PMID:9564033		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IDA			PANTHER:PTHR34182	20160901		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AGA2	secY	PMID:9564033		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IDA			PANTHER:PTHR10906	20160831		NCBITaxon:83333
+EcoCyc	UniProtKB:P0AG96	secE	PMID:9564033		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IDA			PANTHER:PTHR33910	20160901		NCBITaxon:83333
+EcoliWiki	UniProtKB:P0AGD7	ffh	PMID:1331806		GO:0006612	protein targeting to membrane	IMP			PANTHER:PTHR11564	20110815		NCBITaxon:83333
+EcoliWiki	UniProtKB:P10408	secA	PMID:6279567		GO:0006605	protein targeting	IMP			PANTHER:PTHR30612	20110816		NCBITaxon:83333
+EcoliWiki	UniProtKB:P0AG86	secB	PMID:6403503		GO:0006605	protein targeting	IMP			PANTHER:PTHR36918	20090630		NCBITaxon:83333
+FlyBase	UniProtKB:O60220	TIMM8A	PMID:11875042		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:O60220	PANTHER:PTHR19338	20240807		NCBITaxon:9606
+FlyBase	UniProtKB:Q9Y5L4	TIMM13	PMID:11875042		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:Q9Y5L4	PANTHER:PTHR19338	20240807		NCBITaxon:9606
+FlyBase	FB:FBgn0010434	cora	PMID:12565697|FB:FBrf0159315		GO:0006612	protein targeting to membrane	TAS			PANTHER:PTHR23280	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0004132	boca	PMID:12581524|FB:FBrf0155599		GO:0006612	protein targeting to membrane	IMP			PANTHER:PTHR17600	20080522		NCBITaxon:7227
+FlyBase	FB:FBgn0263977	Tim17b	PMID:21998726|FB:FBrf0216408		GO:0030150	protein import into mitochondrial matrix	IMP			PANTHER:PTHR10485	20231215		NCBITaxon:7227
+FlyBase	FB:FBgn0263977	Tim17b	PMID:21998726|FB:FBrf0216408		GO:0045039	protein insertion into mitochondrial inner membrane	IMP			PANTHER:PTHR10485	20231215		NCBITaxon:7227
+FlyBase	FB:FBgn0038749	Xport-A	PMID:22099462|FB:FBrf0216705		GO:0006612	protein targeting to membrane	IDA				20210210		NCBITaxon:7227
+FlyBase	FB:FBgn0003557	Su(dx)	PMID:26446620|FB:FBrf0229823		GO:0006622	protein targeting to lysosome	IGI	FB:FBgn0003892		PANTHER:PTHR11254	20200312		NCBITaxon:7227
+FlyBase	FB:FBgn0261618	larp	PMID:27053724|FB:FBrf0232306		GO:1903955	positive regulation of protein targeting to mitochondrion	IMP			PANTHER:PTHR22792	20240502		NCBITaxon:7227
+FlyBase	FB:FBgn0263987	spoon	PMID:27053724|FB:FBrf0232306		GO:1903955	positive regulation of protein targeting to mitochondrion	IMP			PANTHER:PTHR22948	20240502		NCBITaxon:7227
+FlyBase	UniProtKB:Q9BSF4	TIMM29	PMID:27554484		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:Q9BSF4	PANTHER:PTHR21435	20201008		NCBITaxon:9606
+FlyBase	UniProtKB:Q9Y584	TIMM22	PMID:27554484		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:Q9Y584	PANTHER:PTHR14110	20201008		NCBITaxon:9606
+FlyBase	FB:FBgn0015277	Pi3K59F	PMID:29066608|FB:FBrf0237566		GO:0006622	protein targeting to lysosome	IMP			PANTHER:PTHR10048	20240125		NCBITaxon:7227
+FlyBase	FB:FBgn0032499	Uvrag	PMID:29066608|FB:FBrf0237566		GO:0006622	protein targeting to lysosome	IMP			PANTHER:PTHR15157	20240125		NCBITaxon:7227
+FlyBase	UniProtKB:P60602	ROMO1	PMID:30598479		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:P60602	PANTHER:PTHR28525	20231220		NCBITaxon:9606
+FlyBase	FB:FBgn0031392	AIF	PMID:32936885|FB:FBrf0246713		GO:0160203	mitochondrial disulfide relay system	IMP			PANTHER:PTHR43557	20240905		NCBITaxon:7227
+FlyBase	FB:FBgn0031068	Alr	PMID:32936885|FB:FBrf0246713		GO:0160203	mitochondrial disulfide relay system	IMP			PANTHER:PTHR12645	20240905		NCBITaxon:7227
+FlyBase	FB:FBgn0260468	Mia40	PMID:32936885|FB:FBrf0246713		GO:0160203	mitochondrial disulfide relay system	IMP			PANTHER:PTHR21622	20240905		NCBITaxon:7227
+FlyBase	UniProtKB:Q9H4A6	GOLPH3	PMID:34473204		GO:0140450	protein targeting to Golgi apparatus	IMP		UniProtKB:Q9H4A6	PANTHER:PTHR12704	20240403		NCBITaxon:9606
+FlyBase	UniProtKB:Q9H4A5	GOLPH3L	PMID:34473204		GO:0140450	protein targeting to Golgi apparatus	IMP		UniProtKB:Q9H4A5	PANTHER:PTHR12704	20240403		NCBITaxon:9606
+FlyBase	FB:FBgn0016041	Tom40	PMID:36517509|FB:FBrf0255333		GO:0006626	protein targeting to mitochondrion	TAS			PANTHER:PTHR10802	20231218		NCBITaxon:7227
+FlyBase	UniProtKB:Q8N4Q1	CHCHD4	PMID:37159021		GO:0160203	mitochondrial disulfide relay system	IMP		UniProtKB:Q8N4Q1	PANTHER:PTHR21622	20240905		NCBITaxon:9606
+FlyBase	FB:FBgn0000003	7SLRNA:CR32864	PMID:6209132|FB:FBrf0040773		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	TAS				20220513		NCBITaxon:7227
+FlyBase	FB:FBgn0261504	7SLRNA:CR42652	PMID:6209132|FB:FBrf0040773		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	TAS				20220513		NCBITaxon:7227
+FlyBase	FB:FBgn0011584	Trp1	PMID:7957091|FB:FBrf0076438		GO:0031204	post-translational protein targeting to membrane, translocation	IGI	SGD:S000006015		PANTHER:PTHR12443	20231215		NCBITaxon:7227
+GO_Central	UniProtKB:Q9Y3D7	PAM16	PMID:20053669		GO:0030150	protein import into mitochondrial matrix	IGI	SGD:S000003640	UniProtKB:Q9Y3D7	PANTHER:PTHR12388	20141113		NCBITaxon:9606
+GeneDB	UniProtKB:Q8IEW2	PEX14	PMID:12709066		GO:0006623	protein targeting to vacuole	IDA				20090731		NCBITaxon:5702
+GeneDB	TriTrypDB:Tb927.10.240	PEX14	PMID:12709066		GO:0006623	protein targeting to vacuole	IDA				20090731		NCBITaxon:185431
+GeneDB	TriTrypDB:LmjF.29.0740	PEX7	PMID:18178267		GO:0006625	protein targeting to peroxisome	IDA				20141209		NCBITaxon:347515
+GeneDB	TriTrypDB:LmjF.17.0070	ARL-1	PMID:18286177		GO:0006622	protein targeting to lysosome	IMP				20100913		NCBITaxon:347515
+GeneDB	TriTrypDB:Tb927.11.13290	TIM17	PMID:18325611		GO:0006626	protein targeting to mitochondrion	IMP				20220901		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.9.9660	ATOM40	PMID:22000100		GO:0030150	protein import into mitochondrial matrix	IMP				20150326		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.8.1740	TIM62	PMID:22408251		GO:0030150	protein import into mitochondrial matrix	IMP				20170426		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.7.5700	pATOM36	PMID:22787278		GO:0030150	protein import into mitochondrial matrix	IMP				20160725		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.2.4110	MPPA	PMID:22841752		GO:0030150	protein import into mitochondrial matrix	IMP				20141205		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.9.4520	MPPB	PMID:22841752		GO:0030150	protein import into mitochondrial matrix	IMP				20141205		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.3.2110	TIM50	PMID:23212919		GO:0030150	protein import into mitochondrial matrix	IMP				20170426		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.11.11460	ATOM69	PMID:25808593		GO:0006626	protein targeting to mitochondrion	IDA				20150330		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.11.11460	ATOM69	PMID:25808593		GO:0030150	protein import into mitochondrial matrix	IMP				20150330		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.11.5600	ATOM14	PMID:25808593		GO:0006626	protein targeting to mitochondrion	IDA				20150330		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.11.5600	ATOM14	PMID:25808593		GO:0030150	protein import into mitochondrial matrix	IMP				20150330		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.11.7780	ATOM46	PMID:25808593		GO:0006626	protein targeting to mitochondrion	IDA				20150330		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.11.7780	ATOM46	PMID:25808593		GO:0030150	protein import into mitochondrial matrix	IMP				20150330		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.8.4380	ATOM12	PMID:25808593		GO:0006626	protein targeting to mitochondrion	IDA				20150330		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.8.4380	ATOM12	PMID:25808593		GO:0030150	protein import into mitochondrial matrix	IMP				20150330		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.10.11030	ATOM11	PMID:25808593		GO:0006626	protein targeting to mitochondrion	IDA				20150330		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.10.11030	ATOM11	PMID:25808593		GO:0030150	protein import into mitochondrial matrix	IMP				20150330		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.8.4150	TimRhom II	PMID:27991487		GO:0030150	protein import into mitochondrial matrix	IMP				20170524		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.9.11220	TIM42	PMID:27991487		GO:0030150	protein import into mitochondrial matrix	IMP				20170524		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.9.8260	TimRhom I	PMID:27991487		GO:0030150	protein import into mitochondrial matrix	IMP				20170524		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.9.6060	ERV1	PMID:28366668		GO:0006626	protein targeting to mitochondrion	IMP				20200405		NCBITaxon:185431
+GeneDB	PlasmoDB:PF3D7_0320700	SPC25	PMID:30127496		GO:0045047	protein targeting to ER	IMP				20180829		NCBITaxon:36329
+GeneDB	PlasmoDB:PF3D7_1438100	SEC62	PMID:30127496		GO:0045047	protein targeting to ER	IMP				20180830		NCBITaxon:36329
+GeneDB	TriTrypDB:Tb927.4.630	MIC34	PMID:31541487		GO:0045041	protein import into mitochondrial intermembrane space	IMP				20191111		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.2.2940	MIC32	PMID:31541487		GO:0045041	protein import into mitochondrial intermembrane space	IMP				20191111		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.10.13830	PAM27	PMID:32105215		GO:0006626	protein targeting to mitochondrion	IMP				20200722		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.11.10000	VPS24	PMID:32618070		GO:0006622	protein targeting to lysosome	IMP				20210719		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.6.2470	TIM54	PMID:33084070		GO:0006626	protein targeting to mitochondrion	IMP				20210719		NCBITaxon:185431
+GeneDB	UniProtKB:Q26733	Q26733	PMID:8227199		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	TAS				20220301		NCBITaxon:5691
+GeneDB	TriTrypDB:Tb927.11.7460	BiP	PMID:8227199		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	TAS				20220901		NCBITaxon:185431
+GeneDB	TriTrypDB:Tb927.11.7510	BiP	PMID:8227199		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	TAS				20220901		NCBITaxon:185431
+HGNC-UCL	UniProtKB:Q15388	TOMM20	PMID:14557246		GO:0006626	protein targeting to mitochondrion	IDA		UniProtKB:Q15388	PANTHER:PTHR12430	20070321		NCBITaxon:9606
+HGNC-UCL	UniProtKB:Q9NS69	TOMM22	PMID:14557246		GO:0006626	protein targeting to mitochondrion	TAS		UniProtKB:Q9NS69	PANTHER:PTHR12504	20070321		NCBITaxon:9606
+HGNC-UCL	UniProtKB:O00170	AIP	PMID:14557246		GO:0006626	protein targeting to mitochondrion	IDA		UniProtKB:O00170		20070321		NCBITaxon:9606
+HGNC-UCL	UniProtKB:Q96DX8	RTP4	PMID:16720576		GO:0006612	protein targeting to membrane	IDA		UniProtKB:Q96DX8	PANTHER:PTHR14402	20070321		NCBITaxon:9606
+HGNC-UCL	UniProtKB:Q9BQQ7	RTP3	PMID:16720576		GO:0006612	protein targeting to membrane	IDA		UniProtKB:Q9BQQ7	PANTHER:PTHR14402	20070321		NCBITaxon:9606
+MGI	MGI:MGI:1342296	Stxbp4	PMID:10394363		GO:0006605	protein targeting	IDA			PANTHER:PTHR19964	20110329		NCBITaxon:10090
+MGI	MGI:MGI:1858943	Arl6ip1	PMID:10508919		GO:0006613	cotranslational protein targeting to membrane	IDA			PANTHER:PTHR20952	20120924		NCBITaxon:10090
+MGI	MGI:MGI:1858229	Ppp1r3c	PMID:10683377		GO:0006605	protein targeting	TAS			PANTHER:PTHR12307	20010925		NCBITaxon:10090
+MGI	MGI:MGI:1890169	Erbin	PMID:10878805		GO:0006605	protein targeting	IDA			PANTHER:PTHR45752	20010927		NCBITaxon:10090
+MGI	MGI:MGI:95569	Folr2	PMID:11111049		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	TAS			PANTHER:PTHR10517	20010215		NCBITaxon:10090
+MGI	MGI:MGI:95568	Folr1	PMID:11111049		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	TAS			PANTHER:PTHR10517	20010215		NCBITaxon:10090
+MGI	MGI:MGI:108093	Bid	PMID:11369777		GO:0006626	protein targeting to mitochondrion	IMP	MGI:MGI:2158671		PANTHER:PTHR35447	20090428		NCBITaxon:10090
+MGI	MGI:MGI:1098808	Pex5	PMID:11792727		GO:0006625	protein targeting to peroxisome	TAS			PANTHER:PTHR10130	20040108		NCBITaxon:10090
+MGI	MGI:MGI:1344347	Synj2bp	PMID:11882656		GO:0006605	protein targeting	IDA				20110201		NCBITaxon:10090
+MGI	MGI:MGI:2176380	Mlph	PMID:11886590		GO:0006605	protein targeting	IMP	MGI:MGI:1856674		PANTHER:PTHR14555	20070112		NCBITaxon:10090
+MGI	MGI:MGI:2176380	Mlph	PMID:11887186		GO:0006605	protein targeting	IMP	MGI:MGI:1856674		PANTHER:PTHR14555	20061127		NCBITaxon:10090
+MGI	MGI:MGI:1926134	Zdhhc3	PMID:12163046		GO:0006605	protein targeting	IDA			PANTHER:PTHR22883	20021011		NCBITaxon:10090
+MGI	MGI:MGI:894689	Ywhae	PMID:12446771		GO:0006605	protein targeting	IDA			PANTHER:PTHR18860	20030828		NCBITaxon:10090
+MGI	MGI:MGI:891963	Ywhaq	PMID:12446771		GO:0006605	protein targeting	IDA			PANTHER:PTHR18860	20030828		NCBITaxon:10090
+MGI	MGI:MGI:1891917	Ywhab	PMID:12446771		GO:0006605	protein targeting	IDA			PANTHER:PTHR18860	20030828		NCBITaxon:10090
+MGI	MGI:MGI:108109	Ywhag	PMID:12446771		GO:0006605	protein targeting	IDA			PANTHER:PTHR18860	20030828		NCBITaxon:10090
+MGI	MGI:MGI:109484	Ywhaz	PMID:12446771		GO:0006605	protein targeting	IDA			PANTHER:PTHR18860	20030828		NCBITaxon:10090
+MGI	MGI:MGI:106612	Myo1c	PMID:12490950		GO:0090314	positive regulation of protein targeting to membrane	IMP			PANTHER:PTHR13140	20171024		NCBITaxon:10090
+MGI	MGI:MGI:106612	Myo1c	PMID:12490950		GO:0090314	positive regulation of protein targeting to membrane	IDA			PANTHER:PTHR13140	20171024		NCBITaxon:10090
+MGI	MGI:MGI:894645	Pick1	PMID:12826667		GO:0006605	protein targeting	IDA			PANTHER:PTHR12141	20050121		NCBITaxon:10090
+MGI	MGI:MGI:1321392	Pex7	PMID:12915479		GO:0006625	protein targeting to peroxisome	IMP	MGI:MGI:3052739		PANTHER:PTHR46027	20051006		NCBITaxon:10090
+MGI	RGD:621334	Syngr2	PMID:12928441|RGD:8554439		GO:0006605	protein targeting	IDA			PANTHER:PTHR10838	20041203		NCBITaxon:10116
+MGI	RGD:3801	Syngr1	PMID:12928441|RGD:8554439		GO:0006605	protein targeting	IDA			PANTHER:PTHR10838	20041203		NCBITaxon:10116
+MGI	MGI:MGI:1333879	Ap3b1	PMID:14557411		GO:0006622	protein targeting to lysosome	IMP	MGI:MGI:1856989		PANTHER:PTHR11134	20041008	EMAPA:18767	NCBITaxon:10090
+MGI	MGI:MGI:2135611	Immp2l	PMID:15814844		GO:0006627	protein processing involved in protein targeting to mitochondrion	IGI	SGD:S000004638		PANTHER:PTHR46041	20051208		NCBITaxon:10090
+MGI	MGI:MGI:1926252	Gipc1	PMID:15975910		GO:0006605	protein targeting	IPI	PR:Q64331		PANTHER:PTHR12259	20061020		NCBITaxon:10090
+MGI	MGI:MGI:104785	Myo6	PMID:15975910		GO:0006605	protein targeting	IPI	PR:Q9Z0G0		PANTHER:PTHR13140	20061020		NCBITaxon:10090
+MGI	MGI:MGI:1926252	Gipc1	PMID:16467373		GO:0006605	protein targeting	IMP			PANTHER:PTHR12259	20070126		NCBITaxon:10090
+MGI	MGI:MGI:107734	Ap3d1	PMID:16760431		GO:0006605	protein targeting	IMP			PANTHER:PTHR22781	20231129		NCBITaxon:10090
+MGI	MGI:MGI:1927580	Bloc1s6	PMID:16760431		GO:0006605	protein targeting	IMP			PANTHER:PTHR31328	20231129		NCBITaxon:10090
+MGI	MGI:MGI:1333879	Ap3b1	PMID:16760431		GO:0006605	protein targeting	IMP			PANTHER:PTHR11134	20231129		NCBITaxon:10090
+MGI	MGI:MGI:108559	Macf1	PMID:16815997		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IMP			PANTHER:PTHR23169	20060921		NCBITaxon:10090
+MGI	MGI:MGI:108446	Rhod	PMID:17623777		GO:0006605	protein targeting	IMP			PANTHER:PTHR24072	20140827		NCBITaxon:10090
+MGI	MGI:MGI:101765	Cdk5	PMID:18054859		GO:0090314	positive regulation of protein targeting to membrane	IMP	MGI:MGI:4941830		PANTHER:PTHR24056	20120501		NCBITaxon:10090
+MGI	MGI:MGI:101764	Cdk5r1	PMID:18054859		GO:0090314	positive regulation of protein targeting to membrane	IDA			PANTHER:PTHR23401	20120501		NCBITaxon:10090
+MGI	MGI:MGI:1096399	Vamp7	PMID:18227281		GO:1900483	regulation of protein targeting to vacuolar membrane	IMP			PANTHER:PTHR21136	20120822		NCBITaxon:10090
+MGI	MGI:MGI:1919837	Pan3	PMID:18625844		GO:0006605	protein targeting	IDA			PANTHER:PTHR12272	20120710		NCBITaxon:10090
+MGI	RGD:2990	Lamp2	PMID:18644871|RGD:10412301		GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	IGI	UniProtKB:P63018		PANTHER:PTHR11506	20151117		NCBITaxon:10116
+MGI	RGD:2990	Lamp2	PMID:18644871|RGD:10412301		GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	IMP			PANTHER:PTHR11506	20151117		NCBITaxon:10116
+MGI	MGI:MGI:1338015	Sort1	PMID:19732768		GO:0006622	protein targeting to lysosome	IMP	MGI:MGI:4397584		PANTHER:PTHR12106	20191031		NCBITaxon:10090
+MGI	MGI:MGI:1918355	Mterf4	PMID:21531335		GO:0006626	protein targeting to mitochondrion	IMP			PANTHER:PTHR13068	20111227		NCBITaxon:10090
+MGI	MGI:MGI:2155302	Sec63	PMID:22375059		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IMP	MGI:MGI:5442171		PANTHER:PTHR24075	20130909		NCBITaxon:10090
+MGI	MGI:MGI:2155302	Sec63	PMID:22375059		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IMP	MGI:MGI:5442171		PANTHER:PTHR24075	20130909		NCBITaxon:10090
+MGI	UniProtKB:P61619	SEC61A1	PMID:22375059		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IMP		UniProtKB:P61619	PANTHER:PTHR10906	20130909		NCBITaxon:9606
+MGI	UniProtKB:P61619	SEC61A1	PMID:22375059		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IMP		UniProtKB:P61619	PANTHER:PTHR10906	20130909		NCBITaxon:9606
+MGI	UniProtKB:Q9UGP8	SEC63	PMID:22375059		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IMP		UniProtKB:Q9UGP8	PANTHER:PTHR24075	20130909		NCBITaxon:9606
+MGI	UniProtKB:Q9UGP8	SEC63	PMID:22375059		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IMP		UniProtKB:Q9UGP8	PANTHER:PTHR24075	20130909		NCBITaxon:9606
+MGI	UniProtKB:Q99442	SEC62	PMID:22375059		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IMP		UniProtKB:Q99442	PANTHER:PTHR12443	20130909		NCBITaxon:9606
+MGI	MGI:MGI:99571	Glp1r	PMID:23542788		GO:0031204	post-translational protein targeting to membrane, translocation	IMP	MGI:MGI:2150310		PANTHER:PTHR45620	20210811	PR:Q9EQZ6-1	NCBITaxon:10090
+MGI	MGI:MGI:2178798	Vps54	PMID:23708095		GO:0006623	protein targeting to vacuole	IMP	MGI:MGI:1857091		PANTHER:PTHR12965	20220726		NCBITaxon:10090
+MGI	UniProtKB:Q8WV99	ZFAND2B	PMID:24160817		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IMP		UniProtKB:Q8WV99	PANTHER:PTHR14677	20150213		NCBITaxon:9606
+MGI	MGI:MGI:1336181	Kcnq3	PMID:24333508		GO:0006605	protein targeting	IMP			PANTHER:PTHR11537	20230329		NCBITaxon:10090
+MGI	MGI:MGI:105083	Slc1a1	PMID:24412196		GO:0090313	regulation of protein targeting to membrane	IMP	MGI:MGI:2655190		PANTHER:PTHR11958	20201015	MGI:MGI:95808	NCBITaxon:10090
+MGI	UniProtKB:Q13772	NCOA4	PMID:25327288		GO:0006622	protein targeting to lysosome	IDA		UniProtKB:Q13772	PANTHER:PTHR17085	20160824		NCBITaxon:9606
+MGI	MGI:MGI:2136882	Get1	PMID:27458190		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IMP	MGI:MGI:5911419|MGI:MGI:6117117		PANTHER:PTHR42650	20190827	CL:0000589|UniProtKB:Q9ESF1	NCBITaxon:10090
+MGI	ZFIN:ZDB-GENE-040625-120	get3	PMID:27458190|ZFIN:ZDB-PUB-160728-13		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IDA			PANTHER:PTHR10803	20190819		NCBITaxon:7955
+MGI	MGI:MGI:1330304	Vps52	PMID:28658628		GO:0006605	protein targeting	IMP			PANTHER:PTHR14190	20220725		NCBITaxon:10090
+MGI	MGI:MGI:1915755	Vps51	PMID:28658628		GO:0006605	protein targeting	IMP			PANTHER:PTHR15954	20220725		NCBITaxon:10090
+MGI	MGI:MGI:1915549	Vps53	PMID:28658628		GO:0006622	protein targeting to lysosome	IMP			PANTHER:PTHR12820	20220725		NCBITaxon:10090
+MGI	MGI:MGI:2178798	Vps54	PMID:28658628		GO:0006622	protein targeting to lysosome	IMP	MGI:MGI:1857091		PANTHER:PTHR12965	20220725		NCBITaxon:10090
+MGI	MGI:MGI:2178798	Vps54	PMID:28658628		GO:0045047	protein targeting to ER	IMP	MGI:MGI:1857091		PANTHER:PTHR12965	20220725		NCBITaxon:10090
+MGI	MGI:MGI:102570	Ndp	PMID:28675177		GO:0006622	protein targeting to lysosome	IMP			PANTHER:PTHR28611	20221130		NCBITaxon:10090
+MGI	MGI:MGI:1342270	Large1	PMID:29915039		GO:0006612	protein targeting to membrane	IDA			PANTHER:PTHR12270	20230308		NCBITaxon:10090
+MGI	MGI:MGI:1342270	Large1	PMID:29915039		GO:0006612	protein targeting to membrane	IMP	MGI:MGI:1856965		PANTHER:PTHR12270	20230308		NCBITaxon:10090
+MGI	MGI:MGI:2178798	Vps54	PMID:32345721		GO:0006622	protein targeting to lysosome	IMP	MGI:MGI:1857091		PANTHER:PTHR12965	20220727		NCBITaxon:10090
+MGI	MGI:MGI:2178798	Vps54	PMID:32345721		GO:0045047	protein targeting to ER	IMP	MGI:MGI:1857091		PANTHER:PTHR12965	20220727		NCBITaxon:10090
+MGI	MGI:MGI:2444131	Cwh43	PMID:34380733		GO:0006612	protein targeting to membrane	IMP			PANTHER:PTHR14859	20240327		NCBITaxon:10090
+MGI	MGI:MGI:2444131	Cwh43	PMID:34380733		GO:0006612	protein targeting to membrane	IMP			PANTHER:PTHR14859	20240424		NCBITaxon:10090
+MGI	MGI:MGI:2443862	Lyset	PMID:36074821		GO:0006622	protein targeting to lysosome	IMP			PANTHER:PTHR31925	20250128		NCBITaxon:10090
+MGI	MGI:MGI:102522	Cacnb1	PMID:8943043		GO:0006612	protein targeting to membrane	IMP	MGI:MGI:2181804		PANTHER:PTHR11824	20070105		NCBITaxon:10090
+PINC	UniProtKB:Q9Y2T2	AP3M1	PMID:10024875		GO:0006622	protein targeting to lysosome	TAS		UniProtKB:Q9Y2T2	PANTHER:PTHR10529	20030904		NCBITaxon:9606
+PINC	UniProtKB:Q9Y6Q5	AP1M2	PMID:10338135		GO:0006605	protein targeting	TAS		UniProtKB:Q9Y6Q5	PANTHER:PTHR10529	20030904		NCBITaxon:9606
+PINC	UniProtKB:O43615	TIMM44	PMID:10339406		GO:0006626	protein targeting to mitochondrion	TAS		UniProtKB:O43615	PANTHER:PTHR10721	20031208		NCBITaxon:9606
+PINC	UniProtKB:O14925	TIMM23	PMID:10339406		GO:0006626	protein targeting to mitochondrion	TAS		UniProtKB:O14925	PANTHER:PTHR15371	20031208		NCBITaxon:9606
+PINC	UniProtKB:O60830	TIMM17B	PMID:10339406		GO:0006626	protein targeting to mitochondrion	TAS		UniProtKB:O60830	PANTHER:PTHR10485	20031208		NCBITaxon:9606
+PINC	UniProtKB:Q99595	TIMM17A	PMID:10339406		GO:0006626	protein targeting to mitochondrion	TAS		UniProtKB:Q99595	PANTHER:PTHR10485	20031208		NCBITaxon:9606
+PINC	UniProtKB:Q9UK23	NAGPA	PMID:10551838		GO:0006622	protein targeting to lysosome	TAS		UniProtKB:Q9UK23	PANTHER:PTHR40446	20030904		NCBITaxon:9606
+PINC	UniProtKB:Q9Y5J9	TIMM8B	PMID:10552927		GO:0006626	protein targeting to mitochondrion	TAS		UniProtKB:Q9Y5J9	PANTHER:PTHR19338	20031208		NCBITaxon:9606
+PINC	UniProtKB:Q9Y5L4	TIMM13	PMID:10552927		GO:0006626	protein targeting to mitochondrion	TAS		UniProtKB:Q9Y5L4	PANTHER:PTHR19338	20031208		NCBITaxon:9606
+PINC	UniProtKB:Q9Y5J7	TIMM9	PMID:10552927		GO:0006626	protein targeting to mitochondrion	TAS		UniProtKB:Q9Y5J7	PANTHER:PTHR13172	20031208		NCBITaxon:9606
+PINC	UniProtKB:Q9UGP8	SEC63	PMID:10799540		GO:0006612	protein targeting to membrane	TAS		UniProtKB:Q9UGP8	PANTHER:PTHR24075	20050308		NCBITaxon:9606
+PINC	UniProtKB:Q9NS69	TOMM22	PMID:10982837		GO:0006626	protein targeting to mitochondrion	TAS		UniProtKB:Q9NS69	PANTHER:PTHR12504	20031208		NCBITaxon:9606
+PINC	UniProtKB:Q15629	TRAM1	PMID:1315422		GO:0006613	cotranslational protein targeting to membrane	TAS		UniProtKB:Q15629	PANTHER:PTHR12371	20030904		NCBITaxon:9606
+PINC	UniProtKB:P30536	TSPO	PMID:1326278		GO:0006626	protein targeting to mitochondrion	TAS		UniProtKB:P30536	PANTHER:PTHR10057	20031208		NCBITaxon:9606
+PINC	UniProtKB:P09132	SRP19	PMID:1678319		GO:0006613	cotranslational protein targeting to membrane	TAS		UniProtKB:P09132	PANTHER:PTHR17453	20030904		NCBITaxon:9606
+PINC	UniProtKB:P37108	SRP14	PMID:2557625		GO:0006613	cotranslational protein targeting to membrane	TAS		UniProtKB:P37108	PANTHER:PTHR12013	20030904		NCBITaxon:9606
+PINC	UniProtKB:P08240	SRPRA	PMID:2827661		GO:0006613	cotranslational protein targeting to membrane	TAS		UniProtKB:P08240	PANTHER:PTHR43134	20030904		NCBITaxon:9606
+PINC	UniProtKB:P43308	SSR2	PMID:7789174		GO:0006613	cotranslational protein targeting to membrane	TAS		UniProtKB:P43308	PANTHER:PTHR12861	20030904		NCBITaxon:9606
+PINC	UniProtKB:Q14767	LTBP2	PMID:7798248		GO:0006605	protein targeting	TAS		UniProtKB:Q14767	PANTHER:PTHR24034	20030904		NCBITaxon:9606
+PINC	UniProtKB:P43307	SSR1	PMID:8050590		GO:0006613	cotranslational protein targeting to membrane	TAS		UniProtKB:P43307	PANTHER:PTHR12924	20030904		NCBITaxon:9606
+PINC	UniProtKB:Q16543	CDC37	PMID:8666233		GO:0006605	protein targeting	TAS		UniProtKB:Q16543	PANTHER:PTHR12800	20030904		NCBITaxon:9606
+PINC	UniProtKB:Q99442	SEC62	PMID:9020021		GO:0006613	cotranslational protein targeting to membrane	TAS		UniProtKB:Q99442	PANTHER:PTHR12443	20030904		NCBITaxon:9606
+PINC	UniProtKB:Q99797	MIPEP	PMID:9073519		GO:0006627	protein processing involved in protein targeting to mitochondrion	TAS		UniProtKB:Q99797	PANTHER:PTHR11804	20030904		NCBITaxon:9606
+PINC	UniProtKB:O60725	ICMT	PMID:9614111		GO:0006612	protein targeting to membrane	TAS		UniProtKB:O60725	PANTHER:PTHR12714	20030904		NCBITaxon:9606
+PINC	UniProtKB:O95166	GABARAP	PMID:9892355		GO:0006605	protein targeting	TAS		UniProtKB:O95166	PANTHER:PTHR10969	20030904		NCBITaxon:9606
+ParkinsonsUK-UCL	MGI:MGI:1332659	Bnip3l	PMID:20200478		GO:1903214	regulation of protein targeting to mitochondrion	IGI	UniProtKB:Q9Z2F7		PANTHER:PTHR15186	20150121	UniProtKB:Q8R3R8	NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:O60260	PRKN	PMID:20890124		GO:1903214	regulation of protein targeting to mitochondrion	NAS		UniProtKB:O60260	PANTHER:PTHR11685	20150215		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9H300	PARL	PMID:21355049		GO:1903214	regulation of protein targeting to mitochondrion	IGI	UniProtKB:O60260|UniProtKB:Q9BXM7	UniProtKB:Q9H300	PANTHER:PTHR43731	20150209	UniProtKB:O60260|UniProtKB:Q9BXM7	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q5S007	LRRK2	PMID:21370995		GO:1903215	negative regulation of protein targeting to mitochondrion	IDA		UniProtKB:Q5S007	PANTHER:PTHR45752	20140731	UniProtKB:P12532	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9BXM7	PINK1	PMID:21508222		GO:1903214	regulation of protein targeting to mitochondrion	IGI	UniProtKB:Q9BXM7	UniProtKB:Q9BXM7	PANTHER:PTHR22972	20150310	CL:0000700|UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9HCE7	SMURF1	PMID:22020285		GO:0071211	protein targeting to vacuole involved in autophagy	IMP		UniProtKB:Q9HCE7	PANTHER:PTHR11254	20150313	UniProtKB:P03316	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9BXM7	PINK1	PMID:23212910		GO:1903214	regulation of protein targeting to mitochondrion	IMP		UniProtKB:Q9BXM7	PANTHER:PTHR22972	20150223	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9UII2	ATP5IF1	PMID:24005319		GO:1903214	regulation of protein targeting to mitochondrion	IMP		UniProtKB:Q9UII2	PANTHER:PTHR23407	20150210	GO:1903146|UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P55786	NPEPPS	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:P55786	PANTHER:PTHR11533	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O43464	HTRA2	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:O43464	PANTHER:PTHR22939	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O75143	ATG13	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:O75143	PANTHER:PTHR13430	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P15153	RAC2	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:P15153	PANTHER:PTHR24072	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P49257	LMAN1	PMID:24270810		GO:1903215	negative regulation of protein targeting to mitochondrion	HMP		UniProtKB:P49257	PANTHER:PTHR12223	20180313		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q96EP0	RNF31	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q96EP0	PANTHER:PTHR16004	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O94929	ABLIM3	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:O94929	PANTHER:PTHR24213	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q7L0Q8	RHOU	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q7L0Q8	PANTHER:PTHR24072	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O95376	ARIH2	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:O95376	PANTHER:PTHR11685	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O95429	BAG4	PMID:24270810		GO:1903215	negative regulation of protein targeting to mitochondrion	IMP		UniProtKB:O95429	PANTHER:PTHR12329	20150422	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P68036	UBE2L3	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:P68036	PANTHER:PTHR24068	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P34931	HSPA1L	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	IMP		UniProtKB:P34931	PANTHER:PTHR19375	20150225	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O15243	LEPROT	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:O15243	PANTHER:PTHR12050	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P61077	UBE2D3	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:P61077	PANTHER:PTHR24068	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9P0U1	TOMM7	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	IMP		UniProtKB:Q9P0U1	PANTHER:PTHR46722	20150422	UniProtKB:O60260|CL:0000540|UniProtKB:Q9BXM7|GO:0000422	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q7Z6Z7	HUWE1	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q7Z6Z7	PANTHER:PTHR11254	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9H270	VPS11	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q9H270	PANTHER:PTHR23323	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9NQG7	HPS4	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q9NQG7	PANTHER:PTHR14407	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9BXM7	PINK1	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q9BXM7	PANTHER:PTHR22972	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8N2K1	UBE2J2	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q8N2K1	PANTHER:PTHR24068	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9UBE0	SAE1	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q9UBE0	PANTHER:PTHR10953	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8IY33	MICALL2	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q8IY33	PANTHER:PTHR23167	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q92560	BAP1	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q92560	PANTHER:PTHR10589	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8IW03	SIAH3	PMID:24270810		GO:1903215	negative regulation of protein targeting to mitochondrion	IDA		UniProtKB:Q8IW03	PANTHER:PTHR45877	20150422	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9BZL1	UBL5	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q9BZL1	PANTHER:PTHR13042	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9Y371	SH3GLB1	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q9Y371	PANTHER:PTHR14167	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8N7F7	UBL4B	PMID:24270810		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q8N7F7	PANTHER:PTHR47905	20180313	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9H300	PARL	PMID:24522549		GO:1903214	regulation of protein targeting to mitochondrion	NAS		UniProtKB:Q9H300	PANTHER:PTHR43731	20140827	UniProtKB:Q9BXM7	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:O00165	HAX1	PMID:24522549		GO:1903214	regulation of protein targeting to mitochondrion	TAS		UniProtKB:O00165	PANTHER:PTHR14938	20140828	UniProtKB:O43464	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9P275	USP36	PMID:24912190		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q9P275	PANTHER:PTHR24006	20180310	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P49840	GSK3A	PMID:24912190		GO:1903955	positive regulation of protein targeting to mitochondrion	IMP		UniProtKB:P49840	PANTHER:PTHR24057	20180310	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q13467	FZD5	PMID:24912190		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q13467	PANTHER:PTHR11309	20180310	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P19784	CSNK2A2	PMID:24912190		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:P19784	PANTHER:PTHR24054	20180310	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q12772	SREBF2	PMID:24912190		GO:1903955	positive regulation of protein targeting to mitochondrion	HMP		UniProtKB:Q12772	PANTHER:PTHR46062	20180310	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q969H0	FBXW7	PMID:24912190		GO:1903955	positive regulation of protein targeting to mitochondrion	IMP		UniProtKB:Q969H0	PANTHER:PTHR19849	20150421	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P36956	SREBF1	PMID:24912190		GO:1903214	regulation of protein targeting to mitochondrion	IMP		UniProtKB:P36956	PANTHER:PTHR46062	20180310	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8N726	CDKN2A	PMID:25217637		GO:1903214	regulation of protein targeting to mitochondrion	IMP	UniProtKB:Q9BXM7	UniProtKB:Q8N726-2		20150216	UniProtKB:O60260	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P11142	HSPA8	PMID:26212789		GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	IMP		UniProtKB:P11142	PANTHER:PTHR19375	20160810	UniProtKB:Q96PG8	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P11142	HSPA8	PMID:2799391		GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	TAS		UniProtKB:P11142	PANTHER:PTHR19375	20151026		NCBITaxon:9606
+PomBase	PomBase:SPAC1805.15c	pub2	PMID:26365378		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR11254	20171201		NCBITaxon:4896
+PomBase	PomBase:SPBC1921.05	ape2	PMID:26365378		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR11533	20171116	PomBase:SPCC1322.05c	NCBITaxon:4896
+PomBase	PomBase:SPCC1322.05c	lap2	PMID:26365378		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR45726	20171116	PomBase:SPBC1921.05	NCBITaxon:4896
+PomBase	PomBase:SPAC11H11.01	sst6	PMID:26365378		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP				20171116	PomBase:SPBP35G2.11c	NCBITaxon:4896
+PomBase	PomBase:SPAC11H11.01	sst6	PMID:26365378		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP				20171116	PomBase:SPCC1322.05c	NCBITaxon:4896
+PomBase	PomBase:SPBP35G2.11c	nbr1	PMID:26365378		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR20930	20171116	PomBase:SPCC1322.05c	NCBITaxon:4896
+PomBase	PomBase:SPBP35G2.11c	nbr1	PMID:26365378		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR20930	20171116	PomBase:SPBC1921.05	NCBITaxon:4896
+PomBase	PomBase:SPAC19B12.10	sst2	PMID:26365378		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR12947	20171116	PomBase:SPBP35G2.11c	NCBITaxon:4896
+PomBase	PomBase:SPAC19B12.10	sst2	PMID:26365378		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR12947	20171116	PomBase:SPCC1322.05c	NCBITaxon:4896
+PomBase	PomBase:SPAC19A8.05c	sst4	PMID:26365378		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR47794	20171116	PomBase:SPBP35G2.11c	NCBITaxon:4896
+PomBase	PomBase:SPAC19A8.05c	sst4	PMID:26365378		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR47794	20171116	PomBase:SPCC1322.05c	NCBITaxon:4896
+PomBase	PomBase:SPAC11E3.04c	ubc13	PMID:26365378		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR24068	20171201		NCBITaxon:4896
+PomBase	PomBase:SPAC11G7.02	pub1	PMID:26365378		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR11254	20171201	PomBase:SPCC1322.05c	NCBITaxon:4896
+PomBase	PomBase:SPAC11G7.02	pub1	PMID:26365378		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR11254	20171201		NCBITaxon:4896
+PomBase	PomBase:SPBC409.23	mim2	PMID:33138913		GO:0045040	protein insertion into mitochondrial outer membrane	IMP			PANTHER:PTHR28230	20210108		NCBITaxon:4896
+PomBase	PomBase:SPBC713.08	mim1	PMID:33138913		GO:0045040	protein insertion into mitochondrial outer membrane	IMP				20210108		NCBITaxon:4896
+PomBase	PomBase:SPBP35G2.11c	nbr1	PMID:34169534		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR20930	20210718	PomBase:SPAC4F10.02	NCBITaxon:4896
+PomBase	PomBase:SPBP35G2.11c	nbr1	PMID:34169534		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR20930	20210718	PomBase:SPAC513.05	NCBITaxon:4896
+PomBase	PomBase:SPAC19A8.05c	sst4	PMID:34169534		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR47794	20210718	PomBase:SPAC4F10.02	NCBITaxon:4896
+PomBase	PomBase:SPAC19A8.05c	sst4	PMID:34169534		GO:0120113	cytoplasm to vacuole targeting by the NVT pathway	IMP			PANTHER:PTHR47794	20210718	PomBase:SPAC513.05	NCBITaxon:4896
+PomBase	PomBase:SPAC2F7.10	akr1	PMID:36650056		GO:0006612	protein targeting to membrane	IMP			PANTHER:PTHR24161	20230207	PomBase:SPAC13C5.03	NCBITaxon:4896
+PomBase	PomBase:SPCC188.06c	srp54	PMID:7969124		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IMP			PANTHER:PTHR11564	20050412		NCBITaxon:4896
+RGD	RGD:3007	Lhcgr	PMID:10847593|RGD:2292601		GO:0006622	protein targeting to lysosome	IMP			PANTHER:PTHR24372	20080425		NCBITaxon:10116
+RGD	RGD:69194	Gphn	PMID:11095995|RGD:68677		GO:0006605	protein targeting	TAS			PANTHER:PTHR10192	20050217		NCBITaxon:10116
+RGD	RGD:1303049	Tomm70	PMID:11956321|RGD:1303951		GO:1903955	positive regulation of protein targeting to mitochondrion	IMP			PANTHER:PTHR46208	20060127		NCBITaxon:10116
+RGD	RGD:1359574	Os9	PMID:12093806|RGD:1359780		GO:0006605	protein targeting	IDA			PANTHER:PTHR15414	20120521		NCBITaxon:10116
+RGD	RGD:621297	Pmpcb	PMID:12433926|RGD:13463464		GO:0006627	protein processing involved in protein targeting to mitochondrion	IDA			PANTHER:PTHR11851	20171215		NCBITaxon:10116
+RGD	RGD:631441	Ppp2r2b	PMID:12716901|RGD:2314541		GO:0006626	protein targeting to mitochondrion	IMP			PANTHER:PTHR11871	20091119		NCBITaxon:10116
+RGD	RGD:621801	Timm8a1	PMID:12745081|RGD:724770		GO:0006626	protein targeting to mitochondrion	IDA			PANTHER:PTHR19338	20050217		NCBITaxon:10116
+RGD	RGD:628847	Mapk9	PMID:15504737|RGD:2298783		GO:0006626	protein targeting to mitochondrion	IEP			PANTHER:PTHR24055	20090311		NCBITaxon:10116
+RGD	RGD:621077	Oga	PMID:16000877|RGD:2305961		GO:0006612	protein targeting to membrane	IMP			PANTHER:PTHR13170	20090316		NCBITaxon:10116
+RGD	RGD:71095	Cacng2	PMID:17986442|RGD:13515070		GO:0006612	protein targeting to membrane	IDA			PANTHER:PTHR12107	20180402		NCBITaxon:10116
+RGD	RGD:620157	Ank3	PMID:18094255|RGD:153344583		GO:1903533	regulation of protein targeting	IMP			PANTHER:PTHR24126	20220829		NCBITaxon:10116
+RGD	RGD:620157	Ank3	PMID:18180363|RGD:6767295		GO:0090314	positive regulation of protein targeting to membrane	IMP			PANTHER:PTHR24126	20120706		NCBITaxon:10116
+RGD	RGD:620030	Nucb1	PMID:19497050|RGD:9831132		GO:1903533	regulation of protein targeting	IDA			PANTHER:PTHR19237	20150225		NCBITaxon:10116
+RGD	RGD:3448	Ptpn5	PMID:19625523|RGD:9835004		GO:1903955	positive regulation of protein targeting to mitochondrion	IMP			PANTHER:PTHR46198	20150312		NCBITaxon:10116
+RGD	RGD:2048	Adora1	PMID:19879903|RGD:2317912		GO:0006612	protein targeting to membrane	IMP			PANTHER:PTHR24246	20100430		NCBITaxon:10116
+RGD	RGD:2248	Cacnb3	PMID:20478999|RGD:13514093		GO:0090314	positive regulation of protein targeting to membrane	IMP			PANTHER:PTHR11824	20180328		NCBITaxon:10116
+RGD	RGD:71024	Actr3	PMID:20739464|RGD:10054052		GO:0090314	positive regulation of protein targeting to membrane	IMP			PANTHER:PTHR11937	20160823		NCBITaxon:10116
+RGD	RGD:1305848	Arpc2	PMID:20739464|RGD:10054052		GO:0090314	positive regulation of protein targeting to membrane	IMP			PANTHER:PTHR12058	20160823		NCBITaxon:10116
+RGD	RGD:1307794	Bag3	PMID:21561597|RGD:5687132		GO:1903215	negative regulation of protein targeting to mitochondrion	IMP			PANTHER:PTHR12329	20180320		NCBITaxon:10116
+RGD	RGD:62060	Ogt	PMID:21712532|RGD:9590189		GO:0090315	negative regulation of protein targeting to membrane	IMP			PANTHER:PTHR44366	20141119		NCBITaxon:10116
+RGD	RGD:2956	Kcne1	PMID:21943416|RGD:7242916		GO:0090315	negative regulation of protein targeting to membrane	IDA			PANTHER:PTHR15282	20130425		NCBITaxon:10116
+RGD	RGD:708450	Adcy10	PMID:22106416|RGD:329337361		GO:1903955	positive regulation of protein targeting to mitochondrion	IMP			PANTHER:PTHR16305	20230428		NCBITaxon:10116
+RGD	RGD:3645	Ccl2	PMID:22222817|RGD:9685053		GO:0090314	positive regulation of protein targeting to membrane	IDA			PANTHER:PTHR12015	20141216		NCBITaxon:10116
+RGD	RGD:620060	Hpca	PMID:23142228|RGD:9686444		GO:0090314	positive regulation of protein targeting to membrane	IDA			PANTHER:PTHR23055	20150209		NCBITaxon:10116
+RGD	RGD:1306438	Tent2	PMID:23678131|RGD:401940177		GO:0090314	positive regulation of protein targeting to membrane	IMP			PANTHER:PTHR12271	20240104		NCBITaxon:10116
+RGD	RGD:2737	Grin2a	PMID:23678131|RGD:401940177		GO:0090314	positive regulation of protein targeting to membrane	IMP			PANTHER:PTHR18966	20240104		NCBITaxon:10116
+RGD	RGD:3250	Pak1	PMID:25199455|RGD:11533947		GO:0090314	positive regulation of protein targeting to membrane	IMP			PANTHER:PTHR48015	20160913		NCBITaxon:10116
+RGD	RGD:3980	Ywhaz	PMID:7822263|RGD:727986		GO:0006626	protein targeting to mitochondrion	IDA			PANTHER:PTHR18860	20050217		NCBITaxon:10116
+Reactome	UniProtKB:Q5JRX3	PITRM1	Reactome:R-HSA-1268020		GO:0006626	protein targeting to mitochondrion	TAS		UniProtKB:Q5JRX3	PANTHER:PTHR43016	20241117		NCBITaxon:9606
+SGD	SGD:S000007348	TIM8	PMID:10051608		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:P57744	PANTHER:PTHR19338	20130807		NCBITaxon:559292
+SGD	SGD:S000003413	TIM13	PMID:10051608		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:P53299	PANTHER:PTHR19338	20130807		NCBITaxon:559292
+SGD	SGD:S000001020	WSC4	PMID:10196219		GO:0045047	protein targeting to ER	IMP		UniProtKB:P38739	PANTHER:PTHR15549	20130807		NCBITaxon:559292
+SGD	SGD:S000001020	WSC4	PMID:10196219		GO:0006612	protein targeting to membrane	IMP		UniProtKB:P38739	PANTHER:PTHR15549	20130807		NCBITaxon:559292
+SGD	SGD:S000001214	ATG7	PMID:10233150		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P38862	PANTHER:PTHR10953	20130807		NCBITaxon:559292
+SGD	SGD:S000003571	KAR2	PMID:10367885		GO:0031204	post-translational protein targeting to membrane, translocation	IDA		UniProtKB:P16474	PANTHER:PTHR19375	20130807		NCBITaxon:559292
+SGD	SGD:S000007348	TIM8	PMID:10469659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:P57744	PANTHER:PTHR19338	20130807		NCBITaxon:559292
+SGD	SGD:S000007348	TIM8	PMID:10469659		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:P57744	PANTHER:PTHR19338	20130807		NCBITaxon:559292
+SGD	SGD:S000007256	TIM9	PMID:10469659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:O74700	PANTHER:PTHR13172	20130807		NCBITaxon:559292
+SGD	SGD:S000003413	TIM13	PMID:10469659		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:P53299	PANTHER:PTHR19338	20130807		NCBITaxon:559292
+SGD	SGD:S000003413	TIM13	PMID:10469659		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:P53299	PANTHER:PTHR19338	20130807		NCBITaxon:559292
+SGD	SGD:S000004236	ERF2	PMID:10490616		GO:0006612	protein targeting to membrane	IMP		UniProtKB:Q06551	PANTHER:PTHR22883	20130807		NCBITaxon:559292
+SGD	SGD:S000003965	ATG10	PMID:10508157		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q07879		20130807		NCBITaxon:559292
+SGD	SGD:S000001236	EGD2	PMID:10518932		GO:0006613	cotranslational protein targeting to membrane	IGI	SGD:S000002660	UniProtKB:P38879	PANTHER:PTHR21713	20230607	GO:0005789	NCBITaxon:559292
+SGD	SGD:S000001236	EGD2	PMID:10518932		GO:0006613	cotranslational protein targeting to membrane	IGI	SGD:S000005958	UniProtKB:P38879	PANTHER:PTHR21713	20230607	GO:0005789	NCBITaxon:559292
+SGD	SGD:S000005958	EGD1	PMID:10518932		GO:0006613	cotranslational protein targeting to membrane	IGI	SGD:S000002660	UniProtKB:Q02642	PANTHER:PTHR10351	20230607	GO:0005789	NCBITaxon:559292
+SGD	SGD:S000005958	EGD1	PMID:10518932		GO:0006613	cotranslational protein targeting to membrane	IGI	SGD:S000001236	UniProtKB:Q02642	PANTHER:PTHR10351	20230607	GO:0005789	NCBITaxon:559292
+SGD	SGD:S000002660	BTT1	PMID:10518932		GO:0006613	cotranslational protein targeting to membrane	IGI	SGD:S000005958	UniProtKB:P40314	PANTHER:PTHR10351	20230607	GO:0005789	NCBITaxon:559292
+SGD	SGD:S000002660	BTT1	PMID:10518932		GO:0006613	cotranslational protein targeting to membrane	IGI	SGD:S000001236	UniProtKB:P40314	PANTHER:PTHR10351	20230607	GO:0005789	NCBITaxon:559292
+SGD	SGD:S000005075	TOM22	PMID:10519552		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P49334	PANTHER:PTHR12504	20130807		NCBITaxon:559292
+SGD	SGD:S000005378	TLG2	PMID:10545112		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q08144	PANTHER:PTHR19957	20130807		NCBITaxon:559292
+SGD	SGD:S000003063	VPS45	PMID:10545112		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P38932	PANTHER:PTHR11679	20130807		NCBITaxon:559292
+SGD	SGD:S000003590	TIM54	PMID:10637294		GO:0045039	protein insertion into mitochondrial inner membrane	IGI	SGD:S000005823	UniProtKB:P47045	PANTHER:PTHR12358	20130807		NCBITaxon:559292
+SGD	SGD:S000005823	TIM18	PMID:10637294		GO:0045039	protein insertion into mitochondrial inner membrane	IGI	SGD:S000003590	UniProtKB:Q08749	PANTHER:PTHR13337	20130807		NCBITaxon:559292
+SGD	SGD:S000002376	TIM22	PMID:10648604		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:Q12328	PANTHER:PTHR14110	20130807		NCBITaxon:559292
+SGD	SGD:S000002308	ATG9	PMID:10662773		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q12142	PANTHER:PTHR13038	20130807		NCBITaxon:559292
+SGD	SGD:S000006070	ATG5	PMID:10712513		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q12380	PANTHER:PTHR13040	20130807		NCBITaxon:559292
+SGD	SGD:S000003806	SSC1	PMID:10779357		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P0CS90	PANTHER:PTHR19375	20130807		NCBITaxon:559292
+SGD	SGD:S000005300	TIM23	PMID:10830167		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P32897	PANTHER:PTHR15371	20130807		NCBITaxon:559292
+SGD	SGD:S000000739	VAC8	PMID:10837477		GO:0071255	Cvt vesicle assembly	IMP		UniProtKB:P39968	PANTHER:PTHR47249	20130807		NCBITaxon:559292
+SGD	SGD:S000006389	ATG13	PMID:10837477		GO:0071255	Cvt vesicle assembly	IMP		UniProtKB:Q06628	PANTHER:PTHR13430	20171023		NCBITaxon:559292
+SGD	SGD:S000004573	SEC65	PMID:10921896		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IDA		UniProtKB:P29478	PANTHER:PTHR17453	20190315		NCBITaxon:559292
+SGD	SGD:S000006164	SRP68	PMID:10921896		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IDA		UniProtKB:P38687	PANTHER:PTHR12860	20190315		NCBITaxon:559292
+SGD	SGD:S000006131	SRP72	PMID:10921896		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IDA		UniProtKB:P38688	PANTHER:PTHR14094	20210819		NCBITaxon:559292
+SGD	SGD:S000006491	SCR1	PMID:10921896		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IDA				20190315		NCBITaxon:559292
+SGD	SGD:S000002250	SRP14	PMID:10921896		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IDA		UniProtKB:P38985	PANTHER:PTHR12013	20150608		NCBITaxon:559292
+SGD	SGD:S000001605	SRP21	PMID:10921896		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IDA		UniProtKB:P32342	PANTHER:PTHR12834	20190315		NCBITaxon:559292
+SGD	SGD:S000006292	SRP54	PMID:10921896		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IDA		UniProtKB:P20424	PANTHER:PTHR11564	20190315		NCBITaxon:559292
+SGD	SGD:S000005391	SIL1	PMID:10958688		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IMP		UniProtKB:Q08199	PANTHER:PTHR19316	20130807		NCBITaxon:559292
+SGD	SGD:S000003148	ATG1	PMID:10995454		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P53104	PANTHER:PTHR24348	20130807		NCBITaxon:559292
+SGD	SGD:S000006435	DID2	PMID:11029042		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P69771	PANTHER:PTHR10476	20130807		NCBITaxon:559292
+SGD	SGD:S000004370	SEC61	PMID:11076036		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IDA		UniProtKB:P32915	PANTHER:PTHR10906	20130807		NCBITaxon:559292
+SGD	SGD:S000005167	ATG4	PMID:11149920		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P53867	PANTHER:PTHR22624	20130807		NCBITaxon:559292
+SGD	SGD:S000000756	ECM10	PMID:11150530		GO:0006626	protein targeting to mitochondrion	IDA		UniProtKB:P39987	PANTHER:PTHR19375	20190807		NCBITaxon:559292
+SGD	SGD:S000005780	SEC63	PMID:11226176		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IMP		UniProtKB:P14906	PANTHER:PTHR24075	20130807		NCBITaxon:559292
+SGD	SGD:S000003679	TIM17	PMID:11344168		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P39515	PANTHER:PTHR10485	20130807		NCBITaxon:559292
+SGD	SGD:S000005186	ATG2	PMID:11382761		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P53855	PANTHER:PTHR13190	20130807		NCBITaxon:559292
+SGD	SGD:S000000514	STP22	PMID:11511343		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P25604	PANTHER:PTHR23306	20130807		NCBITaxon:559292
+SGD	SGD:S000000514	STP22	PMID:11511343		GO:0006612	protein targeting to membrane	IMP		UniProtKB:P25604	PANTHER:PTHR23306	20130807		NCBITaxon:559292
+SGD	SGD:S000004109	SRN2	PMID:11511343		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:Q99176	PANTHER:PTHR13678	20130807		NCBITaxon:559292
+SGD	SGD:S000004109	SRN2	PMID:11511343		GO:0006612	protein targeting to membrane	IMP		UniProtKB:Q99176	PANTHER:PTHR13678	20130807		NCBITaxon:559292
+SGD	SGD:S000005986	VPS28	PMID:11511343		GO:0006612	protein targeting to membrane	IMP		UniProtKB:Q02767	PANTHER:PTHR12937	20130807		NCBITaxon:559292
+SGD	SGD:S000005986	VPS28	PMID:11511343		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:Q02767	PANTHER:PTHR12937	20130807		NCBITaxon:559292
+SGD	SGD:S000000487	SSH1	PMID:11702951		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IMP		UniProtKB:P38353	PANTHER:PTHR10906	20130807		NCBITaxon:559292
+SGD	SGD:S000000487	SSH1	PMID:11702951		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IGI	SGD:S000004573	UniProtKB:P38353	PANTHER:PTHR10906	20130807		NCBITaxon:559292
+SGD	SGD:S000001917	ATG18	PMID:11707261		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P43601	PANTHER:PTHR11227	20130807		NCBITaxon:559292
+SGD	SGD:S000001917	ATG18	PMID:11707261		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IDA		UniProtKB:P43601	PANTHER:PTHR11227	20130807		NCBITaxon:559292
+SGD	SGD:S000003573	SNX4	PMID:12048214		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P47057	PANTHER:PTHR45949	20130807		NCBITaxon:559292
+SGD	SGD:S000000368	ARL1	PMID:12052896		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P38116	PANTHER:PTHR11711	20191106	SGD:S000004912	NCBITaxon:559292
+SGD	SGD:S000005289	VPS27	PMID:12055639		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P40343	PANTHER:PTHR47794	20130807		NCBITaxon:559292
+SGD	SGD:S000005289	VPS27	PMID:12055639		GO:0006623	protein targeting to vacuole	IPI	SGD:S000000994	UniProtKB:P40343	PANTHER:PTHR47794	20130807		NCBITaxon:559292
+SGD	SGD:S000000994	HSE1	PMID:12055639		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P38753	PANTHER:PTHR45929	20130807		NCBITaxon:559292
+SGD	SGD:S000000994	HSE1	PMID:12055639		GO:0006623	protein targeting to vacuole	IPI	SGD:S000005289	UniProtKB:P38753	PANTHER:PTHR45929	20130807		NCBITaxon:559292
+SGD	SGD:S000004251	VPS63	PMID:12134085		GO:0006623	protein targeting to vacuole	HMP		UniProtKB:O13549		20181119		NCBITaxon:559292
+SGD	SGD:S000004505	VPS71	PMID:12134085		GO:0006623	protein targeting to vacuole	HMP		UniProtKB:Q03433	PANTHER:PTHR13093	20181119		NCBITaxon:559292
+SGD	SGD:S000003887	VPS70	PMID:12134085		GO:0006623	protein targeting to vacuole	HMP		UniProtKB:P47161	PANTHER:PTHR10404	20181119		NCBITaxon:559292
+SGD	SGD:S000005489	VPS68	PMID:12134085		GO:0006623	protein targeting to vacuole	HMP		UniProtKB:Q12016	PANTHER:PTHR13180	20181119		NCBITaxon:559292
+SGD	SGD:S000005241	MON2	PMID:12134085		GO:0006623	protein targeting to vacuole	HMP		UniProtKB:P48563	PANTHER:PTHR10663	20181119		NCBITaxon:559292
+SGD	SGD:S000006343	LOA1	PMID:12134085		GO:0006623	protein targeting to vacuole	HMP		UniProtKB:Q06508	PANTHER:PTHR23063	20181119		NCBITaxon:559292
+SGD	SGD:S000002608	VPS64	PMID:12134085		GO:0006623	protein targeting to vacuole	HMP		UniProtKB:Q03944	PANTHER:PTHR15715	20181119		NCBITaxon:559292
+SGD	SGD:S000003092	MON1	PMID:12134085		GO:0006623	protein targeting to vacuole	HMP		UniProtKB:P53129	PANTHER:PTHR13027	20181119		NCBITaxon:559292
+SGD	SGD:S000001728	VPS51	PMID:12134085		GO:0006623	protein targeting to vacuole	HMP		UniProtKB:P36116		20181119		NCBITaxon:559292
+SGD	SGD:S000003072	VPS73	PMID:12134085		GO:0006623	protein targeting to vacuole	HMP		UniProtKB:P53142	PANTHER:PTHR23503	20181119		NCBITaxon:559292
+SGD	SGD:S000003373	VPS62	PMID:12134085		GO:0006623	protein targeting to vacuole	HMP		UniProtKB:P53285	PANTHER:PTHR48220	20181119		NCBITaxon:559292
+SGD	SGD:S000004409	VPS36	PMID:12194858		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:Q06696	PANTHER:PTHR13128	20130807		NCBITaxon:559292
+SGD	SGD:S000003863	VPS25	PMID:12194858		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P47142	PANTHER:PTHR13149	20130807		NCBITaxon:559292
+SGD	SGD:S000005923	SNF8	PMID:12194858		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:Q12483	PANTHER:PTHR12806	20130807		NCBITaxon:559292
+SGD	SGD:S000000368	ARL1	PMID:12210899		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P38116	PANTHER:PTHR11711	20130807		NCBITaxon:559292
+SGD	SGD:S000000335	CCZ1	PMID:12364329		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P38273	PANTHER:PTHR13056	20130807		NCBITaxon:559292
+SGD	SGD:S000005984	TIM50	PMID:12437924		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:Q02776	PANTHER:PTHR12210	20130807		NCBITaxon:559292
+SGD	SGD:S000005984	TIM50	PMID:12437925		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:Q02776	PANTHER:PTHR12210	20130807		NCBITaxon:559292
+SGD	SGD:S000004292	HRI1	PMID:12518317		GO:0006612	protein targeting to membrane	IPI	SGD:S000004283	UniProtKB:Q05905		20190907		NCBITaxon:559292
+SGD	SGD:S000006161	HSP82	PMID:12526792		GO:0006626	protein targeting to mitochondrion	IPI	SGD:S000005065	UniProtKB:P02829	PANTHER:PTHR11528	20130807		NCBITaxon:559292
+SGD	SGD:S000003573	SNX4	PMID:12554655		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P47057	PANTHER:PTHR45949	20130807		NCBITaxon:559292
+SGD	SGD:S000003573	SNX4	PMID:12554655		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P47057	PANTHER:PTHR45949	20130807		NCBITaxon:559292
+SGD	SGD:S000002271	ATG20	PMID:12554655		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q07528	PANTHER:PTHR46979	20130807		NCBITaxon:559292
+SGD	SGD:S000003148	ATG1	PMID:12589048		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P53104	PANTHER:PTHR24348	20130807		NCBITaxon:559292
+SGD	SGD:S000005075	TOM22	PMID:12628251		GO:0045040	protein insertion into mitochondrial outer membrane	IMP		UniProtKB:P49334	PANTHER:PTHR12504	20130807		NCBITaxon:559292
+SGD	SGD:S000000309	VID24	PMID:12730205		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P38263	PANTHER:PTHR14534	20130815		NCBITaxon:559292
+SGD	SGD:S000002493	SSS1	PMID:12860997		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IMP		UniProtKB:P35179	PANTHER:PTHR12309	20130807		NCBITaxon:559292
+SGD	SGD:S000001214	ATG7	PMID:12965207		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P38862	PANTHER:PTHR10953	20130807		NCBITaxon:559292
+SGD	SGD:S000004573	SEC65	PMID:1313947		GO:0006617	SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	IMP		UniProtKB:P29478	PANTHER:PTHR17453	20130807		NCBITaxon:559292
+SGD	SGD:S000002700	SRP101	PMID:1327299		GO:0045047	protein targeting to ER	IMP		UniProtKB:P32916	PANTHER:PTHR43134	20130807		NCBITaxon:559292
+SGD	SGD:S000004249	HSP60	PMID:1347713		GO:0045041	protein import into mitochondrial intermembrane space	IMP		UniProtKB:P19882	PANTHER:PTHR45633	20130807		NCBITaxon:559292
+SGD	SGD:S000001284	TIM44	PMID:1396562		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:Q01852	PANTHER:PTHR10721	20130807		NCBITaxon:559292
+SGD	SGD:S000004423	ATG23	PMID:14504273		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q06671		20130807		NCBITaxon:559292
+SGD	SGD:S000003998	PAM18	PMID:14517234		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:Q07914	PANTHER:PTHR12763	20130807		NCBITaxon:559292
+SGD	SGD:S000004971	SAM50	PMID:14570913		GO:0045040	protein insertion into mitochondrial outer membrane	IMP		UniProtKB:P53969	PANTHER:PTHR12815	20130807		NCBITaxon:559292
+SGD	SGD:S000003998	PAM18	PMID:14605210		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:Q07914	PANTHER:PTHR12763	20130807		NCBITaxon:559292
+SGD	SGD:S000003998	PAM18	PMID:14638855		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:Q07914	PANTHER:PTHR12763	20130807		NCBITaxon:559292
+SGD	SGD:S000005008	YDJ1	PMID:1473150		GO:0045047	protein targeting to ER	IMP		UniProtKB:P25491	PANTHER:PTHR43888	20130807		NCBITaxon:559292
+SGD	SGD:S000003640	PAM16	PMID:14981506		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P42949	PANTHER:PTHR12388	20130807		NCBITaxon:559292
+SGD	SGD:S000003640	PAM16	PMID:14981507		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P42949	PANTHER:PTHR12388	20130807		NCBITaxon:559292
+SGD	SGD:S000000494	BSD2	PMID:14988731		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P38356	PANTHER:PTHR13396	20130807		NCBITaxon:559292
+SGD	SGD:S000005042	RAS2	PMID:15016820		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P01120	PANTHER:PTHR24070	20151008		NCBITaxon:559292
+SGD	SGD:S000001125	SAM35	PMID:15067005		GO:0045040	protein insertion into mitochondrial outer membrane	IMP		UniProtKB:P14693		20130807		NCBITaxon:559292
+SGD	SGD:S000001567	HOT13	PMID:15294910		GO:0045041	protein import into mitochondrial intermembrane space	IMP		UniProtKB:P36078	PANTHER:PTHR28082	20130807		NCBITaxon:559292
+SGD	SGD:S000001125	SAM35	PMID:15326197		GO:0045040	protein insertion into mitochondrial outer membrane	IMP		UniProtKB:P14693		20130807		NCBITaxon:559292
+SGD	SGD:S000001678	MIA40	PMID:15359280		GO:0045041	protein import into mitochondrial intermembrane space	IMP		UniProtKB:P36046	PANTHER:PTHR21622	20130807		NCBITaxon:559292
+SGD	SGD:S000001678	MIA40	PMID:15364952		GO:0045041	protein import into mitochondrial intermembrane space	IMP		UniProtKB:P36046	PANTHER:PTHR21622	20130807		NCBITaxon:559292
+SGD	SGD:S000005254	ZIM17	PMID:15383543		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P42844	PANTHER:PTHR20922	20130807		NCBITaxon:559292
+SGD	SGD:S000004816	TOM40	PMID:15590639		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P23644	PANTHER:PTHR10802	20130807		NCBITaxon:559292
+SGD	SGD:S000003679	TIM17	PMID:15618217		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P39515	PANTHER:PTHR10485	20130807		NCBITaxon:559292
+SGD	SGD:S000006253	ATG11	PMID:15659643		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q12527	PANTHER:PTHR13222	20130807		NCBITaxon:559292
+SGD	SGD:S000006253	ATG11	PMID:15659643		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IGI	SGD:S000005442	UniProtKB:Q12527	PANTHER:PTHR13222	20130807		NCBITaxon:559292
+SGD	SGD:S000005780	SEC63	PMID:15671059		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IMP		UniProtKB:P14906	PANTHER:PTHR24075	20130807		NCBITaxon:559292
+SGD	SGD:S000003265	TIM21	PMID:15797382		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P53220	PANTHER:PTHR13032	20130807		NCBITaxon:559292
+SGD	SGD:S000003261	ERV1	PMID:15989955		GO:0160203	mitochondrial disulfide relay system	IMP		UniProtKB:P27882	PANTHER:PTHR12645	20241104		NCBITaxon:559292
+SGD	SGD:S000001678	MIA40	PMID:15989955		GO:0045041	protein import into mitochondrial intermembrane space	IPI	SGD:S000003932	UniProtKB:P36046	PANTHER:PTHR21622	20130807		NCBITaxon:559292
+SGD	SGD:S000001678	MIA40	PMID:15989955		GO:0045041	protein import into mitochondrial intermembrane space	IPI	SGD:S000003261	UniProtKB:P36046	PANTHER:PTHR21622	20130807		NCBITaxon:559292
+SGD	SGD:S000001678	MIA40	PMID:15989955		GO:0045041	protein import into mitochondrial intermembrane space	IPI	SGD:S000003679	UniProtKB:P36046	PANTHER:PTHR21622	20130807		NCBITaxon:559292
+SGD	SGD:S000005272	MDJ2	PMID:16027163		GO:0030150	protein import into mitochondrial matrix	IGI	SGD:S000003998	UniProtKB:P42834	PANTHER:PTHR12763	20190225		NCBITaxon:559292
+SGD	SGD:S000005272	MDJ2	PMID:16027163		GO:0030150	protein import into mitochondrial matrix	IPI	SGD:S000001284	UniProtKB:P42834	PANTHER:PTHR12763	20190225		NCBITaxon:559292
+SGD	SGD:S000005272	MDJ2	PMID:16027163		GO:0030150	protein import into mitochondrial matrix	IPI	SGD:S000003640	UniProtKB:P42834	PANTHER:PTHR12763	20190225		NCBITaxon:559292
+SGD	SGD:S000002515	TRS85	PMID:16079147		GO:0071255	Cvt vesicle assembly	IMP		UniProtKB:P46944		20170313		NCBITaxon:559292
+SGD	SGD:S000002515	TRS85	PMID:16079147		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P46944		20171011		NCBITaxon:559292
+SGD	SGD:S000001773	PAM17	PMID:16107694		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P36147	PANTHER:PTHR28021	20130807		NCBITaxon:559292
+SGD	SGD:S000003261	ERV1	PMID:16181637		GO:0045041	protein import into mitochondrial intermembrane space	IMP		UniProtKB:P27882	PANTHER:PTHR12645	20130807		NCBITaxon:559292
+SGD	SGD:S000005241	MON2	PMID:16219684		GO:0006623	protein targeting to vacuole	IDA		UniProtKB:P48563	PANTHER:PTHR10663	20191106	SGD:S000001586	NCBITaxon:559292
+SGD	SGD:S000002672	AKR1	PMID:16227572		GO:0006612	protein targeting to membrane	IMP		UniProtKB:P39010	PANTHER:PTHR24161	20191106	SGD:S000005697	NCBITaxon:559292
+SGD	SGD:S000006491	SCR1	PMID:1655273		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IMP				20150625		NCBITaxon:559292
+SGD	SGD:S000006292	SRP54	PMID:1655273		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IMP		UniProtKB:P20424	PANTHER:PTHR11564	20130807		NCBITaxon:559292
+SGD	SGD:S000005219	BOR1	PMID:16565073		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P53838	PANTHER:PTHR11453	20130807		NCBITaxon:559292
+SGD	SGD:S000002515	TRS85	PMID:16874038		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P46944		20130807		NCBITaxon:559292
+SGD	SGD:S000006021	ATG21	PMID:16876790		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q02887	PANTHER:PTHR11227	20130807		NCBITaxon:559292
+SGD	SGD:S000001917	ATG18	PMID:16876790		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P43601	PANTHER:PTHR11227	20130807		NCBITaxon:559292
+SGD	SGD:S000005133	SRP1	PMID:16929305		GO:0006612	protein targeting to membrane	IMP		UniProtKB:Q02821	PANTHER:PTHR23316	20130807		NCBITaxon:559292
+SGD	SGD:S000004339	KAP95	PMID:16929305		GO:0006612	protein targeting to membrane	IMP		UniProtKB:Q06142	PANTHER:PTHR10527	20130807		NCBITaxon:559292
+SGD	SGD:S000006228	YME1	PMID:16966379		GO:0045041	protein import into mitochondrial intermembrane space	IDA		UniProtKB:P32795	PANTHER:PTHR23076	20130807		NCBITaxon:559292
+SGD	SGD:S000006228	YME1	PMID:16966379		GO:0045041	protein import into mitochondrial intermembrane space	IMP		UniProtKB:P32795	PANTHER:PTHR23076	20130807		NCBITaxon:559292
+SGD	SGD:S000003714	ATG27	PMID:17135291		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P46989	PANTHER:PTHR15071	20130807		NCBITaxon:559292
+SGD	SGD:S000003438	MVB12	PMID:17135292		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P42939		20130807		NCBITaxon:559292
+SGD	SGD:S000003438	MVB12	PMID:17145965		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P42939		20130807		NCBITaxon:559292
+SGD	SGD:S000004769	ATG16	PMID:17192262		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q03818		20130807		NCBITaxon:559292
+SGD	SGD:S000005008	YDJ1	PMID:1729605		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:P25491	PANTHER:PTHR43888	20130807		NCBITaxon:559292
+SGD	SGD:S000001678	MIA40	PMID:17336303		GO:0045041	protein import into mitochondrial intermembrane space	IMP		UniProtKB:P36046	PANTHER:PTHR21622	20130807		NCBITaxon:559292
+SGD	SGD:S000003929	MMM1	PMID:17410204		GO:0045040	protein insertion into mitochondrial outer membrane	IMP		UniProtKB:P41800	PANTHER:PTHR13466	20130807		NCBITaxon:559292
+SGD	SGD:S000000008	MDM10	PMID:17410204		GO:0045040	protein insertion into mitochondrial outer membrane	IMP		UniProtKB:P18409	PANTHER:PTHR28035	20130807		NCBITaxon:559292
+SGD	SGD:S000003430	YPP1	PMID:17576801		GO:0006623	protein targeting to vacuole	IDA		UniProtKB:P46951	PANTHER:PTHR23083	20130807		NCBITaxon:559292
+SGD	SGD:S000003430	YPP1	PMID:17576801		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P46951	PANTHER:PTHR23083	20130807		NCBITaxon:559292
+SGD	SGD:S000003590	TIM54	PMID:17893242		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:P47045	PANTHER:PTHR12358	20130807		NCBITaxon:559292
+SGD	SGD:S000000492	APM3	PMID:17895371		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P38153	PANTHER:PTHR10529	20130807		NCBITaxon:559292
+SGD	SGD:S000003561	APS3	PMID:17895371		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P47064	PANTHER:PTHR11753	20130807		NCBITaxon:559292
+SGD	SGD:S000003493	APL6	PMID:17895371		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P46682	PANTHER:PTHR11134	20130807		NCBITaxon:559292
+SGD	SGD:S000006116	APL5	PMID:17895371		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:Q08951	PANTHER:PTHR22781	20130807		NCBITaxon:559292
+SGD	SGD:S000001159	TOM71	PMID:18007655		GO:0006626	protein targeting to mitochondrion	IGI	SGD:S000005065	UniProtKB:P38825	PANTHER:PTHR46208	20130807		NCBITaxon:559292
+SGD	SGD:S000001159	TOM71	PMID:18007655		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:P38825	PANTHER:PTHR46208	20131219		NCBITaxon:559292
+SGD	SGD:S000005065	TOM70	PMID:18007655		GO:0006626	protein targeting to mitochondrion	IGI	SGD:S000001159	UniProtKB:P07213	PANTHER:PTHR46208	20130807		NCBITaxon:559292
+SGD	SGD:S000001125	SAM35	PMID:18039934		GO:0045040	protein insertion into mitochondrial outer membrane	IMP		UniProtKB:P14693		20130807		NCBITaxon:559292
+SGD	SGD:S000004971	SAM50	PMID:18039934		GO:0045040	protein insertion into mitochondrial outer membrane	IMP		UniProtKB:P53969	PANTHER:PTHR12815	20130807		NCBITaxon:559292
+SGD	SGD:S000004664	SAM37	PMID:18039934		GO:0045040	protein insertion into mitochondrial outer membrane	IMP		UniProtKB:P50110	PANTHER:PTHR12289	20130807		NCBITaxon:559292
+SGD	SGD:S000002187	ARP2	PMID:18287533		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P32381	PANTHER:PTHR11937	20130807		NCBITaxon:559292
+SGD	SGD:S000000487	SSH1	PMID:18347066		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IGI	SGD:S000001637	UniProtKB:P38353	PANTHER:PTHR10906	20130807		NCBITaxon:559292
+SGD	SGD:S000002127	SBH2	PMID:18347066		GO:0006614	SRP-dependent cotranslational protein targeting to membrane	IGI	SGD:S000002128	UniProtKB:P52871	PANTHER:PTHR13509	20130807		NCBITaxon:559292
+SGD	SGD:S000001284	TIM44	PMID:18400944		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:Q01852	PANTHER:PTHR10721	20130807		NCBITaxon:559292
+SGD	SGD:S000001586	APE1	PMID:18725539		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P14904	PANTHER:PTHR28570	20180208		NCBITaxon:559292
+SGD	SGD:S000006380	BET2	PMID:1903184		GO:0006612	protein targeting to membrane	IMP		UniProtKB:P20133	PANTHER:PTHR11774	20130807		NCBITaxon:559292
+SGD	SGD:S000000174	ATG8	PMID:19398890		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P38182	PANTHER:PTHR10969	20170721		NCBITaxon:559292
+SGD	SGD:S000004460	YPT7	PMID:19793921		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P32939	PANTHER:PTHR47981	20151008		NCBITaxon:559292
+SGD	SGD:S000004409	VPS36	PMID:19793921		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q06696	PANTHER:PTHR13128	20151008		NCBITaxon:559292
+SGD	SGD:S000005562	PEP12	PMID:19793921		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P32854	PANTHER:PTHR19957	20151008		NCBITaxon:559292
+SGD	SGD:S000006075	PEP4	PMID:19793921		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P07267	PANTHER:PTHR47966	20151008		NCBITaxon:559292
+SGD	SGD:S000000335	CCZ1	PMID:19793921		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P38273	PANTHER:PTHR13056	20151008		NCBITaxon:559292
+SGD	SGD:S000003180	VAM7	PMID:19793921		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P32912	PANTHER:PTHR19957	20151008		NCBITaxon:559292
+SGD	SGD:S000002515	TRS85	PMID:19793921		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P46944		20151008		NCBITaxon:559292
+SGD	SGD:S000003092	MON1	PMID:19793921		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P53129	PANTHER:PTHR13027	20151008		NCBITaxon:559292
+SGD	SGD:S000002487	VPS41	PMID:19793921		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P38959	PANTHER:PTHR12616	20151008		NCBITaxon:559292
+SGD	SGD:S000002128	SBH1	PMID:19857245		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IMP		UniProtKB:P52870	PANTHER:PTHR13509	20130807		NCBITaxon:559292
+SGD	SGD:S000004758	IMP1	PMID:1991446		GO:0006627	protein processing involved in protein targeting to mitochondrion	IDA		UniProtKB:P28627	PANTHER:PTHR12383	20130807		NCBITaxon:559292
+SGD	SGD:S000002973	COG7	PMID:20065092		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P53195		20130807		NCBITaxon:559292
+SGD	SGD:S000004536	COG8	PMID:20065092		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q04632	PANTHER:PTHR21311	20130807		NCBITaxon:559292
+SGD	SGD:S000004996	COG5	PMID:20065092		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P53951	PANTHER:PTHR13228	20130807		NCBITaxon:559292
+SGD	SGD:S000004986	COG6	PMID:20065092		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P53959	PANTHER:PTHR21506	20130807		NCBITaxon:559292
+SGD	SGD:S000003191	COG1	PMID:20065092		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P53079		20130807		NCBITaxon:559292
+SGD	SGD:S000000959	COG3	PMID:20065092		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P40094	PANTHER:PTHR13302	20130807		NCBITaxon:559292
+SGD	SGD:S000006309	COG4	PMID:20065092		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q06096	PANTHER:PTHR24016	20130807		NCBITaxon:559292
+SGD	SGD:S000003352	COG2	PMID:20065092		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P53271		20130807		NCBITaxon:559292
+SGD	SGD:S000004153	MAS1	PMID:2007593		GO:0006627	protein processing involved in protein targeting to mitochondrion	IDA		UniProtKB:P10507	PANTHER:PTHR11851	20130807		NCBITaxon:559292
+SGD	SGD:S000000002	VPS8	PMID:20173035		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P39702	PANTHER:PTHR12616	20130807		NCBITaxon:559292
+SGD	SGD:S000002515	TRS85	PMID:20375281		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P46944		20130807		NCBITaxon:559292
+SGD	SGD:S000001856	YPT1	PMID:20375281		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P01123	PANTHER:PTHR24073	20130807		NCBITaxon:559292
+SGD	SGD:S000005443	ATG34	PMID:20639194		GO:0071211	protein targeting to vacuole involved in autophagy	IGI	SGD:S000005442	UniProtKB:Q12292		20191106	SGD:S000003124	NCBITaxon:559292
+SGD	SGD:S000005533	SGT2	PMID:20850366		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IDA		UniProtKB:Q12118	PANTHER:PTHR45831	20130807		NCBITaxon:559292
+SGD	SGD:S000005471	MDY2	PMID:20850366		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IDA		UniProtKB:Q12285		20130807		NCBITaxon:559292
+SGD	SGD:S000002258	GET3	PMID:20850366		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IDA		UniProtKB:Q12154	PANTHER:PTHR10803	20130807		NCBITaxon:559292
+SGD	SGD:S000005690	GET4	PMID:20850366		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IDA		UniProtKB:Q12125	PANTHER:PTHR12875	20130807		NCBITaxon:559292
+SGD	SGD:S000000026	FRT2	PMID:21097665		GO:0031204	post-translational protein targeting to membrane, translocation	IPI	SGD:S000000375	UniProtKB:P39734		20201119		NCBITaxon:559292
+SGD	SGD:S000005851	FRT1	PMID:21097665		GO:0031204	post-translational protein targeting to membrane, translocation	IPI	SGD:S000000375	UniProtKB:Q99332		20201119		NCBITaxon:559292
+SGD	SGD:S000001178	SPL2	PMID:21143198		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P38839		20130807		NCBITaxon:559292
+SGD	SGD:S000004871	ROY1	PMID:21389113		GO:0006623	protein targeting to vacuole	IGI	SGD:S000005615	UniProtKB:Q04847		20130807		NCBITaxon:559292
+SGD	SGD:S000000753	VMA3	PMID:2145283		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P25515	PANTHER:PTHR10263	20130807		NCBITaxon:559292
+SGD	SGD:S000005065	TOM70	PMID:2177474		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:P07213	PANTHER:PTHR46208	20130807		NCBITaxon:559292
+SGD	SGD:S000005065	TOM70	PMID:2177474		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:P07213	PANTHER:PTHR46208	20130807		NCBITaxon:559292
+SGD	SGD:S000005386	MIM1	PMID:21825073		GO:0045040	protein insertion into mitochondrial outer membrane	IMP		UniProtKB:Q08176	PANTHER:PTHR28241	20130807		NCBITaxon:559292
+SGD	SGD:S000005386	MIM1	PMID:21825074		GO:0045040	protein insertion into mitochondrial outer membrane	IMP		UniProtKB:Q08176	PANTHER:PTHR28241	20130807		NCBITaxon:559292
+SGD	SGD:S000001724	MIC60	PMID:21944719		GO:0045041	protein import into mitochondrial intermembrane space	IMP		UniProtKB:P36112	PANTHER:PTHR15415	20130807		NCBITaxon:559292
+SGD	SGD:S000001724	MIC60	PMID:21944719		GO:0045041	protein import into mitochondrial intermembrane space	IPI	SGD:S000001678	UniProtKB:P36112	PANTHER:PTHR15415	20130807		NCBITaxon:559292
+SGD	SGD:S000002903	VPS3	PMID:2202738		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P23643	PANTHER:PTHR12894	20130807		NCBITaxon:559292
+SGD	SGD:S000001624	SDH3	PMID:22152483		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:P33421	PANTHER:PTHR10978	20130807		NCBITaxon:559292
+SGD	SGD:S000007618	MIM2	PMID:22467864		GO:0045040	protein insertion into mitochondrial outer membrane	IGI	SGD:S000005386	UniProtKB:Q3E798	PANTHER:PTHR28230	20130807		NCBITaxon:559292
+SGD	SGD:S000007618	MIM2	PMID:22467864		GO:0045040	protein insertion into mitochondrial outer membrane	IPI	SGD:S000005386	UniProtKB:Q3E798	PANTHER:PTHR28230	20130807		NCBITaxon:559292
+SGD	SGD:S000007618	MIM2	PMID:22467864		GO:0045040	protein insertion into mitochondrial outer membrane	IMP		UniProtKB:Q3E798	PANTHER:PTHR28230	20130807		NCBITaxon:559292
+SGD	SGD:S000006019	MGR2	PMID:22613836		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:Q02889	PANTHER:PTHR28525	20130807		NCBITaxon:559292
+SGD	SGD:S000000956	OXA1	PMID:22846909		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:P39952	PANTHER:PTHR12428	20130807		NCBITaxon:559292
+SGD	SGD:S000000174	ATG8	PMID:22885598		GO:0071211	protein targeting to vacuole involved in autophagy	IMP		UniProtKB:P38182	PANTHER:PTHR10969	20140206		NCBITaxon:559292
+SGD	SGD:S000004831	TRS130	PMID:23078654		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q03660	PANTHER:PTHR13251	20130807		NCBITaxon:559292
+SGD	SGD:S000004080	XDJ1	PMID:23329686		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P39102	PANTHER:PTHR43888	20190322		NCBITaxon:559292
+SGD	SGD:S000001443	DJP1	PMID:23959800		GO:0045040	protein insertion into mitochondrial outer membrane	IMP		UniProtKB:P40564	PANTHER:PTHR45006	20150629		NCBITaxon:559292
+SGD	SGD:S000000335	CCZ1	PMID:23979137		GO:0044395	protein targeting to vacuolar membrane	IMP		UniProtKB:P38273	PANTHER:PTHR13056	20191106	SGD:S000004460	NCBITaxon:559292
+SGD	SGD:S000000335	CCZ1	PMID:23979137		GO:0044395	protein targeting to vacuolar membrane	IGI	SGD:S000004460	UniProtKB:P38273	PANTHER:PTHR13056	20191106	SGD:S000004460	NCBITaxon:559292
+SGD	SGD:S000000335	CCZ1	PMID:23979137		GO:0044395	protein targeting to vacuolar membrane	IGI	SGD:S000003092	UniProtKB:P38273	PANTHER:PTHR13056	20191106	SGD:S000004460	NCBITaxon:559292
+SGD	SGD:S000003092	MON1	PMID:23979137		GO:0044395	protein targeting to vacuolar membrane	IGI	SGD:S000000335	UniProtKB:P53129	PANTHER:PTHR13027	20141106		NCBITaxon:559292
+SGD	SGD:S000003092	MON1	PMID:23979137		GO:0044395	protein targeting to vacuolar membrane	IGI	SGD:S000004460	UniProtKB:P53129	PANTHER:PTHR13027	20141106		NCBITaxon:559292
+SGD	SGD:S000003092	MON1	PMID:23979137		GO:0044395	protein targeting to vacuolar membrane	IMP		UniProtKB:P53129	PANTHER:PTHR13027	20191106	SGD:S000004460	NCBITaxon:559292
+SGD	SGD:S000006125	HRR25	PMID:24968893		GO:2001159	regulation of protein localization by the Cvt pathway	IMP		UniProtKB:P29295	PANTHER:PTHR11909	20150424		NCBITaxon:559292
+SGD	SGD:S000006125	HRR25	PMID:25287303		GO:2001159	regulation of protein localization by the Cvt pathway	IMP		UniProtKB:P29295	PANTHER:PTHR11909	20151116		NCBITaxon:559292
+SGD	SGD:S000000341	YBR137W	PMID:25288638		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IGI	SGD:S000005533	UniProtKB:P38276	PANTHER:PTHR28255	20141015		NCBITaxon:559292
+SGD	SGD:S000006019	MGR2	PMID:25454944		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:Q02889	PANTHER:PTHR28525	20150305		NCBITaxon:559292
+SGD	SGD:S000000434	OM14	PMID:25487825		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:P38325	PANTHER:PTHR38402	20141215		NCBITaxon:559292
+SGD	SGD:S000001776	BET3	PMID:25581738		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P36149	PANTHER:PTHR13048	20170914	SGD:S000001586	NCBITaxon:559292
+SGD	SGD:S000002301	CRD1	PMID:26235513		GO:0006612	protein targeting to membrane	IMP		UniProtKB:Q07560	PANTHER:PTHR14269	20191106	SGD:S000004183	NCBITaxon:559292
+SGD	SGD:S000006171	ATG41	PMID:26565778		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q12048		20151117		NCBITaxon:559292
+SGD	SGD:S000003878	STE24	PMID:26771486		GO:0031204	post-translational protein targeting to membrane, translocation	IGI	SGD:S000000375	UniProtKB:P47154	PANTHER:PTHR10120	20231216		NCBITaxon:559292
+SGD	SGD:S000003878	STE24	PMID:26771486		GO:0031204	post-translational protein targeting to membrane, translocation	IMP		UniProtKB:P47154	PANTHER:PTHR10120	20231216		NCBITaxon:559292
+SGD	SGD:S000001678	MIA40	PMID:27343349		GO:0045041	protein import into mitochondrial intermembrane space	IMP		UniProtKB:P36046	PANTHER:PTHR21622	20161026	SGD:S000005027	NCBITaxon:559292
+SGD	SGD:S000001678	MIA40	PMID:27343349		GO:0045041	protein import into mitochondrial intermembrane space	IMP		UniProtKB:P36046	PANTHER:PTHR21622	20161026	SGD:S000005303	NCBITaxon:559292
+SGD	SGD:S000001678	MIA40	PMID:27343349		GO:0045041	protein import into mitochondrial intermembrane space	IMP		UniProtKB:P36046	PANTHER:PTHR21622	20161026	SGD:S000007256	NCBITaxon:559292
+SGD	SGD:S000000431	MCX1	PMID:27398316		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P38323	PANTHER:PTHR48102	20160915		NCBITaxon:559292
+SGD	SGD:S000000819	AFG3	PMID:27398316		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P39925	PANTHER:PTHR43655	20160915		NCBITaxon:559292
+SGD	SGD:S000006228	YME1	PMID:27398316		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P32795	PANTHER:PTHR23076	20160915		NCBITaxon:559292
+SGD	SGD:S000005553	STI1	PMID:27412066		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:P15705	PANTHER:PTHR22904	20160915		NCBITaxon:559292
+SGD	SGD:S000004252	YPT6	PMID:27462928		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q99260	PANTHER:PTHR24073	20211116	GO:0006995|GO:0034605	NCBITaxon:559292
+SGD	SGD:S000000368	ARL1	PMID:27462928		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P38116	PANTHER:PTHR11711	20161221		NCBITaxon:559292
+SGD	SGD:S000006389	ATG13	PMID:27768871		GO:0071211	protein targeting to vacuole involved in autophagy	IMP		UniProtKB:Q06628	PANTHER:PTHR13430	20180209	SGD:S000003148|GO:0032258	NCBITaxon:559292
+SGD	SGD:S000006389	ATG13	PMID:27768871		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q06628	PANTHER:PTHR13430	20240321		NCBITaxon:559292
+SGD	SGD:S000000310	SND3	PMID:27905431		GO:0045047	protein targeting to ER	IMP		UniProtKB:P38264	PANTHER:PTHR28112	20180321		NCBITaxon:559292
+SGD	SGD:S000001560	PSG1	PMID:28727280		GO:0006605	protein targeting	IMP		UniProtKB:P36081		20190130	SGD:S000002976	NCBITaxon:559292
+SGD	SGD:S000004040	EMA19	PMID:30213914		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:Q12155	PANTHER:PTHR31204	20200417	GO:0005783	NCBITaxon:559292
+SGD	SGD:S000001443	DJP1	PMID:30213914		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:P40564	PANTHER:PTHR45006	20200417	SGD:S000000956|GO:0042406	NCBITaxon:559292
+SGD	SGD:S000001066	MAS2	PMID:3061808		GO:0006627	protein processing involved in protein targeting to mitochondrion	IMP		UniProtKB:P11914	PANTHER:PTHR11851	20130807		NCBITaxon:559292
+SGD	SGD:S000004388	VPS33	PMID:3062374		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P20795	PANTHER:PTHR11679	20130807		NCBITaxon:559292
+SGD	SGD:S000003055	MMS2	PMID:32265276		GO:0044395	protein targeting to vacuolar membrane	IMP		UniProtKB:P53152	PANTHER:PTHR24068	20200413		NCBITaxon:559292
+SGD	SGD:S000002499	UBC13	PMID:32265276		GO:0044395	protein targeting to vacuolar membrane	IMP		UniProtKB:P52490	PANTHER:PTHR24068	20200413		NCBITaxon:559292
+SGD	SGD:S000001352	ICE2	PMID:32513868		GO:0031204	post-translational protein targeting to membrane, translocation	IMP		UniProtKB:P40499	PANTHER:PTHR31726	20200901		NCBITaxon:559292
+SGD	SGD:S000000375	SEC66	PMID:32513868		GO:0031204	post-translational protein targeting to membrane, translocation	IGI	SGD:S000003878	UniProtKB:P33754	PANTHER:PTHR28229	20200901		NCBITaxon:559292
+SGD	SGD:S000000375	SEC66	PMID:32513868		GO:0031204	post-translational protein targeting to membrane, translocation	IMP		UniProtKB:P33754	PANTHER:PTHR28229	20200901		NCBITaxon:559292
+SGD	SGD:S000004370	SEC61	PMID:32513868		GO:0031204	post-translational protein targeting to membrane, translocation	IMP		UniProtKB:P32915	PANTHER:PTHR10906	20200901		NCBITaxon:559292
+SGD	SGD:S000004283	SEC72	PMID:32513868		GO:0031204	post-translational protein targeting to membrane, translocation	IGI	SGD:S000003878	UniProtKB:P39742		20200901		NCBITaxon:559292
+SGD	SGD:S000004283	SEC72	PMID:32513868		GO:0031204	post-translational protein targeting to membrane, translocation	IMP		UniProtKB:P39742		20200901		NCBITaxon:559292
+SGD	SGD:S000002376	TIM22	PMID:32591483		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:Q12328	PANTHER:PTHR14110	20211029		NCBITaxon:559292
+SGD	SGD:S000002376	TIM22	PMID:32591483		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q12328	PANTHER:PTHR14110	20211029		NCBITaxon:559292
+SGD	SGD:S000001461	SEC11	PMID:3283143		GO:0045047	protein targeting to ER	IMP		UniProtKB:P15367	PANTHER:PTHR10806	20130807		NCBITaxon:559292
+SGD	SGD:S000218063	CPX-1676	PMID:33025734		GO:1904053	positive regulation of protein targeting to vacuole involved in autophagy	IMP				20211105	GO:0000421|SGD:S000001679	NCBITaxon:559292
+SGD	SGD:S000004040	EMA19	PMID:33596095		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:Q12155	PANTHER:PTHR31204	20210722		NCBITaxon:559292
+SGD	SGD:S000001759	HFL1	PMID:34088313		GO:0044395	protein targeting to vacuolar membrane	IMP		UniProtKB:P36142	PANTHER:PTHR23423	20210722	SGD:S000000174	NCBITaxon:559292
+SGD	SGD:S000005470	SHR5	PMID:7532279		GO:0006612	protein targeting to membrane	IMP		UniProtKB:P41912	PANTHER:PTHR13254	20130807		NCBITaxon:559292
+SGD	SGD:S000003571	KAR2	PMID:7568189		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IMP		UniProtKB:P16474	PANTHER:PTHR19375	20130807		NCBITaxon:559292
+SGD	SGD:S000003571	KAR2	PMID:7568189		GO:0031204	post-translational protein targeting to membrane, translocation	IMP		UniProtKB:P16474	PANTHER:PTHR19375	20130807		NCBITaxon:559292
+SGD	SGD:S000003679	TIM17	PMID:7600576		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P39515	PANTHER:PTHR10485	20130807		NCBITaxon:559292
+SGD	SGD:S000005300	TIM23	PMID:7600576		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P32897	PANTHER:PTHR15371	20130807		NCBITaxon:559292
+SGD	SGD:S000003063	VPS45	PMID:7628704		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P38932	PANTHER:PTHR11679	20130807		NCBITaxon:559292
+SGD	SGD:S000000301	VPS15	PMID:7721937		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P22219	PANTHER:PTHR17583	20130807		NCBITaxon:559292
+SGD	SGD:S000006015	SEC62	PMID:7758110		GO:0031204	post-translational protein targeting to membrane, translocation	IDA		UniProtKB:P21825	PANTHER:PTHR12443	20130807		NCBITaxon:559292
+SGD	SGD:S000000375	SEC66	PMID:7758110		GO:0031204	post-translational protein targeting to membrane, translocation	IDA		UniProtKB:P33754	PANTHER:PTHR28229	20191106	SGD:S000006108	NCBITaxon:559292
+SGD	SGD:S000005780	SEC63	PMID:7758110		GO:0031204	post-translational protein targeting to membrane, translocation	IDA		UniProtKB:P14906	PANTHER:PTHR24075	20130807		NCBITaxon:559292
+SGD	SGD:S000002128	SBH1	PMID:7758110		GO:0031204	post-translational protein targeting to membrane, translocation	IDA		UniProtKB:P52870	PANTHER:PTHR13509	20130807		NCBITaxon:559292
+SGD	SGD:S000002493	SSS1	PMID:7758110		GO:0031204	post-translational protein targeting to membrane, translocation	IDA		UniProtKB:P35179	PANTHER:PTHR12309	20130807		NCBITaxon:559292
+SGD	SGD:S000004370	SEC61	PMID:7758110		GO:0031204	post-translational protein targeting to membrane, translocation	IDA		UniProtKB:P32915	PANTHER:PTHR10906	20130807		NCBITaxon:559292
+SGD	SGD:S000004283	SEC72	PMID:7758110		GO:0031204	post-translational protein targeting to membrane, translocation	IDA		UniProtKB:P39742		20130807		NCBITaxon:559292
+SGD	SGD:S000000903	AST2	PMID:7822420		GO:0006612	protein targeting to membrane	IGI	SGD:S000002976	UniProtKB:P39945	PANTHER:PTHR43482	20130807		NCBITaxon:559292
+SGD	SGD:S000000165	AST1	PMID:7822420		GO:0006612	protein targeting to membrane	IGI	SGD:S000002976	UniProtKB:P35183	PANTHER:PTHR43482	20130807		NCBITaxon:559292
+SGD	SGD:S000004606	MVP1	PMID:7862158		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P40959	PANTHER:PTHR47554	20130807		NCBITaxon:559292
+SGD	SGD:S000005546	HSP10	PMID:7913473		GO:0045041	protein import into mitochondrial intermembrane space	IMP		UniProtKB:P38910	PANTHER:PTHR10772	20140819		NCBITaxon:559292
+SGD	SGD:S000003679	TIM17	PMID:7919535		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P39515	PANTHER:PTHR10485	20130807		NCBITaxon:559292
+SGD	SGD:S000006491	SCR1	PMID:7925282		GO:0045047	protein targeting to ER	IMP				20150625		NCBITaxon:559292
+SGD	SGD:S000005758	MGE1	PMID:8022808		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P38523	PANTHER:PTHR21237	20130807		NCBITaxon:559292
+SGD	SGD:S000001617	OCT1	PMID:8035833		GO:0006627	protein processing involved in protein targeting to mitochondrion	IMP		UniProtKB:P35999	PANTHER:PTHR11804	20130807		NCBITaxon:559292
+SGD	SGD:S000005065	TOM70	PMID:8132642		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P07213	PANTHER:PTHR46208	20130807		NCBITaxon:559292
+SGD	SGD:S000003314	TOM20	PMID:8132642		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P35180	PANTHER:PTHR12430	20130807		NCBITaxon:559292
+SGD	SGD:S000005037	YPT53	PMID:8163546		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P36019	PANTHER:PTHR24073	20130807		NCBITaxon:559292
+SGD	SGD:S000001722	YPT52	PMID:8163546		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P36018	PANTHER:PTHR24073	20130807		NCBITaxon:559292
+SGD	SGD:S000005615	VPS21	PMID:8163546		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P36017	PANTHER:PTHR24073	20130807		NCBITaxon:559292
+SGD	SGD:S000005897	MRS6	PMID:8183917		GO:0006612	protein targeting to membrane	IMP		UniProtKB:P32864	PANTHER:PTHR11787	20130807		NCBITaxon:559292
+SGD	SGD:S000000113	PEP1	PMID:8187177		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P32319	PANTHER:PTHR12106	20130807		NCBITaxon:559292
+SGD	SGD:S000003314	TOM20	PMID:8223428		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P35180	PANTHER:PTHR12430	20130807		NCBITaxon:559292
+SGD	SGD:S000003260	MSP1	PMID:8226973		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:P28737	PANTHER:PTHR45644	20190514		NCBITaxon:559292
+SGD	SGD:S000003568	BET4	PMID:8232541		GO:0006612	protein targeting to membrane	IMP		UniProtKB:Q00618	PANTHER:PTHR11129	20130807		NCBITaxon:559292
+SGD	SGD:S000000375	SEC66	PMID:8257795		GO:0031204	post-translational protein targeting to membrane, translocation	IMP		UniProtKB:P33754	PANTHER:PTHR28229	20191106	SGD:S000003571	NCBITaxon:559292
+SGD	SGD:S000004638	IMP2	PMID:8266095		GO:0006627	protein processing involved in protein targeting to mitochondrion	IMP		UniProtKB:P46972	PANTHER:PTHR46041	20130807		NCBITaxon:559292
+SGD	SGD:S000001709	VPS1	PMID:8299420		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P21576	PANTHER:PTHR11566	20130807		NCBITaxon:559292
+SGD	SGD:S000004563	VPS9	PMID:8628304		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P54787	PANTHER:PTHR23101	20130807		NCBITaxon:559292
+SGD	SGD:S000003758	VTH2	PMID:8636229		GO:0006623	protein targeting to vacuole	IGI	SGD:S000000113	UniProtKB:P40890	PANTHER:PTHR12106	20130807		NCBITaxon:559292
+SGD	SGD:S000005014	TOM7	PMID:8641278		GO:0045040	protein insertion into mitochondrial outer membrane	IMP		UniProtKB:P53507	PANTHER:PTHR34944	20130807		NCBITaxon:559292
+SGD	SGD:S000005014	TOM7	PMID:8641278		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P53507	PANTHER:PTHR34944	20130807		NCBITaxon:559292
+SGD	SGD:S000001556	LHS1	PMID:8654361		GO:0031204	post-translational protein targeting to membrane, translocation	IMP		UniProtKB:P36016	PANTHER:PTHR45639	20130807		NCBITaxon:559292
+SGD	SGD:S000003806	SSC1	PMID:8654364		GO:0030150	protein import into mitochondrial matrix	IDA		UniProtKB:P0CS90	PANTHER:PTHR19375	20130807		NCBITaxon:559292
+SGD	SGD:S000003770	SPC1	PMID:8663399		GO:0045047	protein targeting to ER	IPI	SGD:S000001461	UniProtKB:P46965	PANTHER:PTHR13202	20130807		NCBITaxon:559292
+SGD	SGD:S000003770	SPC1	PMID:8663399		GO:0045047	protein targeting to ER	IGI	SGD:S000001461	UniProtKB:P46965	PANTHER:PTHR13202	20130807		NCBITaxon:559292
+SGD	SGD:S000003947	SSA2	PMID:8754838		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IMP		UniProtKB:P10592	PANTHER:PTHR19375	20130807		NCBITaxon:559292
+SGD	SGD:S000000004	SSA1	PMID:8754838		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:P10591	PANTHER:PTHR19375	20130827	SGD:S000003882	NCBITaxon:559292
+SGD	SGD:S000000004	SSA1	PMID:8754838		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IDA		UniProtKB:P10591	PANTHER:PTHR19375	20130807		NCBITaxon:559292
+SGD	SGD:S000000905	SSA4	PMID:8754838		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IMP		UniProtKB:P22202	PANTHER:PTHR19375	20130807		NCBITaxon:559292
+SGD	SGD:S000000171	SSA3	PMID:8754838		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IMP		UniProtKB:P09435	PANTHER:PTHR19375	20130807		NCBITaxon:559292
+SGD	SGD:S000003963	VPS13	PMID:8887651		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:Q07878	PANTHER:PTHR16166	20130807		NCBITaxon:559292
+SGD	SGD:S000001556	LHS1	PMID:8887673		GO:0031204	post-translational protein targeting to membrane, translocation	IMP		UniProtKB:P36016	PANTHER:PTHR45639	20130807		NCBITaxon:559292
+SGD	SGD:S000000332	ATG14	PMID:8901576		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P38270		20130807		NCBITaxon:559292
+SGD	SGD:S000004519	SPC2	PMID:8910564		GO:0045047	protein targeting to ER	IMP		UniProtKB:Q04969	PANTHER:PTHR13085	20130807		NCBITaxon:559292
+SGD	SGD:S000004519	SPC2	PMID:8910564		GO:0045047	protein targeting to ER	IPI	SGD:S000001461	UniProtKB:Q04969	PANTHER:PTHR13085	20130807		NCBITaxon:559292
+SGD	SGD:S000004519	SPC2	PMID:8910564		GO:0045047	protein targeting to ER	IGI	SGD:S000001461	UniProtKB:Q04969	PANTHER:PTHR13085	20130807		NCBITaxon:559292
+SGD	SGD:S000002376	TIM22	PMID:8955274		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:Q12328	PANTHER:PTHR14110	20130807		NCBITaxon:559292
+SGD	SGD:S000005290	ATG3	PMID:9023185		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P40344	PANTHER:PTHR12866	20130807		NCBITaxon:559292
+SGD	SGD:S000006041	VPS30	PMID:9105038		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q02948	PANTHER:PTHR12768	20130807		NCBITaxon:559292
+SGD	SGD:S000004056	SPC3	PMID:9148931		GO:0045047	protein targeting to ER	IMP		UniProtKB:Q12133	PANTHER:PTHR12804	20130807		NCBITaxon:559292
+SGD	SGD:S000006433	TOM5	PMID:9217162		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:P80967	PANTHER:PTHR28188	20130807		NCBITaxon:559292
+SGD	SGD:S000004370	SEC61	PMID:9252322		GO:0031204	post-translational protein targeting to membrane, translocation	IDA		UniProtKB:P32915	PANTHER:PTHR10906	20130807		NCBITaxon:559292
+SGD	SGD:S000005966	VPS16	PMID:9362071		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:Q03308	PANTHER:PTHR12811	20130807		NCBITaxon:559292
+SGD	SGD:S000003590	TIM54	PMID:9412462		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:P47045	PANTHER:PTHR12358	20130807		NCBITaxon:559292
+SGD	SGD:S000003590	TIM54	PMID:9412462		GO:0045039	protein insertion into mitochondrial inner membrane	IGI	SGD:S000002376	UniProtKB:P47045	PANTHER:PTHR12358	20130807		NCBITaxon:559292
+SGD	SGD:S000003530	TIM10	PMID:9430585		GO:0045039	protein insertion into mitochondrial inner membrane	IMP	SGD:S000000295	UniProtKB:P87108	PANTHER:PTHR11038	20160113		NCBITaxon:559292
+SGD	SGD:S000000295	TIM12	PMID:9430585		GO:0045039	protein insertion into mitochondrial inner membrane	IMP	SGD:S000003530	UniProtKB:P32830	PANTHER:PTHR11038	20160113		NCBITaxon:559292
+SGD	SGD:S000003530	TIM10	PMID:9495346		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:P87108	PANTHER:PTHR11038	20160113	SGD:S000003530	NCBITaxon:559292
+SGD	SGD:S000000295	TIM12	PMID:9495346		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:P32830	PANTHER:PTHR11038	20160113		NCBITaxon:559292
+SGD	SGD:S000000295	TIM12	PMID:9495346		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:P32830	PANTHER:PTHR11038	20130827	SGD:S000003669	NCBITaxon:559292
+SGD	SGD:S000000295	TIM12	PMID:9495346		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:P32830	PANTHER:PTHR11038	20130827	SGD:S000002376	NCBITaxon:559292
+SGD	SGD:S000000309	VID24	PMID:9508768		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P38263	PANTHER:PTHR14534	20130807		NCBITaxon:559292
+SGD	SGD:S000000174	ATG8	PMID:9649430		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P38182	PANTHER:PTHR10969	20130807		NCBITaxon:559292
+SGD	SGD:S000001637	SRP102	PMID:9679135		GO:0045047	protein targeting to ER	IMP		UniProtKB:P36057	PANTHER:PTHR11485	20130807		NCBITaxon:559292
+SGD	SGD:S000006041	VPS30	PMID:9712845		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:Q02948	PANTHER:PTHR12768	20130807		NCBITaxon:559292
+SGD	SGD:S000000421	ATG12	PMID:9759731		GO:0032258	cytoplasm to vacuole targeting by the Cvt pathway	IMP		UniProtKB:P38316	PANTHER:PTHR13385	20130807		NCBITaxon:559292
+SGD	SGD:S000005075	TOM22	PMID:9774667		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P49334	PANTHER:PTHR12504	20130807		NCBITaxon:559292
+SGD	SGD:S000005571	TOM6	PMID:9774667		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P33448		20130807		NCBITaxon:559292
+SGD	SGD:S000003314	TOM20	PMID:9774667		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:P35180	PANTHER:PTHR12430	20130807		NCBITaxon:559292
+SGD	SGD:S000007256	TIM9	PMID:9822593		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:O74700	PANTHER:PTHR13172	20130807		NCBITaxon:559292
+SGD	SGD:S000007256	TIM9	PMID:9822593		GO:0045039	protein insertion into mitochondrial inner membrane	IGI	SGD:S000003530	UniProtKB:O74700	PANTHER:PTHR13172	20130807		NCBITaxon:559292
+SGD	SGD:S000004370	SEC61	PMID:9843581		GO:0031204	post-translational protein targeting to membrane, translocation	IMP		UniProtKB:P32915	PANTHER:PTHR10906	20130807		NCBITaxon:559292
+SGD	SGD:S000007256	TIM9	PMID:9889188		GO:0045039	protein insertion into mitochondrial inner membrane	IMP		UniProtKB:O74700	PANTHER:PTHR13172	20130807		NCBITaxon:559292
+SGD	SGD:S000000494	BSD2	PMID:9988727		GO:0006623	protein targeting to vacuole	IMP		UniProtKB:P38356	PANTHER:PTHR13396	20130807		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT4G02510	TOC159	PMID:10646606|TAIR:Publication:796		GO:0045036	protein targeting to chloroplast	IDA		TAIR:locus:2132298		20030321		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G16620	TOC120	PMID:10646606|TAIR:Publication:796		GO:0045036	protein targeting to chloroplast	IDA		TAIR:locus:2089348		20021010		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G16640	TOC132	PMID:10646606|TAIR:Publication:796		GO:0045036	protein targeting to chloroplast	IGI		TAIR:locus:2059929		20050516		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G62810	PEX14	PMID:11060021|TAIR:Publication:5914		GO:0006625	protein targeting to peroxisome	TAS		TAIR:locus:2170688		20060509		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G27390	TOM20-2	PMID:11161051|TAIR:Publication:501679384		GO:0006626	protein targeting to mitochondrion	TAS		TAIR:locus:2015904		20030226		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G27080	TOM20-3	PMID:11161051|TAIR:Publication:501679384		GO:0006626	protein targeting to mitochondrion	TAS		TAIR:locus:2092045		20030226		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G27070	TOM20-1	PMID:11161051|TAIR:Publication:501679384		GO:0006626	protein targeting to mitochondrion	TAS		TAIR:locus:2092035		20030226		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G40930	TOM20-4	PMID:11161051|TAIR:Publication:501679384		GO:0006626	protein targeting to mitochondrion	TAS		TAIR:locus:2167737		20030226		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G57180	CIA2	PMID:11549763|TAIR:Publication:501683656		GO:0045036	protein targeting to chloroplast	IMP		TAIR:locus:2175564		20040505		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G20510	TIM44-1	PMID:12692332|TAIR:Publication:501705853		GO:0006626	protein targeting to mitochondrion	TAS		TAIR:locus:2054759		20040220		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G17530	TIM23-1	PMID:12692332|TAIR:Publication:501705853		GO:0006626	protein targeting to mitochondrion	TAS		TAIR:locus:2007893		20040220		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G36070	TIM44-2	PMID:12692332|TAIR:Publication:501705853		GO:0006626	protein targeting to mitochondrion	TAS		TAIR:locus:2039195		20040220		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G09080	TOC75-IV	PMID:12951325|TAIR:Publication:501710636		GO:0045036	protein targeting to chloroplast	IDA		TAIR:locus:2122328		20051130		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G46740	TOC75-III	PMID:12951325|TAIR:Publication:501710636		GO:0045036	protein targeting to chloroplast	IDA		TAIR:locus:2102767		20051130		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G56290	PEX5	PMID:15548601|TAIR:Publication:501714612		GO:0006625	protein targeting to peroxisome	IGI	AGI_LocusCode:AT1G29260	TAIR:locus:2177606		20080822		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G29260	PEX7	PMID:15548601|TAIR:Publication:501714612		GO:0006625	protein targeting to peroxisome	IMP		TAIR:locus:2029939		20060508		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G55500	XYLT	PMID:15686448|TAIR:Publication:501714594		GO:0031204	post-translational protein targeting to membrane, translocation	IDA		TAIR:locus:2173892		20060109		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G37410	TIM17-2	PMID:15722347|TAIR:Publication:501714720		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		TAIR:locus:2049771		20050515		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G02510	TOC159	PMID:15842619|TAIR:Publication:501715192		GO:0045036	protein targeting to chloroplast	IMP		TAIR:locus:2132298		20050927		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G09070	SRC2	PMID:16227454|TAIR:Publication:501717903		GO:0006623	protein targeting to vacuole	TAS		TAIR:locus:2036004		20060613		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G11710	EPS1	PMID:16905657|TAIR:Publication:501719753		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2181920		20061114		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G47700	MAG2	PMID:17194767|TAIR:Publication:501720503		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2100327		20070309		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G52850	VSR1	PMID:17293568|TAIR:Publication:501720990		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2085136		20070306		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G35870	OSCA4.1	PMID:17293568|TAIR:Publication:501720990		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2125394		20070306		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G26890	GRV2	PMID:17293568|TAIR:Publication:501720990		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2039543		20070306		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G26670	VTI1B	PMID:17360696|TAIR:Publication:501721097		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2200595		20070529		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G39510	SGR4	PMID:17360696|TAIR:Publication:501721097		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2175733		20070529		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G11820	SYP121	PMID:17662029|TAIR:Publication:501722658		GO:0006612	protein targeting to membrane	IDA		TAIR:locus:2081476		20071212		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G16830	SYP21	PMID:17662029|TAIR:Publication:501722658		GO:0006623	protein targeting to vacuole	IDA		TAIR:locus:2148960		20071212		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G52400	SYP122	PMID:17662029|TAIR:Publication:501722658		GO:0006612	protein targeting to membrane	IDA		TAIR:locus:2079894		20071212		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G09740	SYP71	PMID:17662029|TAIR:Publication:501722658		GO:0006612	protein targeting to membrane	IDA		TAIR:locus:2075054		20071212		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G27390	TOM20-2	PMID:17981999|TAIR:Publication:501723639		GO:0006626	protein targeting to mitochondrion	IMP		TAIR:locus:2015904		20080205		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G27080	TOM20-3	PMID:17981999|TAIR:Publication:501723639		GO:0006626	protein targeting to mitochondrion	IMP		TAIR:locus:2092045		20080205		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G19080	AT2G19080	PMID:17981999|TAIR:Publication:501723639		GO:0006626	protein targeting to mitochondrion	IMP		TAIR:locus:2059024		20080205		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G40930	TOM20-4	PMID:17981999|TAIR:Publication:501723639		GO:0006626	protein targeting to mitochondrion	IMP		TAIR:locus:2167737		20080205		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G09420	TOC64-V	PMID:17981999|TAIR:Publication:501723639		GO:0006626	protein targeting to mitochondrion	IMP		TAIR:locus:2184757		20080205		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G03840	TFL1	PMID:18003908|TAIR:Publication:501723561		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2150595		20080124		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G35450	AKR2	PMID:18193034|TAIR:Publication:501723949		GO:0045036	protein targeting to chloroplast	IDA		TAIR:locus:2117607		20080214		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G35450	AKR2	PMID:18193034|TAIR:Publication:501723949		GO:0045036	protein targeting to chloroplast	IMP		TAIR:locus:2117607		20080214		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G05000	TOC34	PMID:18487635|TAIR:Publication:501732506		GO:0045036	protein targeting to chloroplast	TAS		TAIR:locus:2175259		20100325		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G54300	VAMP727	PMID:18984676|TAIR:Publication:501729193		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2080340		20081208		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G06140	SNX1	PMID:19004783|TAIR:Publication:501729143		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2152850		20081215		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G47810	MAG1	PMID:19004783|TAIR:Publication:501729143		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2100362		20081215		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G08190	VPS41	PMID:19884248|TAIR:Publication:501735526		GO:0006623	protein targeting to vacuole	TAS		TAIR:locus:2200008		20100202		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G56590	ZIP4	PMID:19884248|TAIR:Publication:501735526		GO:0006623	protein targeting to vacuole	IGI	TAIR:locus:2175733	TAIR:locus:2027564		20100730		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G24820	TIC55-II	PMID:19995737|TAIR:Publication:501735750		GO:0045036	protein targeting to chloroplast	IMP		TAIR:locus:2047329		20100126		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G24280	cpHsc70-1	PMID:20484004|TAIR:Publication:501737897		GO:0045036	protein targeting to chloroplast	IMP		TAIR:locus:2135897		20100604		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G49910	cpHsc70-2	PMID:20484004|TAIR:Publication:501737897		GO:0045036	protein targeting to chloroplast	IMP		TAIR:locus:2158834		20100604		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G50920	CLPC1	PMID:20484004|TAIR:Publication:501737897		GO:0045036	protein targeting to chloroplast	IMP		TAIR:locus:2157383		20100604		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G52850	VSR1	PMID:20807215|TAIR:Publication:501739830		GO:0006623	protein targeting to vacuole	IGI	AGI_LocusCode:At2g14720	TAIR:locus:2085136		20100922		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G14740	VSR3	PMID:20807215|TAIR:Publication:501739830		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2046911		20100922		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G14720	VSR4	PMID:20807215|TAIR:Publication:501739830		GO:0006623	protein targeting to vacuole	IGI	AGI_LocusCode:AT3G52850	TAIR:locus:2046931		20100922		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G23395	MIA40	PMID:20829360|TAIR:Publication:501739931		GO:0006625	protein targeting to peroxisome	IMP		TAIR:locus:504956369		20101203		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G23395	MIA40	PMID:20829360|TAIR:Publication:501739931		GO:0006626	protein targeting to mitochondrion	IMP		TAIR:locus:504956369		20101203		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G20300	Toc90	PMID:21220583|TAIR:Publication:501741374		GO:0045036	protein targeting to chloroplast	IMP		TAIR:locus:2149204		20110503		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G53720	CHX20	PMID:21795714|TAIR:Publication:501743375		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2084370		20111017		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G23700	CHX17	PMID:21795714|TAIR:Publication:501743375		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2128484		20111017		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G45980	ATI1	PMID:25281689|TAIR:Publication:501761803		GO:0071211	protein targeting to vacuole involved in autophagy	IPI	AGI_LocusCode:At4g16520	TAIR:locus:2062922		20141117		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G18525	gfs12	PMID:25618824|TAIR:Publication:501762719		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:1006230455		20150303		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G13900	PAP2	PMID:26304849|TAIR:Publication:501765985		GO:0006626	protein targeting to mitochondrion	IDA		TAIR:locus:2014839		20151113		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G13900	PAP2	PMID:26304849|TAIR:Publication:501765985		GO:0006626	protein targeting to mitochondrion	IMP		TAIR:locus:2014839		20151113		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G13900	PAP2	PMID:26304849|TAIR:Publication:501765985		GO:0045040	protein insertion into mitochondrial outer membrane	IDA		TAIR:locus:2014839		20151113		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G17550	PEX19-2	PMID:26824478|TAIR:Publication:501768041		GO:0006625	protein targeting to peroxisome	IGI	AGI_LocusCode:AT3G07560	TAIR:locus:2151386		20160209		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G32760	VPS38	PMID:29184027|TAIR:Publication:501777869		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2046362		20180122		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G51780	BAG4	PMID:31451552|TAIR:Publication:501786329		GO:0006612	protein targeting to membrane	IMP		TAIR:locus:2074353		20191003		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G24690	NBR1	PMID:32759269|TAIR:Publication:501790787		GO:0071211	protein targeting to vacuole involved in autophagy	IMP		TAIR:locus:2121899		20200825		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G23170	PRP	PMID:37301985|TAIR:Publication:501803653		GO:0006626	protein targeting to mitochondrion	IDA		TAIR:locus:2086228		20230626		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G10370	DRIF1	PMID:37647529|TAIR:Publication:501804686		GO:0006605	protein targeting	IGI	AGI_LocusCode:AT1G20110	TAIR:locus:2142459		20230908		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G24090	PRPL35	PMID:39298532|TAIR:Publication:501809570		GO:0045036	protein targeting to chloroplast	IDA		TAIR:locus:2061441		20240927		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G62030	ROC4	PMID:8132503|TAIR:Publication:4912	not	GO:0045036	protein targeting to chloroplast	IDA		TAIR:locus:2079507		20030326		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G05000	TOC34	PMID:9756470|TAIR:Publication:2151		GO:0045036	protein targeting to chloroplast	TAS		TAIR:locus:2175259		20030226		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G02280	TOC33	PMID:9756470|TAIR:Publication:2151		GO:0045036	protein targeting to chloroplast	TAS		TAIR:locus:2204923		20060510		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT2G34940	VSR5	PMID:10561538|TAIR:Publication:1008		GO:0006623	protein targeting to vacuole	TAS		TAIR:locus:2044782		20030417		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT2G14740	VSR3	PMID:10561538|TAIR:Publication:1008		GO:0006623	protein targeting to vacuole	TAS		TAIR:locus:2046911		20030512		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT5G62050	OXA1	PMID:10636840|TAIR:Publication:823		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		TAIR:locus:2174068		20030417		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT2G46470	OXA1L	PMID:10636840|TAIR:Publication:823		GO:0045039	protein insertion into mitochondrial inner membrane	TAS		TAIR:locus:2039134		20030417		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT3G52850	VSR1	PMID:10871276|TAIR:Publication:293		GO:0006623	protein targeting to vacuole	TAS		TAIR:locus:2085136		20030417		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT4G20110	VSR7	PMID:10871276|TAIR:Publication:293		GO:0006623	protein targeting to vacuole	TAS		TAIR:locus:2119792		20030512		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT1G30900	VSR6	PMID:10871276|TAIR:Publication:293		GO:0006623	protein targeting to vacuole	TAS		TAIR:locus:2015726		20030417		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT2G14720	VSR4	PMID:10871276|TAIR:Publication:293		GO:0006623	protein targeting to vacuole	TAS		TAIR:locus:2046931		20030417		NCBITaxon:3702
+TIGR	AGI_LocusCode:AT2G30290	VSR2	PMID:10871276|TAIR:Publication:293		GO:0006623	protein targeting to vacuole	TAS		TAIR:locus:2065724		20030417		NCBITaxon:3702
+UniProt	UniProtKB:O00560	SDCBP	PMID:10230395		GO:0006612	protein targeting to membrane	NAS		UniProtKB:O00560	PANTHER:PTHR12345	20021010		NCBITaxon:9606
+UniProt	UniProtKB:Q13023	AKAP6	PMID:10413680		GO:0006605	protein targeting	NAS		UniProtKB:Q13023	PANTHER:PTHR14514	20010809		NCBITaxon:9606
+UniProt	UniProtKB:Q9UJ83	HACL1	PMID:10468558		GO:0006625	protein targeting to peroxisome	IMP		UniProtKB:Q9UJ83	PANTHER:PTHR43710	20200116		NCBITaxon:9606
+UniProt	FB:FBgn0000257	car	PMID:10549280|FB:FBrf0112034		GO:0006622	protein targeting to lysosome	IMP			PANTHER:PTHR11679	20040527		NCBITaxon:7227
+UniProt	FB:FBgn0000482	dor	PMID:10549280|FB:FBrf0112034		GO:0006622	protein targeting to lysosome	IMP			PANTHER:PTHR23323	20040527		NCBITaxon:7227
+UniProt	UniProtKB:P62072	TIMM10	PMID:10552927		GO:0006626	protein targeting to mitochondrion	TAS		UniProtKB:P62072	PANTHER:PTHR11038	20051108		NCBITaxon:9606
+UniProt	UniProtKB:Q9NSC5	HOMER3	PMID:10653696		GO:0006605	protein targeting	TAS		UniProtKB:Q9NSC5	PANTHER:PTHR10918	20050308		NCBITaxon:9606
+UniProt	UniProtKB:Q9UL54	TAOK2	PMID:10660600		GO:0006612	protein targeting to membrane	NAS		UniProtKB:Q9UL54	PANTHER:PTHR47167	20031216		NCBITaxon:9606
+UniProt	UniProtKB:P40855	PEX19	PMID:10704444		GO:0006625	protein targeting to peroxisome	IMP		UniProtKB:P40855	PANTHER:PTHR12774	20050608		NCBITaxon:9606
+UniProt	UniProtKB:Q9BVA0	KATNB1	PMID:10751153		GO:0006605	protein targeting	NAS		UniProtKB:Q9BVA0	PANTHER:PTHR19845	20050928		NCBITaxon:9606
+UniProt	UniProtKB:Q9NQT8	KIF13B	PMID:10859302		GO:0006605	protein targeting	TAS		UniProtKB:Q9NQT8	PANTHER:PTHR24115	20031118		NCBITaxon:9606
+UniProt	RGD:1303022	Tomm40	PMID:10980201|RGD:1303948		GO:0006626	protein targeting to mitochondrion	IDA			PANTHER:PTHR10802	20090505		NCBITaxon:10116
+UniProt	UniProtKB:P01112	HRAS	PMID:11022048		GO:0090314	positive regulation of protein targeting to membrane	IMP		UniProtKB:P01112	PANTHER:PTHR24070	20180410		NCBITaxon:9606
+UniProt	UniProtKB:P29590	PML	PMID:11080164		GO:0006605	protein targeting	IDA		UniProtKB:P29590-5	PANTHER:PTHR25462	20060112		NCBITaxon:9606
+UniProt	WB:WBGene00003830	num-1	PMID:11134024|WB_REF:WBPaper00004638		GO:0006612	protein targeting to membrane	IDA			PANTHER:PTHR11232	20040810		NCBITaxon:6239
+UniProt	UniProtKB:O00189	AP4M1	PMID:11139587		GO:0006622	protein targeting to lysosome	IDA		UniProtKB:O00189	PANTHER:PTHR10529	20170906		NCBITaxon:9606
+UniProt	UniProtKB:O95140	MFN2	PMID:11181170		GO:0006626	protein targeting to mitochondrion	IDA		UniProtKB:O95140	PANTHER:PTHR10465	20051026		NCBITaxon:9606
+UniProt	UniProtKB:P41743	PRKCI	PMID:11257119		GO:0006612	protein targeting to membrane	NAS		UniProtKB:P41743	PANTHER:PTHR24356	20061127		NCBITaxon:9606
+UniProt	UniProtKB:O43933	PEX1	PMID:11439091		GO:0006625	protein targeting to peroxisome	IMP		UniProtKB:O43933	PANTHER:PTHR23077	20070911		NCBITaxon:9606
+UniProt	UniProtKB:Q7Z3T8	ZFYVE16	PMID:11546807		GO:0006622	protein targeting to lysosome	IMP		UniProtKB:Q7Z3T8	PANTHER:PTHR46319	20050308		NCBITaxon:9606
+UniProt	UniProtKB:P11142	HSPA8	PMID:11559757		GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	IDA		UniProtKB:P11142	PANTHER:PTHR19375	20230119		NCBITaxon:9606
+UniProt	UniProtKB:Q6P4F1	FUT10	PMID:11698403		GO:0006605	protein targeting	NAS		UniProtKB:Q6P4F1	PANTHER:PTHR11929	20070906		NCBITaxon:9606
+UniProt	UniProtKB:E2RED8	AP4M1	PMID:11802162		GO:0006605	protein targeting	IDA		UniProtKB:E2RED8	PANTHER:PTHR10529	20170908		NCBITaxon:9615
+UniProt	UniProtKB:O14713	ITGB1BP1	PMID:11807099		GO:0090315	negative regulation of protein targeting to membrane	IDA		UniProtKB:O14713	PANTHER:PTHR32055	20130422		NCBITaxon:9606
+UniProt	UniProtKB:O00623	PEX12	PMID:12096124		GO:0006625	protein targeting to peroxisome	NAS		UniProtKB:O00623	PANTHER:PTHR12888	20050715		NCBITaxon:9606
+UniProt	MGI:MGI:96748	Lamp2	PMID:12221139		GO:0006605	protein targeting	IMP			PANTHER:PTHR11506	20161214		NCBITaxon:10090
+UniProt	UniProtKB:P14598	NCF1	PMID:12356722		GO:0006612	protein targeting to membrane	IDA		UniProtKB:P14598	PANTHER:PTHR15706	20100630		NCBITaxon:9606
+UniProt	RGD:620915	Trak2	PMID:12435728|RGD:632248		GO:0006605	protein targeting	IDA			PANTHER:PTHR15751	20030815		NCBITaxon:10116
+UniProt	UniProtKB:Q9BT40	INPP5K	PMID:12556481		GO:0090315	negative regulation of protein targeting to membrane	IDA		UniProtKB:Q9BT40	PANTHER:PTHR11200	20111017		NCBITaxon:9606
+UniProt	UniProtKB:Q9NQG7	HPS4	PMID:12663659		GO:0006605	protein targeting	IDA		UniProtKB:Q9NQG7	PANTHER:PTHR14407	20030807		NCBITaxon:9606
+UniProt	RGD:621791	Exoc4	PMID:12738960|RGD:8554028		GO:0006612	protein targeting to membrane	IMP			PANTHER:PTHR14146	20060509		NCBITaxon:10116
+UniProt	UniProtKB:P57768	SNX16	PMID:12813048		GO:0006622	protein targeting to lysosome	IMP		UniProtKB:P57768	PANTHER:PTHR22999	20110209		NCBITaxon:9606
+UniProt	RGD:2954	Kcnb1	PMID:12954870|RGD:10047250		GO:0090314	positive regulation of protein targeting to membrane	IDA			PANTHER:PTHR11537	20150421		NCBITaxon:10116
+UniProt	MGI:MGI:1335106	Pikfyve	PMID:14530284		GO:0006612	protein targeting to membrane	IDA			PANTHER:PTHR46715	20200619		NCBITaxon:10090
+UniProt	UniProtKB:P62913	RPL11	PMID:15195100		GO:0006605	protein targeting	IMP		UniProtKB:P62913	PANTHER:PTHR11994	20070209		NCBITaxon:9606
+UniProt	UniProtKB:P29590	PML	PMID:15195100		GO:0006605	protein targeting	IMP		UniProtKB:P29590-5	PANTHER:PTHR25462	20070209		NCBITaxon:9606
+UniProt	RGD:1303022	Tomm40	PMID:15347672|RGD:8554396		GO:0006626	protein targeting to mitochondrion	IMP			PANTHER:PTHR10802	20090505		NCBITaxon:10116
+UniProt	UniProtKB:O96008	TOMM40	PMID:15644312		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:O96008	PANTHER:PTHR10802	20250219		NCBITaxon:9606
+UniProt	UniProtKB:Q8TB36	GDAP1	PMID:15772096		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:Q8TB36	PANTHER:PTHR44188	20120608		NCBITaxon:9606
+UniProt	UniProtKB:Q96DA6	DNAJC19	PMID:16055927		GO:0006626	protein targeting to mitochondrion	NAS		UniProtKB:Q96DA6	PANTHER:PTHR12763	20090505		NCBITaxon:9606
+UniProt	MGI:MGI:1928901	Pdzk1	PMID:16141316		GO:0090314	positive regulation of protein targeting to membrane	IMP			PANTHER:PTHR14191	20130620		NCBITaxon:10090
+UniProt	UniProtKB:Q92673	SORL1	PMID:16174740		GO:0006605	protein targeting	IMP		UniProtKB:Q92673	PANTHER:PTHR12106	20130823		NCBITaxon:9606
+UniProt	UniProtKB:Q8N4Q1	CHCHD4	PMID:16185709		GO:0160203	mitochondrial disulfide relay system	IMP		UniProtKB:Q8N4Q1	PANTHER:PTHR21622	20241030		NCBITaxon:9606
+UniProt	UniProtKB:P40855	PEX19	PMID:16344115		GO:0006625	protein targeting to peroxisome	IDA		UniProtKB:P40855	PANTHER:PTHR12774	20120305	UniProtKB:P28288	NCBITaxon:9606
+UniProt	UniProtKB:P61010	SRP54	PMID:16469117		GO:0006617	SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	IMP		UniProtKB:P61010	PANTHER:PTHR11564	20090629		NCBITaxon:9615
+UniProt	UniProtKB:P61010	SRP54	PMID:16469117		GO:0045047	protein targeting to ER	IMP		UniProtKB:P61010	PANTHER:PTHR11564	20090629		NCBITaxon:9615
+UniProt	RGD:708558	Nol3	PMID:16639714|RGD:10047164		GO:1903215	negative regulation of protein targeting to mitochondrion	IDA			PANTHER:PTHR22797	20150115		NCBITaxon:10116
+UniProt	MGI:MGI:1306802	Itgb1bp1	PMID:16741948		GO:0090314	positive regulation of protein targeting to membrane	IDA			PANTHER:PTHR32055	20130422		NCBITaxon:10090
+UniProt	UniProtKB:P40855	PEX19	PMID:16763195		GO:0006625	protein targeting to peroxisome	IDA		UniProtKB:P40855	PANTHER:PTHR12774	20120302	UniProtKB:Q7Z412	NCBITaxon:9606
+UniProt	UniProtKB:O43933	PEX1	PMID:16854980		GO:0006625	protein targeting to peroxisome	IMP		UniProtKB:O43933	PANTHER:PTHR23077	20070911		NCBITaxon:9606
+UniProt	UniProtKB:Q13608	PEX6	PMID:16854980		GO:0006625	protein targeting to peroxisome	IMP		UniProtKB:Q13608	PANTHER:PTHR23077	20070911		NCBITaxon:9606
+UniProt	UniProtKB:Q8IWJ2	GCC2	PMID:16885419		GO:0006622	protein targeting to lysosome	IMP		UniProtKB:Q8IWJ2	PANTHER:PTHR18902	20101007		NCBITaxon:9606
+UniProt	UniProtKB:Q9UN37	VPS4A	PMID:16973552		GO:0006622	protein targeting to lysosome	IMP		UniProtKB:Q9UN37	PANTHER:PTHR23074	20170530	UniProtKB:Q9BRG1|UniProtKB:Q99816|UniProtKB:Q96FZ7	NCBITaxon:9606
+UniProt	AGI_LocusCode:AT2G26890	GRV2	PMID:17259264|TAIR:Publication:501720684		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2039543		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT3G61710	ATG6	PMID:17259285|TAIR:Publication:501720680		GO:0006623	protein targeting to vacuole	IGI	UniProtKB:Q02948	TAIR:locus:2076715		20210331		NCBITaxon:3702
+UniProt	UniProtKB:Q5ZM44	CHP1	PMID:17392381		GO:0090314	positive regulation of protein targeting to membrane	IDA		UniProtKB:Q5ZM44	PANTHER:PTHR46002	20120606		NCBITaxon:9031
+UniProt	MGI:MGI:3582052	Slc51b	PMID:17650074		GO:0090314	positive regulation of protein targeting to membrane	IDA			PANTHER:PTHR36129	20120815		NCBITaxon:10090
+UniProt	MGI:MGI:1306802	Itgb1bp1	PMID:17654484		GO:0090314	positive regulation of protein targeting to membrane	IDA			PANTHER:PTHR32055	20130419		NCBITaxon:10090
+UniProt	UniProtKB:P37108	SRP14	PMID:18089836		GO:0045047	protein targeting to ER	IMP		UniProtKB:P37108	PANTHER:PTHR12013	20090629		NCBITaxon:9606
+UniProt	UniProtKB:P61011	SRP54	PMID:18089836		GO:0045047	protein targeting to ER	IMP		UniProtKB:P61011	PANTHER:PTHR11564	20090629		NCBITaxon:9606
+UniProt	UniProtKB:Q86WA8	LONP2	PMID:18281296		GO:0006625	protein targeting to peroxisome	IMP		UniProtKB:Q86WA8	PANTHER:PTHR10046	20140521	UniProtKB:P04040	NCBITaxon:9606
+UniProt	MGI:MGI:1337130	Ap4b1	PMID:18341993		GO:0006605	protein targeting	IMP			PANTHER:PTHR11134	20170908		NCBITaxon:10090
+UniProt	MGI:MGI:1337063	Ap4m1	PMID:18341993		GO:0006605	protein targeting	IMP			PANTHER:PTHR10529	20170908		NCBITaxon:10090
+UniProt	MGI:MGI:1859165	Cacng3	PMID:18341993		GO:0006605	protein targeting	IMP			PANTHER:PTHR12107	20170908		NCBITaxon:10090
+UniProt	UniProtKB:P38377	SEC61A1	PMID:18480044		GO:0045047	protein targeting to ER	IDA		UniProtKB:P38377	PANTHER:PTHR10906	20090910		NCBITaxon:9615
+UniProt	MGI:MGI:99670	Dmtn	PMID:18505823		GO:0090315	negative regulation of protein targeting to membrane	IMP			PANTHER:PTHR24213	20130524		NCBITaxon:10090
+UniProt	RGD:620374	Pard3	PMID:18550519|RGD:8554471		GO:0006612	protein targeting to membrane	IDA			PANTHER:PTHR16484	20100326		NCBITaxon:10116
+UniProt	UniProtKB:O14964	HGS	PMID:18767904		GO:0006622	protein targeting to lysosome	IMP		UniProtKB:O14964	PANTHER:PTHR46275	20140814		NCBITaxon:9606
+UniProt	UniProtKB:Q96MV8	ZDHHC15	PMID:18817523		GO:0140450	protein targeting to Golgi apparatus	IMP		UniProtKB:Q96MV8	PANTHER:PTHR22883	20200420		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y3D6	FIS1	PMID:18845145		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:Q9Y3D6	PANTHER:PTHR13247	20121023	UniProtKB:O00429	NCBITaxon:9606
+UniProt	UniProtKB:Q14721	KCNB1	PMID:19074135		GO:0090314	positive regulation of protein targeting to membrane	IDA		UniProtKB:Q14721	PANTHER:PTHR11537	20150422		NCBITaxon:9606
+UniProt	UniProtKB:P40855	PEX19	PMID:19114594		GO:0006625	protein targeting to peroxisome	IMP		UniProtKB:P40855	PANTHER:PTHR12774	20121031	UniProtKB:Q9JJK4	NCBITaxon:9606
+UniProt	UniProtKB:Q6R6M4	USP17L2	PMID:19188362		GO:0090315	negative regulation of protein targeting to membrane	IMP		UniProtKB:Q6R6M4	PANTHER:PTHR24006	20121121		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT2G45140	PVA12	PMID:19207211|TAIR:Publication:501729883		GO:0006605	protein targeting	IDA		TAIR:locus:2055557		20210331		NCBITaxon:3702
+UniProt	RGD:708467	Tomm20	PMID:19401463|RGD:13838795		GO:0006626	protein targeting to mitochondrion	IMP			PANTHER:PTHR12430	20190108		NCBITaxon:10116
+UniProt	RGD:1303260	Tomm22	PMID:19401463|RGD:13838795		GO:0006626	protein targeting to mitochondrion	IMP			PANTHER:PTHR12504	20190108		NCBITaxon:10116
+UniProt	RGD:1303049	Tomm70	PMID:19401463|RGD:13838795		GO:0006626	protein targeting to mitochondrion	IMP			PANTHER:PTHR46208	20190108		NCBITaxon:10116
+UniProt	RGD:1303022	Tomm40	PMID:19401463|RGD:13838795		GO:0006626	protein targeting to mitochondrion	IMP			PANTHER:PTHR10802	20190108		NCBITaxon:10116
+UniProt	MGI:MGI:1914999	Mgarp	PMID:19528298		GO:0006626	protein targeting to mitochondrion	IDA			PANTHER:PTHR22910	20120509		NCBITaxon:10090
+UniProt	UniProtKB:Q99828	CIB1	PMID:19854831		GO:0090314	positive regulation of protein targeting to membrane	IMP		UniProtKB:Q99828	PANTHER:PTHR45791	20140110		NCBITaxon:9606
+UniProt	UniProtKB:Q8N3F8	MICALL1	PMID:19864458		GO:0006612	protein targeting to membrane	IMP		UniProtKB:Q8N3F8	PANTHER:PTHR23167	20130925		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT5G61010	EXO70E2	PMID:19895414|TAIR:Publication:501735496		GO:1903533	regulation of protein targeting	IDA		TAIR:locus:2159386		20210331		NCBITaxon:3702
+UniProt	UniProtKB:Q3T906	GNPTAB	PMID:19938078		GO:0016256	N-glycan processing to lysosome	IMP		UniProtKB:Q3T906	PANTHER:PTHR24045	20150305		NCBITaxon:9606
+UniProt	UniProtKB:P04626	ERBB2	PMID:20010870		GO:0090314	positive regulation of protein targeting to membrane	IDA		UniProtKB:P04626	PANTHER:PTHR24416	20150806		NCBITaxon:9606
+UniProt	UniProtKB:O95831	AIFM1	PMID:20111043		GO:0160203	mitochondrial disulfide relay system	IMP		UniProtKB:O95831-1	PANTHER:PTHR43557	20241121		NCBITaxon:9606
+UniProt	UniProtKB:O95831	AIFM1	PMID:20111043		GO:0160203	mitochondrial disulfide relay system	IMP		UniProtKB:O95831-3	PANTHER:PTHR43557	20241121		NCBITaxon:9606
+UniProt	UniProtKB:C4AMC7	WASH3P	PMID:20175130		GO:0006622	protein targeting to lysosome	IMP		UniProtKB:C4AMC7	PANTHER:PTHR23331	20141208		NCBITaxon:9606
+UniProt	UniProtKB:O00189	AP4M1	PMID:20230749		GO:0006605	protein targeting	IDA		UniProtKB:O00189	PANTHER:PTHR10529	20170906		NCBITaxon:9606
+UniProt	UniProtKB:Q0IIM2	ARL6	PMID:20603001		GO:0006612	protein targeting to membrane	IDA		UniProtKB:Q0IIM2	PANTHER:PTHR11711	20110411		NCBITaxon:9913
+UniProt	UniProtKB:Q2TVY7	vps10	PMID:20622126		GO:0006623	protein targeting to vacuole	IMP				20110304		NCBITaxon:510516
+UniProt	UniProtKB:Q8N4Q1	CHCHD4	PMID:21059946		GO:0160203	mitochondrial disulfide relay system	IMP		UniProtKB:Q8N4Q1	PANTHER:PTHR21622	20241029		NCBITaxon:9606
+UniProt	UniProtKB:Q9GZY8	MFF	PMID:21149567		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:Q9GZY8	PANTHER:PTHR16501	20130606	UniProtKB:O00429|GO:0000266	NCBITaxon:9606
+UniProt	UniProtKB:P50542	PEX5	PMID:21375735		GO:0006625	protein targeting to peroxisome	IDA		UniProtKB:P50542-1	PANTHER:PTHR10130	20120702	UniProtKB:P22307	NCBITaxon:9606
+UniProt	UniProtKB:P55789	GFER	PMID:21383138		GO:0160203	mitochondrial disulfide relay system	IDA		UniProtKB:P55789	PANTHER:PTHR12645	20241030		NCBITaxon:9606
+UniProt	UniProtKB:Q92673	SORL1	PMID:21385844		GO:0006605	protein targeting	IDA		UniProtKB:Q92673	PANTHER:PTHR12106	20190510		NCBITaxon:9606
+UniProt	UniProtKB:O00159	MYO1C	PMID:21402783		GO:0006612	protein targeting to membrane	IDA		UniProtKB:O00159	PANTHER:PTHR13140	20130104	UniProtKB:Q96J84|CL:0000653	NCBITaxon:9606
+UniProt	UniProtKB:O00159	MYO1C	PMID:21402783		GO:0006612	protein targeting to membrane	IDA		UniProtKB:O00159	PANTHER:PTHR13140	20211119	UniProtKB:Q96J84	NCBITaxon:9606
+UniProt	AGI_LocusCode:AT1G24460	TNO1	PMID:21521696|TAIR:Publication:501742372		GO:0006623	protein targeting to vacuole	IMP		TAIR:locus:2825102		20211111		NCBITaxon:3702
+UniProt	MGI:MGI:104874	Akt2	PMID:21907143		GO:0090314	positive regulation of protein targeting to membrane	IMP			PANTHER:PTHR24356	20121221		NCBITaxon:10090
+UniProt	UniProtKB:Q86YS7	C2CD5	PMID:21907143		GO:0090314	positive regulation of protein targeting to membrane	IMP		UniProtKB:Q86YS7	PANTHER:PTHR37412	20121221		NCBITaxon:9606
+UniProt	UniProtKB:Q9BY43	CHMP4A	PMID:21975012		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IMP		UniProtKB:Q9BY43	PANTHER:PTHR22761	20140415	UniProtKB:P00533|UniProtKB:P04629	NCBITaxon:9606
+UniProt	UniProtKB:Q9H444	CHMP4B	PMID:21975012		GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	IMP		UniProtKB:Q9H444	PANTHER:PTHR22761	20140415	UniProtKB:P00533|UniProtKB:P05067|UniProtKB:Q05586	NCBITaxon:9606
+UniProt	MGI:MGI:1929510	Zfand6	PMID:21980954		GO:0006625	protein targeting to peroxisome	IDA			PANTHER:PTHR10634	20120604		NCBITaxon:10090
+UniProt	UniProtKB:Q10713	PMPCA	PMID:22354088		GO:0006627	protein processing involved in protein targeting to mitochondrion	IDA		UniProtKB:Q10713	PANTHER:PTHR11851	20191003		NCBITaxon:9606
+UniProt	UniProtKB:O75439	PMPCB	PMID:22354088		GO:0006627	protein processing involved in protein targeting to mitochondrion	IDA		UniProtKB:O75439	PANTHER:PTHR11851	20191003		NCBITaxon:9606
+UniProt	RGD:621297	Pmpcb	PMID:22354088|RGD:14995326		GO:0006627	protein processing involved in protein targeting to mitochondrion	IDA			PANTHER:PTHR11851	20191003		NCBITaxon:10116
+UniProt	MGI:MGI:3582052	Slc51b	PMID:22535958		GO:0090314	positive regulation of protein targeting to membrane	IDA			PANTHER:PTHR36129	20120815		NCBITaxon:10090
+UniProt	WB:WBGene00008857	timm-23	PMID:22700657|WB_REF:WBPaper00041370		GO:0030150	protein import into mitochondrial matrix	IMP			PANTHER:PTHR15371	20171011		NCBITaxon:6239
+UniProt	WB:WBGene00007686	tomm-40	PMID:22700657|WB_REF:WBPaper00041370		GO:0030150	protein import into mitochondrial matrix	IMP			PANTHER:PTHR10802	20171011		NCBITaxon:6239
+UniProt	WB:WBGene00001811	haf-1	PMID:22700657|WB_REF:WBPaper00041370		GO:0030150	protein import into mitochondrial matrix	IMP			PANTHER:PTHR24221	20171011		NCBITaxon:6239
+UniProt	WB:WBGene00021952	vha-19	PMID:22768351|WB_REF:WBPaper00041266		GO:0090314	positive regulation of protein targeting to membrane	IMP			PANTHER:PTHR12471	20210702		NCBITaxon:6239
+UniProt	UniProtKB:Q92611	EDEM1	PMID:23233672		GO:0045047	protein targeting to ER	IMP		UniProtKB:Q92611	PANTHER:PTHR45679	20200911	GO:0044322|GO:0030968	NCBITaxon:9606
+UniProt	UniProtKB:Q9BVV7	TIMM21	PMID:23260140		GO:0030150	protein import into mitochondrial matrix	IMP		UniProtKB:Q9BVV7	PANTHER:PTHR13032	20130118		NCBITaxon:9606
+UniProt	UniProtKB:O00159	MYO1C	PMID:23262137		GO:0006612	protein targeting to membrane	IMP		UniProtKB:O00159	PANTHER:PTHR13140	20240205	UniProtKB:P35968	NCBITaxon:9606
+UniProt	UniProtKB:Q9P0J0	NDUFA13	PMID:23271731		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9P0J0	PANTHER:PTHR12966	20140219	UniProtKB:P40763	NCBITaxon:9606
+UniProt	MGI:MGI:2145955	Prkaa1	PMID:23283301		GO:1903955	positive regulation of protein targeting to mitochondrion	IMP			PANTHER:PTHR24343	20180222	UniProtKB:Q9WVH4|GO:0042149	NCBITaxon:10090
+UniProt	UniProtKB:Q96C03	MIEF2	PMID:23283981		GO:0090314	positive regulation of protein targeting to membrane	IDA		UniProtKB:Q96C03	PANTHER:PTHR16451	20130910		NCBITaxon:9606
+UniProt	UniProtKB:Q9GZY8	MFF	PMID:23283981		GO:0006626	protein targeting to mitochondrion	IDA		UniProtKB:Q9GZY8	PANTHER:PTHR16501	20240424		NCBITaxon:9606
+UniProt	UniProtKB:Q9NQG6	MIEF1	PMID:23283981		GO:0090314	positive regulation of protein targeting to membrane	IDA		UniProtKB:Q9NQG6	PANTHER:PTHR16451	20130910		NCBITaxon:9606
+UniProt	UniProtKB:Q5ZSQ3	drrA	PMID:23382462		GO:0006612	protein targeting to membrane	IMP				20140818	UniProtKB:P62820	NCBITaxon:272624
+UniProt	UniProtKB:Q96QF0	RAB3IP	PMID:23382462		GO:0006612	protein targeting to membrane	IDA		UniProtKB:Q96QF0	PANTHER:PTHR14430	20140818	UniProtKB:P61006	NCBITaxon:9606
+UniProt	UniProtKB:Q9UJ41	RABGEF1	PMID:23382462		GO:0006612	protein targeting to membrane	IMP		UniProtKB:Q9UJ41	PANTHER:PTHR23101	20140818	UniProtKB:P20339	NCBITaxon:9606
+UniProt	UniProtKB:Q8N4Q1	CHCHD4	PMID:23676665		GO:0160203	mitochondrial disulfide relay system	IMP		UniProtKB:Q8N4Q1	PANTHER:PTHR21622	20241029		NCBITaxon:9606
+UniProt	UniProtKB:P31150	GDI1	PMID:23815289		GO:0090315	negative regulation of protein targeting to membrane	IMP		UniProtKB:P31150	PANTHER:PTHR11787	20131204		NCBITaxon:9606
+UniProt	MGI:MGI:1915867	Mtcl1	PMID:23902687		GO:0090314	positive regulation of protein targeting to membrane	IDA		PR:Q3UHU5-1	PANTHER:PTHR15742	20140305		NCBITaxon:10090
+UniProt	UniProtKB:Q96C03	MIEF2	PMID:23921378	not	GO:0090314	positive regulation of protein targeting to membrane	IDA		UniProtKB:Q96C03	PANTHER:PTHR16451	20130909		NCBITaxon:9606
+UniProt	UniProtKB:Q9NQG6	MIEF1	PMID:23921378	not	GO:0090314	positive regulation of protein targeting to membrane	IDA		UniProtKB:Q9NQG6	PANTHER:PTHR16451	20130909		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y3I1	FBXO7	PMID:23933751		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:Q9Y3I1	PANTHER:PTHR15537	20140203		NCBITaxon:9606
+UniProt	UniProtKB:Q8WUJ3	CEMIP	PMID:23990668		GO:0090314	positive regulation of protein targeting to membrane	IDA		UniProtKB:Q8WUJ3	PANTHER:PTHR15535	20140212		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT4G26670	HP20	PMID:24248378|TAIR:Publication:501758704		GO:0045036	protein targeting to chloroplast	IMP		TAIR:locus:2116367		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT3G49560	HP30	PMID:24248378|TAIR:Publication:501758704		GO:0045036	protein targeting to chloroplast	IMP		TAIR:locus:2114723		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT5G24650	HP30-2	PMID:24248378|TAIR:Publication:501758704		GO:0045036	protein targeting to chloroplast	IMP		TAIR:locus:2153959		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT5G61010	EXO70E2	PMID:24307681|TAIR:Publication:501758000		GO:1903533	regulation of protein targeting	IDA		TAIR:locus:2159386		20210331		NCBITaxon:3702
+UniProt	MGI:MGI:1927406	Herpud1	PMID:24478453		GO:0045047	protein targeting to ER	IMP			PANTHER:PTHR12943	20200911	GO:0044322|UniProtKB:Q86TM6|GO:0030968	NCBITaxon:10090
+UniProt	WB:WBGene00011488	nra-2	PMID:24567339|WB_REF:WBPaper00044907		GO:0090313	regulation of protein targeting to membrane	IMP			PANTHER:PTHR31826	20190828		NCBITaxon:6239
+UniProt	UniProtKB:Q96PC3	AP1S3	PMID:24791904		GO:0006605	protein targeting	IMP		UniProtKB:Q96PC3	PANTHER:PTHR11753	20141217		NCBITaxon:9606
+UniProt	MGI:MGI:1913583	Aqp11	PMID:24854278		GO:0006612	protein targeting to membrane	IMP			PANTHER:PTHR21191	20191010		NCBITaxon:10090
+UniProt	UniProtKB:Q3T906	GNPTAB	PMID:25505245		GO:0016256	N-glycan processing to lysosome	IMP		UniProtKB:Q3T906	PANTHER:PTHR24045	20150306		NCBITaxon:9606
+UniProt	ZFIN:ZDB-GENE-030131-4714	gnptab	PMID:25505245|ZFIN:ZDB-PUB-141217-9		GO:0016256	N-glycan processing to lysosome	IMP			PANTHER:PTHR24045	20150306		NCBITaxon:7955
+UniProt	UniProtKB:A6NFQ2	TCAF2	PMID:25559186		GO:0090314	positive regulation of protein targeting to membrane	IMP		UniProtKB:A6NFQ2	PANTHER:PTHR15730	20150122		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y4C2	TCAF1	PMID:25559186		GO:0090314	positive regulation of protein targeting to membrane	IMP		UniProtKB:Q9Y4C2	PANTHER:PTHR15730	20150122		NCBITaxon:9606
+UniProt	UniProtKB:Q10713	PMPCA	PMID:25808372		GO:0006627	protein processing involved in protein targeting to mitochondrion	IMP		UniProtKB:Q10713	PANTHER:PTHR11851	20160614		NCBITaxon:9606
+UniProt	MGI:MGI:1349419	Aifm1	PMID:26004228		GO:0045041	protein import into mitochondrial intermembrane space	IMP			PANTHER:PTHR43557	20191120		NCBITaxon:10090
+UniProt	UniProtKB:O95831	AIFM1	PMID:26004228		GO:0045041	protein import into mitochondrial intermembrane space	IMP		UniProtKB:O95831	PANTHER:PTHR43557	20191120		NCBITaxon:9606
+UniProt	MGI:MGI:1924504	Yif1b	PMID:26077767		GO:0006612	protein targeting to membrane	IMP			PANTHER:PTHR14083	20200103		NCBITaxon:10090
+UniProt	MGI:MGI:1916068	Zfand2b	PMID:26692333		GO:0045047	protein targeting to ER	IMP			PANTHER:PTHR14677	20180406		NCBITaxon:10090
+UniProt	UniProtKB:Q8WV99	ZFAND2B	PMID:26692333		GO:0045047	protein targeting to ER	IMP		UniProtKB:Q8WV99	PANTHER:PTHR14677	20180406		NCBITaxon:9606
+UniProt	UniProtKB:P46196	MAPK1	PMID:26942675		GO:1903955	positive regulation of protein targeting to mitochondrion	IMP		UniProtKB:P46196	PANTHER:PTHR24055	20240926	UniProtKB:P00558	NCBITaxon:9913
+UniProt	UniProtKB:Q13526	PIN1	PMID:26942675		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:Q13526	PANTHER:PTHR10657	20240925	UniProtKB:P00558	NCBITaxon:9606
+UniProt	UniProtKB:P33908	MAN1A1	PMID:27108681		GO:0045047	protein targeting to ER	IMP		UniProtKB:P33908	PANTHER:PTHR11742	20200915	GO:0044322	NCBITaxon:9606
+UniProt	MGI:MGI:1202296	Sorl1	PMID:27322061		GO:0006605	protein targeting	IDA			PANTHER:PTHR12106	20190520		NCBITaxon:10090
+UniProt	UniProtKB:Q92673	SORL1	PMID:27322061		GO:0006605	protein targeting	IDA		UniProtKB:Q92673	PANTHER:PTHR12106	20190520		NCBITaxon:9606
+UniProt	UniProtKB:Q13501	SQSTM1	PMID:27498865		GO:0071211	protein targeting to vacuole involved in autophagy	IDA		UniProtKB:Q13501	PANTHER:PTHR15090	20230106		NCBITaxon:9606
+UniProt	MGI:MGI:96748	Lamp2	PMID:27628032		GO:0006605	protein targeting	IMP			PANTHER:PTHR11506	20161214		NCBITaxon:10090
+UniProt	MGI:MGI:96748	Lamp2	PMID:27628032		GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	IMP			PANTHER:PTHR11506	20161214		NCBITaxon:10090
+UniProt	UniProtKB:P13473	LAMP2	PMID:27628032		GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	IMP		UniProtKB:P13473	PANTHER:PTHR11506	20161214		NCBITaxon:9606
+UniProt	MGI:MGI:102772	Gbp2	PMID:27693356		GO:0006605	protein targeting	IDA			PANTHER:PTHR10751	20230112	UniProtKB:Q0GUM3	NCBITaxon:10090
+UniProt	MGI:MGI:102772	Gbp2	PMID:27693356		GO:0006605	protein targeting	IDA			PANTHER:PTHR10751	20230112	MGI:MGI:3649299	NCBITaxon:10090
+UniProt	MGI:MGI:2429943	Gbp5	PMID:27693356		GO:0006605	protein targeting	IDA			PANTHER:PTHR10751	20230112	UniProtKB:Q0GUM3	NCBITaxon:10090
+UniProt	MGI:MGI:2429943	Gbp5	PMID:27693356		GO:0006605	protein targeting	IDA			PANTHER:PTHR10751	20230112	MGI:MGI:3649299	NCBITaxon:10090
+UniProt	AGI_LocusCode:AT4G32250	KOC1	PMID:28283569|TAIR:Publication:501774607		GO:0045036	protein targeting to chloroplast	IMP		TAIR:locus:2116545		20240419		NCBITaxon:3702
+UniProt	UniProtKB:Q53H12	AGK	PMID:28712724		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q53H12	PANTHER:PTHR12358	20170824		NCBITaxon:9606
+UniProt	UniProtKB:Q9BSF4	TIMM29	PMID:28712724		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9BSF4	PANTHER:PTHR21435	20170824		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y584	TIMM22	PMID:28712724		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9Y584	PANTHER:PTHR14110	20170824		NCBITaxon:9606
+UniProt	UniProtKB:Q53H12	AGK	PMID:28712726		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q53H12	PANTHER:PTHR12358	20170824		NCBITaxon:9606
+UniProt	UniProtKB:Q9BSF4	TIMM29	PMID:28712726		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9BSF4	PANTHER:PTHR21435	20170824		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y584	TIMM22	PMID:28712726		GO:0045039	protein insertion into mitochondrial inner membrane	IDA		UniProtKB:Q9Y584	PANTHER:PTHR14110	20170824		NCBITaxon:9606
+UniProt	UniProtKB:P61619	SEC61A1	PMID:28782633		GO:0006613	cotranslational protein targeting to membrane	IMP		UniProtKB:P61619	PANTHER:PTHR10906	20180208		NCBITaxon:9606
+UniProt	UniProtKB:A1A4Y4	IRGM	PMID:29420192		GO:0071211	protein targeting to vacuole involved in autophagy	IDA		UniProtKB:A1A4Y4	PANTHER:PTHR32341	20230117	UniProtKB:P56962	NCBITaxon:9606
+UniProt	UniProtKB:P61619	SEC61A1	PMID:29719251		GO:0031204	post-translational protein targeting to membrane, translocation	IMP		UniProtKB:P61619	PANTHER:PTHR10906	20181221		NCBITaxon:9606
+UniProt	UniProtKB:P11021	HSPA5	PMID:29719251		GO:0031204	post-translational protein targeting to membrane, translocation	IMP		UniProtKB:P11021	PANTHER:PTHR19375	20181221		NCBITaxon:9606
+UniProt	UniProtKB:Q9UGP8	SEC63	PMID:29719251		GO:0031204	post-translational protein targeting to membrane, translocation	IMP		UniProtKB:Q9UGP8	PANTHER:PTHR24075	20181221		NCBITaxon:9606
+UniProt	UniProtKB:Q99442	SEC62	PMID:29719251		GO:0031204	post-translational protein targeting to membrane, translocation	IMP		UniProtKB:Q99442	PANTHER:PTHR12443	20181221		NCBITaxon:9606
+UniProt	MGI:MGI:1922984	Mff	PMID:30059978		GO:0006626	protein targeting to mitochondrion	IDA			PANTHER:PTHR16501	20191219		NCBITaxon:10090
+UniProt	MGI:MGI:1922561	Mfi	PMID:30059978		GO:1903215	negative regulation of protein targeting to mitochondrion	IMP			PANTHER:PTHR33504	20191219		NCBITaxon:10090
+UniProt	UniProtKB:P51572	BCAP31	PMID:31206022		GO:0006626	protein targeting to mitochondrion	IGI	UniProtKB:O96008	UniProtKB:P51572	PANTHER:PTHR12701	20200727		NCBITaxon:9606
+UniProt	UniProtKB:O96008	TOMM40	PMID:31206022		GO:0006626	protein targeting to mitochondrion	IGI	UniProtKB:P51572	UniProtKB:O96008	PANTHER:PTHR10802	20200727		NCBITaxon:9606
+UniProt	FB:FBgn0015797	Rab6	PMID:33704067|FB:FBrf0248566		GO:0140450	protein targeting to Golgi apparatus	IMP			PANTHER:PTHR24073	20210621		NCBITaxon:7227
+UniProt	MGI:MGI:1926262	Irgm2	PMID:34078740		GO:0044395	protein targeting to vacuolar membrane	IDA			PANTHER:PTHR32341	20230125		NCBITaxon:10090
+UniProt	AGI_LocusCode:AT3G20060	UBC19	PMID:34405771|TAIR:Publication:501795637		GO:0006605	protein targeting	IMP		TAIR:locus:2087620		20230714		NCBITaxon:3702
+UniProt	UniProtKB:Q13501	SQSTM1	PMID:34893540		GO:0071211	protein targeting to vacuole involved in autophagy	IDA		UniProtKB:Q13501	PANTHER:PTHR15090	20240405		NCBITaxon:9606
+UniProt	UniProtKB:O95831	AIFM1	PMID:35994922		GO:0160203	mitochondrial disulfide relay system	TAS		UniProtKB:O95831	PANTHER:PTHR43557	20241121		NCBITaxon:9606
+UniProt	UniProtKB:Q13501	SQSTM1	PMID:36221902		GO:0071211	protein targeting to vacuole involved in autophagy	IDA		UniProtKB:Q13501	PANTHER:PTHR15090	20230119	UniProtKB:O43353	NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6C9	MTCH2	PMID:36264797		GO:0045040	protein insertion into mitochondrial outer membrane	IDA		UniProtKB:Q9Y6C9	PANTHER:PTHR10780	20221114		NCBITaxon:9606
+UniProt	UniProtKB:Q9NZJ7	MTCH1	PMID:36264797		GO:0045040	protein insertion into mitochondrial outer membrane	IDA		UniProtKB:Q9NZJ7	PANTHER:PTHR10780	20221114		NCBITaxon:9606
+UniProt	UniProtKB:P11142	HSPA8	PMID:36586411		GO:0061740	protein targeting to lysosome involved in chaperone-mediated autophagy	IDA		UniProtKB:P11142	PANTHER:PTHR19375	20230119		NCBITaxon:9606
+UniProt	UniProtKB:B8NLZ3	ptc1	PMID:37754565		GO:1903215	negative regulation of protein targeting to mitochondrion	IMP				20240925	UniProtKB:A0A7G5KET3	NCBITaxon:332952
+UniProt	UniProtKB:A0A7U2MSD6	ptc2	PMID:37754565		GO:1903215	negative regulation of protein targeting to mitochondrion	IMP				20240925	UniProtKB:A0A7G5KET3	NCBITaxon:332952
+UniProt	UniProtKB:Q13501	SQSTM1	PMID:37802024		GO:0071211	protein targeting to vacuole involved in autophagy	IDA		UniProtKB:Q13501	PANTHER:PTHR15090	20231110		NCBITaxon:9606
+UniProt	UniProtKB:Q10L01	DHHC9	PMID:38180963		GO:0006612	protein targeting to membrane	IDA			PANTHER:PTHR22883	20240430		NCBITaxon:39947
+UniProt	UniProtKB:Q3ZCQ8	TIMM50	PMID:38828998		GO:0030150	protein import into mitochondrial matrix	IDA		UniProtKB:Q3ZCQ8	PANTHER:PTHR12210	20241212		NCBITaxon:9606
+UniProt	UniProtKB:Q13023	AKAP6	PMID:7721854		GO:0006605	protein targeting	NAS		UniProtKB:Q13023	PANTHER:PTHR14514	20010809		NCBITaxon:9606
+UniProt	UniProtKB:P24386	CHM	PMID:7957092		GO:0006612	protein targeting to membrane	IMP		UniProtKB:P24386	PANTHER:PTHR11787	20131218		NCBITaxon:9606
+UniProt	UniProtKB:P60058	SEC61G	PMID:8107851		GO:0045047	protein targeting to ER	IGI	UniProtKB:P35179	UniProtKB:P60058	PANTHER:PTHR12309	20090904		NCBITaxon:9615
+UniProt	UniProtKB:P61010	SRP54	PMID:8521805		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IDA		UniProtKB:P61010	PANTHER:PTHR11564	20090629		NCBITaxon:9615
+UniProt	UniProtKB:P21856	GDI1	PMID:8609986		GO:0090315	negative regulation of protein targeting to membrane	IMP		UniProtKB:P21856	PANTHER:PTHR11787	20131204		NCBITaxon:9913
+UniProt	UniProtKB:P61619	SEC61A1	PMID:8616892		GO:0006613	cotranslational protein targeting to membrane	IDA		UniProtKB:P61619	PANTHER:PTHR10906	20210727		NCBITaxon:9606
+UniProt	UniProtKB:Q15629	TRAM1	PMID:8616892		GO:0006613	cotranslational protein targeting to membrane	IDA		UniProtKB:Q15629	PANTHER:PTHR12371	20210727		NCBITaxon:9606
+UniProt	RGD:619926	Nup54	PMID:8707840|RGD:633404		GO:0006605	protein targeting	IDA			PANTHER:PTHR13000	20031219		NCBITaxon:10116
+UniProt	RGD:621117	Nlgn1	PMID:9278515|RGD:8554758		GO:0006605	protein targeting	IDA			PANTHER:PTHR43903	20030815		NCBITaxon:10116
+UniProt	UniProtKB:Q15785	TOMM34	PMID:9324309		GO:0006626	protein targeting to mitochondrion	IMP		UniProtKB:Q15785	PANTHER:PTHR45984	20111123		NCBITaxon:9606
+UniProt	UniProtKB:Q15629	TRAM1	PMID:9506517		GO:0006613	cotranslational protein targeting to membrane	IDA		UniProtKB:Q15629	PANTHER:PTHR12371	20210727		NCBITaxon:9606
+UniProt	UniProtKB:P50542	PEX5	PMID:9668159		GO:0006625	protein targeting to peroxisome	IMP		UniProtKB:P50542-1	PANTHER:PTHR10130	20070911		NCBITaxon:9606
+UniProt	UniProtKB:P50542	PEX5	PMID:9668159		GO:0006625	protein targeting to peroxisome	IMP		UniProtKB:P50542-2	PANTHER:PTHR10130	20070911		NCBITaxon:9606
+UniProt	FB:FBgn0086679	p	PMID:9714595|FB:FBrf0103319		GO:0006622	protein targeting to lysosome	IMP			PANTHER:PTHR23287	20070824		NCBITaxon:7227
+UniProt	UniProtKB:Q9Y5Y5	PEX16	PMID:9837814		GO:0006625	protein targeting to peroxisome	IMP		UniProtKB:Q9Y5Y5	PANTHER:PTHR13299	20070920		NCBITaxon:9606
+UniProt	UniProtKB:O75901	RASSF9	PMID:9837933		GO:0006605	protein targeting	NAS		UniProtKB:O75901	PANTHER:PTHR15286	20031216		NCBITaxon:9606
+UniProt	RGD:621329	Rassf9	PMID:9837933|RGD:633607		GO:0006605	protein targeting	NAS			PANTHER:PTHR15286	20090828		NCBITaxon:10116
+WB	WB:WBGene00006573	tin-10	PMID:15485840|WB_REF:WBPaper00024877		GO:0045039	protein insertion into mitochondrial inner membrane	IMP	WB:WBRNAi00062820		PANTHER:PTHR11038	20110720		NCBITaxon:6239
+WB	WB:WBGene00006572	tin-9.1	PMID:15485840|WB_REF:WBPaper00024877		GO:0045039	protein insertion into mitochondrial inner membrane	IMP	WB:WBRNAi00062815		PANTHER:PTHR13172	20110720		NCBITaxon:6239
+WB	UniProtKB:Q01685	TRAM1	PMID:8698819		GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	IDA		UniProtKB:Q01685		20150331		NCBITaxon:9615
+ZFIN	ZFIN:ZDB-GENE-040426-2285	m6pr	PMID:16362416		GO:0006622	protein targeting to lysosome	IMP			PANTHER:PTHR15071	20060310		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-MIRNAG-080506-5	mir200b	PMID:19332888		GO:0006612	protein targeting to membrane	IGI	ZFIN:ZDB-MRPHLNO-100730-2|ZFIN:ZDB-MRPHLNO-100730-3|ZFIN:ZDB-MRPHLNO-100802-5			20100803		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-031006-7	nherf1a	PMID:19332888		GO:0006612	protein targeting to membrane	IGI	ZFIN:ZDB-MRPHLNO-100730-2|ZFIN:ZDB-MRPHLNO-100730-3|ZFIN:ZDB-MRPHLNO-100802-5		PANTHER:PTHR14191	20100803		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-MIRNAG-070111-6	mir200a	PMID:19332888		GO:0006612	protein targeting to membrane	IGI	ZFIN:ZDB-MRPHLNO-100730-2|ZFIN:ZDB-MRPHLNO-100730-3|ZFIN:ZDB-MRPHLNO-100802-5			20100803		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-040426-2823	sec23a	PMID:29161034		GO:0006605	protein targeting	IMP	ZFIN:ZDB-GENO-120106-1		PANTHER:PTHR11141	20200207		NCBITaxon:7955
+dictyBase	dictyBase:DDB_G0282897	tom7	PMID:15155803		GO:0045040	protein insertion into mitochondrial outer membrane	TAS				20050201		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0274809	mppA1	PMID:20019080		GO:0006627	protein processing involved in protein targeting to mitochondrion	IDA			PANTHER:PTHR11851	20100818		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0283573	DDB_G0283573	PMID:26852331		GO:0045040	protein insertion into mitochondrial outer membrane	TAS				20161107		NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0275389	DDB_G0275389	PMID:26852331		GO:0045040	protein insertion into mitochondrial outer membrane	TAS			PANTHER:PTHR22904	20161107		NCBITaxon:44689

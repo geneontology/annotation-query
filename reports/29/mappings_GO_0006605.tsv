@@ -1,0 +1,22 @@
+term	file	line
+GO:0006605	unirule2go	UniRule:UR000054575 > GO:protein targeting ; GO:0006605
+GO:0006605	unirule2go	UniRule:UR000054584 > GO:protein targeting ; GO:0006605
+GO:0006605	unirule2go	UniRule:UR000054593 > GO:protein targeting ; GO:0006605
+GO:0006605	unirule2go	UniRule:UR000055559 > GO:protein targeting ; GO:0006605
+GO:0006605	unirule2go	UniRule:UR000076237 > GO:protein targeting ; GO:0006605
+GO:0006605	unirule2go	UniRule:UR000150979 > GO:protein targeting ; GO:0006605
+GO:0006605	unirule2go	UniRule:UR000168473 > GO:protein targeting ; GO:0006605
+GO:0006605	unirule2go	UniRule:UR000368547 > GO:protein targeting ; GO:0006605
+GO:0006605	wikipedia2go	Wikipedia:Protein_targeting > GO:protein targeting ; GO:0006605
+GO:0006605	hamap2go	HAMAP:MF_00422 > GO:protein targeting ; GO:0006605
+GO:0006605	hamap2go	HAMAP:MF_01382 > GO:protein targeting ; GO:0006605
+GO:0006605	hamap2go	HAMAP:MF_01463 > GO:protein targeting ; GO:0006605
+GO:0006605	hamap2go	HAMAP:MF_01464 > GO:protein targeting ; GO:0006605
+GO:0006605	hamap2go	HAMAP:MF_01465 > GO:protein targeting ; GO:0006605
+GO:0006605	hamap2go	HAMAP:MF_01466 > GO:protein targeting ; GO:0006605
+GO:0006605	interpro2go	InterPro:IPR000185 Protein translocase subunit SecA > GO:protein targeting ; GO:0006605
+GO:0006605	interpro2go	InterPro:IPR001901 Protein translocase complex, SecE/Sec61-gamma subunit > GO:protein targeting ; GO:0006605
+GO:0006605	interpro2go	InterPro:IPR002010 Type III secretion system inner membrane R protein > GO:protein targeting ; GO:0006605
+GO:0006605	interpro2go	InterPro:IPR002056 Protein import receptor MAS20 > GO:protein targeting ; GO:0006605
+GO:0006605	interpro2go	InterPro:IPR020937 SecA conserved site > GO:protein targeting ; GO:0006605
+GO:0006605	interpro2go	InterPro:IPR022422 Protein import receptor MAS20, metazoan > GO:protein targeting ; GO:0006605

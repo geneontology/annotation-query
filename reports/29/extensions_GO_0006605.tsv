@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	MGI:MGI:102772	Gbp2	PMID:27693356		GO:0042742	defense response to bacterium	IDA			PANTHER:PTHR10751	20230112	GO:0006605	NCBITaxon:10090
+UniProt	MGI:MGI:2429943	Gbp5	PMID:27693356		GO:0042742	defense response to bacterium	IDA			PANTHER:PTHR10751	20230112	GO:0006605	NCBITaxon:10090
