@@ -1,0 +1,8 @@
+term	file	line
+GO:0031593	unirule2go	UniRule:UR001350751 > GO:polyubiquitin modification-dependent protein binding ; GO:0031593
+GO:0031593	unirule2go	UniRule:UR001427767 > GO:polyubiquitin modification-dependent protein binding ; GO:0031593
+GO:0031593	unirule2go	UniRule:UR001478814 > GO:polyubiquitin modification-dependent protein binding ; GO:0031593
+GO:0036435	unirule2go	UniRule:UR001454755 > GO:K48-linked polyubiquitin modification-dependent protein binding ; GO:0036435
+GO:0036435	reactome2go	Reactome:R-HSA-5683077 > GO:K48-linked polyubiquitin modification-dependent protein binding ; GO:0036435
+GO:0070530	interpro2go	InterPro:IPR034735 NEMO, Zinc finger > GO:K63-linked polyubiquitin modification-dependent protein binding ; GO:0070530
+GO:0070530	interpro2go	InterPro:IPR038868 BRCA1-A complex subunit RAP80 > GO:K63-linked polyubiquitin modification-dependent protein binding ; GO:0070530
