@@ -1,0 +1,575 @@
+term	file	line
+GO:0004857	interpro2go	InterPro:IPR006501 Pectinesterase inhibitor domain > GO:enzyme inhibitor activity ; GO:0004857
+GO:0004857	interpro2go	InterPro:IPR007605 Microvirus lysis protein (E) > GO:enzyme inhibitor activity ; GO:0004857
+GO:0004857	interpro2go	InterPro:IPR008404 Apovitellenin I > GO:enzyme inhibitor activity ; GO:0004857
+GO:0004857	interpro2go	InterPro:IPR011061 Hirudin/antistatin > GO:enzyme inhibitor activity ; GO:0004857
+GO:0004857	interpro2go	InterPro:IPR034087 Cell wall/vacuolar inhibitor of fructosidase > GO:enzyme inhibitor activity ; GO:0004857
+GO:0004857	uniprotkb_kw2go	UniProtKB-KW:KW-0481 Metalloenzyme inhibitor > GO:enzyme inhibitor activity ; GO:0004857
+GO:0004857	unirule2go	UniRule:UR000189790 > GO:enzyme inhibitor activity ; GO:0004857
+GO:0004859	interpro2go	InterPro:IPR002388 Annexin A1 > GO:phospholipase inhibitor activity ; GO:0004859
+GO:0004859	interpro2go	InterPro:IPR002389 Annexin A2 > GO:phospholipase inhibitor activity ; GO:0004859
+GO:0004859	interpro2go	InterPro:IPR002390 Annexin A3 > GO:phospholipase inhibitor activity ; GO:0004859
+GO:0004859	interpro2go	InterPro:IPR004126 Phospholipase A2 inhibitor, N-terminal domain > GO:phospholipase inhibitor activity ; GO:0004859
+GO:0004860	interpro2go	InterPro:IPR002116 Melittin/ Api allergen > GO:protein kinase inhibitor activity ; GO:0004860
+GO:0004860	interpro2go	InterPro:IPR026779 Calcium/calmodulin-dependent protein kinase II inhibitor > GO:protein kinase inhibitor activity ; GO:0004860
+GO:0004860	uniprotkb_kw2go	UniProtKB-KW:KW-0649 Protein kinase inhibitor > GO:protein kinase inhibitor activity ; GO:0004860
+GO:0004861	interpro2go	InterPro:IPR003175 Cyclin-dependent kinase inhibitor domain > GO:cyclin-dependent protein serine/threonine kinase inhibitor activity ; GO:0004861
+GO:0004861	interpro2go	InterPro:IPR024872 HEXIM > GO:cyclin-dependent protein serine/threonine kinase inhibitor activity ; GO:0004861
+GO:0004861	interpro2go	InterPro:IPR044275 Cyclin-dependent kinase inhibitor, plant > GO:cyclin-dependent protein serine/threonine kinase inhibitor activity ; GO:0004861
+GO:0004861	reactome2go	Reactome:R-HSA-187934 > GO:cyclin-dependent protein serine/threonine kinase inhibitor activity ; GO:0004861
+GO:0004861	reactome2go	Reactome:R-HSA-69562 > GO:cyclin-dependent protein serine/threonine kinase inhibitor activity ; GO:0004861
+GO:0004861	unirule2go	UniRule:UR000504773 > GO:cyclin-dependent protein serine/threonine kinase inhibitor activity ; GO:0004861
+GO:0004862	interpro2go	InterPro:IPR004171 cAMP-dependent protein kinase inhibitor > GO:cAMP-dependent protein kinase inhibitor activity ; GO:0004862
+GO:0004862	reactome2go	Reactome:R-HSA-180073 > GO:cAMP-dependent protein kinase inhibitor activity ; GO:0004862
+GO:0004862	unirule2go	UniRule:UR000397763 > GO:cAMP-dependent protein kinase inhibitor activity ; GO:0004862
+GO:0004864	interpro2go	InterPro:IPR007062 Protein phosphatase inhibitor 2 (IPP-2) > GO:protein phosphatase inhibitor activity ; GO:0004864
+GO:0004864	interpro2go	InterPro:IPR008466 Protein phosphatase inhibitor 1 > GO:protein phosphatase inhibitor activity ; GO:0004864
+GO:0004864	interpro2go	InterPro:IPR024949 Bet v I type allergen > GO:protein phosphatase inhibitor activity ; GO:0004864
+GO:0004864	interpro2go	InterPro:IPR026130 Protein phosphatase 1 regulatory subunit 26 > GO:protein phosphatase inhibitor activity ; GO:0004864
+GO:0004864	interpro2go	InterPro:IPR033242 Protein phosphatase 1 regulatory subunit 17 > GO:protein phosphatase inhibitor activity ; GO:0004864
+GO:0004864	uniprotkb_kw2go	UniProtKB-KW:KW-0650 Protein phosphatase inhibitor > GO:protein phosphatase inhibitor activity ; GO:0004864
+GO:0004864	unirule2go	UniRule:UR000079219 > GO:protein phosphatase inhibitor activity ; GO:0004864
+GO:0004865	interpro2go	InterPro:IPR011107 Type 1 protein phosphatase inhibitor > GO:protein serine/threonine phosphatase inhibitor activity ; GO:0004865
+GO:0004865	interpro2go	InterPro:IPR026716 PABIR1/2/3 > GO:protein serine/threonine phosphatase inhibitor activity ; GO:0004865
+GO:0004865	uniprotkb_kw2go	UniProtKB-KW:KW-1126 Modulation of host PP1 activity by virus > GO:protein serine/threonine phosphatase inhibitor activity ; GO:0004865
+GO:0004865	unirule2go	UniRule:UR001478803 > GO:protein serine/threonine phosphatase inhibitor activity ; GO:0004865
+GO:0004866	interpro2go	InterPro:IPR001599 Alpha-2-macroglobulin > GO:endopeptidase inhibitor activity ; GO:0004866
+GO:0004866	interpro2go	InterPro:IPR001713 Proteinase inhibitor I25A, stefin > GO:endopeptidase inhibitor activity ; GO:0004866
+GO:0004866	interpro2go	InterPro:IPR002160 Proteinase inhibitor I3, Kunitz legume > GO:endopeptidase inhibitor activity ; GO:0004866
+GO:0004866	interpro2go	InterPro:IPR002890 Macroglobulin domain > GO:endopeptidase inhibitor activity ; GO:0004866
+GO:0004866	interpro2go	InterPro:IPR010832 ProSAAS > GO:endopeptidase inhibitor activity ; GO:0004866
+GO:0004866	interpro2go	InterPro:IPR011052 Proteinase/amylase inhibitor domain superfamily > GO:endopeptidase inhibitor activity ; GO:0004866
+GO:0004866	interpro2go	InterPro:IPR016085 Protease inhibitor, beta-barrel domain > GO:endopeptidase inhibitor activity ; GO:0004866
+GO:0004866	interpro2go	InterPro:IPR019507 Protease A inhibitor IA3 > GO:endopeptidase inhibitor activity ; GO:0004866
+GO:0004866	interpro2go	InterPro:IPR045128 Proteasome inhibitor PI31-like > GO:endopeptidase inhibitor activity ; GO:0004866
+GO:0004866	unirule2go	UniRule:UR000414509 > GO:endopeptidase inhibitor activity ; GO:0004866
+GO:0004866	unirule2go	UniRule:UR001079786 > GO:endopeptidase inhibitor activity ; GO:0004866
+GO:0004867	interpro2go	InterPro:IPR000215 Serpin family > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR000240 Serpin B9/maspin > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR000429 Proteinase inhibitor I14, hirudin > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR000691 Proteinase inhibitor I16, Streptomyces subtilisin-type inhibitor > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR000737 Proteinase inhibitor I7, squash > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR000864 Proteinase inhibitor I13, potato inhibitor I > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR000877 Proteinase inhibitor I12, Bowman-Birk > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR001239 Proteinase inhibitor I1, Kazal-type, metazoa > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR002223 Pancreatic trypsin inhibitor Kunitz domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR002411 Cereal allergen/alpha-amylase inhibitor, rice type > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR003465 Proteinase inhibitor I20 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR004094 Antistasin-like domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR005658 Proteinase inhibitor I11, ecotin > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR006105 Cereal seed allergen/trypsin and alpha-amylase inhibitor, conserved site > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR006106 Cereal seed allergen/grain softness/trypsin and alpha-amylase inhibitor > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR008086 Proteinase inhibitor I15, leech antistasin > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR010600 Inter-alpha-trypsin inhibitor heavy chain, C-terminal > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR015556 Plasminogen activator inhibitor-2 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR020054 Proteinase inhibitor I16, Streptomyces subtilisin-type inhibitor, conserved site > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR023084 Proteinase inhibitor I11, ecotin, gammaproteobacteria > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR023549 Subtilisin inhibitor > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR024793 Thrombin inhibitor hirudin > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR031755 Peptidase inhibitor I66 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR033829 Antithrombin-III, serpin domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR033830 Serpin H1, serpin domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR033831 Heparin cofactor II, serpin domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR033833 Alpha2-antiplasmin, serpin domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR033835 Protein Z-dependent peptidase inhibitor, serpin domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR033836 Maspin, serpin domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR035995 Bowman-Birk type proteinase inhibitor > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR036819 Subtilisin inhibitor-like superfamily > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR036880 Pancreatic trypsin inhibitor Kunitz domain superfamily > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR039932 Serine protease inhibitor Kazal-type 4-like > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR042167 Serine protease inhibitor Kazal-type 2 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR044167 Bowman-Birk type wound-induced proteinase inhibitor WIP1 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR048197 Papain inhibitor > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	reactome2go	Reactome:R-HSA-158795 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	reactome2go	Reactome:R-HSA-158800 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	reactome2go	Reactome:R-HSA-158893 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	reactome2go	Reactome:R-HSA-159001 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	reactome2go	Reactome:R-HSA-159005 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	uniprotkb_kw2go	UniProtKB-KW:KW-0722 Serine protease inhibitor > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	hamap2go	HAMAP:MF_00706 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	hamap2go	HAMAP:MF_00778 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	unirule2go	UniRule:UR000098374 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	unirule2go	UniRule:UR000100120 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	unirule2go	UniRule:UR000121505 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	unirule2go	UniRule:UR000414509 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	unirule2go	UniRule:UR001116778 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004869	interpro2go	InterPro:IPR000010 Cystatin domain > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0004869	interpro2go	InterPro:IPR019508 Proteinase inhibitor I48, clitocypin > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0004869	interpro2go	InterPro:IPR027214 Cystatin > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0004869	interpro2go	InterPro:IPR037296 Staphostatin A/B > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0004869	interpro2go	InterPro:IPR042886 Cystatin-F > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0004869	interpro2go	InterPro:IPR042930 Cystatin-11 > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0004869	interpro2go	InterPro:IPR048197 Papain inhibitor > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0004869	uniprotkb_kw2go	UniProtKB-KW:KW-0789 Thiol protease inhibitor > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0005085	interpro2go	InterPro:IPR000219 Dbl homology (DH) domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR000904 Sec7 domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR001331 Guanine-nucleotide dissociation stimulator, CDC24, conserved site > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR001895 Ras guanine-nucleotide exchange factors catalytic domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR005414 Guanine nucleotide exchange factor SopE > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR005512 PRONE domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR007515 Mss4 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR008937 Ras-like guanine nucleotide exchange factor > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR015212 Regulator of G protein signalling-like domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR016019 Guanine nucleotide exchange factor SopE, GEF domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR019804 Ras guanine-nucleotide exchange factor, conserved site > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR024224 DENND6 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR026791 Dedicator of cytokinesis > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR026799 Dedicator of cytokinesis protein 2, DHR2 domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR026800 Dedicator of cytokinesis protein 3, DHR2 domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR026817 Guanine nucleotide exchange factor Ect2 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR027819 Guanine nucleotide exchange factor C9orf72 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR029899 Kinase non-catalytic C-lobe domain-containing protein 1 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR030717 Dedicator of cytokinesis protein 5, DHR2 domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR033511 Rho guanine nucleotide exchange factor Cdc24/Scd1, PH domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR033784 SidM, Rab1-activation domain, Legionella pneumophila > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR035999 Sec7 domain superfamily > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR036964 Ras guanine-nucleotide exchange factor, catalytic domain superfamily > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR037014 Dedicator of cytokinesis protein 4, DHR2 domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR037367 PREX2, DEP domain 1 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR037587 Ragulator complex protein LAMTOR2-like > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR037742 FGD4, N-terminal PH domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR037743 FGD6, N-terminal PH domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR037744 ARHGEF18, PH domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR037801 ARHGEF12, PH domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR037803 Rho guanine nucleotide exchange factor 11, PH domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR037806 ARHGEF2, PH domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR037819 ARHGEF28, PH domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR037853 Net1, PH domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR037884 LARG, RGS domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR037887 p115RhoGEF, RGS domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR037889 Rho guanine nucleotide exchange factor 11, RGS domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR038937 Rop guanine nucleotide exchange factor > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR039919 Rho guanine nucleotide exchange factor 10/17 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR040032 DENN domain-containing protein 1A/1B/1C > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR040144 Rap1 GTPase-GDP dissociation stimulator 1 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR040351 Guanine nucleotide exchange factor RAB3IL/RAB3IP/Sec2 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR042168 Purkinje cell protein 2 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR043537 Tiam1/Tiam2/Protein still life > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR044123 Translation initiation factor eIF-2B subunit epsilon, W2 domain > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR045046 Vacuolar protein sorting-associated protein 9-like > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR045260 Guanine nucleotide-exchange factor Sec12-like > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR047271 Ephexin-like > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	interpro2go	InterPro:IPR047278 DENN domain-containing protein 5A/B > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-109807 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-109817 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-114544 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-1168636 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-1225951 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-1225957 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-1250383 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-1250463 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-1250498 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-1306972 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-1433415 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-1433471 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-156913 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-169904 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-170979 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-171026 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-177938 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-177945 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-180687 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-186834 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-187746 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-194518 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-2029445 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-2029451 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-2029467 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-203977 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-205039 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-210977 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-2179407 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-2424476 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-2424477 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-2485180 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-2730840 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-350769 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-354173 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-379044 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-379048 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-380073 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-389348 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-389350 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-392054 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-392195 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-3928592 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-3928612 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-3928628 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-3928632 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-3928633 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-3928642 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-3928651 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-392870 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-3965444 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-399938 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-399995 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-400092 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-4093336 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-416530 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-416588 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-418579 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-418850 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-418856 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-419166 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-420883 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-428535 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-428750 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-428917 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-442273 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-442291 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-442314 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-442732 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-445064 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5218829 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5218839 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5218850 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5617816 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5623508 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5623521 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5637806 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5637808 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5654392 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5654402 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5654413 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5654426 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5654600 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5654618 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5654647 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5654663 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5655241 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5655277 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5655326 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5655347 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5672965 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5686071 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5686318 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-5694409 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-6807868 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-6811414 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-6811418 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-6811429 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-749453 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-751029 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-825631 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8848618 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8850041 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8851827 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8851877 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8851899 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8875318 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8875320 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8875568 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8875591 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8876188 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8876190 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8876191 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8876193 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8876454 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8876615 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8876616 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8876837 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8877308 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8877311 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8877451 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8877475 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8877612 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8877760 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8877813 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8877998 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8964604 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8980691 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8982637 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-8982640 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9013023 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9013109 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9013143 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9013159 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9013435 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9014296 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9014433 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9017491 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9018747 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9018768 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9018804 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9018817 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9018825 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9026891 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9029158 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9032067 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9032798 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9033292 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9036301 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-939265 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9607304 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9619803 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9624845 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9634418 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9639286 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9640167 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9660824 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9664991 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9665009 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9665404 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9665408 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9665700 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9665707 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9666428 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9666430 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9670436 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9672163 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9672170 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9680385 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9693111 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9695853 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9703441 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	reactome2go	Reactome:R-HSA-9751201 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	uniprotkb_kw2go	UniProtKB-KW:KW-0344 Guanine-nucleotide releasing factor > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	unirule2go	UniRule:UR000400725 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	unirule2go	UniRule:UR000617770 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	unirule2go	UniRule:UR001683792 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005085	unirule2go	UniRule:UR001693756 > GO:guanyl-nucleotide exchange factor activity ; GO:0005085
+GO:0005092	interpro2go	InterPro:IPR018203 GDP dissociation inhibitor > GO:GDP-dissociation inhibitor activity ; GO:0005092
+GO:0005092	unirule2go	UniRule:UR000667754 > GO:GDP-dissociation inhibitor activity ; GO:0005092
+GO:0005093	interpro2go	InterPro:IPR000806 Rab GDI protein > GO:Rab GDP-dissociation inhibitor activity ; GO:0005093
+GO:0005094	interpro2go	InterPro:IPR000406 Rho protein GDP-dissociation inhibitor > GO:Rho GDP-dissociation inhibitor activity ; GO:0005094
+GO:0005096	interpro2go	InterPro:IPR000331 Rap/Ran-GAP domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR001164 Arf GTPase activating protein > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR003537 Type III secretion system effector protein YopE-like > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR003913 Tuberin > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR003914 Rabaptin > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR007336 Der GTPase-activating protein YihI > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR009109 Ran-GTPase activating protein 1, C-terminal > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR015123 Bcr-Abl oncoprotein oligomerisation > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR017356 Chimaerin > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR018514 Rabaptin coiled-coil domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR018515 Tuberin-type domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR026799 Dedicator of cytokinesis protein 2, DHR2 domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR026800 Dedicator of cytokinesis protein 3, DHR2 domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR026817 Guanine nucleotide exchange factor Ect2 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR027038 Ran GTPase-activating protein > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR027107 Tuberin/Ral GTPase-activating protein subunit alpha > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR027244 Vacuolar membrane-associated protein Iml1 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR028557 Unconventional myosin-IXb, Rho-GAP domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR028775 Arf GTPase activating protein 3, BAR domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR030717 Dedicator of cytokinesis protein 5, DHR2 domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR033162 Tubulin-folding cofactor D > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR034586 GTPase activating protein complex, subunit Bfa1/Byr4 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR035974 Rap/Ran-GAP superfamily > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR036720 Ran-GTPase activating protein 1, C-terminal domain superfamily > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037014 Dedicator of cytokinesis protein 4, DHR2 domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037451 SLIT-ROBO Rho GTPase-activating protein 1, F-BAR domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037520 Folliculin/SMCR8, longin domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037745 Small G protein signalling modulator 1/2, PH domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037769 Abr/Bcr > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037773 RASA2, PH domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037774 RASA3, PH domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037776 RASAL, RasGAP domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037777 RASA4, PH domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037844 ASAP, PH domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037849 ADAP, PH domain 1 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037851 ADAP, PH domain 2 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037858 ARAP, RhoGAP domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037860 Chimaerin, RhoGAP domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037884 LARG, RGS domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037887 p115RhoGEF, RGS domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037928 ASAP1, BAR domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR037956 RGS6, RGS domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR038016 ASAP1, SH3 domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR039093 Protein XRP2 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR039767 RalA-binding protein 1 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR039930 Ral GTPase-activating protein subunit beta > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR042918 Pleckstrin homology domain-containing family G member 6 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR043593 Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR044518 ADP-ribosylation factor GTPase-activating protein AGD11/12/13 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR044519 ADP-ribosylation factor GTPase-activating protein AGD6/7 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR044520 ADP-ribosylation factor GTPase-activating protein AGD5/15 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR044732 SMAP1-like, ArfGAP domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR044785 Rho GTPase-activating protein 1-5 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR044820 ADP-ribosylation factor GTPase-activating protein AGD14-like > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR045203 RAN GTPase-activating protein 1/2 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR045258 ArfGAP ACAP1/2/3-like > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR045342 Septation protein Etd1 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR045700 Rab3GAP catalytic subunit > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR045913 GTPase-activating protein TBC20/Gyp8-like > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR046987 Unconventional class IX myosin > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR046990 Unconventional myosin-IXa, Rho-GAP domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR046995 Regulator of G-protein signaling 10/12/14-like > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR047161 ARF GTPase-activating protein Git-like > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR047165 Rho GTPase-activating protein 17/44/SH3BP1-like > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR047234 GRAF family > GO:GTPase activator activity ; GO:0005096
+GO:0005096	interpro2go	InterPro:IPR047886 ARHGAP20-like, RhoGAP domain > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-392513 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-399935 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-4093339 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-416546 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-416559 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-428522 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-428533 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-5638007 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-8981637 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-8985594 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-9013022 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-9013111 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-9013144 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-9013161 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-9013437 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-9014295 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-9014434 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-9017488 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-9018745 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-9018806 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-9624893 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	reactome2go	Reactome:R-HSA-9693282 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	uniprotkb_kw2go	UniProtKB-KW:KW-0343 GTPase activation > GO:GTPase activator activity ; GO:0005096
+GO:0005096	unirule2go	UniRule:UR000136804 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	unirule2go	UniRule:UR000415210 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	unirule2go	UniRule:UR000859759 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	unirule2go	UniRule:UR001029753 > GO:GTPase activator activity ; GO:0005096
+GO:0005096	unirule2go	UniRule:UR001628761 > GO:GTPase activator activity ; GO:0005096
+GO:0008047	interpro2go	InterPro:IPR000671 Peptidase A31 family > GO:enzyme activator activity ; GO:0008047
+GO:0008047	interpro2go	InterPro:IPR001446 5-lipoxygenase-activating protein > GO:enzyme activator activity ; GO:0008047
+GO:0008047	interpro2go	InterPro:IPR001981 Colipase > GO:enzyme activator activity ; GO:0008047
+GO:0008047	interpro2go	InterPro:IPR008019 Apolipoprotein C-II > GO:enzyme activator activity ; GO:0008047
+GO:0008047	interpro2go	InterPro:IPR010334 mRNA-decapping enzyme subunit 1 > GO:enzyme activator activity ; GO:0008047
+GO:0008047	interpro2go	InterPro:IPR017913 Colipase, N-terminal > GO:enzyme activator activity ; GO:0008047
+GO:0008047	interpro2go	InterPro:IPR017914 Colipase, C-terminal > GO:enzyme activator activity ; GO:0008047
+GO:0008047	interpro2go	InterPro:IPR017915 Colipase, conserved site > GO:enzyme activator activity ; GO:0008047
+GO:0008047	interpro2go	InterPro:IPR018295 FLAP/GST2/LTC4S, conserved site > GO:enzyme activator activity ; GO:0008047
+GO:0008047	interpro2go	InterPro:IPR028996 Ganglioside GM2 activator > GO:enzyme activator activity ; GO:0008047
+GO:0008047	interpro2go	InterPro:IPR047576 Colipase, chordates > GO:enzyme activator activity ; GO:0008047
+GO:0008047	unirule2go	UniRule:UR001933782 > GO:enzyme activator activity ; GO:0008047
+GO:0008073	interpro2go	InterPro:IPR002993 Ornithine decarboxylase antizyme > GO:ornithine decarboxylase inhibitor activity ; GO:0008073
+GO:0008191	interpro2go	InterPro:IPR001820 Protease inhibitor I35 (TIMP) > GO:metalloendopeptidase inhibitor activity ; GO:0008191
+GO:0008191	interpro2go	InterPro:IPR019509 Carboxypeptidase inhibitor I68 > GO:metalloendopeptidase inhibitor activity ; GO:0008191
+GO:0008191	interpro2go	InterPro:IPR022815 Protease inhibitor > GO:metalloendopeptidase inhibitor activity ; GO:0008191
+GO:0008191	interpro2go	InterPro:IPR032767 Ascaris metallocarboxypeptidase inhibitor > GO:metalloendopeptidase inhibitor activity ; GO:0008191
+GO:0008191	interpro2go	InterPro:IPR039016 Reversion-inducing cysteine-rich protein with Kazal motifs > GO:metalloendopeptidase inhibitor activity ; GO:0008191
+GO:0008191	unirule2go	UniRule:UR001922984 > GO:metalloendopeptidase inhibitor activity ; GO:0008191
+GO:0008428	interpro2go	InterPro:IPR010203 Regulator of ribonuclease activity A > GO:ribonuclease inhibitor activity ; GO:0008428
+GO:0008428	interpro2go	InterPro:IPR014339 Regulator of ribonuclease activity A, gammaproteobacteria > GO:ribonuclease inhibitor activity ; GO:0008428
+GO:0008428	hamap2go	HAMAP:MF_01205 > GO:ribonuclease inhibitor activity ; GO:0008428
+GO:0008428	unirule2go	UniRule:UR000101148 > GO:ribonuclease inhibitor activity ; GO:0008428
+GO:0008597	interpro2go	InterPro:IPR015757 Calcineurin B protein > GO:calcium-dependent protein serine/threonine phosphatase regulator activity ; GO:0008597
+GO:0008597	reactome2go	Reactome:R-HSA-139906 > GO:calcium-dependent protein serine/threonine phosphatase regulator activity ; GO:0008597
+GO:0008603	interpro2go	InterPro:IPR012198 cAMP-dependent protein kinase regulatory subunit > GO:cAMP-dependent protein kinase regulator activity ; GO:0008603
+GO:0008656	reactome2go	Reactome:R-HSA-205117 > GO:cysteine-type endopeptidase activator activity involved in apoptotic process ; GO:0008656
+GO:0008656	reactome2go	Reactome:R-HSA-449073 > GO:cysteine-type endopeptidase activator activity involved in apoptotic process ; GO:0008656
+GO:0008657	interpro2go	InterPro:IPR002712 Toxin CcdB > GO:DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity ; GO:0008657
+GO:0008657	interpro2go	InterPro:IPR024911 DNA gyrase inhibitor GyrI > GO:DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity ; GO:0008657
+GO:0008657	hamap2go	HAMAP:MF_00649 > GO:DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity ; GO:0008657
+GO:0008657	hamap2go	HAMAP:MF_01896 > GO:DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity ; GO:0008657
+GO:0008657	unirule2go	UniRule:UR000030794 > GO:DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity ; GO:0008657
+GO:0008657	unirule2go	UniRule:UR000098286 > GO:DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity ; GO:0008657
+GO:0010521	hamap2go	HAMAP:MF_03176 > GO:telomerase inhibitor activity ; GO:0010521
+GO:0010521	unirule2go	UniRule:UR000112749 > GO:telomerase inhibitor activity ; GO:0010521
+GO:0010855	reactome2go	Reactome:R-HSA-400097 > GO:adenylate cyclase inhibitor activity ; GO:0010855
+GO:0010856	reactome2go	Reactome:R-HSA-163617 > GO:adenylate cyclase activator activity ; GO:0010856
+GO:0010856	reactome2go	Reactome:R-HSA-381704 > GO:adenylate cyclase activator activity ; GO:0010856
+GO:0015066	interpro2go	InterPro:IPR000833 Alpha-amylase inhibitor > GO:alpha-amylase inhibitor activity ; GO:0015066
+GO:0015066	interpro2go	InterPro:IPR036379 Alpha-amylase inhibitor superfamily > GO:alpha-amylase inhibitor activity ; GO:0015066
+GO:0015066	uniprotkb_kw2go	UniProtKB-KW:KW-0022 Alpha-amylase inhibitor > GO:alpha-amylase inhibitor activity ; GO:0015066
+GO:0015066	unirule2go	UniRule:UR001503775 > GO:alpha-amylase inhibitor activity ; GO:0015066
+GO:0016004	reactome2go	Reactome:R-HSA-400023 > GO:phospholipase activator activity ; GO:0016004
+GO:0016176	interpro2go	InterPro:IPR000919 Neutrophil cytosol factor P40 > GO:superoxide-generating NADPH oxidase activator activity ; GO:0016176
+GO:0016176	interpro2go	InterPro:IPR001655 Neutrophil cytosol factor 1 > GO:superoxide-generating NADPH oxidase activator activity ; GO:0016176
+GO:0016176	interpro2go	InterPro:IPR034889 Neutrophil cytosol factor 2, SH3 domain > GO:superoxide-generating NADPH oxidase activator activity ; GO:0016176
+GO:0016504	interpro2go	InterPro:IPR017048 Fibulin-1 > GO:peptidase activator activity ; GO:0016504
+GO:0016504	interpro2go	InterPro:IPR035309 Proteasome activator complex subunit 4 > GO:peptidase activator activity ; GO:0016504
+GO:0016504	reactome2go	Reactome:R-HSA-168865 > GO:peptidase activator activity ; GO:0016504
+GO:0016504	uniprotkb_kw2go	UniProtKB-KW:KW-0655 Prothrombin activator > GO:peptidase activator activity ; GO:0016504
+GO:0016538	interpro2go	InterPro:IPR000789 Cyclin-dependent kinase, regulatory subunit > GO:cyclin-dependent protein serine/threonine kinase regulator activity ; GO:0016538
+GO:0016538	interpro2go	InterPro:IPR027081 CyclinH/Ccl1 > GO:cyclin-dependent protein serine/threonine kinase regulator activity ; GO:0016538
+GO:0016538	interpro2go	InterPro:IPR036858 Cyclin-dependent kinase, regulatory subunit superfamily > GO:cyclin-dependent protein serine/threonine kinase regulator activity ; GO:0016538
+GO:0016538	interpro2go	InterPro:IPR043198 Cyclin/Cyclin-like subunit Ssn8 > GO:cyclin-dependent protein serine/threonine kinase regulator activity ; GO:0016538
+GO:0016538	interpro2go	InterPro:IPR046965 Cyclin A/B-like > GO:cyclin-dependent protein serine/threonine kinase regulator activity ; GO:0016538
+GO:0016538	reactome2go	Reactome:R-HSA-3215385 > GO:cyclin-dependent protein serine/threonine kinase regulator activity ; GO:0016538
+GO:0019208	interpro2go	InterPro:IPR017401 Protein phosphatase 1 regulatory subunit 12A/B/C > GO:phosphatase regulator activity ; GO:0019208
+GO:0019208	unirule2go	UniRule:UR000121514 > GO:phosphatase regulator activity ; GO:0019208
+GO:0019210	interpro2go	InterPro:IPR039620 BKI1/Probable membrane-associated kinase regulator 1/3/4 > GO:kinase inhibitor activity ; GO:0019210
+GO:0019211	interpro2go	InterPro:IPR004327 Phosphotyrosyl phosphatase activator, PTPA > GO:phosphatase activator activity ; GO:0019211
+GO:0019211	interpro2go	InterPro:IPR037218 PTPA superfamily > GO:phosphatase activator activity ; GO:0019211
+GO:0019828	uniprotkb_kw2go	UniProtKB-KW:KW-0062 Aspartic protease inhibitor > GO:aspartic-type endopeptidase inhibitor activity ; GO:0019828
+GO:0019834	interpro2go	InterPro:IPR016338 Phospholipase A2 inhibitor, gamma type > GO:phospholipase A2 inhibitor activity ; GO:0019834
+GO:0019834	uniprotkb_kw2go	UniProtKB-KW:KW-0593 Phospholipase A2 inhibitor > GO:phospholipase A2 inhibitor activity ; GO:0019834
+GO:0019834	unirule2go	UniRule:UR000417761 > GO:phospholipase A2 inhibitor activity ; GO:0019834
+GO:0019887	interpro2go	InterPro:IPR000704 Casein kinase II, regulatory subunit > GO:protein kinase regulator activity ; GO:0019887
+GO:0019887	interpro2go	InterPro:IPR016149 Casein kinase II, regulatory subunit, N-terminal > GO:protein kinase regulator activity ; GO:0019887
+GO:0019887	interpro2go	InterPro:IPR035991 Casein kinase II subunit beta-like > GO:protein kinase regulator activity ; GO:0019887
+GO:0019888	interpro2go	InterPro:IPR000009 Protein phosphatase 2A regulatory subunit PR55 > GO:protein phosphatase regulator activity ; GO:0019888
+GO:0019888	interpro2go	InterPro:IPR002554 Protein phosphatase 2A, regulatory B subunit, B56 > GO:protein phosphatase regulator activity ; GO:0019888
+GO:0019888	interpro2go	InterPro:IPR005605 Sporulation-specific protein Spo7 > GO:protein phosphatase regulator activity ; GO:0019888
+GO:0019888	interpro2go	InterPro:IPR015267 Protein phosphatase 4 core regulatory subunit R2 > GO:protein phosphatase regulator activity ; GO:0019888
+GO:0019888	interpro2go	InterPro:IPR017417 Protein phosphatase 1, regulatory subunit 16A/B > GO:protein phosphatase regulator activity ; GO:0019888
+GO:0019888	interpro2go	InterPro:IPR026241 GLC7-interacting protein 4 > GO:protein phosphatase regulator activity ; GO:0019888
+GO:0019888	interpro2go	InterPro:IPR030682 Protein phosphatase 1 regulatory subunit 3B > GO:protein phosphatase regulator activity ; GO:0019888
+GO:0019888	reactome2go	Reactome:R-HSA-180038 > GO:protein phosphatase regulator activity ; GO:0019888
+GO:0019888	unirule2go	UniRule:UR000570761 > GO:protein phosphatase regulator activity ; GO:0019888
+GO:0030234	interpro2go	InterPro:IPR002187 Nitrogen regulatory protein PII > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR002332 Nitrogen regulatory protein P-II, urydylation site > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR005774 UTP-glucose pyrophosphorylase, regulatory subunit > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR008028 Sarcolipin > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR008367 Regucalcin > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR009914 Dolichol phosphate-mannose biosynthesis regulatory > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR012589 Plasma membrane ATPase proteolipid > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR013586 26S proteasome regulatory subunit, C-terminal > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR016642 26S proteasome regulatory complex, non-ATPase subcomplex, Rpn2/Psmd1 subunit > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR016643 26S proteasome regulatory complex, non-ATPase subcomplex, Rpn1 subunit > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR017918 Nitrogen regulatory protein PII, conserved site > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	interpro2go	InterPro:IPR031581 Mannosyl phosphorylinositol ceramide synthase regulatory protein Csg2 > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	hamap2go	HAMAP:MF_01889 > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	hamap2go	HAMAP:MF_01890 > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	unirule2go	UniRule:UR000058577 > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	unirule2go	UniRule:UR000058578 > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	unirule2go	UniRule:UR000759782 > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	unirule2go	UniRule:UR000777776 > GO:enzyme regulator activity ; GO:0030234
+GO:0030234	unirule2go	UniRule:UR001029768 > GO:enzyme regulator activity ; GO:0030234
+GO:0030235	reactome2go	Reactome:R-HSA-202129 > GO:nitric-oxide synthase regulator activity ; GO:0030235
+GO:0030235	reactome2go	Reactome:R-HSA-202144 > GO:nitric-oxide synthase regulator activity ; GO:0030235
+GO:0030250	interpro2go	InterPro:IPR000879 Guanylin > GO:guanylate cyclase activator activity ; GO:0030250
+GO:0030250	interpro2go	InterPro:IPR036382 Guanylin superfamily > GO:guanylate cyclase activator activity ; GO:0030250
+GO:0030291	interpro2go	InterPro:IPR039201 PAK4-inhibitor inka > GO:protein serine/threonine kinase inhibitor activity ; GO:0030291
+GO:0030291	uniprotkb_kw2go	UniProtKB-KW:KW-1102 Inhibition of host PKR by virus > GO:protein serine/threonine kinase inhibitor activity ; GO:0030291
+GO:0030295	interpro2go	InterPro:IPR039154 Serine/Threonine kinase LKB1, catalytic domain > GO:protein kinase activator activity ; GO:0030295
+GO:0030298	interpro2go	InterPro:IPR029364 ALK and LTK ligand 1/2 > GO:receptor signaling protein tyrosine kinase activator activity ; GO:0030298
+GO:0030337	interpro2go	InterPro:IPR000730 Proliferating cell nuclear antigen, PCNA > GO:DNA polymerase processivity factor activity ; GO:0030337
+GO:0030337	interpro2go	InterPro:IPR004997 Herpesvirus polymerase accessory protein > GO:DNA polymerase processivity factor activity ; GO:0030337
+GO:0030337	interpro2go	InterPro:IPR046389 Sliding clamp > GO:DNA polymerase processivity factor activity ; GO:0030337
+GO:0030337	hamap2go	HAMAP:MF_00317 > GO:DNA polymerase processivity factor activity ; GO:0030337
+GO:0030337	hamap2go	HAMAP:MF_04161 > GO:DNA polymerase processivity factor activity ; GO:0030337
+GO:0030337	unirule2go	UniRule:UR000036407 > GO:DNA polymerase processivity factor activity ; GO:0030337
+GO:0030337	unirule2go	UniRule:UR001589760 > GO:DNA polymerase processivity factor activity ; GO:0030337
+GO:0030414	interpro2go	InterPro:IPR008037 Pacifastin domain > GO:peptidase inhibitor activity ; GO:0030414
+GO:0030414	interpro2go	InterPro:IPR008197 WAP-type 'four-disulfide core' domain > GO:peptidase inhibitor activity ; GO:0030414
+GO:0030414	interpro2go	InterPro:IPR008296 Tissue factor pathway inhibitor-like > GO:peptidase inhibitor activity ; GO:0030414
+GO:0030414	interpro2go	InterPro:IPR016397 Protein K3-like, poxvirus > GO:peptidase inhibitor activity ; GO:0030414
+GO:0030414	interpro2go	InterPro:IPR021066 Fungal protease inhibitor-1 > GO:peptidase inhibitor activity ; GO:0030414
+GO:0030414	interpro2go	InterPro:IPR036201 Pacifastin domain superfamily > GO:peptidase inhibitor activity ; GO:0030414
+GO:0030414	uniprotkb_kw2go	UniProtKB-KW:KW-0082 Bait region > GO:peptidase inhibitor activity ; GO:0030414
+GO:0030414	uniprotkb_kw2go	UniProtKB-KW:KW-0483 Metalloprotease inhibitor > GO:peptidase inhibitor activity ; GO:0030414
+GO:0030414	uniprotkb_kw2go	UniProtKB-KW:KW-0646 Protease inhibitor > GO:peptidase inhibitor activity ; GO:0030414
+GO:0030695	interpro2go	InterPro:IPR003109 GoLoco motif > GO:GTPase regulator activity ; GO:0030695
+GO:0030695	interpro2go	InterPro:IPR037880 RGS12, RGS domain > GO:GTPase regulator activity ; GO:0030695
+GO:0036487	reactome2go	Reactome:R-HSA-203712 > GO:nitric-oxide synthase inhibitor activity ; GO:0036487
+GO:0042978	interpro2go	InterPro:IPR031178 Antizyme inhibitor 1 > GO:ornithine decarboxylase activator activity ; GO:0042978
+GO:0043027	interpro2go	InterPro:IPR003429 Baculovirus p35, apoptosis preventing protein > GO:cysteine-type endopeptidase inhibitor activity involved in apoptotic process ; GO:0043027
+GO:0043027	interpro2go	InterPro:IPR028789 Baculoviral IAP repeat-containing protein 1 > GO:cysteine-type endopeptidase inhibitor activity involved in apoptotic process ; GO:0043027
+GO:0043539	interpro2go	InterPro:IPR004832 TCL1/MTCP1 > GO:protein serine/threonine kinase activator activity ; GO:0043539
+GO:0043539	interpro2go	InterPro:IPR045593 Atg11, middle domain > GO:protein serine/threonine kinase activator activity ; GO:0043539
+GO:0043539	interpro2go	InterPro:IPR047173 STE20-related kinase adapter protein alpha/beta-like > GO:protein serine/threonine kinase activator activity ; GO:0043539
+GO:0046863	unirule2go	UniRule:UR001693751 > GO:ribulose-1,5-bisphosphate carboxylase/oxygenase activator activity ; GO:0046863
+GO:0046910	interpro2go	InterPro:IPR034086 Pectinesterase inhibitor, plant > GO:pectinesterase inhibitor activity ; GO:0046910
+GO:0046935	interpro2go	InterPro:IPR019522 Phosphoinositide 3-kinase regulatory subunit 5/6 > GO:1-phosphatidylinositol-3-kinase regulator activity ; GO:0046935
+GO:0060422	wikipedia2go	Wikipedia:ACE_inhibitor > GO:peptidyl-dipeptidase inhibitor activity ; GO:0060422
+GO:0060698	hamap2go	HAMAP:MF_00471 > GO:endoribonuclease inhibitor activity ; GO:0060698
+GO:0060698	hamap2go	HAMAP:MF_01888 > GO:endoribonuclease inhibitor activity ; GO:0060698
+GO:0060698	unirule2go	UniRule:UR000001297 > GO:endoribonuclease inhibitor activity ; GO:0060698
+GO:0060698	unirule2go	UniRule:UR000031316 > GO:endoribonuclease inhibitor activity ; GO:0060698
+GO:0060703	interpro2go	InterPro:IPR009274 Host-nuclease inhibitor Gam > GO:deoxyribonuclease inhibitor activity ; GO:0060703
+GO:0060703	interpro2go	InterPro:IPR017299 DNA fragmentation factor 45 > GO:deoxyribonuclease inhibitor activity ; GO:0060703
+GO:0061575	interpro2go	InterPro:IPR004575 Cdk-activating kinase assembly factor MAT1/Tfb3 > GO:cyclin-dependent protein serine/threonine kinase activator activity ; GO:0061575
+GO:0061575	interpro2go	InterPro:IPR004944 Cyclin-dependent kinase 5 activator > GO:cyclin-dependent protein serine/threonine kinase activator activity ; GO:0061575
+GO:0061575	unirule2go	UniRule:UR001116792 > GO:cyclin-dependent protein serine/threonine kinase activator activity ; GO:0061575
+GO:0070917	interpro2go	InterPro:IPR013862 Inositolphosphorylceramide synthase subunit Kei1 > GO:inositol phosphoceramide synthase regulator activity ; GO:0070917
+GO:0072542	unirule2go	UniRule:UR001453775 > GO:protein phosphatase activator activity ; GO:0072542
+GO:0097027	interpro2go	InterPro:IPR033010 WD repeat Cdc20/Fizzy > GO:ubiquitin-protein transferase activator activity ; GO:0097027
+GO:0141039	interpro2go	InterPro:IPR039724 WD repeat-containing protein 91 > GO:phosphatidylinositol 3-kinase inhibitor activity ; GO:0141039
