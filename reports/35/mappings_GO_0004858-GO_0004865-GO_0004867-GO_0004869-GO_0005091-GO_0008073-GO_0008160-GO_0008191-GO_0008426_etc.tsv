@@ -1,0 +1,118 @@
+term	file	line
+GO:0004865	interpro2go	InterPro:IPR011107 Type 1 protein phosphatase inhibitor > GO:protein serine/threonine phosphatase inhibitor activity ; GO:0004865
+GO:0004865	interpro2go	InterPro:IPR026716 PABIR1/2/3 > GO:protein serine/threonine phosphatase inhibitor activity ; GO:0004865
+GO:0004865	uniprotkb_kw2go	UniProtKB-KW:KW-1126 Modulation of host PP1 activity by virus > GO:protein serine/threonine phosphatase inhibitor activity ; GO:0004865
+GO:0004865	unirule2go	UniRule:UR001478803 > GO:protein serine/threonine phosphatase inhibitor activity ; GO:0004865
+GO:0004867	interpro2go	InterPro:IPR000215 Serpin family > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR000240 Serpin B9/maspin > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR000429 Proteinase inhibitor I14, hirudin > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR000691 Proteinase inhibitor I16, Streptomyces subtilisin-type inhibitor > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR000737 Proteinase inhibitor I7, squash > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR000864 Proteinase inhibitor I13, potato inhibitor I > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR000877 Proteinase inhibitor I12, Bowman-Birk > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR001239 Proteinase inhibitor I1, Kazal-type, metazoa > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR002223 Pancreatic trypsin inhibitor Kunitz domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR002411 Cereal allergen/alpha-amylase inhibitor, rice type > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR003465 Proteinase inhibitor I20 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR004094 Antistasin-like domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR005658 Proteinase inhibitor I11, ecotin > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR006105 Cereal seed allergen/trypsin and alpha-amylase inhibitor, conserved site > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR006106 Cereal seed allergen/grain softness/trypsin and alpha-amylase inhibitor > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR008086 Proteinase inhibitor I15, leech antistasin > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR010600 Inter-alpha-trypsin inhibitor heavy chain, C-terminal > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR015556 Plasminogen activator inhibitor-2 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR020054 Proteinase inhibitor I16, Streptomyces subtilisin-type inhibitor, conserved site > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR023084 Proteinase inhibitor I11, ecotin, gammaproteobacteria > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR023549 Subtilisin inhibitor > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR024793 Thrombin inhibitor hirudin > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR031755 Peptidase inhibitor I66 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR033829 Antithrombin-III, serpin domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR033830 Serpin H1, serpin domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR033831 Heparin cofactor II, serpin domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR033833 Alpha2-antiplasmin, serpin domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR033835 Protein Z-dependent peptidase inhibitor, serpin domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR033836 Maspin, serpin domain > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR035995 Bowman-Birk type proteinase inhibitor > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR036819 Subtilisin inhibitor-like superfamily > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR036880 Pancreatic trypsin inhibitor Kunitz domain superfamily > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR039932 Serine protease inhibitor Kazal-type 4-like > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR042167 Serine protease inhibitor Kazal-type 2 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR044167 Bowman-Birk type wound-induced proteinase inhibitor WIP1 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	interpro2go	InterPro:IPR048197 Papain inhibitor > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	reactome2go	Reactome:R-HSA-158795 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	reactome2go	Reactome:R-HSA-158800 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	reactome2go	Reactome:R-HSA-158893 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	reactome2go	Reactome:R-HSA-159001 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	reactome2go	Reactome:R-HSA-159005 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	uniprotkb_kw2go	UniProtKB-KW:KW-0722 Serine protease inhibitor > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	hamap2go	HAMAP:MF_00706 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	hamap2go	HAMAP:MF_00778 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	unirule2go	UniRule:UR000098374 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	unirule2go	UniRule:UR000100120 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	unirule2go	UniRule:UR000121505 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	unirule2go	UniRule:UR000414509 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004867	unirule2go	UniRule:UR001116778 > GO:serine-type endopeptidase inhibitor activity ; GO:0004867
+GO:0004869	interpro2go	InterPro:IPR000010 Cystatin domain > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0004869	interpro2go	InterPro:IPR019508 Proteinase inhibitor I48, clitocypin > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0004869	interpro2go	InterPro:IPR027214 Cystatin > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0004869	interpro2go	InterPro:IPR037296 Staphostatin A/B > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0004869	interpro2go	InterPro:IPR042886 Cystatin-F > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0004869	interpro2go	InterPro:IPR042930 Cystatin-11 > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0004869	interpro2go	InterPro:IPR048197 Papain inhibitor > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0004869	uniprotkb_kw2go	UniProtKB-KW:KW-0789 Thiol protease inhibitor > GO:cysteine-type endopeptidase inhibitor activity ; GO:0004869
+GO:0008073	interpro2go	InterPro:IPR002993 Ornithine decarboxylase antizyme > GO:ornithine decarboxylase inhibitor activity ; GO:0008073
+GO:0008191	interpro2go	InterPro:IPR001820 Protease inhibitor I35 (TIMP) > GO:metalloendopeptidase inhibitor activity ; GO:0008191
+GO:0008191	interpro2go	InterPro:IPR019509 Carboxypeptidase inhibitor I68 > GO:metalloendopeptidase inhibitor activity ; GO:0008191
+GO:0008191	interpro2go	InterPro:IPR022815 Protease inhibitor > GO:metalloendopeptidase inhibitor activity ; GO:0008191
+GO:0008191	interpro2go	InterPro:IPR032767 Ascaris metallocarboxypeptidase inhibitor > GO:metalloendopeptidase inhibitor activity ; GO:0008191
+GO:0008191	interpro2go	InterPro:IPR039016 Reversion-inducing cysteine-rich protein with Kazal motifs > GO:metalloendopeptidase inhibitor activity ; GO:0008191
+GO:0008191	unirule2go	UniRule:UR001922984 > GO:metalloendopeptidase inhibitor activity ; GO:0008191
+GO:0008597	interpro2go	InterPro:IPR015757 Calcineurin B protein > GO:calcium-dependent protein serine/threonine phosphatase regulator activity ; GO:0008597
+GO:0008597	reactome2go	Reactome:R-HSA-139906 > GO:calcium-dependent protein serine/threonine phosphatase regulator activity ; GO:0008597
+GO:0008603	interpro2go	InterPro:IPR012198 cAMP-dependent protein kinase regulatory subunit > GO:cAMP-dependent protein kinase regulator activity ; GO:0008603
+GO:0008656	reactome2go	Reactome:R-HSA-205117 > GO:cysteine-type endopeptidase activator activity involved in apoptotic process ; GO:0008656
+GO:0008656	reactome2go	Reactome:R-HSA-449073 > GO:cysteine-type endopeptidase activator activity involved in apoptotic process ; GO:0008656
+GO:0008657	interpro2go	InterPro:IPR002712 Toxin CcdB > GO:DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity ; GO:0008657
+GO:0008657	interpro2go	InterPro:IPR024911 DNA gyrase inhibitor GyrI > GO:DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity ; GO:0008657
+GO:0008657	hamap2go	HAMAP:MF_00649 > GO:DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity ; GO:0008657
+GO:0008657	hamap2go	HAMAP:MF_01896 > GO:DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity ; GO:0008657
+GO:0008657	unirule2go	UniRule:UR000030794 > GO:DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity ; GO:0008657
+GO:0008657	unirule2go	UniRule:UR000098286 > GO:DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity ; GO:0008657
+GO:0010521	hamap2go	HAMAP:MF_03176 > GO:telomerase inhibitor activity ; GO:0010521
+GO:0010521	unirule2go	UniRule:UR000112749 > GO:telomerase inhibitor activity ; GO:0010521
+GO:0016176	interpro2go	InterPro:IPR000919 Neutrophil cytosol factor P40 > GO:superoxide-generating NADPH oxidase activator activity ; GO:0016176
+GO:0016176	interpro2go	InterPro:IPR001655 Neutrophil cytosol factor 1 > GO:superoxide-generating NADPH oxidase activator activity ; GO:0016176
+GO:0016176	interpro2go	InterPro:IPR034889 Neutrophil cytosol factor 2, SH3 domain > GO:superoxide-generating NADPH oxidase activator activity ; GO:0016176
+GO:0019208	interpro2go	InterPro:IPR017401 Protein phosphatase 1 regulatory subunit 12A/B/C > GO:phosphatase regulator activity ; GO:0019208
+GO:0019208	unirule2go	UniRule:UR000121514 > GO:phosphatase regulator activity ; GO:0019208
+GO:0019210	interpro2go	InterPro:IPR039620 BKI1/Probable membrane-associated kinase regulator 1/3/4 > GO:kinase inhibitor activity ; GO:0019210
+GO:0019211	interpro2go	InterPro:IPR004327 Phosphotyrosyl phosphatase activator, PTPA > GO:phosphatase activator activity ; GO:0019211
+GO:0019211	interpro2go	InterPro:IPR037218 PTPA superfamily > GO:phosphatase activator activity ; GO:0019211
+GO:0019828	uniprotkb_kw2go	UniProtKB-KW:KW-0062 Aspartic protease inhibitor > GO:aspartic-type endopeptidase inhibitor activity ; GO:0019828
+GO:0019834	interpro2go	InterPro:IPR016338 Phospholipase A2 inhibitor, gamma type > GO:phospholipase A2 inhibitor activity ; GO:0019834
+GO:0019834	uniprotkb_kw2go	UniProtKB-KW:KW-0593 Phospholipase A2 inhibitor > GO:phospholipase A2 inhibitor activity ; GO:0019834
+GO:0019834	unirule2go	UniRule:UR000417761 > GO:phospholipase A2 inhibitor activity ; GO:0019834
+GO:0030250	interpro2go	InterPro:IPR000879 Guanylin > GO:guanylate cyclase activator activity ; GO:0030250
+GO:0030250	interpro2go	InterPro:IPR036382 Guanylin superfamily > GO:guanylate cyclase activator activity ; GO:0030250
+GO:0030290	reactome2go	Reactome:R-HSA-1605717 > GO:sphingolipid activator protein activity ; GO:0030290
+GO:0030290	reactome2go	Reactome:R-HSA-9840470 > GO:sphingolipid activator protein activity ; GO:0030290
+GO:0030291	interpro2go	InterPro:IPR039201 PAK4-inhibitor inka > GO:protein serine/threonine kinase inhibitor activity ; GO:0030291
+GO:0030291	uniprotkb_kw2go	UniProtKB-KW:KW-1102 Inhibition of host PKR by virus > GO:protein serine/threonine kinase inhibitor activity ; GO:0030291
+GO:0030298	interpro2go	InterPro:IPR029364 ALK and LTK ligand 1/2 > GO:receptor signaling protein tyrosine kinase activator activity ; GO:0030298
+GO:0042978	interpro2go	InterPro:IPR031178 Antizyme inhibitor 1 > GO:ornithine decarboxylase activator activity ; GO:0042978
+GO:0043027	interpro2go	InterPro:IPR003429 Baculovirus p35, apoptosis preventing protein > GO:cysteine-type endopeptidase inhibitor activity involved in apoptotic process ; GO:0043027
+GO:0043027	interpro2go	InterPro:IPR028789 Baculoviral IAP repeat-containing protein 1 > GO:cysteine-type endopeptidase inhibitor activity involved in apoptotic process ; GO:0043027
+GO:0043539	interpro2go	InterPro:IPR004832 TCL1/MTCP1 > GO:protein serine/threonine kinase activator activity ; GO:0043539
+GO:0043539	interpro2go	InterPro:IPR045593 Atg11, middle domain > GO:protein serine/threonine kinase activator activity ; GO:0043539
+GO:0043539	interpro2go	InterPro:IPR047173 STE20-related kinase adapter protein alpha/beta-like > GO:protein serine/threonine kinase activator activity ; GO:0043539
+GO:0046863	unirule2go	UniRule:UR001693751 > GO:ribulose-1,5-bisphosphate carboxylase/oxygenase activator activity ; GO:0046863
+GO:0046935	interpro2go	InterPro:IPR019522 Phosphoinositide 3-kinase regulatory subunit 5/6 > GO:1-phosphatidylinositol-3-kinase regulator activity ; GO:0046935
+GO:0060422	wikipedia2go	Wikipedia:ACE_inhibitor > GO:peptidyl-dipeptidase inhibitor activity ; GO:0060422
+GO:0060698	hamap2go	HAMAP:MF_00471 > GO:endoribonuclease inhibitor activity ; GO:0060698
+GO:0060698	hamap2go	HAMAP:MF_01888 > GO:endoribonuclease inhibitor activity ; GO:0060698
+GO:0060698	unirule2go	UniRule:UR000001297 > GO:endoribonuclease inhibitor activity ; GO:0060698
+GO:0060698	unirule2go	UniRule:UR000031316 > GO:endoribonuclease inhibitor activity ; GO:0060698
+GO:0070917	interpro2go	InterPro:IPR013862 Inositolphosphorylceramide synthase subunit Kei1 > GO:inositol phosphoceramide synthase regulator activity ; GO:0070917
+GO:0141039	interpro2go	InterPro:IPR039724 WD repeat-containing protein 91 > GO:phosphatidylinositol 3-kinase inhibitor activity ; GO:0141039
+GO:1990610	interpro2go	InterPro:IPR004789 Acetolactate synthase, small subunit > GO:acetolactate synthase regulator activity ; GO:1990610
+GO:1990610	unirule2go	UniRule:UR001590777 > GO:acetolactate synthase regulator activity ; GO:1990610
