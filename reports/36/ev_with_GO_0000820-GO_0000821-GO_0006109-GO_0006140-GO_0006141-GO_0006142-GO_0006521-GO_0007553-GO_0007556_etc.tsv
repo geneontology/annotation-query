@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	MGI:MGI:99779	Chrna7	PMID:20164328		GO:0051823	regulation of synapse structural plasticity	IMP	GO:0051247		PANTHER:PTHR18945	20230517	UBERON:0018241|UBERON:0002421	NCBITaxon:10090

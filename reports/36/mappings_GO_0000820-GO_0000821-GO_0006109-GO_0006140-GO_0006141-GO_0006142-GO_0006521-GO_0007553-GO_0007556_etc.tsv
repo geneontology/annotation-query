@@ -1,0 +1,30 @@
+term	file	line
+GO:0000820	hamap2go	HAMAP:MF_00802 > GO:regulation of glutamine family amino acid metabolic process ; GO:0000820
+GO:0000820	unirule2go	UniRule:UR000100229 > GO:regulation of glutamine family amino acid metabolic process ; GO:0000820
+GO:0006109	interpro2go	InterPro:IPR003751 Translational regulator CsrA > GO:regulation of carbohydrate metabolic process ; GO:0006109
+GO:0006109	interpro2go	InterPro:IPR003755 HPr(Ser) kinase/phosphorylase > GO:regulation of carbohydrate metabolic process ; GO:0006109
+GO:0006109	interpro2go	InterPro:IPR011104 HPr kinase/phosphorylase, C-terminal > GO:regulation of carbohydrate metabolic process ; GO:0006109
+GO:0006109	interpro2go	InterPro:IPR011126 HPr(Ser) kinase/phosphorylase, N-terminal > GO:regulation of carbohydrate metabolic process ; GO:0006109
+GO:0006109	interpro2go	InterPro:IPR036107 Carbon storage regulator superfamily > GO:regulation of carbohydrate metabolic process ; GO:0006109
+GO:0006109	hamap2go	HAMAP:MF_00167 > GO:regulation of carbohydrate metabolic process ; GO:0006109
+GO:0006109	hamap2go	HAMAP:MF_01249 > GO:regulation of carbohydrate metabolic process ; GO:0006109
+GO:0006109	unirule2go	UniRule:UR000009905 > GO:regulation of carbohydrate metabolic process ; GO:0006109
+GO:0006109	unirule2go	UniRule:UR000101441 > GO:regulation of carbohydrate metabolic process ; GO:0006109
+GO:0006521	reactome2go	Reactome:R-HSA-350562 > GO:regulation of amino acid metabolic process ; GO:0006521
+GO:0019216	interpro2go	InterPro:IPR026614 Angiopoietin-like protein 8 > GO:regulation of lipid metabolic process ; GO:0019216
+GO:0019216	reactome2go	Reactome:R-HSA-2426168 > GO:regulation of lipid metabolic process ; GO:0019216
+GO:0019216	reactome2go	Reactome:R-HSA-400206 > GO:regulation of lipid metabolic process ; GO:0019216
+GO:0019216	unirule2go	UniRule:UR000342797 > GO:regulation of lipid metabolic process ; GO:0019216
+GO:0019217	interpro2go	InterPro:IPR014178 Fatty acid response transcription factor FadR > GO:regulation of fatty acid metabolic process ; GO:0019217
+GO:0019217	interpro2go	InterPro:IPR028374 FadR, C-terminal domain > GO:regulation of fatty acid metabolic process ; GO:0019217
+GO:0019217	hamap2go	HAMAP:MF_00696 > GO:regulation of fatty acid metabolic process ; GO:0019217
+GO:0019217	unirule2go	UniRule:UR000065677 > GO:regulation of fatty acid metabolic process ; GO:0019217
+GO:0045913	hamap2go	HAMAP:MF_01247 > GO:positive regulation of carbohydrate metabolic process ; GO:0045913
+GO:0045913	unirule2go	UniRule:UR000101433 > GO:positive regulation of carbohydrate metabolic process ; GO:0045913
+GO:0045936	interpro2go	InterPro:IPR028366 Phosphate transport system protein PhoU > GO:negative regulation of phosphate metabolic process ; GO:0045936
+GO:0045982	interpro2go	InterPro:IPR010078 Pur operon repressor > GO:negative regulation of purine nucleobase metabolic process ; GO:0045982
+GO:0051252	interpro2go	InterPro:IPR010203 Regulator of ribonuclease activity A > GO:regulation of RNA metabolic process ; GO:0051252
+GO:0051252	interpro2go	InterPro:IPR014339 Regulator of ribonuclease activity A, gammaproteobacteria > GO:regulation of RNA metabolic process ; GO:0051252
+GO:0062012	reactome2go	Reactome:R-HSA-9861718 > GO:regulation of small molecule metabolic process ; GO:0062012
+GO:2000762	interpro2go	InterPro:IPR039638 Mediator of RNA polymerase II transcription subunit 33A/B > GO:regulation of phenylpropanoid metabolic process ; GO:2000762
+GO:2000762	interpro2go	InterPro:IPR044595 F-box/kelch-repeat protein KMD1-4 > GO:regulation of phenylpropanoid metabolic process ; GO:2000762
