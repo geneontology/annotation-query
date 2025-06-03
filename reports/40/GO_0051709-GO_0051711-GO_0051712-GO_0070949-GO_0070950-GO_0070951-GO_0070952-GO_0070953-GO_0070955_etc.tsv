@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P14222	PRF1	PMID:9756476		GO:0051712	positive regulation of killing of cells of another organism	IDA		UniProtKB:P14222	PANTHER:PTHR46096	20170425		NCBITaxon:9606
+MGI	MGI:MGI:1096868	Cxcl5	PMID:20643340		GO:0070951	regulation of neutrophil mediated killing of gram-negative bacterium	IMP	MGI:MGI:4819800		PANTHER:PTHR12015	20120123		NCBITaxon:10090
