@@ -1,0 +1,4 @@
+term	file	line
+GO:0019348	interpro2go	InterPro:IPR009914 Dolichol phosphate-mannose biosynthesis regulatory > GO:dolichol metabolic process ; GO:0019348
+GO:0019348	unirule2go	UniRule:UR001029768 > GO:dolichol metabolic process ; GO:0019348
+GO:0019348	unirule2go	UniRule:UR001419776 > GO:dolichol metabolic process ; GO:0019348
