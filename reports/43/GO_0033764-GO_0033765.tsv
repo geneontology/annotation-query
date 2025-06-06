@@ -1,0 +1,15 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CAFA	MGI:MGI:1924587	Akr1c21	PMID:20124700		GO:0033764	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IMP			PANTHER:PTHR11732	20161125		NCBITaxon:10090
+EcoCyc	UniProtKB:P37769	kduD	PMID:24509771		GO:0033764	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR42760	20140618		NCBITaxon:83333
+MGI	MGI:MGI:1924587	Akr1c21	PMID:17034817		GO:0033764	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR11732	20111228		NCBITaxon:10090
+MGI	MGI:MGI:1924587	Akr1c21	PMID:17442338		GO:0033764	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR11732	20111228		NCBITaxon:10090
+Reactome	UniProtKB:Q04828	AKR1C1	Reactome:R-HSA-9758682		GO:0033764	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	TAS		UniProtKB:Q04828	PANTHER:PTHR11732	20211105		NCBITaxon:9606
+UniProt	UniProtKB:A7B4V1	RUMGNA_02585	PMID:23729502		GO:0033764	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20180612		NCBITaxon:411470
+UniProt	UniProtKB:P07914	baiA1	PMID:23836456		GO:0033764	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20170223		NCBITaxon:29347
+UniProt	UniProtKB:P19337	baiA2	PMID:23836456		GO:0033764	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA				20170223		NCBITaxon:29347
+ZFIN	ZFIN:ZDB-GENE-030804-21	hsd20b2	PMID:32315721		GO:0033764	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR43899	20210106	CHEBI:28324	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-030804-21	hsd20b2	PMID:32315721		GO:0033764	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR43899	20210106	CHEBI:17252	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-030804-21	hsd20b2	PMID:32315721		GO:0033764	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	IDA			PANTHER:PTHR43899	20210106	CHEBI:17026	NCBITaxon:7955
+UniProt	UniProtKB:Q7D5C1	kstD	PMID:16000729		GO:0033765	steroid dehydrogenase activity, acting on the CH-CH group of donors	IDA				20120319		NCBITaxon:83331
+UniProt	UniProtKB:A0R4H4	MSMEG_5835	PMID:16000729		GO:0033765	steroid dehydrogenase activity, acting on the CH-CH group of donors	IMP				20101125		NCBITaxon:246196
+UniProt	UniProtKB:A0R4S9	ksdD	PMID:16000729		GO:0033765	steroid dehydrogenase activity, acting on the CH-CH group of donors	IDA				20120319		NCBITaxon:246196
