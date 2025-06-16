@@ -1,0 +1,17 @@
+term	file	line
+GO:0006561	interpro2go	InterPro:IPR000304 Pyrroline-5-carboxylate reductase-like > GO:proline biosynthetic process ; GO:0006561
+GO:0006561	interpro2go	InterPro:IPR000965 GPR domain > GO:proline biosynthetic process ; GO:0006561
+GO:0006561	interpro2go	InterPro:IPR005715 Glutamate 5-kinase/delta-1-pyrroline-5-carboxylate synthase > GO:proline biosynthetic process ; GO:0006561
+GO:0006561	interpro2go	InterPro:IPR005766 Delta l-pyrroline-5-carboxylate synthetase > GO:proline biosynthetic process ; GO:0006561
+GO:0006561	interpro2go	InterPro:IPR005933 Bifunctional protein PutA, C-terminal domain > GO:proline biosynthetic process ; GO:0006561
+GO:0006561	interpro2go	InterPro:IPR011529 Glutamate 5-kinase > GO:proline biosynthetic process ; GO:0006561
+GO:0006561	interpro2go	InterPro:IPR012134 Glutamate-5-semialdehyde dehydrogenase > GO:proline biosynthetic process ; GO:0006561
+GO:0006561	interpro2go	InterPro:IPR019797 Glutamate 5-kinase, conserved site > GO:proline biosynthetic process ; GO:0006561
+GO:0006561	interpro2go	InterPro:IPR020593 Gamma-glutamyl phosphate reductase GPR, conserved site > GO:proline biosynthetic process ; GO:0006561
+GO:0006561	unirule2go	UniRule:UR000172770 > GO:proline biosynthetic process ; GO:0006561
+GO:0006561	unirule2go	UniRule:UR001996139 > GO:proline biosynthetic process ; GO:0006561
+GO:0006561	metacyc2go	MetaCyc:PROSYN-PWY > GO:proline biosynthetic process ; GO:0006561
+GO:0006561	metacyc2go	MetaCyc:PWY-3341 > GO:proline biosynthetic process ; GO:0006561
+GO:0006561	metacyc2go	MetaCyc:PWY-4281 > GO:proline biosynthetic process ; GO:0006561
+GO:0006561	metacyc2go	MetaCyc:PWY-4981 > GO:proline biosynthetic process ; GO:0006561
+GO:0006561	uniprotkb_kw2go	UniProtKB-KW:KW-0641 Proline biosynthesis > GO:proline biosynthetic process ; GO:0006561
