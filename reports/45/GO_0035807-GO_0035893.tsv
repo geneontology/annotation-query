@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SigSci	UniProtKB:P0C0J0	speB	PMID:24278414		GO:0035893	suppression of platelet aggregation in another organism	EXP				20250220		NCBITaxon:1314
+UniProt	UniProtKB:Q95P65	Q95P65	PMID:20351782		GO:0035893	suppression of platelet aggregation in another organism	IDA				20240912		NCBITaxon:37546
+UniProt	UniProtKB:G3CJR9	G3CJR9	PMID:23564450		GO:0035893	suppression of platelet aggregation in another organism	IDA				20240829		NCBITaxon:72496
+UniProt	UniProtKB:A6YPK1	A6YPK1	PMID:23564450		GO:0035893	suppression of platelet aggregation in another organism	IDA				20240829		NCBITaxon:30076
+UniProt	UniProtKB:D1FQ14	D1FQ14	PMID:24921659		GO:0035893	suppression of platelet aggregation in another organism	IDA				20240916		NCBITaxon:683695
+UniProt	UniProtKB:L0MZ46	L0MZ46	PMID:25724270		GO:0035893	suppression of platelet aggregation in another organism	IDA				20240829		NCBITaxon:252632
+UniProt	UniProtKB:Q5TVM9	AgaP_AGAP011026	PMID:39294191		GO:0035893	suppression of platelet aggregation in another organism	IDA			PANTHER:PTHR11575	20250106		NCBITaxon:7165
