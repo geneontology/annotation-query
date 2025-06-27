@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000001475	IRC24	PMID:37602278		GO:0102306	benzil reductase [(S)-benzoin-forming] activity	IDA		UniProtKB:P40580	PANTHER:PTHR43008	20230829		NCBITaxon:559292
+SGD	SGD:S000001474	NRE1	PMID:37602278		GO:0102306	benzil reductase [(S)-benzoin-forming] activity	IDA		UniProtKB:P40579	PANTHER:PTHR43008	20230829		NCBITaxon:559292

@@ -1,0 +1,4 @@
+term	file	line
+GO:0102306	metacyc2go	MetaCyc:RXN-12898 > GO:benzil reductase [(S)-benzoin-forming] activity ; GO:0102306
+GO:0102306	ec2go	EC:1.1.1.320 > GO:benzil reductase [(S)-benzoin-forming] activity ; GO:0102306
+GO:0102306	rhea2go	RHEA:25968 > GO:benzil reductase [(S)-benzoin-forming] activity ; GO:0102306
