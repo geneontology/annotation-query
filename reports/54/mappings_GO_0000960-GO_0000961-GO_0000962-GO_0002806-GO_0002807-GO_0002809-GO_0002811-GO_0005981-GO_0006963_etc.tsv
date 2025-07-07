@@ -1,0 +1,23 @@
+term	file	line
+GO:0005981	interpro2go	InterPro:IPR030682 Protein phosphatase 1 regulatory subunit 3B > GO:regulation of glycogen catabolic process ; GO:0005981
+GO:0010898	interpro2go	InterPro:IPR033903 Patatin-like phospholipase domain-containing protein 2 > GO:positive regulation of triglyceride catabolic process ; GO:0010898
+GO:0032434	interpro2go	InterPro:IPR033575 DET1- and DDB1-associated protein 1-like > GO:regulation of proteasomal ubiquitin-dependent protein catabolic process ; GO:0032434
+GO:0032436	interpro2go	InterPro:IPR037342 SOCS4, SOCS box domain > GO:positive regulation of proteasomal ubiquitin-dependent protein catabolic process ; GO:0032436
+GO:0032436	interpro2go	InterPro:IPR037343 SOCS5, SOCS box domain > GO:positive regulation of proteasomal ubiquitin-dependent protein catabolic process ; GO:0032436
+GO:0042176	unirule2go	UniRule:UR000777776 > GO:regulation of protein catabolic process ; GO:0042176
+GO:0042176	interpro2go	InterPro:IPR013586 26S proteasome regulatory subunit, C-terminal > GO:regulation of protein catabolic process ; GO:0042176
+GO:0042176	interpro2go	InterPro:IPR016642 26S proteasome regulatory complex, non-ATPase subcomplex, Rpn2/Psmd1 subunit > GO:regulation of protein catabolic process ; GO:0042176
+GO:0042176	interpro2go	InterPro:IPR016643 26S proteasome regulatory complex, non-ATPase subcomplex, Rpn1 subunit > GO:regulation of protein catabolic process ; GO:0042176
+GO:0043470	unirule2go	UniRule:UR000160055 > GO:regulation of carbohydrate catabolic process ; GO:0043470
+GO:0043470	hamap2go	HAMAP:MF_02108 > GO:regulation of carbohydrate catabolic process ; GO:0043470
+GO:0045717	unirule2go	UniRule:UR000028576 > GO:negative regulation of fatty acid biosynthetic process ; GO:0045717
+GO:0045717	unirule2go	UniRule:UR000068666 > GO:negative regulation of fatty acid biosynthetic process ; GO:0045717
+GO:0045717	interpro2go	InterPro:IPR017275 Transcription factor FapR > GO:negative regulation of fatty acid biosynthetic process ; GO:0045717
+GO:0045717	hamap2go	HAMAP:MF_01190 > GO:negative regulation of fatty acid biosynthetic process ; GO:0045717
+GO:0045717	hamap2go	HAMAP:MF_01814 > GO:negative regulation of fatty acid biosynthetic process ; GO:0045717
+GO:0050994	interpro2go	InterPro:IPR029562 Retinoic acid receptor responder protein 2 > GO:regulation of lipid catabolic process ; GO:0050994
+GO:0061136	interpro2go	InterPro:IPR019695 Bacterial proteasome activator > GO:regulation of proteasomal protein catabolic process ; GO:0061136
+GO:1900153	unirule2go	UniRule:UR001597798 > GO:positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay ; GO:1900153
+GO:1904985	unirule2go	UniRule:UR001230769 > GO:negative regulation of quinolinate biosynthetic process ; GO:1904985
+GO:1905784	reactome2go	Reactome:R-HSA-176408 > GO:regulation of anaphase-promoting complex-dependent catabolic process ; GO:1905784
+GO:2000304	reactome2go	Reactome:R-HSA-5626978 > GO:positive regulation of ceramide biosynthetic process ; GO:2000304
