@@ -1,0 +1,4 @@
+term	file	line
+GO:0036065	unirule2go	UniRule:UR000617775 > GO:fucosylation ; GO:0036065
+GO:0036065	interpro2go	InterPro:IPR009993 TDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase > GO:fucosylation ; GO:0036065
+GO:0070085	wikipedia2go	Wikipedia:Glycosylation > GO:glycosylation ; GO:0070085
