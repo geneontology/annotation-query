@@ -1,0 +1,20 @@
+term	file	line
+GO:0019475	metacyc2go	MetaCyc:P163-PWY > GO:L-lysine catabolic process to acetate ; GO:0019475
+GO:0019552	metacyc2go	MetaCyc:P162-PWY > GO:L-glutamate catabolic process via 2-hydroxyglutarate ; GO:0019552
+GO:0019589	metacyc2go	MetaCyc:GOLPDLCAT-PWY > GO:anaerobic glycerol catabolic process to propane-1,3-diol ; GO:0019589
+GO:0019650	wikipedia2go	Wikipedia:Butanediol_fermentation > GO:glycolytic fermentation to butanediol ; GO:0019650
+GO:0019652	metacyc2go	MetaCyc:PROPFERM-PWY > GO:lactate fermentation to propionate and acetate ; GO:0019652
+GO:0019652	interpro2go	InterPro:IPR004608 Methylmalonyl-CoA mutase, small subunit > GO:lactate fermentation to propionate and acetate ; GO:0019652
+GO:0019653	metacyc2go	MetaCyc:P164-PWY > GO:anaerobic purine nucleobase catabolic process ; GO:0019653
+GO:0019653	metacyc2go	MetaCyc:PWY-5044 > GO:anaerobic purine nucleobase catabolic process ; GO:0019653
+GO:0019653	metacyc2go	MetaCyc:PWY-5497 > GO:anaerobic purine nucleobase catabolic process ; GO:0019653
+GO:0019656	metacyc2go	MetaCyc:P122-PWY > GO:glucose catabolic process to D-lactate and ethanol ; GO:0019656
+GO:0019657	metacyc2go	MetaCyc:P108-PWY > GO:glycolytic fermentation to propionate ; GO:0019657
+GO:0019658	metacyc2go	MetaCyc:P124-PWY > GO:glucose fermentation to lactate and acetate ; GO:0019658
+GO:0019659	wikipedia2go	Wikipedia:Lactic_acid_fermentation > GO:glucose catabolic process to lactate ; GO:0019659
+GO:0019661	metacyc2go	MetaCyc:ANAEROFRUCAT-PWY > GO:glucose catabolic process to lactate via pyruvate ; GO:0019661
+GO:0019670	interpro2go	InterPro:IPR006394 Glutamate mutase sigma subunit > GO:anaerobic glutamate catabolic process ; GO:0019670
+GO:0019670	interpro2go	InterPro:IPR006396 Glutamate mutase epsilon subunit > GO:anaerobic glutamate catabolic process ; GO:0019670
+GO:0019670	interpro2go	InterPro:IPR014714 Glutamate mutase E subunit, C-terminal domain superfamily > GO:anaerobic glutamate catabolic process ; GO:0019670
+GO:0044812	wikipedia2go	Wikipedia:Fermentative_hydrogen_production > GO:fermentative hydrogen production ; GO:0044812
+GO:0044813	metacyc2go	MetaCyc:CENTFERM-PWY > GO:glycolytic fermentation via PFOR pathway ; GO:0044813

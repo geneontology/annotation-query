@@ -1,0 +1,12 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:B0VH76	kat	PMID:21826218		GO:0019475	L-lysine catabolic process to acetate	IDA				20130910		NCBITaxon:459349
+UniProt	UniProtKB:Q8IWW8	ADHFE1	PMID:16435184		GO:0019552	L-glutamate catabolic process via 2-hydroxyglutarate	IDA		UniProtKB:Q8IWW8	PANTHER:PTHR11496	20180202		NCBITaxon:9606
+EcoCyc	EcoCyc:GLYCDEH-MONOMER	GldA	PMID:18632294		GO:0019588	anaerobic glycerol catabolic process	IMP				20110324		NCBITaxon:83333
+EcoCyc	EcoCyc:HYBA-MONOMER	HybA	PMID:25368299		GO:0019588	anaerobic glycerol catabolic process	IDA				20150114		NCBITaxon:83333
+EcoCyc	EcoCyc:YHCL-MONOMER	DcuD	PMID:30862913		GO:0019588	anaerobic glycerol catabolic process	IMP				20190512		NCBITaxon:83333
+AgBase	UniProtKB:P21642	PCK2	PMID:7275964		GO:0019661	glucose catabolic process to lactate via pyruvate	TAS		UniProtKB:P21642	PANTHER:PTHR11561	20110609		NCBITaxon:9031
+AgBase	UniProtKB:P21642	PCK2	PMID:8399801		GO:0019661	glucose catabolic process to lactate via pyruvate	NAS		UniProtKB:P21642	PANTHER:PTHR11561	20110609		NCBITaxon:9031
+AgBase	UniProtKB:P21642	PCK2	PMID:9800330		GO:0019661	glucose catabolic process to lactate via pyruvate	TAS		UniProtKB:P21642	PANTHER:PTHR11561	20110609		NCBITaxon:9031
+MGI	MGI:MGI:2442752	Tigar	PMID:20935145		GO:0019661	glucose catabolic process to lactate via pyruvate	IMP			PANTHER:PTHR46517	20150316	CL:0000746	NCBITaxon:10090
+MGI	MGI:MGI:98834	Tp53	PMID:20935145		GO:0019661	glucose catabolic process to lactate via pyruvate	IMP			PANTHER:PTHR11447	20150316	CL:0000746	NCBITaxon:10090
+MGI	MGI:MGI:96759	Ldha	PMID:8224816		GO:0019661	glucose catabolic process to lactate via pyruvate	IMP	MGI:MGI:2384559		PANTHER:PTHR43128	20150806	CL:0000232	NCBITaxon:10090
