@@ -1,0 +1,105 @@
+term	file	line
+GO:0006468	interpro2go	InterPro:IPR000239 GPCR kinase > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR000719 Protein kinase domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR000961 AGC-kinase, C-terminal > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR001245 Serine-threonine/tyrosine-protein kinase, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR001426 Tyrosine-protein kinase, receptor class V, conserved site > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR001824 Tyrosine-protein kinase, receptor class III, conserved site > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR002011 Tyrosine-protein kinase, receptor class II, conserved site > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR002291 Phosphorylase kinase, gamma catalytic subunit > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR003527 Mitogen-activated protein (MAP) kinase, conserved site > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR003547 Serine/threonine protein kinase, yersinia-type > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR003605 GS domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR004166 Alpha-type protein kinase, alpha-kinase domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR005189 Focal adhesion kinase, targeting (FAT) domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR006748 Aminoglycoside/hydroxyurea antibiotic resistance kinase > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR008266 Tyrosine-protein kinase, active site > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR008271 Serine/threonine-protein kinase, active site > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR008349 Mitogen-activated protein (MAP) kinase, ERK1/2 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR008350 Mitogen-activated protein (MAP) kinase, ERK3/4 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR008351 Mitogen-activated protein (MAP) kinase, JNK > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR008352 Mitogen-activated protein (MAP) kinase p38-like > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR009135 Vascular endothelial growth factor receptor 1 (VEGFR1) > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR009136 Vascular endothelial growth factor receptor 2 (VEGFR2) > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR010193 Serine-protein kinase RsbW > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR010194 Anti-sigma F factor > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR011648 Circadian clock oscillator protein KaiA > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR012234 Tyrosine-protein kinase, non-receptor SYK/ZAP-70 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR013543 Calcium/calmodulin-dependent protein kinase II, association-domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR014375 Protein kinase C, alpha/beta/gamma types > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR014376 Protein kinase C, delta/epsilon/eta/theta types > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR014930 Myotonic dystrophy protein kinase, coiled coil > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015013 Transforming growth factor beta receptor 2 ectodomain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015015 F-actin binding > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015022 Microtubule-associated serine/threonine-protein kinase, pre-PK domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015123 Bcr-Abl oncoprotein oligomerisation > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015285 RIO2 kinase winged helix domain, N-terminal > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015725 Myosin Light Chain Kinase 1, Kinase domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015727 Protein kinase C mu-related > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR015771 Anti-muellerian hormone receptor, type II > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016234 Serine/threonine-protein kinase, Sbk1 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016235 Tyrosine/threonine-protein kinase, Cdc2 inhibitor > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016237 Serine/threonine-protein kinase, Ulk1/Ulk2 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016238 Ribosomal protein S6 kinase > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016239 Ribosomal protein S6 kinase II > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016241 Nitrogen network kinase 1 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016242 Serine/threonine-protein kinase Mps1 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016245 Tyrosine protein kinase, EGF/ERB/XmrK receptor > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016248 Fibroblast growth factor receptor family > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016251 Tyrosine-protein kinase, non-receptor Jak/Tyk2 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016254 Serine/threonine-protein kinase, asfivirus > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016255 eIF-2-alpha kinase Gcn2 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR016257 Ephrin receptor type-A /type-B > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017090 Serine/threonine-protein kinase, SIK1/2 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017348 Serine/threonine-protein kinase pim-1/2/3 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017400 Eukaryotic elongation factor 2 kinase > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017406 Serine/threonine-protein kinase Rio3 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017424 Mitogen-activated protein (MAP) kinase kinase kinase 8 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017425 Mitogen-activated protein (MAP) kinase kinase kinase 14 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017428 Interleukin-1 receptor-associated kinase 4 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017892 Protein kinase, C-terminal > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR017944 KaiA/RbsU helical domain superfamily > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR018941 Tyrosine-protein kinase, receptor Tie-2, Ig-like domain 1, N-terminal > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020446 NT-3 growth factor receptor NTRK3 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020455 BDNF/NT-3 growth factors receptor NTRK2 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020461 High affinity nerve growth factor receptor NTRK1 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020635 Tyrosine-protein kinase, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020693 Tyrosine-protein kinase, non-receptor Jak2 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020775 Tyrosine-protein kinase, non-receptor Jak3 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020776 Tyrosine-protein kinase, non-receptor Jak1 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020777 Growth factor receptor NTRK > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR020856 Circadian clock oscillator protein KaiA, C-terminal > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR032882 SrkA/RdoA protein kinase > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034659 Atypical protein kinase C, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034661 Atypical protein kinase C iota type, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034663 Classical Protein Kinase C alpha, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034664 Classical protein kinase C beta, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034665 Novel protein kinase C eta, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034667 Novel protein kinase C delta, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034668 Novel protein kinase C theta, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034669 Novel protein kinase C epsilon, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034670 Checkpoint kinase 1, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034671 Hormonally up-regulated neu tumour-associated kinase, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034672 Salt-Inducible kinase, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034673 Maternal embryonic leucine zipper kinase, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034674 Serine/threonine-protein kinase Kin4/ppk1, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034675 Protein kinase B gamma, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034676 Protein kinase B alpha, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR034677 Protein Kinase B beta, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR035056 MST4, kinase domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR035060 Serine/threonine kinase 25, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR035062 Kic1p-like serine/threonine kinase, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR035063 p21-activated kinase 3, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR035064 p21-activated kinase 2, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR036137 Focal adhesion kinase, targeting (FAT) domain superfamily > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR037313 Serine/threonine-protein kinase N, first HR1 domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR044092 Serine/threonine-protein PRP4, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR044093 Cyclin-dependent kinase 10, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR044131 Dual specificity tyrosine-phosphorylation-regulated kinase 1A/1B, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR045216 Casein Kinase 2, subunit alpha > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR045267 Cyclin-dependent kinase 11/PITSLRE, catalytic domain > GO:protein phosphorylation ; GO:0006468
+GO:0006468	interpro2go	InterPro:IPR045272 Receptor-like protein kinase ANXUR1/2-like > GO:protein phosphorylation ; GO:0006468
+GO:0006468	hamap2go	HAMAP:MF_00921 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	hamap2go	HAMAP:MF_01062 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	unirule2go	UniRule:UR000100369 > GO:protein phosphorylation ; GO:0006468
+GO:0006468	unirule2go	UniRule:UR000100579 > GO:protein phosphorylation ; GO:0006468
