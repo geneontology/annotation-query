@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0032049	Bace	PMID:19049874		GO:1902944	aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process	IDA			PANTHER:PTHR47966	20170228	FB:FBgn0000108	NCBITaxon:7227
