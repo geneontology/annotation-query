@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AspGD	UniProtKB:Q5BAH2	candA-C	PMID:21119001		GO:0018940	orcinol metabolic process	IMP			PANTHER:PTHR12696	20120607		NCBITaxon:227321
+TAIR	AGI_LocusCode:AT5G06570	CXE15	PMID:39090154|TAIR:Publication:501808969		GO:1901600	strigolactone metabolic process	IDA		TAIR:locus:2144083		20240815		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G62180	CXE20	PMID:39090154|TAIR:Publication:501808969		GO:1901600	strigolactone metabolic process	IDA		TAIR:locus:2174033		20240815		NCBITaxon:3702
