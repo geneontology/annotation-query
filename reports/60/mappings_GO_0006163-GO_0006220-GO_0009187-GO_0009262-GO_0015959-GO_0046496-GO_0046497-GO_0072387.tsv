@@ -1,0 +1,22 @@
+term	file	line
+GO:0006163	unirule2go	UniRule:UR000078452 > GO:purine nucleotide metabolic process ; GO:0006163
+GO:0006163	unirule2go	UniRule:UR000084053 > GO:purine nucleotide metabolic process ; GO:0006163
+GO:0006163	unirule2go	UniRule:UR000098129 > GO:purine nucleotide metabolic process ; GO:0006163
+GO:0006163	unirule2go	UniRule:UR000200031 > GO:purine nucleotide metabolic process ; GO:0006163
+GO:0006163	hamap2go	HAMAP:MF_00328 > GO:purine nucleotide metabolic process ; GO:0006163
+GO:0006163	hamap2go	HAMAP:MF_00596 > GO:purine nucleotide metabolic process ; GO:0006163
+GO:0006163	hamap2go	HAMAP:MF_01511 > GO:purine nucleotide metabolic process ; GO:0006163
+GO:0006163	hamap2go	HAMAP:MF_03195 > GO:purine nucleotide metabolic process ; GO:0006163
+GO:0006163	interpro2go	InterPro:IPR005994 Guanosine monophosphate reductase, type2 > GO:purine nucleotide metabolic process ; GO:0006163
+GO:0006163	interpro2go	InterPro:IPR017665 Guanylate kinase > GO:purine nucleotide metabolic process ; GO:0006163
+GO:0006220	unirule2go	UniRule:UR000082072 > GO:pyrimidine nucleotide metabolic process ; GO:0006220
+GO:0006220	unirule2go	UniRule:UR000082073 > GO:pyrimidine nucleotide metabolic process ; GO:0006220
+GO:0006220	unirule2go	UniRule:UR000101872 > GO:pyrimidine nucleotide metabolic process ; GO:0006220
+GO:0006220	hamap2go	HAMAP:MF_00238 > GO:pyrimidine nucleotide metabolic process ; GO:0006220
+GO:0006220	hamap2go	HAMAP:MF_00239 > GO:pyrimidine nucleotide metabolic process ; GO:0006220
+GO:0006220	hamap2go	HAMAP:MF_01349 > GO:pyrimidine nucleotide metabolic process ; GO:0006220
+GO:0006220	interpro2go	InterPro:IPR016473 Deoxycytidylate deaminase > GO:pyrimidine nucleotide metabolic process ; GO:0006220
+GO:0046496	unirule2go	UniRule:UR000089076 > GO:nicotinamide nucleotide metabolic process ; GO:0046496
+GO:0046496	unirule2go	UniRule:UR000375786 > GO:nicotinamide nucleotide metabolic process ; GO:0046496
+GO:0046496	hamap2go	HAMAP:MF_01965 > GO:nicotinamide nucleotide metabolic process ; GO:0046496
+GO:0046496	hamap2go	HAMAP:MF_03157 > GO:nicotinamide nucleotide metabolic process ; GO:0046496
