@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+RGD	RGD:3560	Rgn	PMID:2280766		GO:0010558	negative regulation of macromolecule biosynthetic process	IDA			PANTHER:PTHR10907	20141126		NCBITaxon:10116
