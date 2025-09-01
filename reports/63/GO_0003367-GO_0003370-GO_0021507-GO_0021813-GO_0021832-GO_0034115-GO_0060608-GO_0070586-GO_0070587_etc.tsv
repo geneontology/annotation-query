@@ -1,0 +1,25 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ZFIN	ZFIN:ZDB-GENE-010606-1	cdh1	PMID:20079641		GO:0003370	cell-cell adhesion involved in mesendodermal cell migration	IMP	ZFIN:ZDB-MRPHLNO-050421-1		PANTHER:PTHR24027	20100525		NCBITaxon:7955
+MGI	MGI:MGI:108554	Dab1	PMID:15091337		GO:0021813	cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration	IMP	MGI:MGI:1856801		PANTHER:PTHR47695	20210323		NCBITaxon:10090
+BHF-UCL	UniProtKB:Q15848	ADIPOQ	PMID:10604883		GO:0034115	negative regulation of heterotypic cell-cell adhesion	IDA		UniProtKB:Q15848	PANTHER:PTHR15427	20080926		NCBITaxon:9606
+BHF-UCL	MGI:MGI:1196377	Tnfaip3	PMID:18006655		GO:0034115	negative regulation of heterotypic cell-cell adhesion	NAS			PANTHER:PTHR13367	20110201		NCBITaxon:10090
+BHF-UCL	MGI:MGI:1196377	Tnfaip3	PMID:19252225		GO:0034115	negative regulation of heterotypic cell-cell adhesion	NAS			PANTHER:PTHR13367	20110201		NCBITaxon:10090
+BHF-UCL	RNAcentral:URS0000170CF4_9606	URS0000170CF4_9606	PMID:20110463		GO:0034115	negative regulation of heterotypic cell-cell adhesion	IDA				20210428	CL:1000488|GO:0006954	NCBITaxon:9606
+BHF-UCL	RGD:61890	Map2k5	PMID:20551324		GO:0034115	negative regulation of heterotypic cell-cell adhesion	IMP			PANTHER:PTHR48013	20111121		NCBITaxon:10116
+BHF-UCL	UniProtKB:Q13164	MAPK7	PMID:20551324		GO:0034115	negative regulation of heterotypic cell-cell adhesion	IGI	UniProtKB:Q62862	UniProtKB:Q13164	PANTHER:PTHR24055	20111121		NCBITaxon:9606
+BHF-UCL	UniProtKB:O43474	KLF4	PMID:20551324		GO:0034115	negative regulation of heterotypic cell-cell adhesion	IDA		UniProtKB:O43474	PANTHER:PTHR23235	20111124		NCBITaxon:9606
+BHF-UCL	UniProtKB:P18510	IL1RN	PMID:2139180		GO:0034115	negative regulation of heterotypic cell-cell adhesion	IDA		UniProtKB:P18510	PANTHER:PTHR10078	20110804		NCBITaxon:9606
+BHF-UCL	UniProtKB:P02647	APOA1	PMID:21571275		GO:0034115	negative regulation of heterotypic cell-cell adhesion	IDA		UniProtKB:P02647	PANTHER:PTHR18976	20120601		NCBITaxon:9606
+BHF-UCL	MGI:MGI:96537	Il10	PMID:26808574		GO:0034115	negative regulation of heterotypic cell-cell adhesion	IGI	UniProtKB:P06804		PANTHER:PTHR48482	20160809		NCBITaxon:10090
+BHF-UCL	UniProtKB:Q9H4A3	WNK1	PMID:27400149		GO:0034115	negative regulation of heterotypic cell-cell adhesion	IMP		UniProtKB:Q9H4A3	PANTHER:PTHR24361	20180719	CL:0000084	NCBITaxon:9606
+CAFA	UniProtKB:P02686	MBP	PMID:22524708		GO:0034115	negative regulation of heterotypic cell-cell adhesion	IDA		UniProtKB:P02686	PANTHER:PTHR11429	20161026	UBERON:0000120	NCBITaxon:9606
+UniProt	UniProtKB:Q96S97	MYADM	PMID:23264465		GO:0034115	negative regulation of heterotypic cell-cell adhesion	IDA		UniProtKB:Q96S97	PANTHER:PTHR17068	20140204		NCBITaxon:9606
+MGI	MGI:MGI:2141866	Ric8a	PMID:21069829		GO:0070586	cell-cell adhesion involved in gastrulation	IMP	MGI:MGI:3608888		PANTHER:PTHR12425	20120320	EMAPA:16039	NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-010606-1	cdh1	PMID:19404452		GO:0070586	cell-cell adhesion involved in gastrulation	IMP	ZFIN:ZDB-MRPHLNO-050421-1|ZFIN:ZDB-MRPHLNO-050421-2		PANTHER:PTHR24027	20090505		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-030131-215	cfl1	PMID:21203473		GO:0070586	cell-cell adhesion involved in gastrulation	IMP	ZFIN:ZDB-MRPHLNO-110118-4		PANTHER:PTHR11913	20141119		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-040625-90	cdk5rap3	PMID:21523853		GO:0070586	cell-cell adhesion involved in gastrulation	IMP	ZFIN:ZDB-MRPHLNO-110609-3		PANTHER:PTHR14894	20111209		NCBITaxon:7955
+UniProt	Xenbase:XB-GENE-6254222	popdc1.L	PMID:20057356		GO:0070587	regulation of cell-cell adhesion involved in gastrulation	IDA				20100412		NCBITaxon:8355
+WB	WB:WBGene00006406	srgp-1	PMID:21059849		GO:0070587	regulation of cell-cell adhesion involved in gastrulation	IGI	WB:WBGene00001979		PANTHER:PTHR14166	20110502		NCBITaxon:6239
+WB	WB:WBGene00006737	ulp-2	PMID:26412237		GO:0070587	regulation of cell-cell adhesion involved in gastrulation	IMP			PANTHER:PTHR12606	20150929		NCBITaxon:6239
+ZFIN	ZFIN:ZDB-GENE-070912-124	zeb1a	PMID:23667256		GO:0070587	regulation of cell-cell adhesion involved in gastrulation	IGI	ZFIN:ZDB-MRPHLNO-130801-1|ZFIN:ZDB-MRPHLNO-130801-2		PANTHER:PTHR24391	20140122		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-010621-1	zeb1b	PMID:23667256		GO:0070587	regulation of cell-cell adhesion involved in gastrulation	IGI	ZFIN:ZDB-MRPHLNO-130801-1|ZFIN:ZDB-MRPHLNO-130801-2		PANTHER:PTHR24391	20140122		NCBITaxon:7955
