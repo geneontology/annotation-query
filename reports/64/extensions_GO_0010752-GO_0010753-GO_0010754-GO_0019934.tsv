@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	WB:WBGene00011433	pde-1	PMID:24015261		GO:0042542	response to hydrogen peroxide	IGI	UniProtKB:P30645|UniProtKB:P91119|UniProtKB:Q8I0P7		PANTHER:PTHR11347	20171204	GO:0008340|GO:0010754	NCBITaxon:6239
+UniProt	WB:WBGene00016328	pde-5	PMID:24015261		GO:0042542	response to hydrogen peroxide	IGI	UniProtKB:O18696|UniProtKB:P30645|UniProtKB:Q8I0P7		PANTHER:PTHR11347	20171204	GO:0008340|GO:0010754	NCBITaxon:6239
+UniProt	WB:WBGene00011146	pde-2	PMID:24015261		GO:0042542	response to hydrogen peroxide	IGI	UniProtKB:O18696|UniProtKB:P91119|UniProtKB:Q8I0P7		PANTHER:PTHR11347	20171204	GO:0008340|GO:0010754	NCBITaxon:6239
+UniProt	WB:WBGene00008443	pde-3	PMID:24015261		GO:0042542	response to hydrogen peroxide	IGI	UniProtKB:O18696|UniProtKB:P30645|UniProtKB:P91119		PANTHER:PTHR11347	20171204	GO:0008340|GO:0010754	NCBITaxon:6239
+MGI	MGI:MGI:99403	Adora2b	PMID:18340377		GO:0010753	positive regulation of cGMP-mediated signaling	IMP	MGI:MGI:3773754		PANTHER:PTHR24246	20180529	GO:0019934	NCBITaxon:10090
