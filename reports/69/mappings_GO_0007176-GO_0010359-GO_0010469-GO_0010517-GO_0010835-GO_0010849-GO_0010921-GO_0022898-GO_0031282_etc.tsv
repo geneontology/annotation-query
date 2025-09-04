@@ -1,0 +1,12 @@
+term	file	line
+GO:0007176	interpro2go	InterPro:IPR011170 Growth factor, vaccinia C11R type > GO:regulation of epidermal growth factor-activated receptor activity ; GO:0007176
+GO:0010835	interpro2go	InterPro:IPR019361 Histone PARylation factor 1 > GO:regulation of protein ADP-ribosylation ; GO:0010835
+GO:0010921	interpro2go	InterPro:IPR033242 Protein phosphatase 1 regulatory subunit 17 > GO:regulation of phosphatase activity ; GO:0010921
+GO:0045859	unirule2go	UniRule:UR000067674 > GO:regulation of protein kinase activity ; GO:0045859
+GO:0045859	hamap2go	HAMAP:MF_00904 > GO:regulation of protein kinase activity ; GO:0045859
+GO:0052547	interpro2go	InterPro:IPR010200 HflC > GO:regulation of peptidase activity ; GO:0052547
+GO:0060699	unirule2go	UniRule:UR000001297 > GO:regulation of endoribonuclease activity ; GO:0060699
+GO:0060699	unirule2go	UniRule:UR000031316 > GO:regulation of endoribonuclease activity ; GO:0060699
+GO:0060699	hamap2go	HAMAP:MF_00471 > GO:regulation of endoribonuclease activity ; GO:0060699
+GO:0060699	hamap2go	HAMAP:MF_01888 > GO:regulation of endoribonuclease activity ; GO:0060699
+GO:2000312	interpro2go	InterPro:IPR030596 Kelch-like protein 24, BTB/POZ domain > GO:regulation of kainate selective glutamate receptor activity ; GO:2000312

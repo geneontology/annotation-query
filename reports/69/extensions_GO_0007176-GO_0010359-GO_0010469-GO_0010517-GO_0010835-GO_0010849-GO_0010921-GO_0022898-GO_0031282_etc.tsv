@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	RGD:628837	Actb	PMID:18331289		GO:0051621	regulation of norepinephrine uptake	IGI	UniProtKB:P37840		PANTHER:PTHR11937	20180515	GO:0022898|CL:0000540|UBERON:0002148	NCBITaxon:10116
+ARUK-UCL	RGD:628837	Actb	PMID:18331289		GO:0051621	regulation of norepinephrine uptake	IMP			PANTHER:PTHR11937	20180515	GO:0022898|CL:0000540|UBERON:0001870	NCBITaxon:10116
+ARUK-UCL	UniProtKB:P37840	SNCA	PMID:18331289		GO:0051621	regulation of norepinephrine uptake	IGI	UniProtKB:P60709	UniProtKB:P37840	PANTHER:PTHR13820	20180515	GO:0022898	NCBITaxon:9606
+ARUK-UCL	UniProtKB:P60709	ACTB	PMID:18331289		GO:0051621	regulation of norepinephrine uptake	IGI	UniProtKB:P37840	UniProtKB:P60709	PANTHER:PTHR11937	20180515	GO:0022898	NCBITaxon:9606

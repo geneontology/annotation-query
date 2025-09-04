@@ -1,0 +1,128 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	RGD:3380	Ppp2ca	PMID:19029245		GO:0010469	regulation of signaling receptor activity	IMP			PANTHER:PTHR45619	20101202		NCBITaxon:10116
+MGI	RGD:727786	Ppp2r5b	PMID:19029245		GO:0010469	regulation of signaling receptor activity	IMP			PANTHER:PTHR10257	20101202		NCBITaxon:10116
+UniProt	UniProtKB:Q6EV79	FSHB	PMID:10612425		GO:0010469	regulation of signaling receptor activity	IDA				20180516		NCBITaxon:9541
+UniProt	UniProtKB:Q9BEH3	CGA	PMID:10612425		GO:0010469	regulation of signaling receptor activity	IDA				20180516		NCBITaxon:9541
+UniProt	MGI:MGI:99215	Zp3	PMID:10793136		GO:0010469	regulation of signaling receptor activity	IDA			PANTHER:PTHR11576	20171005		NCBITaxon:10090
+UniProt	UniProtKB:Q945T0	RALF	PMID:11675511		GO:0010469	regulation of signaling receptor activity	IDA			PANTHER:PTHR33136	20180413		NCBITaxon:4097
+UniProt	MGI:MGI:99215	Zp3	PMID:17258189		GO:0010469	regulation of signaling receptor activity	IMP			PANTHER:PTHR11576	20171005		NCBITaxon:10090
+UniProt	UniProtKB:Q96F85	CNRIP1	PMID:17895407		GO:0010469	regulation of signaling receptor activity	IDA		UniProtKB:Q96F85-2	PANTHER:PTHR31952	20171024		NCBITaxon:9606
+UniProt	UniProtKB:P01215	CGA	PMID:24692546		GO:0010469	regulation of signaling receptor activity	IDA		UniProtKB:P01215	PANTHER:PTHR11509	20180516		NCBITaxon:9606
+UniProt	MGI:MGI:2444563	Tafa4	PMID:25109685		GO:0010469	regulation of signaling receptor activity	IDA			PANTHER:PTHR31770	20190208		NCBITaxon:10090
+UniProt	MGI:MGI:2443695	Tafa1	PMID:29799787		GO:0010469	regulation of signaling receptor activity	IDA			PANTHER:PTHR31770	20190208		NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-030131-6008	vps51	PMID:20816853		GO:0010517	regulation of phospholipase activity	IMP	ZFIN:ZDB-GENO-090216-1		PANTHER:PTHR15954	20110321		NCBITaxon:7955
+UniProt	UniProtKB:Q15397	PUM3	PMID:21266351		GO:0010835	regulation of protein ADP-ribosylation	IMP		UniProtKB:Q15397	PANTHER:PTHR13389	20151116		NCBITaxon:9606
+UniProt	UniProtKB:Q9NWY4	HPF1	PMID:33186521		GO:0010835	regulation of protein ADP-ribosylation	IDA		UniProtKB:Q9NWY4	PANTHER:PTHR13386	20201218		NCBITaxon:9606
+UniProt	MGI:MGI:2147611	Spindoc	PMID:34737271		GO:0010835	regulation of protein ADP-ribosylation	IMP			PANTHER:PTHR34589	20220512		NCBITaxon:10090
+UniProt	UniProtKB:Q9BUA3	SPINDOC	PMID:34737271		GO:0010835	regulation of protein ADP-ribosylation	IDA		UniProtKB:Q9BUA3	PANTHER:PTHR34589	20220512		NCBITaxon:9606
+UniProt	UniProtKB:P0DW81	MARCHF6-DT	PMID:35219381		GO:0010835	regulation of protein ADP-ribosylation	IDA		UniProtKB:P0DW81		20220519		NCBITaxon:9606
+UniProt	MGI:MGI:2145814	Ppif	PMID:19801635		GO:0010849	regulation of proton-transporting ATPase activity, rotational mechanism	IMP			PANTHER:PTHR11071	20121220		NCBITaxon:10090
+UniProt	UniProtKB:Q96JB5	CDK5RAP3	PMID:21283629		GO:0010921	regulation of phosphatase activity	IMP		UniProtKB:Q96JB5	PANTHER:PTHR14894	20150824		NCBITaxon:9606
+UniProt	MGI:MGI:1921138	Ppp1r42	PMID:21738792		GO:0010921	regulation of phosphatase activity	IDA			PANTHER:PTHR46652	20111102		NCBITaxon:10090
+UniProt	MGI:MGI:1333876	Ppp1r17	PMID:9920894		GO:0010921	regulation of phosphatase activity	IDA			PANTHER:PTHR15387	20120209		NCBITaxon:10090
+CAFA	RGD:2690	Gja1	PMID:15284189		GO:0022898	regulation of transmembrane transporter activity	IMP			PANTHER:PTHR11984	20161013		NCBITaxon:10116
+TAIR	AGI_LocusCode:AT3G02880	KIN7	PMID:37146609|TAIR:Publication:501803240		GO:0022898	regulation of transmembrane transporter activity	IDA		TAIR:locus:2075502		20230627		NCBITaxon:3702
+UniProt	UniProtKB:P11309	PIM1	PMID:18056989		GO:0022898	regulation of transmembrane transporter activity	IMP		UniProtKB:P11309	PANTHER:PTHR22984	20190828		NCBITaxon:9606
+UniProt	UniProtKB:Q12797	ASPH	PMID:21062895		GO:0031585	regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity	IDA		UniProtKB:Q12797-2	PANTHER:PTHR12366	20120222		NCBITaxon:9606
+UniProt	UniProtKB:P09429	HMGB1	PMID:17803946		GO:0032072	regulation of restriction endodeoxyribonuclease activity	IDA		UniProtKB:P09429	PANTHER:PTHR48112	20150730		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT2G26260	3BETAHSD/D2	PMID:22673766|TAIR:Publication:501750187		GO:0032409	regulation of transporter activity	IMP		TAIR:locus:2057786		20210331		NCBITaxon:3702
+UniProt	UniProtKB:O43865	AHCYL1	PMID:16769890		GO:0032412	regulation of monoatomic ion transmembrane transporter activity	IMP		UniProtKB:O43865	PANTHER:PTHR23420	20150325		NCBITaxon:9606
+MGI	RGD:3263	Pcbd1	PMID:1763325		GO:0043393	regulation of protein binding	IDA			PANTHER:PTHR12599	20190716		NCBITaxon:10116
+UniProt	UniProtKB:Q14012	CAMK1	PMID:11114197		GO:0043393	regulation of protein binding	IDA		UniProtKB:Q14012	PANTHER:PTHR24347	20110913		NCBITaxon:9606
+UniProt	UniProtKB:Q9H0C5	BTBD1	PMID:11179693		GO:0043393	regulation of protein binding	NAS		UniProtKB:Q9H0C5	PANTHER:PTHR45774	20111214		NCBITaxon:9606
+UniProt	Xenbase:XB-GENE-6254429	mad2l2.S	PMID:11459825		GO:0043393	regulation of protein binding	IDA				20101213		NCBITaxon:8355
+UniProt	UniProtKB:Q5SW96	LDLRAP1	PMID:15166224		GO:0043393	regulation of protein binding	IMP		UniProtKB:Q5SW96	PANTHER:PTHR11232	20050921		NCBITaxon:9606
+UniProt	FB:FBgn0000658	fj	PMID:20434335		GO:0043393	regulation of protein binding	IDA			PANTHER:PTHR13147	20151118		NCBITaxon:7227
+UniProt	UniProtKB:P54851	EMP2	PMID:18469192		GO:0043549	regulation of kinase activity	IDA		UniProtKB:P54851	PANTHER:PTHR10671	20141021		NCBITaxon:9606
+UniProt	MGI:MGI:894762	Ldb1	PMID:19675209		GO:0043549	regulation of kinase activity	IDA			PANTHER:PTHR10378	20160211		NCBITaxon:10090
+UniProt	MGI:MGI:894670	Ldb2	PMID:19675209		GO:0043549	regulation of kinase activity	IDA			PANTHER:PTHR10378	20160212		NCBITaxon:10090
+UniProt	UniProtKB:Q86WI3	NLRC5	PMID:20434986		GO:0043549	regulation of kinase activity	IDA		UniProtKB:Q86WI3	PANTHER:PTHR24106	20100827		NCBITaxon:9606
+UniProt	UniProtKB:P06400	RB1	PMID:16286473		GO:0043550	regulation of lipid kinase activity	IDA		UniProtKB:P06400	PANTHER:PTHR13742	20060717		NCBITaxon:9606
+UniProt	UniProtKB:Q08999	RBL2	PMID:16286473		GO:0043550	regulation of lipid kinase activity	IDA		UniProtKB:Q08999	PANTHER:PTHR13742	20060717		NCBITaxon:9606
+UniProt	UniProtKB:P28749	RBL1	PMID:16286473		GO:0043550	regulation of lipid kinase activity	IDA		UniProtKB:P28749	PANTHER:PTHR13742	20060717		NCBITaxon:9606
+UniProt	MGI:MGI:1354950	Nrbf2	PMID:24849286		GO:0043550	regulation of lipid kinase activity	IMP			PANTHER:PTHR14964	20150422		NCBITaxon:10090
+AgBase	UniProtKB:O30916	sopB	PMID:21435037		GO:0045859	regulation of protein kinase activity	IMP				20150819		NCBITaxon:99287
+GOC	AGI_LocusCode:AT3G60250	CKB3	PMID:9724822|TAIR:Publication:2220		GO:0045859	regulation of protein kinase activity	IDA		TAIR:locus:2081937		20240420		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G16360	KINbeta2	PMID:25736509|TAIR:Publication:501763287		GO:0045859	regulation of protein kinase activity	IPI	AGI_LocusCode:AT3G01090	TAIR:locus:2130514		20150508		NCBITaxon:3702
+UniProt	UniProtKB:Q9H2G4	TSPYL2	PMID:11395479		GO:0045859	regulation of protein kinase activity	IDA		UniProtKB:Q9H2G4	PANTHER:PTHR11875	20031216		NCBITaxon:9606
+UniProt	UniProtKB:Q96RR4	CAMKK2	PMID:11395482		GO:0045859	regulation of protein kinase activity	TAS		UniProtKB:Q96RR4	PANTHER:PTHR43895	20061130		NCBITaxon:9606
+UniProt	MGI:MGI:95527	Fgr	PMID:11672534		GO:0045859	regulation of protein kinase activity	IDA			PANTHER:PTHR24418	20110825		NCBITaxon:10090
+UniProt	UniProtKB:Q9H8V3	ECT2	PMID:15254234		GO:0045859	regulation of protein kinase activity	IDA		UniProtKB:Q9H8V3	PANTHER:PTHR16777	20110729		NCBITaxon:9606
+UniProt	MGI:MGI:1349482	Nherf1	PMID:18190691		GO:0045859	regulation of protein kinase activity	IMP			PANTHER:PTHR14191	20110202		NCBITaxon:10090
+UniProt	UniProtKB:P38505	CaBP1	PMID:19384409		GO:0045859	regulation of protein kinase activity	IDA			PANTHER:PTHR10891	20221115		NCBITaxon:294381
+UniProt	UniProtKB:Q8ND04	SMG8	PMID:19417104		GO:0045859	regulation of protein kinase activity	IMP		UniProtKB:Q8ND04	PANTHER:PTHR13091	20090511		NCBITaxon:9606
+UniProt	UniProtKB:Q9NSG2	FIRRM	PMID:34260926		GO:0045859	regulation of protein kinase activity	IMP		UniProtKB:Q9NSG2	PANTHER:PTHR16071	20230303		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-020107-1	ptpra	PMID:12086467		GO:0045859	regulation of protein kinase activity	IDA			PANTHER:PTHR19134	20040108		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-050126-1	yes1	PMID:17611617		GO:0045859	regulation of protein kinase activity	IGI	ZFIN:ZDB-MRPHLNO-050128-3|ZFIN:ZDB-MRPHLNO-070304-3		PANTHER:PTHR24418	20071109		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-030903-5	fyna	PMID:17611617		GO:0045859	regulation of protein kinase activity	IGI	ZFIN:ZDB-MRPHLNO-050128-3|ZFIN:ZDB-MRPHLNO-070304-3		PANTHER:PTHR24418	20071109		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-050706-89	fynb	PMID:17611617		GO:0045859	regulation of protein kinase activity	IGI	ZFIN:ZDB-MRPHLNO-050128-3|ZFIN:ZDB-MRPHLNO-070304-3		PANTHER:PTHR24418	20071109		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-990603-12	wnt11f2	PMID:17611617		GO:0045859	regulation of protein kinase activity	IMP	ZFIN:ZDB-MRPHLNO-041217-10		PANTHER:PTHR12027	20071109		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-050126-1	yes1	PMID:18550893		GO:0045859	regulation of protein kinase activity	IGI	ZFIN:ZDB-MRPHLNO-050128-3|ZFIN:ZDB-MRPHLNO-070304-3		PANTHER:PTHR24418	20091002		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-030903-5	fyna	PMID:18550893		GO:0045859	regulation of protein kinase activity	IGI	ZFIN:ZDB-MRPHLNO-050128-3|ZFIN:ZDB-MRPHLNO-070304-3		PANTHER:PTHR24418	20091002		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-050706-89	fynb	PMID:18550893		GO:0045859	regulation of protein kinase activity	IGI	ZFIN:ZDB-MRPHLNO-050128-3|ZFIN:ZDB-MRPHLNO-070304-3		PANTHER:PTHR24418	20091002		NCBITaxon:7955
+UniProt	MGI:MGI:96543	Il1b	PMID:15899045		GO:0050999	regulation of nitric-oxide synthase activity	IDA			PANTHER:PTHR10078	20151214		NCBITaxon:10090
+UniProt	MGI:MGI:104663	Lep	PMID:15899045		GO:0050999	regulation of nitric-oxide synthase activity	IDA			PANTHER:PTHR11724	20151214		NCBITaxon:10090
+UniProt	UniProtKB:P01584	IL1B	PMID:15899045		GO:0050999	regulation of nitric-oxide synthase activity	IDA		UniProtKB:P01584	PANTHER:PTHR10078	20151214		NCBITaxon:9606
+UniProt	UniProtKB:P41159	LEP	PMID:15899045		GO:0050999	regulation of nitric-oxide synthase activity	IDA		UniProtKB:P41159	PANTHER:PTHR11724	20151214		NCBITaxon:9606
+AgBase	UniProtKB:Q703P0	CRH	PMID:18786646	not	GO:0051341	regulation of oxidoreductase activity	IDA		UniProtKB:Q703P0	PANTHER:PTHR15035	20130312		NCBITaxon:9031
+UniProt	UniProtKB:Q9BQ95	ECSIT	PMID:17344420		GO:0051341	regulation of oxidoreductase activity	IDA		UniProtKB:Q9BQ95	PANTHER:PTHR13113	20070625		NCBITaxon:9606
+MGI	UniProtKB:P56539	CAV3	PMID:20472890		GO:0051394	regulation of nerve growth factor receptor activity	IMP		UniProtKB:P56539	PANTHER:PTHR10844	20120723		NCBITaxon:9606
+CACAO	UniProtKB:K7WBL1	K7WBL1	PMID:23511337		GO:0051438	regulation of ubiquitin-protein transferase activity	IDA				20130926		NCBITaxon:112780
+UniProt	FB:FBgn0032725	Nedd8	PMID:12231629		GO:0051438	regulation of ubiquitin-protein transferase activity	IMP			PANTHER:PTHR10666	20060224		NCBITaxon:7227
+UniProt	UniProtKB:Q9UK73	FEM1B	PMID:15601820		GO:0051438	regulation of ubiquitin-protein transferase activity	IMP		UniProtKB:Q9UK73	PANTHER:PTHR24173	20080314		NCBITaxon:9606
+AgBase	UniProtKB:Q8HYX6	FKBP1B	PMID:9857007		GO:0060314	regulation of ryanodine-sensitive calcium-release channel activity	IMP				20090311		NCBITaxon:9986
+AgBase	UniProtKB:P62943	FKBP1A	PMID:9857007		GO:0060314	regulation of ryanodine-sensitive calcium-release channel activity	IMP				20090311		NCBITaxon:9986
+AgBase	Xenbase:XB-GENE-17341940	fkbp1b.S	PMID:9857007		GO:0060314	regulation of ryanodine-sensitive calcium-release channel activity	IMP				20090311		NCBITaxon:8355
+AgBase	Xenbase:XB-GENE-5836974	fkbp1a.L	PMID:9857007		GO:0060314	regulation of ryanodine-sensitive calcium-release channel activity	IMP				20090311		NCBITaxon:8355
+CAFA	UniProtKB:P07293	CACNA1S	PMID:12620094		GO:0060314	regulation of ryanodine-sensitive calcium-release channel activity	IMP				20161003		NCBITaxon:9986
+UniProt	MGI:MGI:1891497	Jph3	PMID:16809425		GO:0060314	regulation of ryanodine-sensitive calcium-release channel activity	IMP			PANTHER:PTHR23085	20110815		NCBITaxon:10090
+UniProt	UniProtKB:Q9NZV5	SELENON	PMID:18713863		GO:0060314	regulation of ryanodine-sensitive calcium-release channel activity	IMP		UniProtKB:Q9NZV5	PANTHER:PTHR16213	20160223		NCBITaxon:9606
+UniProt	ZFIN:ZDB-GENE-030327-7	selenon	PMID:18713863|ZFIN:ZDB-PUB-080826-31		GO:0060314	regulation of ryanodine-sensitive calcium-release channel activity	IMP			PANTHER:PTHR16213	20160223		NCBITaxon:7955
+UniProt	UniProtKB:Q13557	CAMK2D	PMID:19482609		GO:0060314	regulation of ryanodine-sensitive calcium-release channel activity	TAS		UniProtKB:Q13557	PANTHER:PTHR24347	20110914		NCBITaxon:9606
+UniProt	UniProtKB:P0DP23	CALM1	PMID:22067155		GO:0060314	regulation of ryanodine-sensitive calcium-release channel activity	IDA		UniProtKB:P0DP23	PANTHER:PTHR23050	20170807		NCBITaxon:9606
+UniProt	EcoCyc:G7885-MONOMER	RraB	PMID:16771842		GO:0060699	regulation of endoribonuclease activity	IDA				20101214		NCBITaxon:83333
+UniProt	UniProtKB:P06748	NPM1	PMID:19188445		GO:0060699	regulation of endoribonuclease activity	IDA		UniProtKB:P06748	PANTHER:PTHR22747	20101012		NCBITaxon:9606
+UniProt	UniProtKB:P00973	OAS1	PMID:19923450		GO:0060700	regulation of ribonuclease activity	IDA		UniProtKB:P00973-1	PANTHER:PTHR11258	20110816		NCBITaxon:9606
+UniProt	UniProtKB:P00973	OAS1	PMID:19923450		GO:0060700	regulation of ribonuclease activity	IDA		UniProtKB:P00973-2	PANTHER:PTHR11258	20110816		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6K5	OAS3	PMID:19923450		GO:0060700	regulation of ribonuclease activity	IDA		UniProtKB:Q9Y6K5	PANTHER:PTHR11258	20110816		NCBITaxon:9606
+UniProt	UniProtKB:Q29599	OAS1	PMID:20844035		GO:0060700	regulation of ribonuclease activity	IDA		UniProtKB:Q29599	PANTHER:PTHR11258	20210217		NCBITaxon:9823
+UniProt	UniProtKB:Q14432	PDE3A	PMID:34272366		GO:0060700	regulation of ribonuclease activity	IDA		UniProtKB:Q14432	PANTHER:PTHR11347	20220204		NCBITaxon:9606
+UniProt	UniProtKB:Q14432	PDE3A	PMID:35104454		GO:0060700	regulation of ribonuclease activity	IMP		UniProtKB:Q14432	PANTHER:PTHR11347	20220303		NCBITaxon:9606
+UniProt	MGI:MGI:1921262	Rap2b	PMID:19061864		GO:0061097	regulation of protein tyrosine kinase activity	IDA			PANTHER:PTHR24070	20100903		NCBITaxon:10090
+UniProt	MGI:MGI:1919315	Rap2c	PMID:19061864		GO:0061097	regulation of protein tyrosine kinase activity	IDA			PANTHER:PTHR24070	20100903		NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-041221-2	prnpb	PMID:26860872		GO:0061097	regulation of protein tyrosine kinase activity	IMP	ZFIN:ZDB-MRPHLNO-100423-4|ZFIN:ZDB-MRPHLNO-100423-5		PANTHER:PTHR10502	20160719		NCBITaxon:7955
+UniProt	UniProtKB:Q9P2Y5	UVRAG	PMID:22542840		GO:0071900	regulation of protein serine/threonine kinase activity	IDA		UniProtKB:Q9P2Y5	PANTHER:PTHR15157	20150402		NCBITaxon:9606
+UniProt	MGI:MGI:3779923	Pate11	PMID:18387948		GO:0099601	regulation of neurotransmitter receptor activity	IDA				20170526		NCBITaxon:10090
+UniProt	MGI:MGI:4936886	Pate1	PMID:18387948		GO:0099601	regulation of neurotransmitter receptor activity	IDA				20170526		NCBITaxon:10090
+UniProt	UniProtKB:P0C8F1	PATE4	PMID:18387948		GO:0099601	regulation of neurotransmitter receptor activity	IDA		UniProtKB:P0C8F1		20170526		NCBITaxon:9606
+UniProt	UniProtKB:P0DP58	LYNX1	PMID:21252236		GO:0099601	regulation of neurotransmitter receptor activity	IDA		UniProtKB:P0DP58	PANTHER:PTHR16983	20170505		NCBITaxon:9606
+UniProt	UniProtKB:O43653	PSCA	PMID:25680266		GO:0099601	regulation of neurotransmitter receptor activity	IDA		UniProtKB:O43653	PANTHER:PTHR16983	20170510		NCBITaxon:9606
+UniProt	UniProtKB:P0DP57	SLURP2	PMID:27485575		GO:0099601	regulation of neurotransmitter receptor activity	IDA		UniProtKB:P0DP57	PANTHER:PTHR16983	20170505		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-141212-373	hpn	PMID:23954211		GO:1900003	regulation of serine-type endopeptidase activity	IMP	ZFIN:ZDB-MRPHLNO-160411-7		PANTHER:PTHR24253	20160411		NCBITaxon:7955
+AgBase	UniProtKB:G3UNU3	SDC4	PMID:24036479		GO:1900019	regulation of protein kinase C activity	TAS				20140514		NCBITaxon:9103
+AgBase	UniProtKB:Q5I5K4	Q5I5K4	PMID:24036479		GO:1900019	regulation of protein kinase C activity	TAS				20140514		NCBITaxon:9103
+MGI	RGD:3015	Lox	PMID:18586678		GO:1900120	regulation of receptor binding	IMP			PANTHER:PTHR45817	20190103		NCBITaxon:10116
+ZFIN	ZFIN:ZDB-GENE-030131-5425	tmem33	PMID:30760708		GO:1901339	regulation of store-operated calcium channel activity	IMP	ZFIN:ZDB-CRISPR-190716-3|ZFIN:ZDB-CRISPR-190716-4|ZFIN:ZDB-GENO-191017-2		PANTHER:PTHR12703	20191022		NCBITaxon:7955
+UniProt	UniProtKB:Q09666	AHNAK	PMID:22038483		GO:1901385	regulation of voltage-gated calcium channel activity	IMP		UniProtKB:Q09666	PANTHER:PTHR23348	20140124	CL:0000746|GO:0071875	NCBITaxon:9606
+UniProt	UniProtKB:P84074	HPCA	PMID:28398555		GO:1901385	regulation of voltage-gated calcium channel activity	IMP		UniProtKB:P84074	PANTHER:PTHR23055	20170602		NCBITaxon:9606
+UniProt	MGI:MGI:3033336	Szt2	PMID:20045724		GO:1901668	regulation of superoxide dismutase activity	IMP			PANTHER:PTHR14918	20131108		NCBITaxon:10090
+UniProt	AGI_LocusCode:AT4G31390	ACDO1	PMID:24267661|TAIR:Publication:501757260		GO:1902171	regulation of tocopherol cyclase activity	IDA		TAIR:locus:2128116		20210331		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G02880	KIN7	PMID:31147492|TAIR:Publication:501803287		GO:1902427	regulation of water channel activity	IGI	AGI_LocusCode:AT5G16590	TAIR:locus:2075502		20230627		NCBITaxon:3702
+UniProt	UniProtKB:Q96S16	JMJD8	PMID:27199445		GO:1903302	regulation of pyruvate kinase activity	IMP		UniProtKB:Q96S16	PANTHER:PTHR12480	20180827		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-050517-23	abcc9	PMID:34820842		GO:1904451	regulation of potassium:proton exchanging ATPase activity	IMP	ZFIN:ZDB-GENO-241217-2			20241217		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-050517-23	abcc9	PMID:34820842		GO:1904451	regulation of potassium:proton exchanging ATPase activity	IMP	ZFIN:ZDB-GENO-241217-3			20241217		NCBITaxon:7955
+UniProt	RGD:2223	Bsn	PMID:23403927		GO:1904666	regulation of ubiquitin protein ligase activity	IDA			PANTHER:PTHR14113	20190131		NCBITaxon:10116
+UniProt	RGD:69406	Pclo	PMID:23403927		GO:1904666	regulation of ubiquitin protein ligase activity	IDA			PANTHER:PTHR14113	20190131		NCBITaxon:10116
+UniProt	UniProtKB:Q8N300	SVBP	PMID:31171830		GO:1905048	regulation of metallopeptidase activity	IMP		UniProtKB:Q8N300	PANTHER:PTHR34762	20191114		NCBITaxon:9606
+UniProt	UniProtKB:Q8N300	SVBP	PMID:31235910		GO:1905048	regulation of metallopeptidase activity	IMP		UniProtKB:Q8N300	PANTHER:PTHR34762	20191114		NCBITaxon:9606
+UniProt	UniProtKB:Q8N300	SVBP	PMID:31235911		GO:1905048	regulation of metallopeptidase activity	IMP		UniProtKB:Q8N300	PANTHER:PTHR34762	20191114		NCBITaxon:9606
+UniProt	UniProtKB:Q8N300	SVBP	PMID:31270470		GO:1905048	regulation of metallopeptidase activity	IMP		UniProtKB:Q8N300	PANTHER:PTHR34762	20191114		NCBITaxon:9606
+UniProt	UniProtKB:P61328	FGF12	PMID:27164707		GO:1905150	regulation of voltage-gated sodium channel activity	IMP		UniProtKB:P61328	PANTHER:PTHR11486	20160620		NCBITaxon:9606
+UniProt	RGD:3631	Scn1b	PMID:28012039		GO:1905150	regulation of voltage-gated sodium channel activity	IDA			PANTHER:PTHR10546	20181126		NCBITaxon:10116
+MGI	UniProtKB:Q6ZSY5	PPP1R3F	PMID:21668450		GO:2000465	regulation of glycogen (starch) synthase activity	IDA		UniProtKB:Q6ZSY5	PANTHER:PTHR12307	20120508		NCBITaxon:9606
+UniProt	UniProtKB:Q0JNB6	HKT1;5	PMID:28488420		GO:2000649	regulation of sodium ion transmembrane transporter activity	IDA			PANTHER:PTHR31064	20221101		NCBITaxon:39947
+ZFIN	ZFIN:ZDB-GENE-061025-1	ap1b1	PMID:23593334		GO:2000649	regulation of sodium ion transmembrane transporter activity	IMP	ZFIN:ZDB-GENO-130514-2			20130516		NCBITaxon:7955
+MGI	UniProtKB:Q9NQZ6	ZC4H2	PMID:32094113		GO:2000677	regulation of transcription regulatory region DNA binding	IGI	UniProtKB:Q5VTB9	UniProtKB:Q9NQZ6	PANTHER:PTHR31058	20210805		NCBITaxon:9606
+MGI	UniProtKB:Q5VTB9	RNF220	PMID:32094113		GO:2000677	regulation of transcription regulatory region DNA binding	IGI	UniProtKB:Q9NQZ6	UniProtKB:Q5VTB9	PANTHER:PTHR13459	20210810		NCBITaxon:9606
+UniProt	UniProtKB:O95365	ZBTB7A	PMID:12004059		GO:2000677	regulation of transcription regulatory region DNA binding	IDA		UniProtKB:O95365	PANTHER:PTHR46105	20180815		NCBITaxon:9606
+UniProt	UniProtKB:Q8TEK3	DOT1L	PMID:22002246		GO:2000677	regulation of transcription regulatory region DNA binding	IMP		UniProtKB:Q8TEK3	PANTHER:PTHR21451	20111130		NCBITaxon:9606
