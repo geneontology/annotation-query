@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ZFIN	ZFIN:ZDB-GENE-030909-10	itgb1b	PMID:31006651		GO:0033627	cell adhesion mediated by integrin	IMP	ZFIN:ZDB-MRPHLNO-080319-2		PANTHER:PTHR10082	20200410	GO:0090674|ZFA:0000155|ZFA:0005042	NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-030909-10	itgb1b	PMID:31006651		GO:0033627	cell adhesion mediated by integrin	IMP	ZFIN:ZDB-GENO-200409-23		PANTHER:PTHR10082	20200410	GO:0090674|ZFA:0000155|ZFA:0005042	NCBITaxon:7955

@@ -1,0 +1,26 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ZFIN	ZFIN:ZDB-GENE-030909-10	itgb1b	PMID:31006651		GO:0090674	endothelial cell-matrix adhesion via fibronectin	IMP	ZFIN:ZDB-GENO-200409-23		PANTHER:PTHR10082	20210202	ZFA:0000155	NCBITaxon:7955
+ARUK-UCL	UniProtKB:P11215	ITGAM	PMID:20199584		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	NAS		UniProtKB:P11215	PANTHER:PTHR23220	20170605		NCBITaxon:9606
+ARUK-UCL	UniProtKB:P05107	ITGB2	PMID:20199584		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	NAS		UniProtKB:P05107	PANTHER:PTHR10082	20170605		NCBITaxon:9606
+ARUK-UCL	ComplexPortal:CPX-1826	intg_am_b2_human	PMID:20199584		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	NAS				20170605		NCBITaxon:9606
+AgBase	UniProtKB:P10288	CDH2	PMID:3553211		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP		UniProtKB:P10288	PANTHER:PTHR24027	20170203	UBERON:0002329	NCBITaxon:9031
+RGD	RGD:621365	Epcam	PMID:19276185		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IDA			PANTHER:PTHR14168	20141216		NCBITaxon:10116
+RGD	RGD:1565355	Cd36l1	PMID:24317495		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IEP				20160322		NCBITaxon:10116
+RGD	RGD:402072544	LOC134486712	PMID:24317495		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IEP				20160322		NCBITaxon:10116
+RGD	RGD:2301	Cd36	PMID:24317495		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IEP			PANTHER:PTHR11923	20160322		NCBITaxon:10116
+UniProt	UniProtKB:Q8N6Q3	CD177	PMID:17580308		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP		UniProtKB:Q8N6Q3	PANTHER:PTHR16529	20170905		NCBITaxon:9606
+UniProt	UniProtKB:P16284	PECAM1	PMID:17580308		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP		UniProtKB:P16284	PANTHER:PTHR11481	20170905		NCBITaxon:9606
+UniProt	UniProtKB:Q8N441	FGFRL1	PMID:18061161		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP		UniProtKB:Q8N441	PANTHER:PTHR19890	20141208		NCBITaxon:9606
+UniProt	UniProtKB:P25189	MPZ	PMID:18337304		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP		UniProtKB:P25189	PANTHER:PTHR13869	20170217		NCBITaxon:9606
+UniProt	MGI:MGI:1341867	Mmp24	PMID:19805319		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP			PANTHER:PTHR10201	20170202		NCBITaxon:10090
+UniProt	MGI:MGI:2441950	Adgrl3	PMID:22405201		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP			PANTHER:PTHR12011	20170202		NCBITaxon:10090
+UniProt	MGI:MGI:1918686	Flrt3	PMID:22405201		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP			PANTHER:PTHR45712	20170202		NCBITaxon:10090
+UniProt	MGI:MGI:2441950	Adgrl3	PMID:25728924		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP			PANTHER:PTHR12011	20170202		NCBITaxon:10090
+UniProt	UniProtKB:Q9NZU0	FLRT3	PMID:26235030		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IDA		UniProtKB:Q9NZU0	PANTHER:PTHR45712	20170202		NCBITaxon:9606
+UniProt	UniProtKB:Q6UXZ4	UNC5D	PMID:26235030		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IDA		UniProtKB:Q6UXZ4	PANTHER:PTHR12582	20170202		NCBITaxon:9606
+UniProt	UniProtKB:Q9HAR2	ADGRL3	PMID:26235030		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IDA		UniProtKB:Q9HAR2	PANTHER:PTHR12011	20170202		NCBITaxon:9606
+UniProt	RGD:67396	Ceacam1	PMID:7774714		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IDA			PANTHER:PTHR44427	20170202		NCBITaxon:10116
+UniProt	RGD:3035	Mag	PMID:9298990		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP			PANTHER:PTHR12035	20170202		NCBITaxon:10116
+ZFIN	ZFIN:ZDB-GENE-990415-171	cdh2	PMID:12091300		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IMP	ZFIN:ZDB-GENO-070516-5		PANTHER:PTHR24027	20150904		NCBITaxon:7955
+dictyBase	dictyBase:DDB_G0267412	pspA	PMID:12468387		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IDA				20231108	GO:0031153	NCBITaxon:44689
+dictyBase	dictyBase:DDB_G0289073	csaA	PMID:3934167		GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	IDA			PANTHER:PTHR31341	20190830	GO:0031152	NCBITaxon:44689
