@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0032729	L2HGDH	PMID:28115720		GO:0061758	2-hydroxyglutarate dehydrogenase activity, forward reaction	IMP			PANTHER:PTHR43104	20231003		NCBITaxon:7227
+FlyBase	FB:FBgn0032729	L2HGDH	PMID:37995940		GO:0061758	2-hydroxyglutarate dehydrogenase activity, forward reaction	IDA			PANTHER:PTHR43104	20240212		NCBITaxon:7227
+FlyBase	FB:FBgn0001258	Ldh	PMID:28115720		GO:0061759	alpha-ketoglutarate reductase activity	IDA			PANTHER:PTHR43128	20231003		NCBITaxon:7227
+SGD	SGD:S000000883	SER3	PMID:26774271		GO:0061759	alpha-ketoglutarate reductase activity	IDA			PANTHER:PTHR10996	20160311		NCBITaxon:559292
+SGD	SGD:S000000883	SER3	PMID:26774271		GO:0061759	alpha-ketoglutarate reductase activity	IGI	SGD:S000001336		PANTHER:PTHR10996	20160311		NCBITaxon:559292
+SGD	SGD:S000000883	SER3	PMID:26774271		GO:0061759	alpha-ketoglutarate reductase activity	IMP			PANTHER:PTHR10996	20160311		NCBITaxon:559292
+SGD	SGD:S000001336	SER33	PMID:26774271		GO:0061759	alpha-ketoglutarate reductase activity	IDA			PANTHER:PTHR10996	20160311		NCBITaxon:559292
+SGD	SGD:S000001336	SER33	PMID:26774271		GO:0061759	alpha-ketoglutarate reductase activity	IGI	SGD:S000000883		PANTHER:PTHR10996	20160311		NCBITaxon:559292
+SGD	SGD:S000001336	SER33	PMID:26774271		GO:0061759	alpha-ketoglutarate reductase activity	IMP			PANTHER:PTHR10996	20160311		NCBITaxon:559292
