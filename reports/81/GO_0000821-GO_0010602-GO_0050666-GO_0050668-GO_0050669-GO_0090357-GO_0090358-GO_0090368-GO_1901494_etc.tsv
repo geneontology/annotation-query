@@ -1,0 +1,48 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AspGD	UniProtKB:G5EAX1	ANIA_00202	PMID:11810230		GO:0000821	regulation of arginine metabolic process	IMP			PANTHER:PTHR37534	20090807		NCBITaxon:227321
+AspGD	UniProtKB:P17429	areA	PMID:62492		GO:0000821	regulation of arginine metabolic process	IMP			PANTHER:PTHR10071	20100114		NCBITaxon:227321
+ComplexPortal	SGD:S000002580	ARG82	PMID:10632874		GO:0000821	regulation of arginine metabolic process	NAS			PANTHER:PTHR12400	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000004565	ARG81	PMID:10632874		GO:0000821	regulation of arginine metabolic process	NAS			PANTHER:PTHR31069	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000004646	MCM1	PMID:10632874		GO:0000821	regulation of arginine metabolic process	NAS			PANTHER:PTHR48019	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000004645	ARG80	PMID:10632874		GO:0000821	regulation of arginine metabolic process	NAS			PANTHER:PTHR48019	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000217598	CPX-1152	PMID:10632874		GO:0000821	regulation of arginine metabolic process	NAS				20240827		NCBITaxon:559292
+MGI	MGI:MGI:1337120	Slc7a7	PMID:17376816		GO:0000821	regulation of arginine metabolic process	IMP	MGI:MGI:3530880		PANTHER:PTHR11785	20150204		NCBITaxon:10090
+SGD	SGD:S000004565	ARG81	PMID:10688655		GO:0000821	regulation of arginine metabolic process	IMP			PANTHER:PTHR31069	20130807		NCBITaxon:559292
+SGD	SGD:S000002580	ARG82	PMID:11119723		GO:0000821	regulation of arginine metabolic process	IMP			PANTHER:PTHR12400	20130807		NCBITaxon:559292
+SGD	SGD:S000002580	ARG82	PMID:2274024		GO:0000821	regulation of arginine metabolic process	IMP			PANTHER:PTHR12400	20130807		NCBITaxon:559292
+SGD	SGD:S000002580	ARG82	PMID:8043104		GO:0000821	regulation of arginine metabolic process	IMP			PANTHER:PTHR12400	20130807		NCBITaxon:559292
+UniProt	MGI:MGI:95530	Fh1	PMID:23643539		GO:0000821	regulation of arginine metabolic process	IMP			PANTHER:PTHR11444	20190319		NCBITaxon:10090
+TAIR	AGI_LocusCode:AT4G20380	LSD1	PMID:18055613|TAIR:Publication:501723825		GO:0010602	regulation of 1-aminocyclopropane-1-carboxylate metabolic process	IMP		TAIR:locus:2128639		20230208		NCBITaxon:3702
+UniProt	UniProtKB:Q93088	BHMT	PMID:10075673		GO:0050666	regulation of homocysteine metabolic process	NAS		UniProtKB:Q93088	PANTHER:PTHR46120	20041206		NCBITaxon:9606
+ZFIN	ZFIN:ZDB-GENE-021030-3	cbsb	PMID:29503817		GO:0050666	regulation of homocysteine metabolic process	IMP	ZFIN:ZDB-MRPHLNO-180727-2			20180808		NCBITaxon:7955
+ZFIN	ZFIN:ZDB-GENE-021030-3	cbsb	PMID:29503817		GO:0050666	regulation of homocysteine metabolic process	IMP	ZFIN:ZDB-GENO-180808-2			20180808		NCBITaxon:7955
+RGD	RGD:2379	Comt	PMID:15779086		GO:0050668	positive regulation of homocysteine metabolic process	IMP			PANTHER:PTHR43836	20080211		NCBITaxon:10116
+EcoCyc	EcoCyc:EG11274-MONOMER	TrpL	PMID:7038627		GO:0090357	regulation of L-tryptophan metabolic process	IDA				20130411		NCBITaxon:83333
+TAIR	AGI_LocusCode:AT1G32640	MYC2	PMID:17616737|TAIR:Publication:501722779		GO:0090357	regulation of L-tryptophan metabolic process	IMP		TAIR:locus:2035609		20201106		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G34410	RRTF1	PMID:29686365|TAIR:Publication:501779623		GO:0090357	regulation of L-tryptophan metabolic process	IEP		TAIR:locus:2116224		20180511		NCBITaxon:3702
+EcoCyc	EcoCyc:EG11276-MONOMER	TnaC	PMID:2345136		GO:0090358	positive regulation of L-tryptophan metabolic process	IMP				20211025		NCBITaxon:83333
+TAIR	AGI_LocusCode:AT1G75500	WAT1	PMID:20497379|TAIR:Publication:501737837		GO:0090358	positive regulation of L-tryptophan metabolic process	IMP		TAIR:locus:2005689		20100701		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G28940	AIG2B	PMID:35972413|TAIR:Publication:501800122		GO:0090358	positive regulation of L-tryptophan metabolic process	IGI	AGI_LocusCode:AT3G28930|AGI_LocusCode:AT3G28940	TAIR:locus:2087042		20220826		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT3G28930	AIG2	PMID:35972413|TAIR:Publication:501800122		GO:0090358	positive regulation of L-tryptophan metabolic process	IGI	AGI_LocusCode:AT3G28930|AGI_LocusCode:AT3G28940	TAIR:locus:2086987		20220827		NCBITaxon:3702
+BHF-UCL	UniProtKB:P41235	HNF4A	PMID:17827783		GO:0090368	regulation of ornithine metabolic process	IMP		UniProtKB:P41235	PANTHER:PTHR24083	20240615		NCBITaxon:9606
+PseudoCAP	UniProtKB:Q9HV73	cbrB	PMID:11401699		GO:0090368	regulation of ornithine metabolic process	IMP		UniProtKB:Q9HV73	PANTHER:PTHR32071	20190311		NCBITaxon:208964
+SGD	SGD:S000006032	CAR1	PMID:12679340		GO:0090368	regulation of ornithine metabolic process	IDA			PANTHER:PTHR43782	20130807		NCBITaxon:559292
+SGD	SGD:S000006032	CAR1	PMID:12679340		GO:0090368	regulation of ornithine metabolic process	IMP			PANTHER:PTHR43782	20130807		NCBITaxon:559292
+MGI	MGI:MGI:1347355	Slc7a11	PMID:17200146		GO:1901494	regulation of cysteine metabolic process	IMP	MGI:MGI:3608695		PANTHER:PTHR11785	20180905		NCBITaxon:10090
+SGD	SGD:S000001248	SCH9	PMID:31582588		GO:1901494	regulation of cysteine metabolic process	IMP			PANTHER:PTHR24356	20191018		NCBITaxon:559292
+FlyBase	FB:FBgn0036927	Gabat	PMID:26124278		GO:2000211	regulation of glutamate metabolic process	IMP			PANTHER:PTHR43206	20160818		NCBITaxon:7227
+MGI	MGI:MGI:1347355	Slc7a11	PMID:21490221		GO:2000211	regulation of glutamate metabolic process	IMP	MGI:MGI:3608695		PANTHER:PTHR11785	20180905		NCBITaxon:10090
+MGI	MGI:MGI:1347355	Slc7a11	PMID:24548853		GO:2000211	regulation of glutamate metabolic process	IMP			PANTHER:PTHR11785	20180905		NCBITaxon:10090
+MGI	MGI:MGI:1347355	Slc7a11	PMID:25429150		GO:2000211	regulation of glutamate metabolic process	IMP	MGI:MGI:3608695		PANTHER:PTHR11785	20180905		NCBITaxon:10090
+RGD	RGD:2123	Apc	PMID:19858196		GO:2000211	regulation of glutamate metabolic process	IDA			PANTHER:PTHR12607	20120621		NCBITaxon:10116
+UniProt	UniProtKB:Q86WG3	ATCAY	PMID:16899818		GO:2000212	negative regulation of glutamate metabolic process	IDA		UniProtKB:Q86WG3	PANTHER:PTHR12112	20120918		NCBITaxon:9606
+UniProt	WB:WBGene00016326	ubr-1	PMID:29649217		GO:2000212	negative regulation of glutamate metabolic process	IMP			PANTHER:PTHR21497	20180927		NCBITaxon:6239
+BHF-UCL	MGI:MGI:1352464	Nr1h4	PMID:21757002		GO:2000213	positive regulation of glutamate metabolic process	IMP			PANTHER:PTHR24082	20111201		NCBITaxon:10090
+UniProt	WB:WBGene00020146	got-1.2	PMID:29649217		GO:2000213	positive regulation of glutamate metabolic process	IMP			PANTHER:PTHR11879	20180927		NCBITaxon:6239
+SGD	SGD:S000001848	FMP32	PMID:32978391		GO:2000214	regulation of L-proline metabolic process	IMP			PANTHER:PTHR14360	20200929		NCBITaxon:559292
+SGD	SGD:S000004273	PUT7	PMID:32978391		GO:2000214	regulation of L-proline metabolic process	IMP			PANTHER:PTHR14360	20200929		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT1G61660	AtbHLH112	PMID:25827016|TAIR:Publication:501764018		GO:2000214	regulation of L-proline metabolic process	IMP		TAIR:locus:2195763		20150518		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G28625	PCA22	PMID:28369480|TAIR:Publication:501775025		GO:2000214	regulation of L-proline metabolic process	IGI	AGI_LocusCode:AT3G56580	TAIR:locus:1006230177		20170420		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G17460	DFR1	PMID:29949777|TAIR:Publication:501780316		GO:2000214	regulation of L-proline metabolic process	IMP		TAIR:gene:2157461		20180707		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G17460	DFR1	PMID:29949777|TAIR:Publication:501780316		GO:2000214	regulation of L-proline metabolic process	IMP		TAIR:gene:6530297802		20180707		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G60490	VPS34	PMID:25628629|TAIR:Publication:501762683		GO:2000214	regulation of L-proline metabolic process	IMP		TAIR:locus:2036546		20220628		NCBITaxon:3702

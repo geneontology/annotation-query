@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:P41235	HNF4A	PMID:17827783		GO:0045944	positive regulation of transcription by RNA polymerase II	IMP		UniProtKB:P41235	PANTHER:PTHR24083	20240615	GO:0090368	NCBITaxon:9606
