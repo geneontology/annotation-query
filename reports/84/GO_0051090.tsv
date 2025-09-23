@@ -1,0 +1,16 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CAFA	UniProtKB:P29375	KDM5A	PMID:18270511		GO:0051090	regulation of DNA-binding transcription factor activity	IMP		UniProtKB:P29375	PANTHER:PTHR10694	20161109	UniProtKB:P25440	NCBITaxon:9606
+MGI	UniProtKB:P43405	SYK	PMID:23071339		GO:0051090	regulation of DNA-binding transcription factor activity	IMP		UniProtKB:P43405	PANTHER:PTHR24418	20141001		NCBITaxon:9606
+UniProt	UniProtKB:Q9NRP7	STK36	PMID:10806483		GO:0051090	regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q9NRP7	PANTHER:PTHR22983	20060302		NCBITaxon:9606
+UniProt	MGI:MGI:1923051	4930447C04Rik	PMID:15703187		GO:0051090	regulation of DNA-binding transcription factor activity	NAS			PANTHER:PTHR35449	20060707		NCBITaxon:10090
+UniProt	UniProtKB:Q8N1H7	SIX6OS1	PMID:15703187		GO:0051090	regulation of DNA-binding transcription factor activity	NAS		UniProtKB:Q8N1H7	PANTHER:PTHR35449	20060707		NCBITaxon:9606
+UniProt	UniProtKB:Q9NS37	CREBZF	PMID:15705566		GO:0051090	regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q9NS37		20050316		NCBITaxon:9606
+UniProt	UniProtKB:Q93009	USP7	PMID:16964248		GO:0051090	regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q93009	PANTHER:PTHR24006	20100629		NCBITaxon:9606
+UniProt	UniProtKB:P08631	HCK	PMID:17535448		GO:0051090	regulation of DNA-binding transcription factor activity	IMP		UniProtKB:P08631	PANTHER:PTHR24418	20111028		NCBITaxon:9606
+UniProt	UniProtKB:O00141	SGK1	PMID:20530112		GO:0051090	regulation of DNA-binding transcription factor activity	TAS		UniProtKB:O00141	PANTHER:PTHR24356	20111017		NCBITaxon:9606
+UniProt	UniProtKB:Q6P1S2	C3orf33	PMID:20680465		GO:0051090	regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q6P1S2	PANTHER:PTHR28434	20140305		NCBITaxon:9606
+UniProt	UniProtKB:Q96BR1	SGK3	PMID:20919962		GO:0051090	regulation of DNA-binding transcription factor activity	TAS		UniProtKB:Q96BR1	PANTHER:PTHR24356	20111017		NCBITaxon:9606
+UniProt	MGI:MGI:1335091	Zbtb7a	PMID:29813070		GO:0051090	regulation of DNA-binding transcription factor activity	IMP			PANTHER:PTHR46105	20180808		NCBITaxon:10090
+UniProt	FB:FBgn0004595	pros	PMID:9380747		GO:0051090	regulation of DNA-binding transcription factor activity	IDA			PANTHER:PTHR12198	20200219		NCBITaxon:7227
+UniProt	MGI:MGI:102525	Pou4f1	PMID:9448000		GO:0051090	regulation of DNA-binding transcription factor activity	IDA			PANTHER:PTHR11636	20170125		NCBITaxon:10090
+UniProt	MGI:MGI:102524	Pou4f2	PMID:9448000		GO:0051090	regulation of DNA-binding transcription factor activity	IDA			PANTHER:PTHR11636	20170125		NCBITaxon:10090
