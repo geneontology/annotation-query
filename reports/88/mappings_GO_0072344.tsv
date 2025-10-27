@@ -1,0 +1,20 @@
+term	file	line
+GO:0072344	hamap2go	HAMAP:MF_00083 > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	hamap2go	HAMAP:MF_00092 > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	hamap2go	HAMAP:MF_00844 > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	hamap2go	HAMAP:MF_00846 > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	hamap2go	HAMAP:MF_00871 > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	hamap2go	HAMAP:MF_01042 > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	interpro2go	InterPro:IPR005589 Alternative ribosome-rescue factor A > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	interpro2go	InterPro:IPR009349 TRIP4/RQT4, C2HC5-type zinc finger > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	interpro2go	InterPro:IPR043681 Rqc2 homolog RqcH, archaeal > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	interpro2go	InterPro:IPR043682 Rqc2 homolog RqcH, bacterial > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	interpro2go	InterPro:IPR043684 Ribosome protection protein VmlR > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	interpro2go	InterPro:IPR044288 ZNF598/HEL2 > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	unirule2go	UniRule:UR000037500 > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	unirule2go	UniRule:UR000065651 > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	unirule2go	UniRule:UR000076352 > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	unirule2go	UniRule:UR001269501 > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	unirule2go	UniRule:UR001336777 > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	unirule2go	UniRule:UR001401776 > GO:rescue of stalled ribosome ; GO:0072344
+GO:0072344	unirule2go	UniRule:UR002092157 > GO:rescue of stalled ribosome ; GO:0072344
