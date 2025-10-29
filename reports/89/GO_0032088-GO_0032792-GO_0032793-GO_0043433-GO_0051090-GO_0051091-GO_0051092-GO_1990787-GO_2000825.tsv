@@ -1,0 +1,415 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AgBase	UniProtKB:Q8YF33	BMEI1694	PMID:22155231		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP				20160520		NCBITaxon:224914
+MGI	MGI:MGI:3041243	Nfkbid	PMID:11931770		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:3041243	PANTHER:PTHR24124	20090702		NCBITaxon:10090
+MGI	MGI:MGI:2429397	Nod2	PMID:15220916		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP	MGI:MGI:2680581	MGI:MGI:2429397	PANTHER:PTHR24106	20210323	CL:0000235	NCBITaxon:10090
+MGI	MGI:MGI:2445126	Tut4	PMID:16643855		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:2445126	PANTHER:PTHR12271	20071130		NCBITaxon:10090
+MGI	MGI:MGI:109486	Prdx2	PMID:17325201		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP	MGI:MGI:2668456	MGI:MGI:109486	PANTHER:PTHR10681	20080925		NCBITaxon:10090
+MGI	MGI:MGI:1914495	Peli1	PMID:21874024		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP	MGI:MGI:4361448	MGI:MGI:1914495	PANTHER:PTHR12098	20210323	CL:0000084	NCBITaxon:10090
+MGI	MGI:MGI:1914704	Ikbip	PMID:31826938		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:1914704	PANTHER:PTHR21734	20241218		NCBITaxon:10090
+MGI	MGI:MGI:1096377	Traip	PMID:9109628		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:1096377	PANTHER:PTHR46569	20180417		NCBITaxon:10090
+MGI	MGI:MGI:88271	Cat	PMID:9600348		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:88271	PANTHER:PTHR11465	20080523		NCBITaxon:10090
+UniProt	UniProtKB:Q99653	CHP1	PMID:10593895		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q99653	PANTHER:PTHR46002	20120615		NCBITaxon:9606
+UniProt	UniProtKB:O15111	CHUK	PMID:11536016		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:O15111	PANTHER:PTHR22969	20170530		NCBITaxon:9606
+UniProt	UniProtKB:P32121	ARRB2	PMID:15125834		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P32121	PANTHER:PTHR11792	20091203		NCBITaxon:9606
+UniProt	UniProtKB:Q96EB6	SIRT1	PMID:15152190		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q96EB6	PANTHER:PTHR11085	20111024		NCBITaxon:9606
+UniProt	UniProtKB:Q7RTR2	NLRC3	PMID:15705585		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q7RTR2	PANTHER:PTHR24106	20110126		NCBITaxon:9606
+UniProt	UniProtKB:Q99788	CMKLR1	PMID:15753205		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q99788	PANTHER:PTHR24225	20110421		NCBITaxon:9606
+UniProt	UniProtKB:Q86VX2	COMMD7	PMID:15799966		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q86VX2	PANTHER:PTHR16231	20080111		NCBITaxon:9606
+UniProt	UniProtKB:Q8N668	COMMD1	PMID:15799966		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q8N668	PANTHER:PTHR21199	20101213		NCBITaxon:9606
+UniProt	UniProtKB:Q96RT1	ERBIN	PMID:16203728		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q96RT1	PANTHER:PTHR45752	20151117	CL:0011108|GO:0032495	NCBITaxon:9606
+UniProt	UniProtKB:P20749	BCL3	PMID:16306601		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P20749	PANTHER:PTHR24118	20210428		NCBITaxon:9606
+UniProt	UniProtKB:P32121	ARRB2	PMID:16378096		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P32121	PANTHER:PTHR11792	20091203		NCBITaxon:9606
+UniProt	UniProtKB:P49407	ARRB1	PMID:16378096		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P49407	PANTHER:PTHR11792	20100517		NCBITaxon:9606
+UniProt	UniProtKB:O14862	AIM2	PMID:16432157		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:O14862	PANTHER:PTHR12200	20120816		NCBITaxon:9606
+UniProt	UniProtKB:Q9ULZ3	PYCARD	PMID:16585594		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9ULZ3	PANTHER:PTHR46985	20120910		NCBITaxon:9606
+UniProt	UniProtKB:P55345	PRMT2	PMID:16648481		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P55345	PANTHER:PTHR11006	20101203		NCBITaxon:9606
+UniProt	UniProtKB:Q9BZS1	FOXP3	PMID:16652169		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9BZS1	PANTHER:PTHR45796	20061215		NCBITaxon:9606
+UniProt	UniProtKB:Q9HCU9	BRMS1	PMID:17000776		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9HCU9	PANTHER:PTHR21964	20110119		NCBITaxon:9606
+UniProt	MGI:MGI:108041	Traf3	PMID:17015635		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:108041	PANTHER:PTHR10131	20100929		NCBITaxon:10090
+UniProt	MGI:MGI:108041	Traf3	PMID:17158868		GO:0032088	negative regulation of NF-kappaB transcription factor activity	TAS		MGI:MGI:108041	PANTHER:PTHR10131	20100917		NCBITaxon:10090
+UniProt	UniProtKB:Q8N668	COMMD1	PMID:17183367		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q8N668	PANTHER:PTHR21199	20101214		NCBITaxon:9606
+UniProt	UniProtKB:Q56P42	PYDC2	PMID:17339483		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q56P42		20150402		NCBITaxon:9606
+UniProt	UniProtKB:Q9BYM8	RBCK1	PMID:17449468		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9BYM8	PANTHER:PTHR22770	20100603		NCBITaxon:9606
+UniProt	UniProtKB:Q96JB5	CDK5RAP3	PMID:17785205		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q96JB5	PANTHER:PTHR14894	20150226		NCBITaxon:9606
+UniProt	UniProtKB:Q9NQC7	CYLD	PMID:18313383		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9NQC7	PANTHER:PTHR11830	20100601		NCBITaxon:9606
+UniProt	MGI:MGI:1352464	Nr1h4	PMID:18972444		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:1352464	PANTHER:PTHR24082	20160115		NCBITaxon:10090
+UniProt	UniProtKB:P19474	TRIM21	PMID:19675099		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P19474	PANTHER:PTHR24103	20100622		NCBITaxon:9606
+UniProt	UniProtKB:Q9BRU2	TCEAL7	PMID:19966855		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9BRU2		20101220		NCBITaxon:9606
+UniProt	UniProtKB:O94874	UFL1	PMID:20164180		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:O94874	PANTHER:PTHR31057	20100917		NCBITaxon:9606
+UniProt	UniProtKB:Q13114	TRAF3	PMID:20185819		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q13114	PANTHER:PTHR10131	20100917		NCBITaxon:9606
+UniProt	UniProtKB:O94874	UFL1	PMID:20228063		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:O94874	PANTHER:PTHR31057	20141211		NCBITaxon:9606
+UniProt	UniProtKB:Q96JB5	CDK5RAP3	PMID:20228063		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q96JB5	PANTHER:PTHR14894	20141211		NCBITaxon:9606
+UniProt	MGI:MGI:3612191	Nlrc5	PMID:20434986		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:3612191	PANTHER:PTHR24106	20100804		NCBITaxon:10090
+UniProt	UniProtKB:Q86WI3	NLRC5	PMID:20434986		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q86WI3	PANTHER:PTHR24106	20100804		NCBITaxon:9606
+UniProt	MGI:MGI:103170	Gfi1	PMID:20547752		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:103170	PANTHER:PTHR24404	20110617		NCBITaxon:10090
+UniProt	UniProtKB:Q9UBC1	NFKBIL1	PMID:20829348		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9UBC1	PANTHER:PTHR15263	20120709		NCBITaxon:9606
+UniProt	UniProtKB:Q8WUQ7	CACTIN	PMID:20829348		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q8WUQ7	PANTHER:PTHR21737	20120709		NCBITaxon:9606
+UniProt	UniProtKB:Q8TBK2	SETD6	PMID:21131967		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q8TBK2	PANTHER:PTHR13271	20110121		NCBITaxon:9606
+UniProt	UniProtKB:P08F94	PKHD1	PMID:21300060		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:P08F94	PANTHER:PTHR46769	20130910		NCBITaxon:9606
+UniProt	UniProtKB:Q6P9F5	TRIM40	PMID:21474709		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q6P9F5	PANTHER:PTHR24103	20130814		NCBITaxon:9606
+UniProt	RGD:1359645	Trim40	PMID:21474709		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		RGD:1359645	PANTHER:PTHR24103	20130814		NCBITaxon:10116
+UniProt	UniProtKB:Q8TDQ0	HAVCR2	PMID:22842346		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q8TDQ0	PANTHER:PTHR15498	20151214		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y3V2	RWDD3	PMID:23469069		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9Y3V2	PANTHER:PTHR15955	20140704		NCBITaxon:9606
+UniProt	MGI:MGI:88590	Cyp1b1	PMID:23568032		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:88590	PANTHER:PTHR24299	20140422		NCBITaxon:10090
+UniProt	UniProtKB:Q53GL7	PARP10	PMID:23575687		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q53GL7	PANTHER:PTHR14453	20140103		NCBITaxon:9606
+UniProt	MGI:MGI:103206	Acod1	PMID:23609450		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:103206	PANTHER:PTHR16943	20130510		NCBITaxon:10090
+UniProt	UniProtKB:Q96BN8	OTULIN	PMID:23746843		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q96BN8	PANTHER:PTHR33662	20130614		NCBITaxon:9606
+UniProt	UniProtKB:Q96BN8	OTULIN	PMID:23806334		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q96BN8	PANTHER:PTHR33662	20130902		NCBITaxon:9606
+UniProt	UniProtKB:Q149M9	NWD1	PMID:24681825		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q149M9	PANTHER:PTHR45013	20181119		NCBITaxon:9606
+UniProt	UniProtKB:Q8N3F0	MTURN	PMID:24681962		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q8N3F0	PANTHER:PTHR32008	20191017		NCBITaxon:9606
+UniProt	UniProtKB:Q96BN8	OTULIN	PMID:24726327		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q96BN8	PANTHER:PTHR33662	20160922		NCBITaxon:9606
+UniProt	UniProtKB:Q8WXC3	PYDC1	PMID:24871464	not	GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q8WXC3		20150402		NCBITaxon:9606
+UniProt	UniProtKB:P0DMW2	NLRP2B	PMID:24871464		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:P0DMW2		20150413		NCBITaxon:9606
+UniProt	UniProtKB:Q56P42	PYDC2	PMID:24871464		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q56P42		20150402		NCBITaxon:9606
+UniProt	UniProtKB:Q15048	LRRC14	PMID:27426725		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q15048	PANTHER:PTHR14224	20170714		NCBITaxon:9606
+UniProt	UniProtKB:Q96BN8	OTULIN	PMID:27523608		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q96BN8	PANTHER:PTHR33662	20160922		NCBITaxon:9606
+UniProt	MGI:MGI:3577015	Otulin	PMID:27523608		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:3577015	PANTHER:PTHR33662	20160922		NCBITaxon:10090
+UniProt	UniProtKB:Q96BN8	OTULIN	PMID:27559085		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q96BN8	PANTHER:PTHR33662	20160922		NCBITaxon:9606
+UniProt	UniProtKB:P0DMS9	TMIGD3	PMID:27886186		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:P0DMS9	PANTHER:PTHR11860	20170731		NCBITaxon:9606
+UniProt	UniProtKB:P0DMS8	ADORA3	PMID:27886186		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:P0DMS8	PANTHER:PTHR24246	20170731		NCBITaxon:9606
+UniProt	UniProtKB:Q96BN8	OTULIN	PMID:35170849		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q96BN8	PANTHER:PTHR33662	20221102		NCBITaxon:9606
+UniProt	UniProtKB:Q96BN8	OTULIN	PMID:35587511		GO:0032088	negative regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q96BN8	PANTHER:PTHR33662	20221107		NCBITaxon:9606
+MGI	MGI:MGI:97169	Msx2	PMID:15175325		GO:0032792	negative regulation of CREB transcription factor activity	IDA		MGI:MGI:97169	PANTHER:PTHR24338	20110614		NCBITaxon:10090
+RGD	RGD:62391	Ddit3	PMID:15829559		GO:0032792	negative regulation of CREB transcription factor activity	IDA		RGD:62391	PANTHER:PTHR16833	20070213		NCBITaxon:10116
+UniProt	MGI:MGI:104754	Sik1	PMID:12200423		GO:0032792	negative regulation of CREB transcription factor activity	IDA		MGI:MGI:104754	PANTHER:PTHR24343	20110902		NCBITaxon:10090
+UniProt	MGI:MGI:1353427	Eif2ak4	PMID:16121183		GO:0032792	negative regulation of CREB transcription factor activity	IMP		MGI:MGI:1353427	PANTHER:PTHR11042	20151021		NCBITaxon:10090
+UniProt	MGI:MGI:104754	Sik1	PMID:16148943		GO:0032792	negative regulation of CREB transcription factor activity	IDA		MGI:MGI:104754	PANTHER:PTHR24343	20110902		NCBITaxon:10090
+UniProt	UniProtKB:Q9BZS1	FOXP3	PMID:16652169		GO:0032792	negative regulation of CREB transcription factor activity	IDA		UniProtKB:Q9BZS1	PANTHER:PTHR45796	20070118		NCBITaxon:9606
+UniProt	MGI:MGI:104754	Sik1	PMID:23993098		GO:0032792	negative regulation of CREB transcription factor activity	IMP		MGI:MGI:104754	PANTHER:PTHR24343	20140804		NCBITaxon:10090
+UniProt	MGI:MGI:1859670	Adgrg3	PMID:24113187		GO:0032792	negative regulation of CREB transcription factor activity	IMP		MGI:MGI:1859670	PANTHER:PTHR12011	20150630		NCBITaxon:10090
+CACAO	MGI:MGI:103022	Reln	PMID:21852430		GO:0032793	positive regulation of CREB transcription factor activity	IMP		MGI:MGI:103022	PANTHER:PTHR11841	20111022		NCBITaxon:10090
+MGI	MGI:MGI:2685918	Lpar5	PMID:22461625		GO:0032793	positive regulation of CREB transcription factor activity	IMP	MGI:MGI:5431493	MGI:MGI:2685918	PANTHER:PTHR24234	20160309		NCBITaxon:10090
+MGI	MGI:MGI:1924846	Adgrf1	PMID:27759003		GO:0032793	positive regulation of CREB transcription factor activity	IDA		MGI:MGI:1924846	PANTHER:PTHR45813	20170927		NCBITaxon:10090
+MGI	MGI:MGI:1098280	Crebbp	PMID:7913207		GO:0032793	positive regulation of CREB transcription factor activity	IDA		MGI:MGI:1098280	PANTHER:PTHR13808	20171106		NCBITaxon:10090
+RGD	RGD:70973	Cacna1d	PMID:16706838		GO:0032793	positive regulation of CREB transcription factor activity	IMP		RGD:70973	PANTHER:PTHR45628	20121019		NCBITaxon:10116
+UniProt	MGI:MGI:1341110	Adcy8	PMID:10864938		GO:0032793	positive regulation of CREB transcription factor activity	IMP		MGI:MGI:1341110	PANTHER:PTHR45627	20180911		NCBITaxon:10090
+UniProt	MGI:MGI:99677	Adcy1	PMID:12441059		GO:0032793	positive regulation of CREB transcription factor activity	IMP		MGI:MGI:99677	PANTHER:PTHR45627	20180913		NCBITaxon:10090
+UniProt	MGI:MGI:1341110	Adcy8	PMID:12441059		GO:0032793	positive regulation of CREB transcription factor activity	IMP		MGI:MGI:1341110	PANTHER:PTHR45627	20180913		NCBITaxon:10090
+UniProt	UniProtKB:Q6SA08	TSSK4	PMID:15964553		GO:0032793	positive regulation of CREB transcription factor activity	IDA		UniProtKB:Q6SA08	PANTHER:PTHR24343	20070419		NCBITaxon:9606
+UniProt	MGI:MGI:1921593	Crtc2	PMID:16148943		GO:0032793	positive regulation of CREB transcription factor activity	IDA		MGI:MGI:1921593	PANTHER:PTHR13589	20110902		NCBITaxon:10090
+UniProt	UniProtKB:Q8IU85	CAMK1D	PMID:16324104		GO:0032793	positive regulation of CREB transcription factor activity	IDA		UniProtKB:Q8IU85	PANTHER:PTHR24347	20110913		NCBITaxon:9606
+UniProt	MGI:MGI:1918349	Tssk4	PMID:17927909		GO:0032793	positive regulation of CREB transcription factor activity	IDA		MGI:MGI:1918349	PANTHER:PTHR24343	20180625		NCBITaxon:10090
+UniProt	UniProtKB:O75676	RPS6KA4	PMID:18508628		GO:0032793	positive regulation of CREB transcription factor activity	TAS		UniProtKB:O75676	PANTHER:PTHR24351	20110915		NCBITaxon:9606
+UniProt	UniProtKB:O75582	RPS6KA5	PMID:18508628		GO:0032793	positive regulation of CREB transcription factor activity	TAS		UniProtKB:O75582	PANTHER:PTHR24351	20110915		NCBITaxon:9606
+UniProt	MGI:MGI:2142523	Crtc1	PMID:23993098		GO:0032793	positive regulation of CREB transcription factor activity	IMP		MGI:MGI:2142523	PANTHER:PTHR13589	20140804		NCBITaxon:10090
+UniProt	UniProtKB:Q58G82	SYT14P1	PMID:23999003		GO:0032793	positive regulation of CREB transcription factor activity	IMP		UniProtKB:Q58G82	PANTHER:PTHR46129	20150317	CL:0000148	NCBITaxon:9606
+UniProt	MGI:MGI:1917711	Crtc3	PMID:30611118		GO:0032793	positive regulation of CREB transcription factor activity	IMP		MGI:MGI:1917711	PANTHER:PTHR13589	20190117		NCBITaxon:10090
+AgBase	UniProtKB:Q679P3	PDLIM7	PMID:16880269		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q679P3	PANTHER:PTHR24214	20151214		NCBITaxon:9031
+AgBase	UniProtKB:Q80IW5	L-meq	PMID:17622612		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA				20080915		NCBITaxon:10390
+AgBase	UniProtKB:A7TUG5	AT1	PMID:17715150		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA				20110307		NCBITaxon:3635
+AgBase	UniProtKB:Q679P3	PDLIM7	PMID:18160705		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q679P3	PANTHER:PTHR24214	20151215		NCBITaxon:9031
+AgBase	UniProtKB:Q9IAC6	nr3c2	PMID:26108487		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA				20160815	UniProtKB:P49843|UniProtKB:Q6RKQ3	NCBITaxon:8022
+CACAO	UniProtKB:Q06240	vanS	PMID:8981985		GO:0043433	negative regulation of DNA-binding transcription factor activity	IGI	UniProtKB:Q06239			20160218		NCBITaxon:1352
+CACAO	UniProtKB:Q06239	vanR	PMID:8981985		GO:0043433	negative regulation of DNA-binding transcription factor activity	IGI	UniProtKB:Q06240			20160218		NCBITaxon:1352
+EcoCyc	EcoCyc:G6603-MONOMER	BluF	PMID:19240136		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		EcoCyc:G6603-MONOMER		20090304		NCBITaxon:83333
+GDB	UniProtKB:Q02535	ID3	PMID:14627819		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q02535	PANTHER:PTHR11723	20060216		NCBITaxon:9606
+GDB	UniProtKB:Q02363	ID2	PMID:14627819		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q02363	PANTHER:PTHR11723	20060216		NCBITaxon:9606
+GDB	UniProtKB:P41134	ID1	PMID:15138269		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:P41134	PANTHER:PTHR11723	20060216		NCBITaxon:9606
+MGI	MGI:MGI:1342291	Rlim	PMID:10431247		GO:0043433	negative regulation of DNA-binding transcription factor activity	IGI	MGI:MGI:894670	MGI:MGI:1342291	PANTHER:PTHR45931	20110112		NCBITaxon:10090
+MGI	MGI:MGI:97290	Ndn	PMID:12198120		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:97290	PANTHER:PTHR11736	20200706	PR:Q61501	NCBITaxon:10090
+MGI	MGI:MGI:97290	Ndn	PMID:12198120		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:97290	PANTHER:PTHR11736	20200706	PR:Q8R0K9	NCBITaxon:10090
+MGI	MGI:MGI:2429603	Irak2	PMID:15082713		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:2429603	PANTHER:PTHR24419	20060210		NCBITaxon:10090
+MGI	MGI:MGI:1343085	Spop	PMID:15121856		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:1343085	PANTHER:PTHR24413	20141020		NCBITaxon:10090
+MGI	MGI:MGI:97800	Pthlh	PMID:17328886		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:97800	PANTHER:PTHR17223	20090227		NCBITaxon:10090
+MGI	MGI:MGI:103577	Hand1	PMID:19144722		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:103577	PANTHER:PTHR23349	20110901		NCBITaxon:10090
+MGI	MGI:MGI:103580	Hand2	PMID:19144722		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:103580	PANTHER:PTHR23349	20110901		NCBITaxon:10090
+MGI	MGI:MGI:97290	Ndn	PMID:22514318		GO:0043433	negative regulation of DNA-binding transcription factor activity	IMP	MGI:MGI:3586988	MGI:MGI:97290	PANTHER:PTHR11736	20200707		NCBITaxon:10090
+MGI	MGI:MGI:2442415	Kat6a	PMID:22921202		GO:0043433	negative regulation of DNA-binding transcription factor activity	IMP	MGI:MGI:4418468	MGI:MGI:2442415	PANTHER:PTHR10615	20130220		NCBITaxon:10090
+MGI	MGI:MGI:96433	Igf1r	PMID:23906066		GO:0043433	negative regulation of DNA-binding transcription factor activity	IMP		MGI:MGI:96433	PANTHER:PTHR24416	20130905		NCBITaxon:10090
+MGI	MGI:MGI:1342287	Klf4	PMID:24129709		GO:0043433	negative regulation of DNA-binding transcription factor activity	IMP		MGI:MGI:1342287	PANTHER:PTHR23235	20150806		NCBITaxon:10090
+MGI	MGI:MGI:2177632	Cys1	PMID:24349431		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:2177632		20150428	CL:1001225|MGI:MGI:97250|UniProtKB:P25233|SO:0000167	NCBITaxon:10090
+MGI	MGI:MGI:1343091	Hdac3	PMID:24565863		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:1343091	PANTHER:PTHR10625	20141201	MGI:MGI:102541	NCBITaxon:10090
+MGI	MGI:MGI:107940	Ezh2	PMID:25547114		GO:0043433	negative regulation of DNA-binding transcription factor activity	IGI	MGI:MGI:102858	MGI:MGI:107940	PANTHER:PTHR45747	20150330	CL:0002187|GO:0003700	NCBITaxon:10090
+RGD	RGD:620634	Hr	PMID:11641275		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		RGD:620634	PANTHER:PTHR12549	20070207		NCBITaxon:10116
+RGD	RGD:62028	Nr0b1	PMID:12697699		GO:0043433	negative regulation of DNA-binding transcription factor activity	IMP		RGD:62028	PANTHER:PTHR24081	20070508		NCBITaxon:10116
+RGD	RGD:1308681	Rpl11	PMID:16280383		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		RGD:1308681	PANTHER:PTHR11994	20160211		NCBITaxon:10116
+RGD	RGD:2810	Hnf4a	PMID:16584384		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		RGD:2810	PANTHER:PTHR24083	20070516		NCBITaxon:10116
+RGD	RGD:2806	Hmox1	PMID:17234154		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		RGD:2806	PANTHER:PTHR10720	20070426		NCBITaxon:10116
+RGD	RGD:631375	Egln1	PMID:20308610		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		RGD:631375	PANTHER:PTHR12907	20120521		NCBITaxon:10116
+RGD	RGD:3857	Thra	PMID:2537467		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		RGD:3857	PANTHER:PTHR24082	20060623		NCBITaxon:10116
+UniProt	MGI:MGI:103079	Pura	PMID:10597240		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:103079	PANTHER:PTHR12611	20210420		NCBITaxon:10090
+UniProt	UniProtKB:P29846	P29846	PMID:10675342		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA				20060327		NCBITaxon:31645
+UniProt	UniProtKB:P03372	ESR1	PMID:10816575		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:P03372	PANTHER:PTHR48092	20120126		NCBITaxon:9606
+UniProt	UniProtKB:O00255	MEN1	PMID:11526476		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:O00255	PANTHER:PTHR12693	20080204		NCBITaxon:9606
+UniProt	UniProtKB:O75381	PEX14	PMID:11863372		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:O75381	PANTHER:PTHR23058	20070919		NCBITaxon:9606
+UniProt	UniProtKB:Q6ZW49	PAXIP1	PMID:11940591		GO:0043433	negative regulation of DNA-binding transcription factor activity	IMP		UniProtKB:Q6ZW49	PANTHER:PTHR23196	20190110		NCBITaxon:9606
+UniProt	UniProtKB:O00255	MEN1	PMID:12226747		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:O00255	PANTHER:PTHR12693	20080204		NCBITaxon:9606
+UniProt	UniProtKB:Q15466	NR0B2	PMID:14752053		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q15466	PANTHER:PTHR24081	20110601		NCBITaxon:9606
+UniProt	WB:WBGene00006943	wrm-1	PMID:15066285		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		WB:WBGene00006943	PANTHER:PTHR45976	20090609		NCBITaxon:6239
+UniProt	UniProtKB:P21333	FLNA	PMID:15684392		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:P21333	PANTHER:PTHR38537	20061130		NCBITaxon:9606
+UniProt	UniProtKB:P40424	PBX1	PMID:15684392		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:P40424-1	PANTHER:PTHR11850	20061130		NCBITaxon:9606
+UniProt	Xenbase:XB-GENE-6251689	ripply2.2.S	PMID:16586348		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA				20100920		NCBITaxon:8355
+UniProt	MGI:MGI:1316652	Prmt2	PMID:16616919		GO:0043433	negative regulation of DNA-binding transcription factor activity	IMP		MGI:MGI:1316652	PANTHER:PTHR11006	20101213		NCBITaxon:10090
+UniProt	UniProtKB:Q9BZS1	FOXP3	PMID:16873067		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q9BZS1	PANTHER:PTHR45796	20061215		NCBITaxon:9606
+UniProt	UniProtKB:Q5H9I0	TFDP3	PMID:17062573		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q5H9I0	PANTHER:PTHR12548	20200219	UniProtKB:Q01094|UniProtKB:O00716|UniProtKB:Q16254|UniProtKB:Q15329|UniProtKB:Q15329	NCBITaxon:9606
+UniProt	MGI:MGI:95546	Foxs1	PMID:18288644		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:95546	PANTHER:PTHR11829	20091127		NCBITaxon:10090
+UniProt	UniProtKB:P11309	PIM1	PMID:18593906		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:P11309	PANTHER:PTHR22984	20090921		NCBITaxon:9606
+UniProt	UniProtKB:Q99623	PHB2	PMID:18629613		GO:0043433	negative regulation of DNA-binding transcription factor activity	IMP		UniProtKB:Q99623	PANTHER:PTHR23222	20150330	UniProtKB:Q12800-1	NCBITaxon:9606
+UniProt	UniProtKB:Q99496	RNF2	PMID:18629613		GO:0043433	negative regulation of DNA-binding transcription factor activity	IMP		UniProtKB:Q99496	PANTHER:PTHR46076	20150330	UniProtKB:Q12800-1	NCBITaxon:9606
+UniProt	Xenbase:XB-GENE-6251689	ripply2.2.S	PMID:19247927		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA				20100920		NCBITaxon:8355
+UniProt	Xenbase:XB-GENE-6251611	ripply2.S	PMID:19247927		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA				20100920		NCBITaxon:8355
+UniProt	Xenbase:XB-GENE-6372204	ripply3.S	PMID:19247927		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA				20100921		NCBITaxon:8355
+UniProt	AGI_LocusCode:AT5G08330	TCP21	PMID:19286557|TAIR:Publication:501730049		GO:0043433	negative regulation of DNA-binding transcription factor activity	IMP		TAIR:locus:2150803		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G01060	LHY	PMID:19286557|TAIR:Publication:501730049		GO:0043433	negative regulation of DNA-binding transcription factor activity	IMP		TAIR:locus:2200970		20210331		NCBITaxon:3702
+UniProt	UniProtKB:Q02779	MAP3K10	PMID:19801649		GO:0043433	negative regulation of DNA-binding transcription factor activity	IMP		UniProtKB:Q02779	PANTHER:PTHR44329	20110418		NCBITaxon:9606
+UniProt	UniProtKB:O60356	NUPR1	PMID:20181828		GO:0043433	negative regulation of DNA-binding transcription factor activity	IMP		UniProtKB:O60356	PANTHER:PTHR17149	20190117		NCBITaxon:9606
+UniProt	RGD:69363	Nupr1	PMID:20181828		GO:0043433	negative regulation of DNA-binding transcription factor activity	IMP		RGD:69363	PANTHER:PTHR17149	20190121		NCBITaxon:10116
+UniProt	AGI_LocusCode:AT4G26840	SUMO1	PMID:20521085|TAIR:Publication:501738265		GO:0043433	negative regulation of DNA-binding transcription factor activity	IMP		TAIR:locus:2116332		20210331		NCBITaxon:3702
+UniProt	MGI:MGI:1916754	mZnf431	PMID:21177534		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		PR:E9QAG8	PANTHER:PTHR24377	20131202		NCBITaxon:10090
+UniProt	UniProtKB:Q9NQ87	HEYL	PMID:21454491		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q9NQ87	PANTHER:PTHR10985	20110804		NCBITaxon:9606
+UniProt	MGI:MGI:1916754	mZnf431	PMID:22391310		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		PR:E9QAG8	PANTHER:PTHR24377	20131203		NCBITaxon:10090
+UniProt	AGI_LocusCode:AT1G78310	VQ9	PMID:23451802|TAIR:Publication:501754183		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		TAIR:locus:2032045		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G28280	MVQ1	PMID:24750137|TAIR:Publication:501759728		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		TAIR:locus:2032200		20210331		NCBITaxon:3702
+UniProt	MGI:MGI:104982	Cebpg	PMID:7501458		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:104982	PANTHER:PTHR23334	20051129		NCBITaxon:10090
+UniProt	MGI:MGI:102524	Pou4f2	PMID:8537352		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		PR:Q63934-2	PANTHER:PTHR11636	20170120		NCBITaxon:10090
+ZFIN	ZFIN:ZDB-GENE-040426-2843	kctd10	PMID:24430697		GO:0043433	negative regulation of DNA-binding transcription factor activity	IDA		ZFIN:ZDB-GENE-040426-2843	PANTHER:PTHR11145	20151027		NCBITaxon:7955
+EcoCyc	EcoCyc:G6875-MONOMER	RsxG	PMID:12773378		GO:0051090	regulation of DNA-binding transcription factor activity	IMP		EcoCyc:G6875-MONOMER		20231123		NCBITaxon:83333
+EcoCyc	EcoCyc:G6874-MONOMER	RsxD	PMID:12773378		GO:0051090	regulation of DNA-binding transcription factor activity	IMP		EcoCyc:G6874-MONOMER		20231123		NCBITaxon:83333
+EcoCyc	EcoCyc:G6873-MONOMER	RsxC	PMID:12773378		GO:0051090	regulation of DNA-binding transcription factor activity	IMP		EcoCyc:G6873-MONOMER		20231123		NCBITaxon:83333
+EcoCyc	EcoCyc:G6872-MONOMER	RsxB	PMID:12773378		GO:0051090	regulation of DNA-binding transcription factor activity	IMP		EcoCyc:G6872-MONOMER		20231123		NCBITaxon:83333
+EcoCyc	EcoCyc:G6871-MONOMER	RsxA	PMID:12773378		GO:0051090	regulation of DNA-binding transcription factor activity	IMP		EcoCyc:G6871-MONOMER		20231123		NCBITaxon:83333
+EcoCyc	EcoCyc:G7347-MONOMER	RseC	PMID:12773378		GO:0051090	regulation of DNA-binding transcription factor activity	IMP		EcoCyc:G7347-MONOMER		20231123		NCBITaxon:83333
+EcoCyc	EcoCyc:EG12073-MONOMER	Ftp	PMID:35344189		GO:0051090	regulation of DNA-binding transcription factor activity	IMP		EcoCyc:EG12073-MONOMER		20231123		NCBITaxon:83333
+MGI	MGI:MGI:2182269	Carf	PMID:12154087		GO:0051090	regulation of DNA-binding transcription factor activity	IGI	MGI:MGI:104738	MGI:MGI:2182269	PANTHER:PTHR14694	20190619	UniProtKB:P02340	NCBITaxon:10090
+MGI	MGI:MGI:104738	Cdkn2a	PMID:12154087		GO:0051090	regulation of DNA-binding transcription factor activity	IGI	MGI:MGI:2182269	MGI:MGI:104738		20190619	UniProtKB:P02340	NCBITaxon:10090
+MGI	MGI:MGI:106676	Zic3	PMID:22234993		GO:0051090	regulation of DNA-binding transcription factor activity	IMP	MGI:MGI:2180720	MGI:MGI:106676	PANTHER:PTHR19818	20220222	MGI:MGI:95729	NCBITaxon:10090
+MGI	MGI:MGI:2448480	Fancd2	PMID:24501220		GO:0051090	regulation of DNA-binding transcription factor activity	IMP	MGI:MGI:2673422	MGI:MGI:2448480	PANTHER:PTHR32086	20160120		NCBITaxon:10090
+MGI	MGI:MGI:1341823	Fanca	PMID:24501220		GO:0051090	regulation of DNA-binding transcription factor activity	IMP	MGI:MGI:2674094	MGI:MGI:1341823	PANTHER:PTHR12047	20160120		NCBITaxon:10090
+MGI	MGI:MGI:1924285	Kdm8	PMID:26334721		GO:0051090	regulation of DNA-binding transcription factor activity	IMP	MGI:MGI:5311829	MGI:MGI:1924285	PANTHER:PTHR12461	20230908		NCBITaxon:10090
+MGI	MGI:MGI:98368	Sox6	PMID:27880909		GO:0051090	regulation of DNA-binding transcription factor activity	IMP	MGI:MGI:2447148	MGI:MGI:98368	PANTHER:PTHR45789	20221102		NCBITaxon:10090
+MGI	MGI:MGI:97311	Nfix	PMID:27880909		GO:0051090	regulation of DNA-binding transcription factor activity	IMP	MGI:MGI:3802571	MGI:MGI:97311	PANTHER:PTHR11492	20221102		NCBITaxon:10090
+MGI	MGI:MGI:1918050	Mir205hg	PMID:30982661		GO:0051090	regulation of DNA-binding transcription factor activity	IDA				20211111	MGI:MGI:97588	NCBITaxon:10090
+RGD	RGD:2945	Jund	PMID:22275377		GO:0051090	regulation of DNA-binding transcription factor activity	IMP		RGD:2945	PANTHER:PTHR11462	20220726		NCBITaxon:10116
+UniProt	UniProtKB:Q9NRP7	STK36	PMID:10806483		GO:0051090	regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q9NRP7	PANTHER:PTHR22983	20060302		NCBITaxon:9606
+UniProt	MGI:MGI:1923051	mSIX6OS1	PMID:15703187		GO:0051090	regulation of DNA-binding transcription factor activity	NAS		PR:Q9CTN5	PANTHER:PTHR35449	20060707		NCBITaxon:10090
+UniProt	UniProtKB:Q8N1H7	SIX6OS1	PMID:15703187		GO:0051090	regulation of DNA-binding transcription factor activity	NAS		UniProtKB:Q8N1H7	PANTHER:PTHR35449	20060707		NCBITaxon:9606
+UniProt	UniProtKB:Q9NS37	CREBZF	PMID:15705566		GO:0051090	regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q9NS37		20050316		NCBITaxon:9606
+UniProt	UniProtKB:Q93009	USP7	PMID:16964248		GO:0051090	regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q93009	PANTHER:PTHR24006	20100629		NCBITaxon:9606
+UniProt	UniProtKB:P08631	HCK	PMID:17535448		GO:0051090	regulation of DNA-binding transcription factor activity	IMP		UniProtKB:P08631	PANTHER:PTHR24418	20111028		NCBITaxon:9606
+UniProt	UniProtKB:O00141	SGK1	PMID:20530112		GO:0051090	regulation of DNA-binding transcription factor activity	TAS		UniProtKB:O00141	PANTHER:PTHR24356	20111017		NCBITaxon:9606
+UniProt	UniProtKB:Q6P1S2	C3orf33	PMID:20680465		GO:0051090	regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q6P1S2	PANTHER:PTHR28434	20140305		NCBITaxon:9606
+UniProt	MGI:MGI:1335091	Zbtb7a	PMID:29813070		GO:0051090	regulation of DNA-binding transcription factor activity	IMP		MGI:MGI:1335091	PANTHER:PTHR46105	20180808		NCBITaxon:10090
+UniProt	FB:FBgn0004595	pros	PMID:9380747		GO:0051090	regulation of DNA-binding transcription factor activity	IDA		FB:FBgn0004595	PANTHER:PTHR12198	20200219	UniProtKB:P06602|UniProtKB:P07548	NCBITaxon:7227
+UniProt	MGI:MGI:102525	Pou4f1	PMID:9448000		GO:0051090	regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:102525	PANTHER:PTHR11636	20170125		NCBITaxon:10090
+UniProt	MGI:MGI:102524	Pou4f2	PMID:9448000		GO:0051090	regulation of DNA-binding transcription factor activity	IDA		PR:Q63934-2	PANTHER:PTHR11636	20170125		NCBITaxon:10090
+AgBase	UniProtKB:P56432	JUN	PMID:25110868		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		UniProtKB:P56432	PANTHER:PTHR11462	20141106	UniProtKB:E5Q8C6	NCBITaxon:9823
+AgBase	UniProtKB:E5Q8C6	CEBPB	PMID:25110868		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		UniProtKB:E5Q8C6	PANTHER:PTHR23334	20141106	UniProtKB:P56432	NCBITaxon:9823
+AgBase	UniProtKB:O02812	MAPK14	PMID:9688607		GO:0051091	positive regulation of DNA-binding transcription factor activity	TAS		UniProtKB:O02812	PANTHER:PTHR24055	20080711		NCBITaxon:9615
+MGI	MGI:MGI:2684993	Cytl1	PMID:17644814		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:2684993	PANTHER:PTHR15974	20071031	GO:0003700	NCBITaxon:10090
+MGI	MGI:MGI:2175912	Arid5b	PMID:17962384		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		MGI:MGI:2175912	PANTHER:PTHR13964	20101020	MGI:MGI:88373	NCBITaxon:10090
+MGI	RGD:727786	Ppp2r5b	PMID:19029245		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		RGD:727786	PANTHER:PTHR10257	20101202		NCBITaxon:10116
+MGI	MGI:MGI:108061	Wnt10b	PMID:19056892		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:108061	PANTHER:PTHR12027	20100723	MGI:MGI:96770	NCBITaxon:10090
+MGI	MGI:MGI:2138069	Hmgn3	PMID:19651901		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:2138069	PANTHER:PTHR23087	20101015	MGI:MGI:102851	NCBITaxon:10090
+MGI	MGI:MGI:2138069	Hmgn3	PMID:19651901		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:2138069	PANTHER:PTHR23087	20101015	MGI:MGI:109128	NCBITaxon:10090
+MGI	MGI:MGI:2138069	Hmgn3	PMID:19651901		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:2138069	PANTHER:PTHR23087	20101015	MGI:MGI:1347476	NCBITaxon:10090
+MGI	MGI:MGI:2138069	Hmgn3	PMID:19651901		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:2138069	PANTHER:PTHR23087	20101015	MGI:MGI:98504	NCBITaxon:10090
+MGI	MGI:MGI:2137495	Myocd	PMID:20385216		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		PR:Q8VIM5-1	PANTHER:PTHR22793	20150408		NCBITaxon:10090
+MGI	MGI:MGI:2137495	Myocd	PMID:20385216		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		PR:Q8VIM5-3	PANTHER:PTHR22793	20211021		NCBITaxon:10090
+MGI	MGI:MGI:2137495	Myocd	PMID:20385216		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		PR:Q8VIM5-4	PANTHER:PTHR22793	20150408		NCBITaxon:10090
+MGI	MGI:MGI:1921095	Ankrd42	PMID:20547855		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		MGI:MGI:1921095	PANTHER:PTHR24201	20120308		NCBITaxon:10090
+MGI	MGI:MGI:1097691	Hdac2	PMID:20833366		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:1097691	PANTHER:PTHR10625	20120830		NCBITaxon:10090
+MGI	MGI:MGI:107164	Ppp3ca	PMID:23261540		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:107164	PANTHER:PTHR45673	20150209		NCBITaxon:10090
+MGI	MGI:MGI:1276116	Ep300	PMID:24565863		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:1276116	PANTHER:PTHR13808	20141201	MGI:MGI:102541	NCBITaxon:10090
+RGD	RGD:3926	Ube2i	PMID:11812797		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		RGD:3926	PANTHER:PTHR24067	20081007		NCBITaxon:10116
+RGD	RGD:2627	Fosl1	PMID:12371906		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		RGD:2627	PANTHER:PTHR23351	20050217		NCBITaxon:10116
+RGD	RGD:2939	Jak2	PMID:15322111		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		RGD:2939	PANTHER:PTHR45807	20070823		NCBITaxon:10116
+RGD	RGD:3870	Tlr4	PMID:16272348		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		RGD:3870	PANTHER:PTHR24365	20061206		NCBITaxon:10116
+RGD	RGD:620036	Ep300	PMID:19057620		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		RGD:620036	PANTHER:PTHR13808	20110714		NCBITaxon:10116
+RGD	RGD:620617	Hmga2	PMID:9311991		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		RGD:620617	PANTHER:PTHR23341	20070425		NCBITaxon:10116
+UniProt	UniProtKB:P03372	ESR1	PMID:10681512		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		UniProtKB:P03372	PANTHER:PTHR48092	20120126		NCBITaxon:9606
+UniProt	UniProtKB:Q92731	ESR2	PMID:10681512		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q92731	PANTHER:PTHR48092	20120126		NCBITaxon:9606
+UniProt	MGI:MGI:1098280	Crebbp	PMID:10733899		GO:0051091	positive regulation of DNA-binding transcription factor activity	TAS		MGI:MGI:1098280	PANTHER:PTHR13808	20060510		NCBITaxon:10090
+UniProt	UniProtKB:P15336	ATF2	PMID:10821277		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		UniProtKB:P15336	PANTHER:PTHR19304	20130718		NCBITaxon:9606
+UniProt	MGI:MGI:109619	Neurog2	PMID:14697366		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:109619	PANTHER:PTHR19290	20110520		NCBITaxon:10090
+UniProt	MGI:MGI:1339708	Neurod1	PMID:14697366		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:1339708	PANTHER:PTHR19290	20110419		NCBITaxon:10090
+UniProt	MGI:MGI:107755	Neurod2	PMID:14697366		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:107755	PANTHER:PTHR19290	20110419		NCBITaxon:10090
+UniProt	MGI:MGI:107754	Neurog1	PMID:14697366		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:107754	PANTHER:PTHR19290	20110419		NCBITaxon:10090
+UniProt	UniProtKB:P15923	TCF3	PMID:14752053		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		UniProtKB:P15923	PANTHER:PTHR11793	20110601		NCBITaxon:9606
+UniProt	UniProtKB:Q13562	NEUROD1	PMID:14752053		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q13562	PANTHER:PTHR19290	20110601		NCBITaxon:9606
+UniProt	UniProtKB:Q12774	ARHGEF5	PMID:15601624		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q12774	PANTHER:PTHR12845	20150902	UniProtKB:P11831|UniProtKB:P05412	NCBITaxon:9606
+UniProt	UniProtKB:P55317	FOXA1	PMID:16087863		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		UniProtKB:P55317	PANTHER:PTHR11829	20100517		NCBITaxon:9606
+UniProt	UniProtKB:P12429	ANXA3	PMID:16236264		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		UniProtKB:P12429	PANTHER:PTHR10502	20100208		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT5G39610	NAC6	PMID:16359384|TAIR:Publication:501718231		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		TAIR:locus:2164895		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT3G29035	NAC3	PMID:16359384|TAIR:Publication:501718231		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		TAIR:locus:2087037		20210331		NCBITaxon:3702
+UniProt	MGI:MGI:107755	Neurod2	PMID:16504944		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:107755	PANTHER:PTHR19290	20110420		NCBITaxon:10090
+UniProt	UniProtKB:Q14186	TFDP1	PMID:17062573		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q14186	PANTHER:PTHR12548	20200219	UniProtKB:Q01094|UniProtKB:O00716|UniProtKB:Q16254|UniProtKB:Q15329	NCBITaxon:9606
+UniProt	UniProtKB:P11831	SRF	PMID:18296735		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		UniProtKB:P11831	PANTHER:PTHR48019	20181016	UniProtKB:P63267	NCBITaxon:9606
+UniProt	UniProtKB:Q99623	PHB2	PMID:18629613		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q99623	PANTHER:PTHR23222	20150330	UniProtKB:Q99496|GO:0045892	NCBITaxon:9606
+UniProt	WB:WBGene00001952	hlh-6	PMID:18927627		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		WB:WBGene00001952		20180705		NCBITaxon:6239
+UniProt	UniProtKB:Q9BZL6	PRKD2	PMID:19192391		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		UniProtKB:Q9BZL6	PANTHER:PTHR22968	20111214		NCBITaxon:9606
+UniProt	UniProtKB:Q9ULZ3	PYCARD	PMID:19494289		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q9ULZ3	PANTHER:PTHR46985	20121017		NCBITaxon:9606
+UniProt	UniProtKB:Q16832	DDR2	PMID:20564243		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		UniProtKB:Q16832	PANTHER:PTHR24416	20110715		NCBITaxon:9606
+UniProt	MGI:MGI:106679	Zic2	PMID:20676059		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		MGI:MGI:106679	PANTHER:PTHR19818	20110202		NCBITaxon:10090
+UniProt	UniProtKB:Q8TC84	FANK1	PMID:20978819		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		UniProtKB:Q8TC84	PANTHER:PTHR24183	20170705		NCBITaxon:9606
+UniProt	UniProtKB:Q92905	COPS5	PMID:20978819		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q92905	PANTHER:PTHR10410	20170705		NCBITaxon:9606
+UniProt	UniProtKB:P10721	KIT	PMID:21135090		GO:0051091	positive regulation of DNA-binding transcription factor activity	IMP		UniProtKB:P10721	PANTHER:PTHR24416	20110909		NCBITaxon:9606
+UniProt	UniProtKB:Q14865	ARID5B	PMID:21532585		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q14865	PANTHER:PTHR13964	20110517		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT3G56710	SIB1	PMID:21990940|TAIR:Publication:501745467		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		TAIR:locus:2103580		20210331		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT2G41180	SIB2	PMID:21990940|TAIR:Publication:501745467		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		TAIR:locus:2063270		20210331		NCBITaxon:3702
+UniProt	UniProtKB:Q09472	EP300	PMID:25818647		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		UniProtKB:Q09472	PANTHER:PTHR13808	20170824		NCBITaxon:9606
+UniProt	UniProtKB:P53567	CEBPG	PMID:7665092		GO:0051091	positive regulation of DNA-binding transcription factor activity	TAS		UniProtKB:P53567	PANTHER:PTHR23334	20051129		NCBITaxon:9606
+UniProt	UniProtKB:P03372	ESR1	PMID:9328340		GO:0051091	positive regulation of DNA-binding transcription factor activity	IDA		UniProtKB:P03372	PANTHER:PTHR48092	20120126		NCBITaxon:9606
+AgBase	UniProtKB:D1GEL4	LOC100316613	PMID:19576240		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP				20150109		NCBITaxon:8030
+AgBase	UniProtKB:C7C1L6	mavs	PMID:19576240		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP				20150109		NCBITaxon:8030
+AgBase	UniProtKB:Q99836	MYD88	PMID:22155231		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q99836	PANTHER:PTHR15079	20160520		NCBITaxon:9606
+CACAO	UniProtKB:P04610	tat	PMID:10400814		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA				20130210		NCBITaxon:11686
+MGI	MGI:MGI:1921164	Irak3	PMID:12054681		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:1921164	PANTHER:PTHR24419	20090916		NCBITaxon:10090
+MGI	MGI:MGI:107420	Irak1	PMID:12054681		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:107420	PANTHER:PTHR24419	20210323	CL:0000084	NCBITaxon:10090
+MGI	MGI:MGI:108005	Myd88	PMID:12855817		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IGI	MGI:MGI:2147032	MGI:MGI:108005	PANTHER:PTHR15079	20210323	CL:0000057	NCBITaxon:10090
+MGI	MGI:MGI:108005	Myd88	PMID:12855817		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP	MGI:MGI:2385681	MGI:MGI:108005	PANTHER:PTHR15079	20210323		NCBITaxon:10090
+MGI	MGI:MGI:2147032	Ticam1	PMID:12855817		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IGI	MGI:MGI:108005	MGI:MGI:2147032	PANTHER:PTHR47230	20210324	CL:0000057	NCBITaxon:10090
+MGI	MGI:MGI:2147032	Ticam1	PMID:12855817		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP	MGI:MGI:3029019	MGI:MGI:2147032	PANTHER:PTHR47230	20210324	CL:0000057	NCBITaxon:10090
+MGI	MGI:MGI:2445027	Malt1	PMID:14614861		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP	MGI:MGI:3639305	MGI:MGI:2445027	PANTHER:PTHR22576	20061204		NCBITaxon:10090
+MGI	MGI:MGI:1891456	Ripk2	PMID:14638696		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP	MGI:MGI:2446070	MGI:MGI:1891456	PANTHER:PTHR44329	20101104		NCBITaxon:10090
+MGI	MGI:MGI:88271	Cat	PMID:15020231		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:88271	PANTHER:PTHR11465	20080523		NCBITaxon:10090
+MGI	MGI:MGI:2429603	Irak2	PMID:15082713		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:2429603	PANTHER:PTHR24419	20060210		NCBITaxon:10090
+MGI	MGI:MGI:2429397	Nod2	PMID:15220916		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP	MGI:MGI:2680581	MGI:MGI:2429397	PANTHER:PTHR24106	20210323	CL:0000235	NCBITaxon:10090
+MGI	MGI:MGI:1913208	Carm1	PMID:15616592		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:1913208	PANTHER:PTHR11006	20160817		NCBITaxon:10090
+MGI	MGI:MGI:1923760	Trappc9	PMID:15951441		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:1923760	PANTHER:PTHR21512	20151204		NCBITaxon:10090
+MGI	MGI:MGI:104637	Tgfbr3	PMID:17823118		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:104637	PANTHER:PTHR14002	20090115		NCBITaxon:10090
+MGI	MGI:MGI:1344337	Grem1	PMID:18505784		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:1344337	PANTHER:PTHR15283	20100408		NCBITaxon:10090
+MGI	MGI:MGI:1342770	Lrrfip1	PMID:19265123		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:1342770	PANTHER:PTHR19212	20160217		NCBITaxon:10090
+MGI	MGI:MGI:1342770	Lrrfip1	PMID:19265123		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IGI	MGI:MGI:96824	MGI:MGI:1342770	PANTHER:PTHR19212	20160217		NCBITaxon:10090
+MGI	MGI:MGI:108005	Myd88	PMID:19265123		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:108005	PANTHER:PTHR15079	20160217		NCBITaxon:10090
+MGI	MGI:MGI:108005	Myd88	PMID:19265123		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IGI	MGI:MGI:1918518	MGI:MGI:108005	PANTHER:PTHR15079	20160217		NCBITaxon:10090
+MGI	MGI:MGI:108005	Myd88	PMID:19265123		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:108005	PANTHER:PTHR15079	20160217		NCBITaxon:10090
+MGI	MGI:MGI:1918518	Lrrfip2	PMID:19265123		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:1918518	PANTHER:PTHR19212	20160217		NCBITaxon:10090
+MGI	MGI:MGI:1918518	Lrrfip2	PMID:19265123		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IGI	MGI:MGI:108005	MGI:MGI:1918518	PANTHER:PTHR19212	20160217		NCBITaxon:10090
+MGI	MGI:MGI:1918518	Lrrfip2	PMID:19265123		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IGI	MGI:MGI:96824	MGI:MGI:1918518	PANTHER:PTHR19212	20160217		NCBITaxon:10090
+MGI	MGI:MGI:1918518	Lrrfip2	PMID:19265123		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:1918518	PANTHER:PTHR19212	20160217		NCBITaxon:10090
+MGI	MGI:MGI:1921095	Ankrd42	PMID:20547855		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:1921095	PANTHER:PTHR24201	20120308		NCBITaxon:10090
+MGI	MGI:MGI:1923760	Trappc9	PMID:24011459		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:1923760	PANTHER:PTHR21512	20151204	CL:0007011	NCBITaxon:10090
+MGI	MGI:MGI:1915730	Card19	PMID:32763502		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:1915730	PANTHER:PTHR34765	20250806		NCBITaxon:10090
+RGD	RGD:1310457	Traf2	PMID:10713108		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		RGD:1310457	PANTHER:PTHR10131	20080724		NCBITaxon:10116
+RGD	RGD:2108	Amh	PMID:11356848		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		RGD:2108	PANTHER:PTHR15009	20060424		NCBITaxon:10116
+RGD	RGD:2981	Kras	PMID:14576830		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		RGD:2981	PANTHER:PTHR24070	20070309		NCBITaxon:10116
+RGD	RGD:69051	Tgfb1	PMID:15781474		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		RGD:69051	PANTHER:PTHR11848	20060512		NCBITaxon:10116
+RGD	RGD:621375	Ikbkb	PMID:15939736		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		RGD:621375	PANTHER:PTHR22969	20131211		NCBITaxon:10116
+RGD	RGD:3870	Tlr4	PMID:16651628		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		RGD:3870	PANTHER:PTHR24365	20061206		NCBITaxon:10116
+RGD	RGD:70547	Crhr2	PMID:19211730		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		RGD:70547	PANTHER:PTHR45620	20110415		NCBITaxon:10116
+RGD	RGD:3879	Tnfrsf8	PMID:8982082		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		RGD:3879	PANTHER:PTHR47497	20090901		NCBITaxon:10116
+RGD	RGD:2857	Icam1	PMID:9062344		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		RGD:2857	PANTHER:PTHR13771	20070305		NCBITaxon:10116
+RGD	RGD:1305581	Itgb2	PMID:9062344		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		RGD:1305581	PANTHER:PTHR10082	20070305		NCBITaxon:10116
+UniProt	UniProtKB:Q15109	AGER	PMID:10391939		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q15109	PANTHER:PTHR11973	20100331		NCBITaxon:9606
+UniProt	UniProtKB:O95999	BCL10	PMID:10400625		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:O95999	PANTHER:PTHR34920	20061120		NCBITaxon:9606
+UniProt	UniProtKB:P41743	PRKCI	PMID:10467349		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P41743	PANTHER:PTHR24356	20111207		NCBITaxon:9606
+UniProt	UniProtKB:Q13077	TRAF1	PMID:10692572		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q13077	PANTHER:PTHR10131	20100709		NCBITaxon:9606
+UniProt	UniProtKB:Q9HC29	NOD2	PMID:11385577		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9HC29	PANTHER:PTHR24106	20060207		NCBITaxon:9606
+UniProt	UniProtKB:Q5EG05	CARD16	PMID:11536016		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q5EG05		20170530		NCBITaxon:9606
+UniProt	MGI:MGI:1916978	Card11	PMID:12154356		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:1916978	PANTHER:PTHR14559	20210331		NCBITaxon:10090
+UniProt	UniProtKB:Q9BXL7	CARD11	PMID:12154360		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9BXL7	PANTHER:PTHR14559	20061120		NCBITaxon:9606
+UniProt	UniProtKB:P30048	PRDX3	PMID:12492477		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P30048	PANTHER:PTHR10681	20050503		NCBITaxon:9606
+UniProt	UniProtKB:O43283	MAP3K13	PMID:12492477		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:O43283	PANTHER:PTHR44329	20050503		NCBITaxon:9606
+UniProt	UniProtKB:Q15139	PRKD1	PMID:12505989		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q15139	PANTHER:PTHR22968	20111214		NCBITaxon:9606
+UniProt	UniProtKB:O75582	RPS6KA5	PMID:12628924		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:O75582	PANTHER:PTHR24351	20110915		NCBITaxon:9606
+UniProt	UniProtKB:Q9ULZ3	PYCARD	PMID:12646168		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9ULZ3	PANTHER:PTHR46985	20120910		NCBITaxon:9606
+UniProt	UniProtKB:Q9NPP4	NLRC4	PMID:12646168		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9NPP4	PANTHER:PTHR47688	20120910		NCBITaxon:9606
+UniProt	UniProtKB:Q96BH1	RNF25	PMID:12748188		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q96BH1	PANTHER:PTHR13198	20100609		NCBITaxon:9606
+UniProt	MGI:MGI:97601	Prkcq	PMID:12782715		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:97601	PANTHER:PTHR24356	20111208		NCBITaxon:10090
+UniProt	MGI:MGI:2673064	Tnfsf18	PMID:14521928		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:2673064	PANTHER:PTHR15267	20111205		NCBITaxon:10090
+UniProt	UniProtKB:O95999	BCL10	PMID:14695475		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:O95999	PANTHER:PTHR34920	20061120		NCBITaxon:9606
+UniProt	UniProtKB:P61088	UBE2N	PMID:14695475		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:P61088	PANTHER:PTHR24068	20061120		NCBITaxon:9606
+UniProt	UniProtKB:P29965	CD40LG	PMID:15067037		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P29965	PANTHER:PTHR11471	20160320		NCBITaxon:9606
+UniProt	UniProtKB:P06748	NPM1	PMID:15087454		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:P06748	PANTHER:PTHR22747	20040805		NCBITaxon:9606
+UniProt	MGI:MGI:101835	Traf2	PMID:15121867		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:101835	PANTHER:PTHR10131	20130417		NCBITaxon:10090
+UniProt	UniProtKB:O00463	TRAF5	PMID:15121867		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:O00463	PANTHER:PTHR10131	20130417		NCBITaxon:9606
+UniProt	UniProtKB:Q12933	TRAF2	PMID:15121867		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q12933	PANTHER:PTHR10131	20130417		NCBITaxon:9606
+UniProt	UniProtKB:P19525	EIF2AK2	PMID:15121867		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P19525	PANTHER:PTHR11042	20130417		NCBITaxon:9606
+UniProt	MGI:MGI:107548	Traf5	PMID:15121867		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:107548	PANTHER:PTHR10131	20130417		NCBITaxon:10090
+UniProt	UniProtKB:P62937	PPIA	PMID:15130913		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P62937	PANTHER:PTHR11071	20200623		NCBITaxon:9606
+UniProt	UniProtKB:Q8IUD2	ERC1	PMID:15218148		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q8IUD2	PANTHER:PTHR18861	20210624		NCBITaxon:9606
+UniProt	UniProtKB:Q08211	DHX9	PMID:15355351		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q08211	PANTHER:PTHR18934	20170707		NCBITaxon:9606
+UniProt	UniProtKB:P04629	NTRK1	PMID:15488758		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P04629	PANTHER:PTHR24416	20111115		NCBITaxon:9606
+UniProt	UniProtKB:Q9BZL6	PRKD2	PMID:15604256		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9BZL6	PANTHER:PTHR22968	20111214		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6K9	IKBKG	PMID:15620648		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9Y6K9	PANTHER:PTHR31553	20100201		NCBITaxon:9606
+UniProt	UniProtKB:O95365	ZBTB7A	PMID:15917220		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:O95365	PANTHER:PTHR46105	20180816		NCBITaxon:9606
+UniProt	UniProtKB:Q9HC29	NOD2	PMID:16203728		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9HC29	PANTHER:PTHR24106	20151117	GO:0032495	NCBITaxon:9606
+UniProt	UniProtKB:P01375	TNF	PMID:16280327		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P01375	PANTHER:PTHR11471	20061124		NCBITaxon:9606
+UniProt	UniProtKB:Q8TAI7	RHEBL1	PMID:16328882		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q8TAI7	PANTHER:PTHR24070	20090316		NCBITaxon:9606
+UniProt	UniProtKB:Q04759	PRKCQ	PMID:16356855		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q04759	PANTHER:PTHR24356	20111208		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y4K3	TRAF6	PMID:16378096		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9Y4K3	PANTHER:PTHR10131	20091203		NCBITaxon:9606
+UniProt	UniProtKB:Q86UE4	MTDH	PMID:16452207		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q86UE4	PANTHER:PTHR23251	20090115		NCBITaxon:9606
+UniProt	UniProtKB:P01375	TNF	PMID:16611992		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P01375	PANTHER:PTHR11471	20111209		NCBITaxon:9606
+UniProt	UniProtKB:P51617	IRAK1	PMID:16831874		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P51617-2	PANTHER:PTHR24419	20061122		NCBITaxon:9606
+UniProt	UniProtKB:Q9BZL6	PRKD2	PMID:16928771		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9BZL6	PANTHER:PTHR22968	20111214		NCBITaxon:9606
+UniProt	UniProtKB:Q9UQM7	CAMK2A	PMID:17052756		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9UQM7	PANTHER:PTHR24347	20061124		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y239	NOD1	PMID:17054981		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9Y239	PANTHER:PTHR24106	20110316		NCBITaxon:9606
+UniProt	MGI:MGI:104975	Il1rap	PMID:18003919		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:104975	PANTHER:PTHR11890	20160126		NCBITaxon:10090
+UniProt	UniProtKB:Q9Y6K9	IKBKG	PMID:18287044		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9Y6K9	PANTHER:PTHR31553	20210331		NCBITaxon:9606
+UniProt	UniProtKB:O95999	BCL10	PMID:18287044		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:O95999	PANTHER:PTHR34920	20210331		NCBITaxon:9606
+UniProt	UniProtKB:Q86UE4	MTDH	PMID:18316612		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q86UE4	PANTHER:PTHR23251	20110118		NCBITaxon:9606
+UniProt	UniProtKB:P80511	S100A12	PMID:18443896		GO:0051092	positive regulation of NF-kappaB transcription factor activity	TAS		UniProtKB:P80511	PANTHER:PTHR11639	20120919		NCBITaxon:9606
+UniProt	UniProtKB:O75676	RPS6KA4	PMID:18508628		GO:0051092	positive regulation of NF-kappaB transcription factor activity	TAS		UniProtKB:O75676	PANTHER:PTHR24351	20110915		NCBITaxon:9606
+UniProt	UniProtKB:O75582	RPS6KA5	PMID:18511904		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:O75582	PANTHER:PTHR24351	20110915		NCBITaxon:9606
+UniProt	UniProtKB:O14920	IKBKB	PMID:18626576		GO:0051092	positive regulation of NF-kappaB transcription factor activity	TAS		UniProtKB:O14920	PANTHER:PTHR22969	20110912		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6K9	IKBKG	PMID:18626576		GO:0051092	positive regulation of NF-kappaB transcription factor activity	TAS		UniProtKB:Q9Y6K9	PANTHER:PTHR31553	20110912		NCBITaxon:9606
+UniProt	UniProtKB:O15111	CHUK	PMID:18626576		GO:0051092	positive regulation of NF-kappaB transcription factor activity	TAS		UniProtKB:O15111	PANTHER:PTHR22969	20110912		NCBITaxon:9606
+UniProt	RGD:619806	Mtpn	PMID:18693253		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		RGD:619806	PANTHER:PTHR24189	20111213		NCBITaxon:10116
+UniProt	UniProtKB:Q9Y239	NOD1	PMID:19043560		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9Y239	PANTHER:PTHR24106	20100519		NCBITaxon:9606
+UniProt	UniProtKB:Q92974	ARHGEF2	PMID:19043560		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q92974	PANTHER:PTHR13944	20100519		NCBITaxon:9606
+UniProt	UniProtKB:Q9BYM8	RBCK1	PMID:19136968		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9BYM8	PANTHER:PTHR22770	20100603		NCBITaxon:9606
+UniProt	UniProtKB:Q96EP0	RNF31	PMID:19136968		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q96EP0	PANTHER:PTHR16004	20100603		NCBITaxon:9606
+UniProt	UniProtKB:O14862	AIM2	PMID:19158675		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:O14862	PANTHER:PTHR12200	20120816		NCBITaxon:9606
+UniProt	UniProtKB:Q96P20	NLRP3	PMID:19158675		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q96P20	PANTHER:PTHR45690	20120816		NCBITaxon:9606
+UniProt	UniProtKB:Q06187	BTK	PMID:19290921		GO:0051092	positive regulation of NF-kappaB transcription factor activity	TAS		UniProtKB:Q06187	PANTHER:PTHR24418	20110907		NCBITaxon:9606
+UniProt	UniProtKB:Q9UM73	ALK	PMID:19459784		GO:0051092	positive regulation of NF-kappaB transcription factor activity	TAS		UniProtKB:Q9UM73	PANTHER:PTHR24416	20110909		NCBITaxon:9606
+UniProt	UniProtKB:Q99828	CIB1	PMID:19854831		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q99828	PANTHER:PTHR45791	20140110		NCBITaxon:9606
+UniProt	UniProtKB:P10909	CLU	PMID:20068069		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:P10909	PANTHER:PTHR10970	20110511		NCBITaxon:9606
+UniProt	MGI:MGI:108212	Ripk1	PMID:20125124		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:108212	PANTHER:PTHR44329	20131125		NCBITaxon:10090
+UniProt	MGI:MGI:108072	Traf6	PMID:20345905		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:108072	PANTHER:PTHR10131	20130626	CL:0000057	NCBITaxon:10090
+UniProt	UniProtKB:P02788	LTF	PMID:20345905		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P02788	PANTHER:PTHR11485	20130626	CL:0000057	NCBITaxon:9606
+UniProt	UniProtKB:Q9NYA1	SPHK1	PMID:20577214		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9NYA1	PANTHER:PTHR12358	20100702		NCBITaxon:9606
+UniProt	MGI:MGI:1336885	Cd84	PMID:20628063		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:1336885	PANTHER:PTHR12080	20151124		NCBITaxon:10090
+UniProt	UniProtKB:Q96AH8	RAB7B	PMID:20953574		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q96AH8	PANTHER:PTHR47981	20120215		NCBITaxon:9606
+UniProt	UniProtKB:Q9ZKJ5	ctkA	PMID:21098302		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA				20130624		NCBITaxon:85963
+UniProt	UniProtKB:Q9BXL6	CARD14	PMID:21302310		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9BXL6	PANTHER:PTHR14559	20130517		NCBITaxon:9606
+UniProt	UniProtKB:Q9C035	TRIM5	PMID:21512573		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9C035	PANTHER:PTHR24103	20121210		NCBITaxon:9606
+UniProt	UniProtKB:P16591	FER	PMID:21518868		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:P16591	PANTHER:PTHR24418	20110905		NCBITaxon:9606
+UniProt	UniProtKB:O60603	TLR2	PMID:21618349		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:O60603	PANTHER:PTHR24365	20141105		NCBITaxon:9606
+UniProt	UniProtKB:P24723	PRKCH	PMID:21820409		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:P24723	PANTHER:PTHR24356	20111208		NCBITaxon:9606
+UniProt	MGI:MGI:1891456	Ripk2	PMID:21887730		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:1891456	PANTHER:PTHR44329	20131122		NCBITaxon:10090
+UniProt	UniProtKB:Q92974	ARHGEF2	PMID:21887730		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q92974	PANTHER:PTHR13944	20131121		NCBITaxon:9606
+UniProt	UniProtKB:Q9HC29	NOD2	PMID:21887730		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9HC29	PANTHER:PTHR24106	20131122		NCBITaxon:9606
+UniProt	UniProtKB:P57078	RIPK4	PMID:21931591		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:P57078	PANTHER:PTHR24198	20131202		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y572	RIPK3	PMID:21931591		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9Y572	PANTHER:PTHR23257	20120731		NCBITaxon:9606
+UniProt	UniProtKB:Q13546	RIPK1	PMID:21931591		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q13546	PANTHER:PTHR44329	20130528		NCBITaxon:9606
+UniProt	MGI:MGI:103290	Rela	PMID:22244329		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:103290	PANTHER:PTHR24169	20120229		NCBITaxon:10090
+UniProt	MGI:MGI:1339968	Cth	PMID:22244329		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:1339968	PANTHER:PTHR11808	20120229		NCBITaxon:10090
+UniProt	MGI:MGI:1337994	Bcl10	PMID:22265677		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:1337994	PANTHER:PTHR34920	20210331		NCBITaxon:10090
+UniProt	MGI:MGI:2685628	Card9	PMID:22265677		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		MGI:MGI:2685628	PANTHER:PTHR14559	20210331		NCBITaxon:10090
+UniProt	MGI:MGI:99698	Clock	PMID:22895791		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:99698	PANTHER:PTHR46055	20140223		NCBITaxon:10090
+UniProt	UniProtKB:P62937	PPIA	PMID:23180369		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P62937	PANTHER:PTHR11071	20200624		NCBITaxon:9606
+UniProt	UniProtKB:Q96HY6	DDRGK1	PMID:23675531		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q96HY6	PANTHER:PTHR48176	20141208		NCBITaxon:9606
+UniProt	MGI:MGI:2445102	Dhx33	PMID:24037184		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:2445102	PANTHER:PTHR18934	20180222		NCBITaxon:10090
+UniProt	UniProtKB:Q9BXL7	CARD11	PMID:24074955		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9BXL7	PANTHER:PTHR14559	20210331		NCBITaxon:9606
+UniProt	UniProtKB:O95999	BCL10	PMID:24074955		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:O95999	PANTHER:PTHR34920	20210331		NCBITaxon:9606
+UniProt	UniProtKB:P0DMV8	HSPA1A	PMID:24790089		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP	UniProtKB:Q9HC29	UniProtKB:P0DMV8	PANTHER:PTHR19375	20160104	GO:0032495|CL:0011108|GO:0071356	NCBITaxon:9606
+UniProt	UniProtKB:P0DMV9	HSPA1B	PMID:24790089		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP	UniProtKB:Q9HC29	UniProtKB:P0DMV9	PANTHER:PTHR19375	20160104	GO:0032495|CL:0011108|GO:0071356	NCBITaxon:9606
+UniProt	UniProtKB:P01375	TNF	PMID:24790089		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:P01375	PANTHER:PTHR11471	20160104	UniProtKB:Q9HC29	NCBITaxon:9606
+UniProt	UniProtKB:Q9HC29	NOD2	PMID:24790089		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9HC29	PANTHER:PTHR24106	20160104	GO:0032495|CL:0011108|GO:0071356	NCBITaxon:9606
+UniProt	UniProtKB:Q9H257	CARD9	PMID:25057046		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9H257	PANTHER:PTHR14559	20210331		NCBITaxon:9606
+UniProt	UniProtKB:P01375	TNF	PMID:25193116		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:P01375	PANTHER:PTHR11471	20170110		NCBITaxon:9606
+UniProt	UniProtKB:O95256	IL18RAP	PMID:25500532		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:O95256	PANTHER:PTHR11890	20180514		NCBITaxon:9606
+UniProt	UniProtKB:Q14116	IL18	PMID:25500532		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q14116	PANTHER:PTHR10078	20180416		NCBITaxon:9606
+UniProt	UniProtKB:Q13478	IL18R1	PMID:25500532		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q13478	PANTHER:PTHR11890	20180514		NCBITaxon:9606
+UniProt	UniProtKB:Q9H257	CARD9	PMID:25702837		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9H257	PANTHER:PTHR14559	20210331		NCBITaxon:9606
+UniProt	UniProtKB:O00182	LGALS9	PMID:25754930		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:O00182	PANTHER:PTHR11346	20150622	CL:0001056|GO:0098586	NCBITaxon:9606
+UniProt	UniProtKB:Q8IZC4	RTKN2	PMID:26124677		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q8IZC4	PANTHER:PTHR21538	20180920		NCBITaxon:9606
+UniProt	UniProtKB:Q9H257	CARD9	PMID:26488816		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9H257	PANTHER:PTHR14559	20210331		NCBITaxon:9606
+UniProt	UniProtKB:Q9BXL6	CARD14	PMID:27113748		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9BXL6-1	PANTHER:PTHR14559	20170306		NCBITaxon:9606
+UniProt	UniProtKB:Q9BXL6	CARD14	PMID:27113748		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9BXL6-2	PANTHER:PTHR14559	20170306		NCBITaxon:9606
+UniProt	UniProtKB:Q01973	ROR1	PMID:27162350		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q01973	PANTHER:PTHR24416	20171012		NCBITaxon:9606
+UniProt	UniProtKB:O95999	BCL10	PMID:27777308		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:O95999	PANTHER:PTHR34920	20210331		NCBITaxon:9606
+UniProt	RGD:620048	Sphk1	PMID:28284343		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		RGD:620048	PANTHER:PTHR12358	20190215		NCBITaxon:10116
+UniProt	MGI:MGI:96824	Tlr4	PMID:29038465		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:96824	PANTHER:PTHR24365	20201125		NCBITaxon:10090
+UniProt	UniProtKB:O00206	TLR4	PMID:29038465		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:O00206	PANTHER:PTHR24365	20201125		NCBITaxon:9606
+UniProt	UniProtKB:Q9H257	CARD9	PMID:29080677		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9H257	PANTHER:PTHR14559	20210331		NCBITaxon:9606
+UniProt	MGI:MGI:2685628	Card9	PMID:29080677		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:2685628	PANTHER:PTHR14559	20210331		NCBITaxon:10090
+UniProt	UniProtKB:Q9UBG3	CRNN	PMID:30009832		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9UBG3	PANTHER:PTHR11639	20190919		NCBITaxon:9606
+UniProt	UniProtKB:Q9H257	CARD9	PMID:31296852		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IDA		UniProtKB:Q9H257	PANTHER:PTHR14559	20210331		NCBITaxon:9606
+UniProt	MGI:MGI:108212	Ripk1	PMID:31519886		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:108212	PANTHER:PTHR44329	20191015		NCBITaxon:10090
+UniProt	MGI:MGI:108212	Ripk1	PMID:31519887		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		MGI:MGI:108212	PANTHER:PTHR44329	20191015		NCBITaxon:10090
+UniProt	UniProtKB:Q9H257	CARD9	PMID:33558980		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		UniProtKB:Q9H257	PANTHER:PTHR14559	20210331		NCBITaxon:9606
+UniProt	RGD:3399	Prkcz	PMID:8557035		GO:0051092	positive regulation of NF-kappaB transcription factor activity	IMP		RGD:3399	PANTHER:PTHR24356	20111207		NCBITaxon:10116
+UniProt	MGI:MGI:97370	Enpp1	PMID:30111653		GO:1990787	negative regulation of hh target transcription factor activity	IMP		MGI:MGI:97370	PANTHER:PTHR10151	20190319		NCBITaxon:10090
+MGI	MGI:MGI:1930964	Thap11	PMID:26876175		GO:2000825	positive regulation of androgen receptor activity	IMP	MGI:MGI:3052237|MGI:MGI:3797582	MGI:MGI:1930964	PANTHER:PTHR22794	20220125		NCBITaxon:10090
