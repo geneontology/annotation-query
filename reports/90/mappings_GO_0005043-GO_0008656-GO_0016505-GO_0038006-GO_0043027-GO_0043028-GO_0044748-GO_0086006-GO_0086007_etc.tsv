@@ -1,0 +1,7 @@
+term	file	line
+GO:0008656	reactome2go	Reactome:R-HSA-205117 > GO:cysteine-type endopeptidase activator activity involved in apoptotic process ; GO:0008656
+GO:0008656	reactome2go	Reactome:R-HSA-449073 > GO:cysteine-type endopeptidase activator activity involved in apoptotic process ; GO:0008656
+GO:0043027	interpro2go	InterPro:IPR003429 Baculovirus p35, apoptosis preventing protein > GO:cysteine-type endopeptidase inhibitor activity involved in apoptotic process ; GO:0043027
+GO:0043027	interpro2go	InterPro:IPR028789 Baculoviral IAP repeat-containing protein 1 > GO:cysteine-type endopeptidase inhibitor activity involved in apoptotic process ; GO:0043027
+GO:0099635	reactome2go	Reactome:R-HSA-9659515 > GO:voltage-gated calcium channel activity involved in positive regulation of presynaptic cytosolic calcium levels ; GO:0099635
+GO:1902945	reactome2go	Reactome:R-HSA-9010034 > GO:metalloendopeptidase activity involved in amyloid precursor protein catabolic process ; GO:1902945

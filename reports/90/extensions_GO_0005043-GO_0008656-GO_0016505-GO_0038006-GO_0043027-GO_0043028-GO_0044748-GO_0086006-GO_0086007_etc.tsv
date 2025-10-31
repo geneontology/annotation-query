@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P55212	CASP6	PMID:32029622		GO:0004197	cysteine-type endopeptidase activity	IDA		UniProtKB:P55212	PANTHER:PTHR10454	20220630	GO:0097284|UniProtKB:P55957-4|GO:0043028	NCBITaxon:9606
+MGI	MGI:MGI:99555	Pde4d	PMID:19218243		GO:0071320	cellular response to cAMP	IDA		MGI:MGI:99555	PANTHER:PTHR11347	20210324	GO:0086008	NCBITaxon:10090
