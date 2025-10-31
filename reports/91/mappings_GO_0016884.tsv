@@ -1,0 +1,17 @@
+term	file	line
+GO:0016884	hamap2go	HAMAP:MF_03147 > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
+GO:0016884	hamap2go	HAMAP:MF_03149 > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
+GO:0016884	hamap2go	HAMAP:MF_03150 > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
+GO:0016884	hamap2go	HAMAP:MF_03151 > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
+GO:0016884	interpro2go	InterPro:IPR003789 Aspartyl/glutamyl-tRNA amidotransferase subunit B-like > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
+GO:0016884	interpro2go	InterPro:IPR004413 Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
+GO:0016884	interpro2go	InterPro:IPR004414 Glutamyl-tRNA(Gln) amidotransferase subunit E > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
+GO:0016884	interpro2go	InterPro:IPR017958 Glutamyl-tRNA(Gln) amidotransferase, subunit B, conserved site > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
+GO:0016884	interpro2go	InterPro:IPR017959 Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, subunit B /E > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
+GO:0016884	interpro2go	InterPro:IPR018027 Asn/Gln amidotransferase > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
+GO:0016884	unirule2go	UniRule:UR000185079 > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
+GO:0016884	unirule2go	UniRule:UR000375771 > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
+GO:0016884	unirule2go	UniRule:UR000375979 > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
+GO:0016884	unirule2go	UniRule:UR000376320 > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
+GO:0016884	unirule2go	UniRule:UR001051758 > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
+GO:0016884	ec2go	EC:6.3.5.- > GO:carbon-nitrogen ligase activity, with glutamine as amido-N-donor ; GO:0016884
