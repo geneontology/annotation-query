@@ -1,0 +1,101 @@
+term	file	line
+GO:0000052	interpro2go	InterPro:IPR054924 N(G),N(G)-dimethylarginine dimethylaminohydrolase > GO:citrulline metabolic process ; GO:0000052
+GO:0006522	hamap2go	HAMAP:MF_00935 > GO:alanine metabolic process ; GO:0006522
+GO:0006522	interpro2go	InterPro:IPR000821 Alanine racemase > GO:alanine metabolic process ; GO:0006522
+GO:0006522	interpro2go	InterPro:IPR012742 Alanine dehydrogenase, Archaeoglobus-type > GO:alanine metabolic process ; GO:0006522
+GO:0006522	interpro2go	InterPro:IPR028609 Alanine dehydrogenase, archaeal-type > GO:alanine metabolic process ; GO:0006522
+GO:0006522	unirule2go	UniRule:UR000165686 > GO:alanine metabolic process ; GO:0006522
+GO:0006525	interpro2go	InterPro:IPR003964 Carbamate kinase > GO:arginine metabolic process ; GO:0006525
+GO:0006525	interpro2go	InterPro:IPR004636 Acetylornithine/Succinylornithine transaminase family > GO:arginine metabolic process ; GO:0006525
+GO:0006525	interpro2go	InterPro:IPR007079 Succinylarginine dihydrolase > GO:arginine metabolic process ; GO:0006525
+GO:0006525	interpro2go	InterPro:IPR014033 Arginase > GO:arginine metabolic process ; GO:0006525
+GO:0006525	interpro2go	InterPro:IPR020900 Arginine repressor, DNA-binding domain > GO:arginine metabolic process ; GO:0006525
+GO:0006525	interpro2go	InterPro:IPR037031 Succinylarginine dihydrolase superfamily > GO:arginine metabolic process ; GO:0006525
+GO:0006525	interpro2go	InterPro:IPR054924 N(G),N(G)-dimethylarginine dimethylaminohydrolase > GO:arginine metabolic process ; GO:0006525
+GO:0006525	wikipedia2go	Wikipedia:Arginine > GO:arginine metabolic process ; GO:0006525
+GO:0006525	unirule2go	UniRule:UR001996784 > GO:arginine metabolic process ; GO:0006525
+GO:0006525	uniprotkb_kw2go	UniProtKB-KW:KW-0056 Arginine metabolism > GO:arginine metabolic process ; GO:0006525
+GO:0006531	interpro2go	InterPro:IPR004708 Aspartate ammonia-lyase > GO:aspartate metabolic process ; GO:0006531
+GO:0006531	unirule2go	UniRule:UR001995779 > GO:aspartate metabolic process ; GO:0006531
+GO:0006534	interpro2go	InterPro:IPR010970 Cysteine desulfurase, SufS > GO:cysteine metabolic process ; GO:0006534
+GO:0006534	interpro2go	InterPro:IPR017773 Cysteine desulfurase NifS, proteobacteria > GO:cysteine metabolic process ; GO:0006534
+GO:0006534	wikipedia2go	Wikipedia:Cysteine_metabolism > GO:cysteine metabolic process ; GO:0006534
+GO:0006534	unirule2go	UniRule:UR000001146 > GO:cysteine metabolic process ; GO:0006534
+GO:0006536	interpro2go	InterPro:IPR010107 Glutamate decarboxylase > GO:glutamate metabolic process ; GO:0006536
+GO:0006536	wikipedia2go	Wikipedia:Glutamic_acid > GO:glutamate metabolic process ; GO:0006536
+GO:0006541	interpro2go	InterPro:IPR006274 Carbamoyl-phosphate synthase, small subunit > GO:glutamine metabolic process ; GO:0006541
+GO:0006541	interpro2go	InterPro:IPR015868 Glutaminase > GO:glutamine metabolic process ; GO:0006541
+GO:0006544	interpro2go	InterPro:IPR003437 Glycine dehydrogenase (decarboxylating) > GO:glycine metabolic process ; GO:0006544
+GO:0006547	hamap2go	HAMAP:MF_00779 > GO:L-histidine metabolic process ; GO:0006547
+GO:0006547	interpro2go	InterPro:IPR003427 Histidine decarboxylase proenzyme > GO:L-histidine metabolic process ; GO:0006547
+GO:0006547	interpro2go	InterPro:IPR010248 Histidine utilization repressor > GO:L-histidine metabolic process ; GO:0006547
+GO:0006547	interpro2go	InterPro:IPR035227 Protein HdcB > GO:L-histidine metabolic process ; GO:0006547
+GO:0006547	wikipedia2go	Wikipedia:Histidine > GO:L-histidine metabolic process ; GO:0006547
+GO:0006547	unirule2go	UniRule:UR000031371 > GO:L-histidine metabolic process ; GO:0006547
+GO:0006547	unirule2go	UniRule:UR000397758 > GO:L-histidine metabolic process ; GO:0006547
+GO:0006547	unirule2go	UniRule:UR001995931 > GO:L-histidine metabolic process ; GO:0006547
+GO:0006547	uniprotkb_kw2go	UniProtKB-KW:KW-0369 Histidine metabolism > GO:L-histidine metabolic process ; GO:0006547
+GO:0006553	interpro2go	InterPro:IPR021175 Bifunctional inorganic polyphosphate/ATP-NAD kinase, predicted > GO:lysine metabolic process ; GO:0006553
+GO:0006553	wikipedia2go	Wikipedia:Lysine > GO:lysine metabolic process ; GO:0006553
+GO:0006555	um-bbd_pathwayid2go	UM-BBD_pathwayID:met > GO:methionine metabolic process ; GO:0006555
+GO:0006555	interpro2go	InterPro:IPR002084 Methionine repressor MetJ > GO:methionine metabolic process ; GO:0006555
+GO:0006555	interpro2go	InterPro:IPR003171 Methylenetetrahydrofolate reductase-like > GO:methionine metabolic process ; GO:0006555
+GO:0006555	interpro2go	InterPro:IPR004621 Eukaryotic-type methylenetetrahydrofolate reductase > GO:methionine metabolic process ; GO:0006555
+GO:0006558	reactome2go	Reactome:R-HSA-8964208 > GO:L-phenylalanine metabolic process ; GO:0006558
+GO:0006560	uniprotkb_kw2go	UniProtKB-KW:KW-0642 Proline metabolism > GO:proline metabolic process ; GO:0006560
+GO:0006568	interpro2go	InterPro:IPR001240 N-(5'phosphoribosyl) anthranilate isomerase (PRAI) domain > GO:L-tryptophan metabolic process ; GO:0006568
+GO:0006568	interpro2go	InterPro:IPR001468 Indole-3-glycerol phosphate synthase, conserved site > GO:L-tryptophan metabolic process ; GO:0006568
+GO:0006568	interpro2go	InterPro:IPR002028 Tryptophan synthase, alpha chain > GO:L-tryptophan metabolic process ; GO:0006568
+GO:0006568	interpro2go	InterPro:IPR006653 Tryptophan synthase, beta chain, conserved site > GO:L-tryptophan metabolic process ; GO:0006568
+GO:0006568	interpro2go	InterPro:IPR006654 Tryptophan synthase, beta chain > GO:L-tryptophan metabolic process ; GO:0006568
+GO:0006568	interpro2go	InterPro:IPR013440 Tryptophanase > GO:L-tryptophan metabolic process ; GO:0006568
+GO:0006568	wikipedia2go	Wikipedia:Tryptophan > GO:L-tryptophan metabolic process ; GO:0006568
+GO:0006568	unirule2go	UniRule:UR001996108 > GO:L-tryptophan metabolic process ; GO:0006568
+GO:0006570	um-bbd_pathwayid2go	UM-BBD_pathwayID:tyr > GO:tyrosine metabolic process ; GO:0006570
+GO:0006570	interpro2go	InterPro:IPR005708 Homogentisate 1,2-dioxygenase > GO:tyrosine metabolic process ; GO:0006570
+GO:0006570	interpro2go	InterPro:IPR013441 Tyrosine phenol-lyase > GO:tyrosine metabolic process ; GO:0006570
+GO:0006570	wikipedia2go	Wikipedia:Tyrosine > GO:tyrosine metabolic process ; GO:0006570
+GO:0006570	unirule2go	UniRule:UR001995982 > GO:tyrosine metabolic process ; GO:0006570
+GO:0006591	interpro2go	InterPro:IPR024904 Ornithine carbamoyltransferase > GO:ornithine metabolic process ; GO:0006591
+GO:0009064	reactome2go	Reactome:R-HSA-8964539 > GO:glutamine family amino acid metabolic process ; GO:0009064
+GO:0009072	reactome2go	Reactome:R-HSA-8963691 > GO:aromatic amino acid metabolic process ; GO:0009072
+GO:0009072	interpro2go	InterPro:IPR001273 Aromatic amino acid hydroxylase > GO:aromatic amino acid metabolic process ; GO:0009072
+GO:0009072	interpro2go	InterPro:IPR005955 Glutathione S-transferases, class Zeta > GO:aromatic amino acid metabolic process ; GO:0009072
+GO:0009072	interpro2go	InterPro:IPR005956 4-hydroxyphenylpyruvate dioxygenase > GO:aromatic amino acid metabolic process ; GO:0009072
+GO:0009072	interpro2go	InterPro:IPR005957 Tyrosine aminotransferase > GO:aromatic amino acid metabolic process ; GO:0009072
+GO:0009072	interpro2go	InterPro:IPR005959 Fumarylacetoacetase > GO:aromatic amino acid metabolic process ; GO:0009072
+GO:0009072	interpro2go	InterPro:IPR011166 Beta-eliminating lyase family > GO:aromatic amino acid metabolic process ; GO:0009072
+GO:0009072	interpro2go	InterPro:IPR015377 Fumarylacetoacetase, N-terminal > GO:aromatic amino acid metabolic process ; GO:0009072
+GO:0009072	interpro2go	InterPro:IPR018301 Aromatic amino acid hydroxylase, iron/copper binding site > GO:aromatic amino acid metabolic process ; GO:0009072
+GO:0009072	interpro2go	InterPro:IPR036462 Fumarylacetoacetase, N-terminal domain superfamily > GO:aromatic amino acid metabolic process ; GO:0009072
+GO:0009072	interpro2go	InterPro:IPR036951 Aromatic amino acid hydroxylase superfamily > GO:aromatic amino acid metabolic process ; GO:0009072
+GO:0009081	interpro2go	InterPro:IPR005785 Branched-chain amino acid aminotransferase I > GO:branched-chain amino acid metabolic process ; GO:0009081
+GO:0009081	interpro2go	InterPro:IPR005786 Branched-chain amino acid aminotransferase II > GO:branched-chain amino acid metabolic process ; GO:0009081
+GO:0009081	interpro2go	InterPro:IPR033939 Branched-chain aminotransferase > GO:branched-chain amino acid metabolic process ; GO:0009081
+GO:0009448	interpro2go	InterPro:IPR004631 4-aminobutyrate aminotransferase, eukaryotic > GO:gamma-aminobutyric acid metabolic process ; GO:0009448
+GO:0009448	interpro2go	InterPro:IPR004632 4-aminobutyrate aminotransferase, bacterial > GO:gamma-aminobutyric acid metabolic process ; GO:0009448
+GO:0016259	reactome2go	Reactome:R-HSA-2408522 > GO:selenocysteine metabolic process ; GO:0016259
+GO:0018870	um-bbd_pathwayid2go	UM-BBD_pathwayID:abz > GO:anaerobic 2-aminobenzoate metabolic process ; GO:0018870
+GO:0018871	hamap2go	HAMAP:MF_00807 > GO:1-aminocyclopropane-1-carboxylate metabolic process ; GO:0018871
+GO:0018871	um-bbd_pathwayid2go	UM-BBD_pathwayID:acp > GO:1-aminocyclopropane-1-carboxylate metabolic process ; GO:0018871
+GO:0018871	unirule2go	UniRule:UR000100241 > GO:1-aminocyclopropane-1-carboxylate metabolic process ; GO:0018871
+GO:0019482	wikipedia2go	Wikipedia:Beta-alanine > GO:beta-alanine metabolic process ; GO:0019482
+GO:0043420	hamap2go	HAMAP:MF_00825 > GO:anthranilate metabolic process ; GO:0043420
+GO:0043420	hamap2go	HAMAP:MF_01971 > GO:anthranilate metabolic process ; GO:0043420
+GO:0043420	hamap2go	HAMAP:MF_03017 > GO:anthranilate metabolic process ; GO:0043420
+GO:0043420	hamap2go	HAMAP:MF_03018 > GO:anthranilate metabolic process ; GO:0043420
+GO:0043420	hamap2go	HAMAP:MF_03019 > GO:anthranilate metabolic process ; GO:0043420
+GO:0043420	um-bbd_pathwayid2go	UM-BBD_pathwayID:abz2 > GO:anthranilate metabolic process ; GO:0043420
+GO:0043420	unirule2go	UniRule:UR000107193 > GO:anthranilate metabolic process ; GO:0043420
+GO:0043420	unirule2go	UniRule:UR000107205 > GO:anthranilate metabolic process ; GO:0043420
+GO:0043420	unirule2go	UniRule:UR000107224 > GO:anthranilate metabolic process ; GO:0043420
+GO:0043420	unirule2go	UniRule:UR000161488 > GO:anthranilate metabolic process ; GO:0043420
+GO:0043420	unirule2go	UniRule:UR000333101 > GO:anthranilate metabolic process ; GO:0043420
+GO:0046416	hamap2go	HAMAP:MF_01030 > GO:D-amino acid metabolic process ; GO:0046416
+GO:0046416	hamap2go	HAMAP:MF_01045 > GO:D-amino acid metabolic process ; GO:0046416
+GO:0046416	interpro2go	InterPro:IPR005784 D-amino acid aminotransferase > GO:D-amino acid metabolic process ; GO:0046416
+GO:0046416	interpro2go	InterPro:IPR011780 D-serine ammonia-lyase > GO:D-amino acid metabolic process ; GO:0046416
+GO:0046416	interpro2go	InterPro:IPR023209 D-amino-acid oxidase > GO:D-amino acid metabolic process ; GO:0046416
+GO:0046416	unirule2go	UniRule:UR000100519 > GO:D-amino acid metabolic process ; GO:0046416
+GO:0046416	unirule2go	UniRule:UR000100551 > GO:D-amino acid metabolic process ; GO:0046416
+GO:0046498	rfam2go	Rfam:RF01057 SAH > GO:S-adenosylhomocysteine metabolic process ; GO:0046498
