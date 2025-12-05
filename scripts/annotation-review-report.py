@@ -107,13 +107,18 @@ def collect_issues(issues, number: str, event_type: str, printed_ids: set):
     LOG.info('Issue count: '+ str(len(issues)))
 
     for issue in issues:
+        LOG.info('Current issue state: '+ issue['state'])
+        LOG.info('Current issue reference number: '+ str(number))
+        LOG.info('Current issue number: '+ str(issue['number']))
         if (issue['state'] == 'open') and (int(number) == issue['number']):
             has_label_p = False
             if len(issue['labels']) > 0 :
                 for label in issue['labels']:
                     if label['name'] == args.label:
                         has_label_p = True
+            LOG.info('has_label_p: ' + (str(has_label_p)))
             matches = re.findall("GO:[0-9]+", issue['body'])
+            LOG.info('match count: ' + (str(len(matches))))
             if has_label_p and len(matches) > 0:
                 matches = re.findall("GO:[0-9]+", issue['body'])
                 for m in matches:
@@ -206,7 +211,7 @@ if __name__ == "__main__":
         repo_name = repo_name.rsplit("/", maxsplit=1)[-1]
     ids = set()
     collected_issues = collected_issues + collect_issues(new_issues, args.number, "New", ids)
-    LOG.info('collected issues: ' + ", ".join(collected_issues))
+    LOG.info('Collected issues: ' + ", ".join(collected_issues))
 
     ## DEBUG:
     #collected_issues = ['GO:0030234', 'GO:0048478', 'GO:0031508']
