@@ -1,7 +1,7 @@
 ####
 #### Invocation examples:
 ####
-#### Dump GAF-like direct annotation TSVs into /tmp, scanning geneontology/go-annotation titles for the last seven days with the label "direct_ann_to_list_of_terms" and output file prefix "foo_":
+#### Dump GAF-like direct annotation TSVs into /tmp, scanning geneontology/annotation-query titles for the last seven days with the label "direct_ann_to_list_of_terms" and output file prefix "foo_":
 ####
 ####   python3.6 ./scripts/annotation-review-report.py geneontology/annotation-review 7 --number 6 --field annotation_class --label direct_ann_to_list_of_terms --output /tmp --prefix foo --verbose
 ####
