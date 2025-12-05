@@ -13,6 +13,7 @@ import re
 import requests
 import json
 import datetime
+import time
 import argparse
 from pytz import timezone
 
@@ -200,6 +201,9 @@ if __name__ == "__main__":
     ## Get times/dates for display.
     today = today_time.strftime("%Y-%m-%d")
     yesterday = yesterday_time.strftime("%Y-%m-%d")
+
+    LOG.info('Sleep in seconds: '+ str(10))
+    time.sleep(10)
 
     ## Pull in created and updated issues.
     new_issues = get_issues(args.repo_name, "created", yesterday_time_str)
