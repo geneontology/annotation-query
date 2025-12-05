@@ -3,7 +3,7 @@
 ####
 #### Dump GAF-like direct annotation TSVs into /tmp, scanning geneontology/go-annotation titles for the last seven days with the label "direct_ann_to_list_of_terms" and output file prefix "foo_":
 ####
-####   python3.6 ./scripts/annotation-review-report.py geneontology/go-annotation 7 --number 6 --field annotation_class --label direct_ann_to_list_of_terms --output /tmp --prefix foo --verbose
+####   python3.6 ./scripts/annotation-review-report.py geneontology/annotation-review 7 --number 6 --field annotation_class --label direct_ann_to_list_of_terms --output /tmp --prefix foo --verbose
 ####
 
 import logging
@@ -104,6 +104,8 @@ def collect_issues(issues, number: str, event_type: str, printed_ids: set):
 
     cis = []
 
+    LOG.info('Issue count: '+ str(len(issues)))
+
     for issue in issues:
         if (issue['state'] == 'open') and (int(number) == issue['number']):
             has_label_p = False
@@ -137,6 +139,7 @@ def get_issues(repo: str, event_type: str, start_date: str):
 ## Get Annotation TSV from GOlr.
 def get_term_annotation_data(fq: str, term: str):
     url = "http://golr-aux.geneontology.io/solr/select?defType=edismax&qt=standard&indent=on&wt=csv&rows=100000&start=0&fl={}&facet=true&facet.mincount=1&facet.sort=count&json.nl=arrarr&facet.limit=25&hl=true&hl.simple.pre=%3Cem%20class=%22hilite%22%3E&hl.snippets=1000&csv.encapsulator=&csv.separator=%09&csv.header=false&csv.mv.separator=%7C&fq={}:%22{}%22&fq=evidence_closure:%22ECO:0000006%22+OR+evidence_closure:%22ECO:0000204%22&fq=document_category:%22annotation%22&q=*:*".format(','.join(rfields), fq, term)
+    LOG.info('url: ' + url)
     resp = requests.get(url)
     if resp.status_code != 200:
         raise Exception("HTTP error status code: {} for url: {}".format(resp.status_code, url))
@@ -203,6 +206,7 @@ if __name__ == "__main__":
         repo_name = repo_name.rsplit("/", maxsplit=1)[-1]
     ids = set()
     collected_issues = collected_issues + collect_issues(new_issues, args.number, "New", ids)
+    LOG.info('collected issues: ' + ", ".join(collected_issues))
 
     ## DEBUG:
     #collected_issues = ['GO:0030234', 'GO:0048478', 'GO:0031508']
