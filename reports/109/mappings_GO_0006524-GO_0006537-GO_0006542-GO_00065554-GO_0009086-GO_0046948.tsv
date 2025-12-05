@@ -1,0 +1,38 @@
+term	file	line
+GO:0006537	uniprotkb_kw2go	UniProtKB-KW:KW-0314 Glutamate biosynthesis > GO:glutamate biosynthetic process ; GO:0006537
+GO:0006537	interpro2go	InterPro:IPR002932 Glutamate synthase domain > GO:glutamate biosynthetic process ; GO:0006537
+GO:0006537	interpro2go	InterPro:IPR006005 Glutamate synthase, NADH/NADPH, small subunit 1 > GO:glutamate biosynthetic process ; GO:0006537
+GO:0006537	interpro2go	InterPro:IPR012220 Glutamate synthase, eukaryotic > GO:glutamate biosynthetic process ; GO:0006537
+GO:0006537	hamap2go	HAMAP:MF_00733 > GO:glutamate biosynthetic process ; GO:0006537
+GO:0006537	unirule2go	UniRule:UR000099061 > GO:glutamate biosynthetic process ; GO:0006537
+GO:0006542	metacyc2go	MetaCyc:GLNSYN-PWY > GO:glutamine biosynthetic process ; GO:0006542
+GO:0006542	metacyc2go	MetaCyc:PWY-6549 > GO:glutamine biosynthetic process ; GO:0006542
+GO:0006542	interpro2go	InterPro:IPR008147 Glutamine synthetase, N-terminal domain > GO:glutamine biosynthetic process ; GO:0006542
+GO:0006542	interpro2go	InterPro:IPR036651 Glutamine synthetase, N-terminal domain superfamily > GO:glutamine biosynthetic process ; GO:0006542
+GO:0009086	metacyc2go	MetaCyc:Methionine-De-novo-Biosynthesis > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	uniprotkb_kw2go	UniProtKB-KW:KW-0486 Methionine biosynthesis > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	interpro2go	InterPro:IPR002629 Cobalamin-independent methionine synthase MetE, C-terminal/archaeal > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	interpro2go	InterPro:IPR004223 Vitamin B12-dependent methionine synthase, activation domain > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	interpro2go	InterPro:IPR004620 5,10-methylenetetrahydrofolate reductase > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	interpro2go	InterPro:IPR005986 Aspartate-semialdehyde dehydrogenase, beta-type > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	interpro2go	InterPro:IPR006276 Cobalamin-independent methionine synthase > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	interpro2go	InterPro:IPR009212 Methylthioribose kinase > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	interpro2go	InterPro:IPR011534 Aspartate-semialdehyde dehydrogenase, gamma-type > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	interpro2go	InterPro:IPR011822 Cobalamin-dependent methionine synthase > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	interpro2go	InterPro:IPR012080 Aspartate-semialdehyde dehydrogenase > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	interpro2go	InterPro:IPR017226 Betaine-homocysteine S-methyltransferase-like > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	interpro2go	InterPro:IPR022921 Methionine synthase MetE, archaeal > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	interpro2go	InterPro:IPR037010 Vitamin B12-dependent methionine synthase, activation domain superfamily > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	interpro2go	InterPro:IPR044639 Cystathionine gamma-synthase 1/2 > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	hamap2go	HAMAP:MF_00172 > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	hamap2go	HAMAP:MF_00288 > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	hamap2go	HAMAP:MF_00295 > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	hamap2go	HAMAP:MF_00296 > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	hamap2go	HAMAP:MF_00744 > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	unirule2go	UniRule:UR000001453 > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	unirule2go	UniRule:UR000032374 > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	unirule2go	UniRule:UR000083163 > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	unirule2go	UniRule:UR000083172 > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	unirule2go	UniRule:UR000083175 > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	unirule2go	UniRule:UR001995908 > GO:methionine biosynthetic process ; GO:0009086
+GO:0009086	unirule2go	UniRule:UR001996118 > GO:methionine biosynthetic process ; GO:0009086
