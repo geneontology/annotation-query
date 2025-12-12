@@ -1,0 +1,8 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:95621	Gabrb3	PMID:17156762		GO:0003361	noradrenergic neuron differentiation involved in brainstem development	IMP		MGI:MGI:95621	PANTHER:PTHR18945	20200604	GO:0003360	NCBITaxon:10090
+ComplexPortal	ComplexPortal:CPX-3463	spind_caeel	PMID:11782313		GO:1903562	microtubule bundle formation involved in mitotic spindle midzone assembly	IMP				20241108		NCBITaxon:6239
+ComplexPortal	WB:WBGene00006974	zen-4	PMID:11782313		GO:1903562	microtubule bundle formation involved in mitotic spindle midzone assembly	IMP		WB:WBGene00006974	PANTHER:PTHR24115	20241108		NCBITaxon:6239
+ComplexPortal	WB:WBGene00000875	cyk-4	PMID:11782313		GO:1903562	microtubule bundle formation involved in mitotic spindle midzone assembly	IMP		WB:WBGene00000875	PANTHER:PTHR46199	20241108		NCBITaxon:6239
+ComplexPortal	ComplexPortal:CPX-4628	daf37-38_caeel	PMID:22665789		GO:1904066	G protein-coupled receptor signaling pathway involved in dauer larval development	NAS				20240827		NCBITaxon:6239
+ComplexPortal	WB:WBGene00013642	daf-38	PMID:22665789		GO:1904066	G protein-coupled receptor signaling pathway involved in dauer larval development	NAS		WB:WBGene00013642	PANTHER:PTHR24230	20240827		NCBITaxon:6239
+ComplexPortal	WB:WBGene00016246	daf-37	PMID:22665789		GO:1904066	G protein-coupled receptor signaling pathway involved in dauer larval development	NAS		WB:WBGene00016246	PANTHER:PTHR46641	20240827		NCBITaxon:6239

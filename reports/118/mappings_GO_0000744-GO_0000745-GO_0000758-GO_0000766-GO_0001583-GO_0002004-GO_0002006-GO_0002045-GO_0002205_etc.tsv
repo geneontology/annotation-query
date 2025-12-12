@@ -1,0 +1,4 @@
+term	file	line
+GO:0019801	resid2go	RESID:AA0302 > GO:cyclization of asparagine involved in intein-mediated protein splicing ; GO:0019801
+GO:0019802	resid2go	RESID:AA0303 > GO:cyclization of glutamine involved in intein-mediated protein splicing ; GO:0019802
+GO:0060910	rfam2go	Rfam:RF00106 RNAI > GO:negative regulation of DNA replication initiation involved in plasmid copy number maintenance ; GO:0060910

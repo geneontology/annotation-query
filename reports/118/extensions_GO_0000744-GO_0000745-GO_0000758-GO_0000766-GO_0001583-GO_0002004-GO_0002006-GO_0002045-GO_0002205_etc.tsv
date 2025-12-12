@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:98297	Shh	PMID:12221011		GO:0060782	regulation of mesenchymal cell proliferation involved in prostate gland development	IMP		MGI:MGI:98297	PANTHER:PTHR11889	20090730	GO:0060781	NCBITaxon:10090
+UniProt	RGD:71096	Dnm1	PMID:25964652		GO:0005515	protein binding	IPI	UniProtKB:P21707	RGD:71096	PANTHER:PTHR11566	20230915	GO:0099052	NCBITaxon:10116
+BHF-UCL	RNAcentral:URS000026261D_9606	hsa-miR-140-5p	PMID:27021683		GO:0035195	miRNA-mediated post-transcriptional gene silencing	IDA				20180326	UniProtKB:P26358|CL:0002591|GO:1905420|UniProtKB:P26358|CL:0002591|GO:1990874|UniProtKB:P26358|CL:0002591|GO:1905288	NCBITaxon:9606
+BHF-UCL	RGD:4888616	Mir182	PMID:28259995		GO:0035278	miRNA-mediated gene silencing by inhibition of translation	IDA				20180509	UniProtKB:P36364|CL:0000359|GO:1905420	NCBITaxon:10116
+PomBase	PomBase:SPBC646.12c	gap1	PMID:29453312		GO:0005096	GTPase activator activity	IDA		PomBase:SPBC646.12c	PANTHER:PTHR14149	20180302	GO:0005937|GO:1905708	NCBITaxon:4896
