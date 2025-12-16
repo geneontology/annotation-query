@@ -1,0 +1,13 @@
+term	file	line
+GO:0019835	wikipedia2go	Wikipedia:Cytolysis > GO:cytolysis ; GO:0019835
+GO:0019835	interpro2go	InterPro:IPR003059 Colicin lysis protein > GO:cytolysis ; GO:0019835
+GO:0019835	interpro2go	InterPro:IPR003060 Pyocin S killer protein > GO:cytolysis ; GO:0019835
+GO:0019835	hamap2go	HAMAP:MF_01141 > GO:cytolysis ; GO:0019835
+GO:0019835	hamap2go	HAMAP:MF_01142 > GO:cytolysis ; GO:0019835
+GO:0019835	hamap2go	HAMAP:MF_01143 > GO:cytolysis ; GO:0019835
+GO:0019835	hamap2go	HAMAP:MF_04108 > GO:cytolysis ; GO:0019835
+GO:0019835	unirule2go	UniRule:UR000067715 > GO:cytolysis ; GO:0019835
+GO:0019835	unirule2go	UniRule:UR000067719 > GO:cytolysis ; GO:0019835
+GO:0019835	unirule2go	UniRule:UR000067725 > GO:cytolysis ; GO:0019835
+GO:0019835	unirule2go	UniRule:UR000413058 > GO:cytolysis ; GO:0019835
+GO:0019835	unirule2go	UniRule:UR001591781 > GO:cytolysis ; GO:0019835
