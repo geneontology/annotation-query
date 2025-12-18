@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000005904	ATF1	PMID:12957907		GO:1901089	acetate ester metabolic process involved in fermentation	IGI	SGD:S000003409	SGD:S000005904	PANTHER:PTHR28037	20141215		NCBITaxon:559292
+SGD	SGD:S000005904	ATF1	PMID:12957907		GO:1901089	acetate ester metabolic process involved in fermentation	IMP		SGD:S000005904	PANTHER:PTHR28037	20141215		NCBITaxon:559292
+SGD	SGD:S000003409	ATF2	PMID:12957907		GO:1901089	acetate ester metabolic process involved in fermentation	IGI	SGD:S000005904	SGD:S000003409	PANTHER:PTHR28037	20141215		NCBITaxon:559292
+SGD	SGD:S000005904	ATF1	PMID:23200656		GO:1901089	acetate ester metabolic process involved in fermentation	IMP		SGD:S000005904	PANTHER:PTHR28037	20140919		NCBITaxon:559292
