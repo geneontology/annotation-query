@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CAFA	UniProtKB:O00469	PLOD2	PMID:10934207		GO:0046947	hydroxylysine biosynthetic process	IDA		UniProtKB:O00469	PANTHER:PTHR10730	20160603		NCBITaxon:9606
+UniProt	UniProtKB:Q02809	PLOD1	PMID:10934207		GO:0046947	hydroxylysine biosynthetic process	IDA		UniProtKB:Q02809	PANTHER:PTHR10730	20250623		NCBITaxon:9606
+UniProt	MGI:MGI:1347008	Plod3	PMID:16447251		GO:0046947	hydroxylysine biosynthetic process	IDA		MGI:MGI:1347008	PANTHER:PTHR10730	20180903		NCBITaxon:10090
