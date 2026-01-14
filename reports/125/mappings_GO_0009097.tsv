@@ -1,0 +1,19 @@
+term	file	line
+GO:0009097	hamap2go	HAMAP:MF_00012 > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	hamap2go	HAMAP:MF_00435 > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	hamap2go	HAMAP:MF_01028 > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	metacyc2go	MetaCyc:ILEUSYN-PWY > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	interpro2go	InterPro:IPR005787 Threonine dehydratase, biosynthetic > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	interpro2go	InterPro:IPR005986 Aspartate-semialdehyde dehydrogenase, beta-type > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	interpro2go	InterPro:IPR011534 Aspartate-semialdehyde dehydrogenase, gamma-type > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	uniprotkb_kw2go	UniProtKB-KW:KW-0412 Isoleucine biosynthesis > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	unirule2go	UniRule:UR000001403 > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	unirule2go	UniRule:UR000031375 > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	unirule2go	UniRule:UR000129796 > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	unirule2go	UniRule:UR000212828 > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	unirule2go	UniRule:UR000368678 > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	unirule2go	UniRule:UR000778850 > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	unirule2go	UniRule:UR001590777 > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	unirule2go	UniRule:UR001995750 > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	unirule2go	UniRule:UR001995908 > GO:isoleucine biosynthetic process ; GO:0009097
+GO:0009097	unirule2go	UniRule:UR001996148 > GO:isoleucine biosynthetic process ; GO:0009097
