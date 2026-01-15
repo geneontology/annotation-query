@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:105925	Cdo1	PMID:11602353		GO:0019452	L-cysteine catabolic process to taurine	TAS		MGI:MGI:105925	PANTHER:PTHR12918	20020318		NCBITaxon:10090
+MGI	MGI:MGI:2180098	Csad	PMID:11997111		GO:0019452	L-cysteine catabolic process to taurine	TAS		MGI:MGI:2180098	PANTHER:PTHR45677	20020611		NCBITaxon:10090
+UniProt	RGD:621030	Csad	PMID:9635011		GO:0019452	L-cysteine catabolic process to taurine	IDA		RGD:621030	PANTHER:PTHR45677	20180921	UBERON:0002107	NCBITaxon:10116
