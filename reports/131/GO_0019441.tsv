@@ -1,0 +1,21 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AspGD	UniProtKB:Q2U3U2	AO090020000618	PMID:21170645		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA				20120622		NCBITaxon:510516
+AspGD	UniProtKB:Q2UJE7	AO090003001248	PMID:21170645		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA				20120622		NCBITaxon:510516
+AspGD	UniProtKB:Q2U3U2	AO090020000618	PMID:22564706		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA				20120622		NCBITaxon:510516
+AspGD	UniProtKB:Q2UJE7	AO090003001248	PMID:22564706		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA				20120622		NCBITaxon:510516
+MGI	MGI:MGI:96416	Ido1	PMID:11751753		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA		MGI:MGI:96416	PANTHER:PTHR28657	20031029		NCBITaxon:10090
+MGI	MGI:MGI:2448704	Afmid	PMID:15866519		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA		MGI:MGI:2448704	PANTHER:PTHR23024	20051229		NCBITaxon:10090
+MGI	MGI:MGI:2142489	Ido2	PMID:17499941		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA		MGI:MGI:2142489	PANTHER:PTHR28657	20080324		NCBITaxon:10090
+MGI	MGI:MGI:2142489	Ido2	PMID:17671174		GO:0019441	L-tryptophan catabolic process to kynurenine	IMP		MGI:MGI:2142489	PANTHER:PTHR28657	20080324		NCBITaxon:10090
+MGI	MGI:MGI:96416	Ido1	PMID:2419335		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA		MGI:MGI:96416	PANTHER:PTHR28657	20011025		NCBITaxon:10090
+PseudoCAP	UniProtKB:Q9I234	kynB	PMID:17337571		GO:0019441	L-tryptophan catabolic process to kynurenine	IMP		UniProtKB:Q9I234	PANTHER:PTHR31118	20190311		NCBITaxon:208964
+PseudoCAP	UniProtKB:Q9I235	kynU	PMID:17337571		GO:0019441	L-tryptophan catabolic process to kynurenine	IMP		UniProtKB:Q9I235	PANTHER:PTHR14084	20190311		NCBITaxon:208964
+RGD	RGD:619989	Ido1	PMID:10719243		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA		RGD:619989	PANTHER:PTHR28657	20080229		NCBITaxon:10116
+RGD	RGD:619989	Ido1	PMID:11513477		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA		RGD:619989	PANTHER:PTHR28657	20080318		NCBITaxon:10116
+UniProt	UniProtKB:P0C8P4	kynB	PMID:14592712		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA				20090330		NCBITaxon:266264
+UniProt	UniProtKB:Q1LK00	kynA	PMID:17198384		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA				20090528		NCBITaxon:266264
+UniProt	UniProtKB:Q17P71	AAEL000428	PMID:17212352		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA				20090120		NCBITaxon:7159
+UniProt	UniProtKB:Q6ZQW0	IDO2	PMID:17671174		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA		UniProtKB:Q6ZQW0	PANTHER:PTHR28657	20091202		NCBITaxon:9606
+UniProt	UniProtKB:Q8PDA8	kynA	PMID:18783250		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA			PANTHER:PTHR10138	20090528		NCBITaxon:190485
+UniProt	FB:FBgn0003965	v	PMID:23333332		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA		FB:FBgn0003965	PANTHER:PTHR10138	20161222		NCBITaxon:7227
+UniProt	UniProtKB:P48775	TDO2	PMID:27762317		GO:0019441	L-tryptophan catabolic process to kynurenine	IDA		UniProtKB:P48775	PANTHER:PTHR10138	20161221		NCBITaxon:9606

@@ -1,0 +1,20 @@
+term	file	line
+GO:0019441	hamap2go	HAMAP:MF_01969 > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	hamap2go	HAMAP:MF_01972 > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	hamap2go	HAMAP:MF_03014 > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	hamap2go	HAMAP:MF_03020 > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	metacyc2go	MetaCyc:PWY-6309 > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	interpro2go	InterPro:IPR004981 Tryptophan 2,3-dioxygenase > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	interpro2go	InterPro:IPR007325 Kynurenine formamidase/cyclase-like > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	interpro2go	InterPro:IPR017484 Kynurenine formamidase, bacteria > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	interpro2go	InterPro:IPR017485 Tryptophan 2,3-dioxygenase, bacterial > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	interpro2go	InterPro:IPR027519 Kynurenine formamidase, vertebrates/fungi-type > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	interpro2go	InterPro:IPR037175 Kynurenine formamidase superfamily > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	interpro2go	InterPro:IPR037217 Tryptophan/Indoleamine 2,3-dioxygenase-like > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	unirule2go	UniRule:UR000107151 > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	unirule2go	UniRule:UR000107235 > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	unirule2go	UniRule:UR000161519 > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	unirule2go	UniRule:UR000161560 > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	unirule2go	UniRule:UR001933754 > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	unirule2go	UniRule:UR001996090 > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
+GO:0019441	unirule2go	UniRule:UR001996094 > GO:L-tryptophan catabolic process to L-kynurenine ; GO:0019441
