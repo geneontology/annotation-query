@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPBP26C9.02c	car1	PMID:20460254		GO:0010121	L-arginine catabolic process to proline via ornithine	IMP		PomBase:SPBP26C9.02c	PANTHER:PTHR43782	20140619		NCBITaxon:4896
+PomBase	PomBase:SPAC3H1.07	aru1	PMID:20460254		GO:0010121	L-arginine catabolic process to proline via ornithine	IMP		PomBase:SPAC3H1.07	PANTHER:PTHR43782	20140619		NCBITaxon:4896
+PomBase	PomBase:SPBC21C3.08c	car2	PMID:20460254		GO:0010121	L-arginine catabolic process to proline via ornithine	IMP		PomBase:SPBC21C3.08c	PANTHER:PTHR11986	20140619		NCBITaxon:4896
+CGD	CGD:CAL0000188872	CDG1	PMID:23417561|CGD_REF:CAL0000158590		GO:0019451	L-cysteine catabolic process to pyruvate, using cysteine dioxygenase	IMP			PANTHER:PTHR12918	20140625		NCBITaxon:237561
