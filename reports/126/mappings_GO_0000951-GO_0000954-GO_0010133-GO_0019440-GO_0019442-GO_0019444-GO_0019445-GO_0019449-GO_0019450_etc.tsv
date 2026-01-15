@@ -1,0 +1,76 @@
+term	file	line
+GO:0000951	metacyc2go	MetaCyc:PWY-5082 > GO:L-methionine catabolic process to 3-methylthiopropanol ; GO:0000951
+GO:0010133	metacyc2go	MetaCyc:PROUT-PWY > GO:L-proline catabolic process to L-glutamate ; GO:0010133
+GO:0010133	interpro2go	InterPro:IPR005931 Delta-1-pyrroline-5-carboxylate dehydrogenase > GO:L-proline catabolic process to L-glutamate ; GO:0010133
+GO:0010133	interpro2go	InterPro:IPR008219 Proline dehydrogenase, bacteria and archaea > GO:L-proline catabolic process to L-glutamate ; GO:0010133
+GO:0010133	interpro2go	InterPro:IPR025703 Bifunctional protein PutA > GO:L-proline catabolic process to L-glutamate ; GO:0010133
+GO:0010133	unirule2go	UniRule:UR000172770 > GO:L-proline catabolic process to L-glutamate ; GO:0010133
+GO:0010133	unirule2go	UniRule:UR000810763 > GO:L-proline catabolic process to L-glutamate ; GO:0010133
+GO:0019444	metacyc2go	MetaCyc:TRPCAT-PWY > GO:L-tryptophan catabolic process to catechol ; GO:0019444
+GO:0019445	metacyc2go	MetaCyc:TYRFUMCAT-PWY > GO:L-tyrosine catabolic process to fumarate ; GO:0019445
+GO:0019450	hamap2go	HAMAP:MF_00868 > GO:L-cysteine catabolic process to pyruvate ; GO:0019450
+GO:0019450	metacyc2go	MetaCyc:LCYSDEG-PWY > GO:L-cysteine catabolic process to pyruvate ; GO:0019450
+GO:0019450	interpro2go	InterPro:IPR047586 L-cysteine desulfhydrase Cds1 > GO:L-cysteine catabolic process to pyruvate ; GO:0019450
+GO:0019450	unirule2go	UniRule:UR001701049 > GO:L-cysteine catabolic process to pyruvate ; GO:0019450
+GO:0019457	metacyc2go	MetaCyc:METHIONINE-DEG1-PWY > GO:L-methionine catabolic process to succinyl-CoA ; GO:0019457
+GO:0019458	metacyc2go	MetaCyc:PWY-701 > GO:L-methionine catabolic process via 2-oxobutanoate ; GO:0019458
+GO:0019473	metacyc2go	MetaCyc:LYSDEGII-PWY > GO:L-lysine catabolic process to glutarate, by acetylation ; GO:0019473
+GO:0019474	metacyc2go	MetaCyc:PWY-5177 > GO:L-lysine catabolic process to acetyl-CoA ; GO:0019474
+GO:0019479	metacyc2go	MetaCyc:ALACAT2-PWY > GO:L-alanine oxidation to D-lactate and ammonia ; GO:0019479
+GO:0019480	metacyc2go	MetaCyc:ALADEG-PWY > GO:L-alanine oxidation to pyruvate via D-alanine ; GO:0019480
+GO:0019481	metacyc2go	MetaCyc:ALANINE-DEG3-PWY > GO:L-alanine catabolic process, by transamination ; GO:0019481
+GO:0019493	metacyc2go	MetaCyc:ARG-PRO-PWY > GO:L-arginine catabolic process to L-proline ; GO:0019493
+GO:0019517	metacyc2go	MetaCyc:THRDLCTCAT-PWY > GO:L-threonine catabolic process to D-lactate ; GO:0019517
+GO:0019518	hamap2go	HAMAP:MF_00985 > GO:L-threonine catabolic process to glycine ; GO:0019518
+GO:0019518	metacyc2go	MetaCyc:THREONINE-DEG2-PWY > GO:L-threonine catabolic process to glycine ; GO:0019518
+GO:0019518	unirule2go	UniRule:UR000119537 > GO:L-threonine catabolic process to glycine ; GO:0019518
+GO:0019518	reactome2go	Reactome:R-HSA-8849175 > GO:L-threonine catabolic process to glycine ; GO:0019518
+GO:0019544	hamap2go	HAMAP:MF_00767 > GO:L-arginine catabolic process to L-glutamate ; GO:0019544
+GO:0019544	hamap2go	HAMAP:MF_01171 > GO:L-arginine catabolic process to L-glutamate ; GO:0019544
+GO:0019544	hamap2go	HAMAP:MF_01172 > GO:L-arginine catabolic process to L-glutamate ; GO:0019544
+GO:0019544	hamap2go	HAMAP:MF_01173 > GO:L-arginine catabolic process to L-glutamate ; GO:0019544
+GO:0019544	hamap2go	HAMAP:MF_01174 > GO:L-arginine catabolic process to L-glutamate ; GO:0019544
+GO:0019544	metacyc2go	MetaCyc:ARG-GLU-PWY > GO:L-arginine catabolic process to L-glutamate ; GO:0019544
+GO:0019544	metacyc2go	MetaCyc:ARGASEDEG-PWY > GO:L-arginine catabolic process to L-glutamate ; GO:0019544
+GO:0019544	interpro2go	InterPro:IPR016681 Succinylglutamate desuccinylase > GO:L-arginine catabolic process to L-glutamate ; GO:0019544
+GO:0019544	unirule2go	UniRule:UR000100077 > GO:L-arginine catabolic process to L-glutamate ; GO:0019544
+GO:0019544	unirule2go	UniRule:UR000100819 > GO:L-arginine catabolic process to L-glutamate ; GO:0019544
+GO:0019544	unirule2go	UniRule:UR000100836 > GO:L-arginine catabolic process to L-glutamate ; GO:0019544
+GO:0019544	unirule2go	UniRule:UR000100838 > GO:L-arginine catabolic process to L-glutamate ; GO:0019544
+GO:0019544	unirule2go	UniRule:UR000100844 > GO:L-arginine catabolic process to L-glutamate ; GO:0019544
+GO:0019545	hamap2go	HAMAP:MF_00767 > GO:L-arginine catabolic process to succinate ; GO:0019545
+GO:0019545	hamap2go	HAMAP:MF_01171 > GO:L-arginine catabolic process to succinate ; GO:0019545
+GO:0019545	hamap2go	HAMAP:MF_01172 > GO:L-arginine catabolic process to succinate ; GO:0019545
+GO:0019545	hamap2go	HAMAP:MF_01173 > GO:L-arginine catabolic process to succinate ; GO:0019545
+GO:0019545	hamap2go	HAMAP:MF_01174 > GO:L-arginine catabolic process to succinate ; GO:0019545
+GO:0019545	metacyc2go	MetaCyc:ARGDEG-III-PWY > GO:L-arginine catabolic process to succinate ; GO:0019545
+GO:0019545	metacyc2go	MetaCyc:ARGDEG-IV-PWY > GO:L-arginine catabolic process to succinate ; GO:0019545
+GO:0019545	metacyc2go	MetaCyc:ARGDEG-V-PWY > GO:L-arginine catabolic process to succinate ; GO:0019545
+GO:0019545	metacyc2go	MetaCyc:AST-PWY > GO:L-arginine catabolic process to succinate ; GO:0019545
+GO:0019545	interpro2go	InterPro:IPR016681 Succinylglutamate desuccinylase > GO:L-arginine catabolic process to succinate ; GO:0019545
+GO:0019545	unirule2go	UniRule:UR000100077 > GO:L-arginine catabolic process to succinate ; GO:0019545
+GO:0019545	unirule2go	UniRule:UR000100819 > GO:L-arginine catabolic process to succinate ; GO:0019545
+GO:0019545	unirule2go	UniRule:UR000100836 > GO:L-arginine catabolic process to succinate ; GO:0019545
+GO:0019545	unirule2go	UniRule:UR000100838 > GO:L-arginine catabolic process to succinate ; GO:0019545
+GO:0019545	unirule2go	UniRule:UR000100844 > GO:L-arginine catabolic process to succinate ; GO:0019545
+GO:0019546	metacyc2go	MetaCyc:ARGDEGRAD-PWY > GO:L-arginine deiminase pathway ; GO:0019546
+GO:0019546	unirule2go	UniRule:UR002057766 > GO:L-arginine deiminase pathway ; GO:0019546
+GO:0019550	metacyc2go	MetaCyc:GLUTDEG-PWY > GO:L-glutamate catabolic process to aspartate ; GO:0019550
+GO:0019555	metacyc2go	MetaCyc:GLUTORN-PWY > GO:L-glutamate catabolic process to ornithine ; GO:0019555
+GO:0019556	metacyc2go	MetaCyc:HISDEG-PWY > GO:L-histidine catabolic process to glutamate and formamide ; GO:0019556
+GO:0019556	interpro2go	InterPro:IPR005920 Imidazolonepropionase > GO:L-histidine catabolic process to glutamate and formamide ; GO:0019556
+GO:0019556	interpro2go	InterPro:IPR005923 Formiminoglutamase > GO:L-histidine catabolic process to glutamate and formamide ; GO:0019556
+GO:0019556	unirule2go	UniRule:UR001995851 > GO:L-histidine catabolic process to glutamate and formamide ; GO:0019556
+GO:0019556	unirule2go	UniRule:UR001995883 > GO:L-histidine catabolic process to glutamate and formamide ; GO:0019556
+GO:0019557	metacyc2go	MetaCyc:PWY-5028 > GO:L-histidine catabolic process to glutamate and formate ; GO:0019557
+GO:0019557	unirule2go	UniRule:UR001996011 > GO:L-histidine catabolic process to glutamate and formate ; GO:0019557
+GO:0019559	metacyc2go	MetaCyc:HISTDEG-PWY > GO:L-histidine catabolic process to imidazol-5-yl-lactate ; GO:0019559
+GO:0019560	metacyc2go	MetaCyc:HISHP-PWY > GO:L-histidine catabolic process to hydantoin-5-propionate ; GO:0019560
+GO:0019561	metacyc2go	MetaCyc:ANAPHENOXI-PWY > GO:anaerobic L-phenylalanine oxidation ; GO:0019561
+GO:0033345	metacyc2go	MetaCyc:ASPARAGINE-DEG1-PWY > GO:L-asparagine catabolic process via L-aspartate ; GO:0033345
+GO:0033346	metacyc2go	MetaCyc:PWY-4002 > GO:L-asparagine catabolic process via 2-oxosuccinamate ; GO:0033346
+GO:0033515	metacyc2go	MetaCyc:PWY-5298 > GO:L-lysine catabolic process using lysine 6-aminotransferase ; GO:0033515
+GO:0070689	hamap2go	HAMAP:MF_01881 > GO:L-threonine catabolic process to propionate ; GO:0070689
+GO:0070689	metacyc2go	MetaCyc:PWY-5437 > GO:L-threonine catabolic process to propionate ; GO:0070689
+GO:0070689	unirule2go	UniRule:UR000010916 > GO:L-threonine catabolic process to propionate ; GO:0070689
+GO:0070690	metacyc2go	MetaCyc:PWY-5436 > GO:L-threonine catabolic process to acetyl-CoA ; GO:0070690

@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q96RQ9	IL4I1	PMID:32866000		GO:0001716	L-amino-acid oxidase activity	IDA		UniProtKB:Q96RQ9	PANTHER:PTHR10742	20210727	GO:0019440|CHEBI:57912|CHEBI:17640	NCBITaxon:9606
