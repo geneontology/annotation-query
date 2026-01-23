@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	RGD:10412358	Khps1a	PMID:26590717		GO:0001010	RNA polymerase II sequence-specific DNA-binding transcription factor recruiting activity	IDA				20230719	GO:0045944	NCBITaxon:10116
+BHF-UCL	MGI:MGI:1342287	Klf4	PMID:18396140		GO:0001010	RNA polymerase II sequence-specific DNA-binding transcription factor recruiting activity	IDA		MGI:MGI:1342287	PANTHER:PTHR23235	20101220		NCBITaxon:10090
+SGD	SGD:S000002329	UGA3	PMID:21515579		GO:0001010	RNA polymerase II sequence-specific DNA-binding transcription factor recruiting activity	IDA		SGD:S000002329	PANTHER:PTHR37534	20130807		NCBITaxon:559292
+SGD	SGD:S000002329	UGA3	PMID:21515579		GO:0001010	RNA polymerase II sequence-specific DNA-binding transcription factor recruiting activity	IGI	SGD:S000001462	SGD:S000002329	PANTHER:PTHR37534	20130807		NCBITaxon:559292
+SGD	SGD:S000002667	YAP6	PMID:21552514		GO:0001010	RNA polymerase II sequence-specific DNA-binding transcription factor recruiting activity	IPI	SGD:S000000316	SGD:S000002667		20130807	SGD:S000000316	NCBITaxon:559292
+SGD	SGD:S000002667	YAP6	PMID:21552514		GO:0001010	RNA polymerase II sequence-specific DNA-binding transcription factor recruiting activity	IPI	SGD:S000000680	SGD:S000002667		20130807	SGD:S000000680	NCBITaxon:559292
+SGD	SGD:S000006390	PZF1	PMID:8496187		GO:0001010	RNA polymerase II sequence-specific DNA-binding transcription factor recruiting activity	IDA		SGD:S000006390	PANTHER:PTHR24388	20180615		NCBITaxon:559292
+SGD	SGD:S000006390	PZF1	PMID:8496187		GO:0001010	RNA polymerase II sequence-specific DNA-binding transcription factor recruiting activity	IMP		SGD:S000006390	PANTHER:PTHR24388	20180615		NCBITaxon:559292
+UniProt	MGI:MGI:1919200	Nanog	PMID:23040477		GO:0001010	RNA polymerase II sequence-specific DNA-binding transcription factor recruiting activity	IDA		MGI:MGI:1919200	PANTHER:PTHR24327	20170222		NCBITaxon:10090
