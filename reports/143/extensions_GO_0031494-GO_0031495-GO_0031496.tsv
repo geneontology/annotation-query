@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000001668	ASH1	PMID:8625408		GO:0000122	negative regulation of transcription by RNA polymerase II	IMP		SGD:S000001668		20190830	GO:0031495	NCBITaxon:559292
+SGD	SGD:S000001668	ASH1	PMID:8625409		GO:0000122	negative regulation of transcription by RNA polymerase II	IMP		SGD:S000001668		20190830	GO:0031495	NCBITaxon:559292
+SGD	SGD:S000005253	STB1	PMID:9393435		GO:0045944	positive regulation of transcription by RNA polymerase II	IGI	SGD:S000002553	SGD:S000005253		20190830	GO:0031496	NCBITaxon:559292
+SGD	SGD:S000005253	STB1	PMID:9393435		GO:0045944	positive regulation of transcription by RNA polymerase II	IGI	SGD:S000005364	SGD:S000005253		20190830	GO:0031496	NCBITaxon:559292
