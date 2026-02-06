@@ -1,0 +1,17 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000185389	MTLA2	PMID:14745027|CGD_REF:CAL0081509		GO:0007532	regulation of mating-type specific transcription, DNA-templated	TAS				20140625		NCBITaxon:237561
+ComplexPortal	SGD:S000000694	HMRA1	PMID:15598821		GO:0007532	regulation of mating-type specific transcription, DNA-templated	IDA		SGD:S000000694		20241101		NCBITaxon:559292
+ComplexPortal	SGD:S000000635	MATALPHA2	PMID:15598821		GO:0007532	regulation of mating-type specific transcription, DNA-templated	IDA		SGD:S000000635	PANTHER:PTHR11850	20241101		NCBITaxon:559292
+ComplexPortal	SGD:S000217585	CPX-684	PMID:15598821		GO:0007532	regulation of mating-type specific transcription, DNA-templated	IDA				20241101		NCBITaxon:559292
+ComplexPortal	SGD:S000000635	MATALPHA2	PMID:9121436		GO:0007532	regulation of mating-type specific transcription, DNA-templated	IDA		SGD:S000000635	PANTHER:PTHR11850	20241101		NCBITaxon:559292
+ComplexPortal	SGD:S000004646	MCM1	PMID:9121436		GO:0007532	regulation of mating-type specific transcription, DNA-templated	IDA		SGD:S000004646	PANTHER:PTHR48019	20241101		NCBITaxon:559292
+ComplexPortal	SGD:S000217586	CPX-692	PMID:9121436		GO:0007532	regulation of mating-type specific transcription, DNA-templated	IDA				20241101		NCBITaxon:559292
+SGD	SGD:S000000694	HMRA1	PMID:1977088		GO:0007532	regulation of mating-type specific transcription, DNA-templated	IDA		SGD:S000000694		20130807		NCBITaxon:559292
+SGD	SGD:S000000636	MATALPHA1	PMID:6337727		GO:0007532	regulation of mating-type specific transcription, DNA-templated	IMP		SGD:S000000636		20130807		NCBITaxon:559292
+ComplexPortal	SGD:S000001126	STE12	PMID:16782869		GO:0045894	negative regulation of mating-type specific transcription, DNA-templated	NAS		SGD:S000001126	PANTHER:PTHR47427	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000005970	DIG1	PMID:16782869		GO:0045894	negative regulation of mating-type specific transcription, DNA-templated	NAS		SGD:S000005970		20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000002888	DIG2	PMID:16782869		GO:0045894	negative regulation of mating-type specific transcription, DNA-templated	NAS		SGD:S000002888		20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000217580	CPX-575	PMID:16782869		GO:0045894	negative regulation of mating-type specific transcription, DNA-templated	NAS				20240827		NCBITaxon:559292
+CGD	CGD:CAL0000185389	MTLA2	PMID:14622594|CGD_REF:CAL0081573		GO:0045895	positive regulation of mating-type specific transcription, DNA-templated	IGI	CGD:CAL0003187|CGD:CAL0006612			20140625		NCBITaxon:237561
+CGD	CGD:CAL0000202030	MTLALPHA1	PMID:14622594|CGD_REF:CAL0081573		GO:0045895	positive regulation of mating-type specific transcription, DNA-templated	IGI	CGD:CAL0003187|CGD:CAL0006612			20140918		NCBITaxon:237561
+RGD	RGD:2074	Ahr	PMID:9056263		GO:0045895	positive regulation of mating-type specific transcription, DNA-templated	IDA		RGD:2074	PANTHER:PTHR10649	20240716		NCBITaxon:10116
