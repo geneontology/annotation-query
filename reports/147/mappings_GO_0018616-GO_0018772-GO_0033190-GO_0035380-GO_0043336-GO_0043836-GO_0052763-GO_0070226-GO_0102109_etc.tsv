@@ -1,0 +1,18 @@
+term	file	line
+GO:0018616	metacyc2go	MetaCyc:R305-RXN > GO:trihydroxytoluene dioxygenase activity ; GO:0018616
+GO:0018616	um-bbd_reactionid2go	UM-BBD_reactionID:r0093 > GO:trihydroxytoluene dioxygenase activity ; GO:0018616
+GO:0018772	metacyc2go	MetaCyc:R306-RXN > GO:trioxoheptanoate hydrolase activity ; GO:0018772
+GO:0018772	um-bbd_reactionid2go	UM-BBD_reactionID:r0094 > GO:trioxoheptanoate hydrolase activity ; GO:0018772
+GO:0043836	metacyc2go	MetaCyc:R127-RXN > GO:xanthine hydrolase activity ; GO:0043836
+GO:0070226	metacyc2go	MetaCyc:SULFFEOXIDO-RXN > GO:sulfur:ferric ion oxidoreductase activity ; GO:0070226
+GO:0102109	metacyc2go	MetaCyc:RXN-11261 > GO:tricaffeoyl spermidine O-methyltransferase activity ; GO:0102109
+GO:0102197	metacyc2go	MetaCyc:RXN-12087 > GO:vinylacetate caboxylester hydrolase activity ; GO:0102197
+GO:0102236	metacyc2go	MetaCyc:RXN-12296 > GO:trans-4-hexen-3-one reductase activity ; GO:0102236
+GO:0102464	metacyc2go	MetaCyc:RXN-14016 > GO:zeaxanthin 2-beta-hydroxylase activity ; GO:0102464
+GO:0102465	metacyc2go	MetaCyc:RXN-14018 > GO:zeaxanthin 2,2'-beta-hydroxylase activity ; GO:0102465
+GO:0102612	metacyc2go	MetaCyc:RXN-15452 > GO:syn-pimaradiene 6beta-hydroxylase activity ; GO:0102612
+GO:0102733	metacyc2go	MetaCyc:RXN-719 > GO:typhasterol C-23 hydroxylase activity ; GO:0102733
+GO:0102785	metacyc2go	MetaCyc:RXN-7886 > GO:violaxanthin oxygenase activity ; GO:0102785
+GO:0102830	metacyc2go	MetaCyc:RXN-8286 > GO:verbascose synthase activity ; GO:0102830
+GO:0102831	metacyc2go	MetaCyc:RXN-8287 > GO:stachyose synthase activity ; GO:0102831
+GO:0102832	metacyc2go	MetaCyc:RXN-8288 > GO:verbascose galactinol:ajugose galactosyltransferase activity ; GO:0102832
