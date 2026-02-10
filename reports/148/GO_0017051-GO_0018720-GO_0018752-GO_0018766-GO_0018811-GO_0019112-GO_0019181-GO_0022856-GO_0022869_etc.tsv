@@ -1,0 +1,11 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	UniProtKB:A0A2H0ZCT4	B9J08_005133	PMID:40394068		GO:0044018	histone H3K36 acetyltransferase activity	IMP				20250618		NCBITaxon:498019
+CGD	CGD:CAL0000216941	GCN5	PMID:40394068|CGD_REF:CAL0000247301		GO:0044018	histone H3K36 acetyltransferase activity	IMP				20250618		NCBITaxon:498019
+FlyBase	UniProtKB:Q9NUD9	PIGV	PMID:15623507		GO:0120563	dol-P-Man:Man(1)GlcN-acyl-PI alpha-1,6-mannosyltransferase activity	IGI	UniProtKB:P38211	UniProtKB:Q9NUD9	PANTHER:PTHR12468	20250609		NCBITaxon:9606
+FlyBase	UniProtKB:Q9NUD9	PIGV	PMID:15623507		GO:0120563	dol-P-Man:Man(1)GlcN-acyl-PI alpha-1,6-mannosyltransferase activity	IMP		UniProtKB:Q9NUD9	PANTHER:PTHR12468	20250609		NCBITaxon:9606
+SGD	SGD:S000000208	GPI18	PMID:15623507		GO:0120563	dol-P-Man:Man(1)GlcN-acyl-PI alpha-1,6-mannosyltransferase activity	IGI	UniProtKB:Q9NUD9	SGD:S000000208	PANTHER:PTHR12468	20130807	GO:0006506	NCBITaxon:559292
+SGD	SGD:S000000208	GPI18	PMID:15720390		GO:0120563	dol-P-Man:Man(1)GlcN-acyl-PI alpha-1,6-mannosyltransferase activity	IGI	UniProtKB:Q9NUD9	SGD:S000000208	PANTHER:PTHR12468	20191105	GO:0006506	NCBITaxon:559292
+SGD	SGD:S000000208	GPI18	PMID:15720390		GO:0120563	dol-P-Man:Man(1)GlcN-acyl-PI alpha-1,6-mannosyltransferase activity	IMP		SGD:S000000208	PANTHER:PTHR12468	20191105	GO:0006506	NCBITaxon:559292
+FlyBase	UniProtKB:Q92521	PIGB	PMID:8861954		GO:0120564	dol-P-Man:Man(2)GlcN-acyl-PI alpha-1,2-mannosyltransferase activity	IDA		UniProtKB:Q92521	PANTHER:PTHR22760	20250609		NCBITaxon:9606
+FlyBase	UniProtKB:Q86VD9	PIGZ	PMID:15208306		GO:0120565	dol-P-Man:Man(3)GlcN-acyl-PI alpha-1,2-mannosyltransferase activity	IMP		UniProtKB:Q86VD9	PANTHER:PTHR22760	20250609		NCBITaxon:9606
+UniProt	UniProtKB:Q09472	EP300	PMID:40240600		GO:0160263	histone H1K75 acetyltransferase activity	IDA		UniProtKB:Q09472	PANTHER:PTHR13808	20250523	UniProtKB:P10412|GO:1902340|GO:0140861	NCBITaxon:9606

@@ -1,0 +1,54 @@
+term	file	line
+GO:0018720	metacyc2go	MetaCyc:PHENOLPHOS-RXN > GO:phenol kinase activity ; GO:0018720
+GO:0018720	um-bbd_reactionid2go	UM-BBD_reactionID:r0155 > GO:phenol kinase activity ; GO:0018720
+GO:0018752	metacyc2go	MetaCyc:R561-RXN > GO:epsilon-caprolactam lactamase activity ; GO:0018752
+GO:0018752	um-bbd_reactionid2go	UM-BBD_reactionID:r0448 > GO:epsilon-caprolactam lactamase activity ; GO:0018752
+GO:0018766	metacyc2go	MetaCyc:R6-RXN > GO:dihydrophloroglucinol hydrolase activity ; GO:0018766
+GO:0018766	kegg_reaction2go	KEGG_REACTION:R07831 > GO:dihydrophloroglucinol hydrolase activity ; GO:0018766
+GO:0018766	um-bbd_reactionid2go	UM-BBD_reactionID:r0008 > GO:dihydrophloroglucinol hydrolase activity ; GO:0018766
+GO:0018811	metacyc2go	MetaCyc:R266-RXN > GO:cyclohex-1-ene-1-carboxyl-CoA hydratase activity ; GO:0018811
+GO:0018811	um-bbd_reactionid2go	UM-BBD_reactionID:r0191 > GO:cyclohex-1-ene-1-carboxyl-CoA hydratase activity ; GO:0018811
+GO:0022869	interpro2go	InterPro:IPR004801 Phosphotransferase system, lactose-specific IIC component > GO:protein-N(PI)-phosphohistidine-lactose phosphotransferase system transporter activity ; GO:0022869
+GO:0022872	interpro2go	InterPro:IPR029503 Phosphotransferase system EIIB component, mannitol-specific > GO:protein-N(PI)-phosphohistidine-mannitol phosphotransferase system transmembrane transporter activity ; GO:0022872
+GO:0034823	kegg_reaction2go	KEGG_REACTION:R08088 > GO:citronellyl-CoA ligase activity ; GO:0034823
+GO:0034823	um-bbd_reactionid2go	UM-BBD_reactionID:r1157 > GO:citronellyl-CoA ligase activity ; GO:0034823
+GO:0034912	metacyc2go	MetaCyc:RXN5F9-56 > GO:phthalate 3,4-cis-dihydrodiol dehydrogenase activity ; GO:0034912
+GO:0034912	um-bbd_reactionid2go	UM-BBD_reactionID:r1445 > GO:phthalate 3,4-cis-dihydrodiol dehydrogenase activity ; GO:0034912
+GO:0036356	interpro2go	InterPro:IPR016557 Cyclic 2, 3-diphospoglycerate synthetase > GO:cyclic 2,3-diphosphoglycerate synthetase activity ; GO:0036356
+GO:0036426	metacyc2go	MetaCyc:2.4.1.54-RXN > GO:ditrans, polycis-undecaprenyl-phosphate mannosyltransferase activity ; GO:0036426
+GO:0036426	kegg_reaction2go	KEGG_REACTION:R07257 > GO:ditrans, polycis-undecaprenyl-phosphate mannosyltransferase activity ; GO:0036426
+GO:0052686	kegg_reaction2go	KEGG_REACTION:R06368 > GO:perillic acid-CoA ligase (AMP-forming) activity ; GO:0052686
+GO:0052825	reactome2go	Reactome:R-HSA-1855219 > GO:inositol-1,3,4,5,6-pentakisphosphate 1-phosphatase activity ; GO:0052825
+GO:0052830	reactome2go	Reactome:R-HSA-1855171 > GO:inositol-1,3,4,6-tetrakisphosphate 6-phosphatase activity ; GO:0052830
+GO:0052831	reactome2go	Reactome:R-HSA-1855159 > GO:inositol-1,3,4,6-tetrakisphosphate 1-phosphatase activity ; GO:0052831
+GO:0052844	metacyc2go	MetaCyc:RXN-10978 > GO:inositol-3-diphosphate-1,2,4,5,6-pentakisphosphate diphosphatase activity ; GO:0052844
+GO:0070007	interpro2go	InterPro:IPR000250 Peptidase G1 > GO:glutamic-type endopeptidase activity ; GO:0070007
+GO:0097261	reactome2go	Reactome:R-HSA-2161768 > GO:eoxin C4 synthase activity ; GO:0097261
+GO:0097262	reactome2go	Reactome:R-HSA-2161945 > GO:eoxin D4 synthase activity ; GO:0097262
+GO:0097263	reactome2go	Reactome:R-HSA-2161868 > GO:eoxin E4 synthase activity ; GO:0097263
+GO:0098600	reactome2go	Reactome:R-HSA-2408537 > GO:selenomethionine gamma-lyase activity ; GO:0098600
+GO:0098605	reactome2go	Reactome:R-HSA-2408559 > GO:selenocystathionine beta-synthase activity ; GO:0098605
+GO:0098608	reactome2go	Reactome:R-HSA-2408530 > GO:methylselenol demethylase activity ; GO:0098608
+GO:0098613	reactome2go	Reactome:R-HSA-2408541 > GO:methaneselenol methyltransferase activity ; GO:0098613
+GO:0098614	reactome2go	Reactome:R-HSA-2408536 > GO:hydrogen selenide methyltransferase activity ; GO:0098614
+GO:0098618	reactome2go	Reactome:R-HSA-2408546 > GO:selenomethionine-tRNA ligase activity ; GO:0098618
+GO:0098620	reactome2go	Reactome:R-HSA-2408507 > GO:seryl-selenocysteinyl-tRNA kinase activity ; GO:0098620
+GO:0098623	reactome2go	Reactome:R-HSA-2408558 > GO:selenite reductase (NADPH) activity ; GO:0098623
+GO:0098625	reactome2go	Reactome:R-HSA-5263614 > GO:methylselenol reductase activity ; GO:0098625
+GO:0098626	reactome2go	Reactome:R-HSA-5263616 > GO:methylseleninic acid reductase activity ; GO:0098626
+GO:0102047	metacyc2go	MetaCyc:RXN-10429 > GO:indole-3-acetyl-glycine synthetase activity ; GO:0102047
+GO:0102048	metacyc2go	MetaCyc:RXN-10430 > GO:indole-3-acetyl-isoleucine synthetase activity ; GO:0102048
+GO:0102049	metacyc2go	MetaCyc:RXN-10431 > GO:indole-3-acetyl-methionine synthetase activity ; GO:0102049
+GO:0102115	metacyc2go	MetaCyc:RXN-11338 > GO:peptidoglycan asparagine synthase activity ; GO:0102115
+GO:0102126	metacyc2go	MetaCyc:RXN-1142 > GO:coniferyl aldehyde 5-hydroxylase activity ; GO:0102126
+GO:0102249	metacyc2go	MetaCyc:RXN-12386 > GO:phosphatidylcholine:diacylglycerol cholinephosphotransferase activity ; GO:0102249
+GO:0102280	metacyc2go	MetaCyc:RXN-12582 > GO:choline monooxygenase (NADP+) activity ; GO:0102280
+GO:0102357	metacyc2go	MetaCyc:RXN-13385 > GO:mithramycin dehydrogenase (NADPH) activity ; GO:0102357
+GO:0102434	metacyc2go	MetaCyc:RXN-13908 > GO:pterin-4alpha-carbinolamine dehydratase activity ; GO:0102434
+GO:0102731	metacyc2go	MetaCyc:RXN-7185 > GO:inositol-1,3,4,6-tetrakisphosphate 2-kinase activity ; GO:0102731
+GO:0102732	metacyc2go	MetaCyc:RXN-7186 > GO:inositol-1,2,3,4,6-pentakisphosphate 5-kinase activity ; GO:0102732
+GO:0102762	metacyc2go	MetaCyc:RXN-7754 > GO:eriodictyol 4'-O-methyltransferase activity ; GO:0102762
+GO:0102818	metacyc2go	MetaCyc:RXN-8236 > GO:lycopene cleavage oxygenase activity ; GO:0102818
+GO:0102953	metacyc2go	MetaCyc:RXN-9157 > GO:hypoglycin A gamma-glutamyl transpeptidase activity ; GO:0102953
+GO:0102954	metacyc2go	MetaCyc:RXN-9162 > GO:dalcochinase activity ; GO:0102954
+GO:0103033	metacyc2go	MetaCyc:RXN0-5363 > GO:beta-galactosidase activity (lactose isomerization) ; GO:0103033
