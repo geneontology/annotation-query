@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+Reactome	SGD:S000006371	MET16	Reactome:R-SCE-2408518		GO:0098624	3'-phosphoadenylylselenate reductase activity	TAS		SGD:S000006371	PANTHER:PTHR46509	20210505		NCBITaxon:559292
+FlyBase	MGI:MGI:1196310	Angel2	PMID:36180430		GO:0160272	RNA 2',3'-cyclic phosphatase activity	IDA		MGI:MGI:1196310	PANTHER:PTHR12121	20250612		NCBITaxon:10090
+FlyBase	UniProtKB:Q5VTE6	ANGEL2	PMID:36180430		GO:0160272	RNA 2',3'-cyclic phosphatase activity	IDA		UniProtKB:Q5VTE6	PANTHER:PTHR12121	20250612		NCBITaxon:9606
+FlyBase	FB:FBgn0016762	angel	PMID:36180430		GO:0160272	RNA 2',3'-cyclic phosphatase activity	IDA		FB:FBgn0016762	PANTHER:PTHR12121	20250612		NCBITaxon:7227
+UniProt	UniProtKB:Q5VTE6	ANGEL2	PMID:32732418		GO:0160272	RNA 2',3'-cyclic phosphatase activity	IMP		UniProtKB:Q5VTE6	PANTHER:PTHR12121	20250722		NCBITaxon:9606
+UniProt	UniProtKB:Q9UNK9	ANGEL1	PMID:32732418		GO:0160272	RNA 2',3'-cyclic phosphatase activity	IMP		UniProtKB:Q9UNK9	PANTHER:PTHR12121	20250722		NCBITaxon:9606
+FlyBase	MGI:MGI:1196310	Angel2	PMID:36180430		GO:0160273	RNA 2'-phosphatase activity	IDA		MGI:MGI:1196310	PANTHER:PTHR12121	20250612		NCBITaxon:10090
+FlyBase	UniProtKB:Q5VTE6	ANGEL2	PMID:36180430		GO:0160273	RNA 2'-phosphatase activity	IDA		UniProtKB:Q5VTE6	PANTHER:PTHR12121	20250612		NCBITaxon:9606
+FlyBase	FB:FBgn0016762	angel	PMID:36180430		GO:0160273	RNA 2'-phosphatase activity	IDA		FB:FBgn0016762	PANTHER:PTHR12121	20250612		NCBITaxon:7227
