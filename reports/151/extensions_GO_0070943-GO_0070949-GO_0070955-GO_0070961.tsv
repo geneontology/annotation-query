@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P05164	MPO	PMID:22131345		GO:0004601	peroxidase activity	IDA		UniProtKB:P05164	PANTHER:PTHR11475	20251024	CHEBI:16240|CHEBI:17996|CHEBI:15377|CHEBI:24757|GO:0070943|GO:0140644	NCBITaxon:9606
+UniProt	UniProtKB:P08246	ELANE	PMID:29306874		GO:0004252	serine-type endopeptidase activity	IDA		UniProtKB:P08246	PANTHER:PTHR24257	20251024	GO:0070943	NCBITaxon:9606

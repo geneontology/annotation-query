@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	UniProtKB:A0A2H0ZCT4	B9J08_005133	PMID:40066990		GO:0070943	neutrophil-mediated killing of symbiont cell	IMP				20250415		NCBITaxon:498019
+CGD	CGD:CAL0000216941	GCN5	PMID:40066990|CGD_REF:CAL0000247160		GO:0070943	neutrophil-mediated killing of symbiont cell	IMP				20250415		NCBITaxon:498019
+UniProt	UniProtKB:P05164	MPO	PMID:17438335		GO:0070943	neutrophil-mediated killing of symbiont cell	IDA		UniProtKB:P05164	PANTHER:PTHR11475	20251021		NCBITaxon:9606
+UniProt	UniProtKB:P08311	CTSG	PMID:2116408		GO:0070943	neutrophil-mediated killing of symbiont cell	IDA		UniProtKB:P08311-PRO_0000454551	PANTHER:PTHR24271	20251028		NCBITaxon:9606
+UniProt	UniProtKB:P05164	MPO	PMID:22131345		GO:0070943	neutrophil-mediated killing of symbiont cell	IDA		UniProtKB:P05164	PANTHER:PTHR11475	20251024		NCBITaxon:9606
+UniProt	UniProtKB:P08246	ELANE	PMID:29306874		GO:0070943	neutrophil-mediated killing of symbiont cell	IDA		UniProtKB:P08246	PANTHER:PTHR24257	20251024		NCBITaxon:9606
