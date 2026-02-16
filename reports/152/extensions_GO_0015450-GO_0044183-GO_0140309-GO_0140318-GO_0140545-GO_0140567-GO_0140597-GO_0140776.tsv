@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:O43933	PEX1	PMID:19208625		GO:0140036	ubiquitin-modified protein reader activity	IDA		UniProtKB:O43933	PANTHER:PTHR23077	20220825	GO:0016562|UniProtKB:P50542|GO:0140318	NCBITaxon:9606
+UniProt	UniProtKB:Q13608	PEX6	PMID:19208625		GO:0140036	ubiquitin-modified protein reader activity	IDA		UniProtKB:Q13608	PANTHER:PTHR23077	20220825	GO:0016562|UniProtKB:P50542|GO:0140318	NCBITaxon:9606
+UniProt	SGD:S000005158	PEX17	PMID:20154681	contributes_to	GO:0008320	protein transmembrane transporter activity	IDA		SGD:S000005158		20220824	GO:0016561|SGD:S000002652|GO:0140597	NCBITaxon:559292
+UniProt	UniProtKB:Q9HCC8	GDPD2	PMID:31932351		GO:0004629	C-type glycerophospholipase activity	IDA		UniProtKB:Q9HCC8	PANTHER:PTHR23344	20251021	GO:0006505|GO:0070446|UniProtKB:P26992|GO:0140597	NCBITaxon:9606
+UniProt	SGD:S000002652	PEX5	PMID:35768507		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA		SGD:S000002652	PANTHER:PTHR10130	20220824	GO:0016558|GO:0140597	NCBITaxon:559292
+UniProt	UniProtKB:P49407	ARRB1	PMID:40384633		GO:0030674	protein-macromolecule adaptor activity	IDA		UniProtKB:P49407	PANTHER:PTHR11792	20251212	GO:0035721|GO:1903568|UniProtKB:Q8N6U8|GO:0034464|GO:0140597	NCBITaxon:9606
