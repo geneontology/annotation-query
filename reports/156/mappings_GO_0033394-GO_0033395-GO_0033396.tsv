@@ -1,0 +1,4 @@
+term	file	line
+GO:0033394	metacyc2go	MetaCyc:PWY-3981 > GO:beta-alanine biosynthetic process via 1,3 diaminopropane ; GO:0033394
+GO:0033395	metacyc2go	MetaCyc:PWY-3941 > GO:beta-alanine biosynthetic process via 3-hydroxypropionate ; GO:0033395
+GO:0033396	metacyc2go	MetaCyc:PWY-3982 > GO:beta-alanine biosynthetic process via 3-ureidopropionate ; GO:0033396
