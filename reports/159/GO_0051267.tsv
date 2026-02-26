@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	SGD:S000339228	CPX-2678	PMID:16859984		GO:0051267	CP2 mannose-ethanolamine phosphotransferase activity	NAS				20240827		NCBITaxon:559292
+ComplexPortal	FB:FBgg0000613	GPI-ET-II	PMID:29484956		GO:0051267	CP2 mannose-ethanolamine phosphotransferase activity	NAS				20240827		NCBITaxon:7227
+ComplexPortal	ComplexPortal:CPX-2677	gpi-et-ii_human	PMID:32156170		GO:0051267	CP2 mannose-ethanolamine phosphotransferase activity	NAS				20240823		NCBITaxon:9606
+MGI	UniProtKB:Q5H8A4	PIGG	PMID:15632136		GO:0051267	CP2 mannose-ethanolamine phosphotransferase activity	IDA		UniProtKB:Q5H8A4	PANTHER:PTHR23072	20050526		NCBITaxon:9606
+SGD	SGD:S000003598	LAS21	PMID:10329735		GO:0051267	CP2 mannose-ethanolamine phosphotransferase activity	IMP		SGD:S000003598	PANTHER:PTHR23072	20200519		NCBITaxon:559292
+SGD	SGD:S000003598	LAS21	PMID:15452134		GO:0051267	CP2 mannose-ethanolamine phosphotransferase activity	IMP		SGD:S000003598	PANTHER:PTHR23072	20200519		NCBITaxon:559292
