@@ -1,0 +1,10 @@
+term	file	line
+GO:0019427	metacyc2go	MetaCyc:ACETATEUTIL-PWY > GO:acetyl-CoA biosynthetic process from acetate ; GO:0019427
+GO:0019427	hamap2go	HAMAP:MF_01123 > GO:acetyl-CoA biosynthetic process from acetate ; GO:0019427
+GO:0019427	interpro2go	InterPro:IPR011904 Acetate-CoA ligase > GO:acetyl-CoA biosynthetic process from acetate ; GO:0019427
+GO:0019427	unirule2go	UniRule:UR000100676 > GO:acetyl-CoA biosynthetic process from acetate ; GO:0019427
+GO:0019427	unirule2go	UniRule:UR001996758 > GO:acetyl-CoA biosynthetic process from acetate ; GO:0019427
+GO:0019431	metacyc2go	MetaCyc:ETOH-ACETYLCOA-ANA-PWY > GO:acetyl-CoA biosynthetic process from ethanol ; GO:0019431
+GO:0019431	metacyc2go	MetaCyc:PWY66-161 > GO:acetyl-CoA biosynthetic process from ethanol ; GO:0019431
+GO:0019431	metacyc2go	MetaCyc:PWY66-162 > GO:acetyl-CoA biosynthetic process from ethanol ; GO:0019431
+GO:0019431	metacyc2go	MetaCyc:PWY66-21 > GO:acetyl-CoA biosynthetic process from ethanol ; GO:0019431

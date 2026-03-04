@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+EcoCyc	EcoCyc:PHOSACETYLTRANS-MONOMER	Pta	PMID:21941		GO:0019427	acetyl-CoA biosynthetic process from acetate	IMP		EcoCyc:PHOSACETYLTRANS-MONOMER		20101203		NCBITaxon:83333
+UniProt	UniProtKB:B3EY95	B3EY95	PMID:18502856		GO:0019427	acetyl-CoA biosynthetic process from acetate	IDA				20140910		NCBITaxon:435
+FlyBase	FB:FBgn0000055	Adh	DOI:10.1007/BF00127499		GO:0019431	acetyl-CoA biosynthetic process from ethanol	IDA		FB:FBgn0000055	PANTHER:PTHR42901	20240325		NCBITaxon:7227
+PomBase	PomBase:SPCC4B3.18	ppc1	PMID:23091701		GO:1990181	acetyl-CoA biosynthetic process from pantothenate	IMP		PomBase:SPCC4B3.18	PANTHER:PTHR12290	20130905		NCBITaxon:4896
