@@ -1,0 +1,3 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	UniProtKB:Q8TDX5	ACMSD	PMID:12140278		GO:1905012	regulation of 'de novo' NAD biosynthetic process from L-tryptophan	TAS		UniProtKB:Q8TDX5	PANTHER:PTHR21240	20160303		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8TDX5	ACMSD	PMID:19843166		GO:1905012	regulation of 'de novo' NAD biosynthetic process from L-tryptophan	TAS		UniProtKB:Q8TDX5	PANTHER:PTHR21240	20160303		NCBITaxon:9606
