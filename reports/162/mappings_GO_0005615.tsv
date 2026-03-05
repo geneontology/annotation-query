@@ -1,0 +1,80 @@
+term	file	line
+GO:0005615	interpro2go	InterPro:IPR000213 Vitamin D-binding protein > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR000215 Serpin family > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR000264 ALB/AFP/VDB > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR000512 Diphtheria toxin (NAD+-dipthamide ADP-ribosyltransferase) > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR000975 Interleukin-1 family > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR001144 Heat-labile enterotoxin, A chain > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR001363 Proteinase inhibitor I25C, fetuin, conserved site > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR001489 Heat-stable enterotoxin, STa > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR001500 Alpha-1-acid glycoprotein > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR001842 Peptidase M36, fungalysin > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR001999 Osteonectin-like, conserved site > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR003064 Norrie disease protein > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR003574 Interleukin-6-like > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR006040 Allergen Ole e 1, conserved site > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR006331 Adenosine deaminase-related growth factor > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR008835 Sclerostin/Sclerostin domain-containing protein 1 > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR009106 CART satiety factor > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR011626 Alpha-macroglobulin-like, TED domain > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR013659 Adenosine/AMP deaminase N-terminal > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR013858 Peptidase M10 serralysin, C-terminal > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR014394 Coagulation factor XII/hepatocyte growth factor activator > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR014760 Serum albumin, N-terminal > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR015203 Secreted effector protein SptP, N-terminal domain > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR015250 MPT63-like > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR015332 Major allergen I polypeptide chain 2-like > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR016294 Peptidase M10B > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR016319 Transforming growth factor-beta > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR016327 Alpha-defensin > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR016356 Seminal plasma protein, PDC-109-like > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR016357 Transferrin > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR016582 D-(-)-3-hydroxybutyrate oligomer hydrolase, putative > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR017064 Acid sphingomyelinase-like phosphodiesterase, predicted > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR017097 Bombyxin > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR018581 Type III secretion system, pilus formation, HrpA > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR020415 Interleukin-34 > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR020858 Serum albumin-like > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR020877 Interleukin-1 conserved site > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR021033 Extracellular fibrinogen binding protein, C-terminal > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR021177 Serum albumin/Alpha-fetoprotein/Afamin > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR021193 BPI fold-containing family B member 1 > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR022334 Insulin-like growth factor II > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR022341 Insulin-like growth factor I > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR022350 Insulin-like growth factor IGF-1/2 > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR022354 Pheromone-binding protein Gp-9 > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR024270 Urocortin II/III > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR027881 SOGA, coiled-coil domain > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR030675 Lipid binding protein BPI/LBP > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR030685 Serotransferrin, mammalian > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR032253 Exocrine gland-secreted peptide Esp1/Esp22 > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR034975 Somatotropin > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR036722 CART, C-terminal domain superfamily > GO:extracellular space ; GO:0005615
+GO:0005615	interpro2go	InterPro:IPR040301 Secretoglobin 3A > GO:extracellular space ; GO:0005615
+GO:0005615	uniprotkb_kw2go	UniProtKB-KW:KW-0202 Cytokine > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000042799 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000083251 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000136819 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000136830 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000141825 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000142760 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000142773 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000168466 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000483752 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000618760 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000638782 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000640755 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000736773 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000758760 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000954751 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR000955753 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001350759 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001419794 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001480757 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001503762 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001553775 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001591783 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001591784 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001661757 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001683789 > GO:extracellular space ; GO:0005615
+GO:0005615	unirule2go	UniRule:UR001903776 > GO:extracellular space ; GO:0005615
