@@ -1,0 +1,8 @@
+term	file	line
+GO:0006885	interpro2go	InterPro:IPR001953 Sodium/hydrogen exchanger 2/4 > GO:regulation of pH ; GO:0006885
+GO:0006885	interpro2go	InterPro:IPR001970 Sodium/hydrogen exchanger 1-like > GO:regulation of pH ; GO:0006885
+GO:0006885	interpro2go	InterPro:IPR002090 Sodium/hydrogen exchanger 6/7/9 > GO:regulation of pH ; GO:0006885
+GO:0006885	interpro2go	InterPro:IPR004670 Na+/H+ antiporter NhaA > GO:regulation of pH ; GO:0006885
+GO:0006885	interpro2go	InterPro:IPR004709 Na+/H+ exchanger > GO:regulation of pH ; GO:0006885
+GO:0006885	interpro2go	InterPro:IPR018410 Na+/H+ exchanger, isoforms 3/5 > GO:regulation of pH ; GO:0006885
+GO:0006885	unirule2go	UniRule:UR002057763 > GO:regulation of pH ; GO:0006885
