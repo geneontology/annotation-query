@@ -1,0 +1,14 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000189861	GRP2	PMID:29017767|CGD_REF:CAL0000215200		GO:0019244	lactate biosynthetic process from pyruvate	IMP			PANTHER:PTHR10366	20250127		NCBITaxon:237561
+CGD	CGD:CAL0000189861	GRP2	PMID:29017767|CGD_REF:CAL0000215200		GO:0019244	lactate biosynthetic process from pyruvate	IDA			PANTHER:PTHR10366	20250127		NCBITaxon:237561
+FlyBase	FB:FBgn0001258	Ldh	PMID:31399469		GO:0019244	lactate biosynthetic process from pyruvate	IMP		FB:FBgn0001258	PANTHER:PTHR43128	20240129		NCBITaxon:7227
+FlyBase	FB:FBgn0001258	Ldh	PMID:31609200		GO:0019244	lactate biosynthetic process from pyruvate	IMP		FB:FBgn0001258	PANTHER:PTHR43128	20240129	GO:0009617|CL:0000387	NCBITaxon:7227
+FlyBase	FB:FBgn0001258	Ldh	PMID:6819859		GO:0019244	lactate biosynthetic process from pyruvate	IDA		FB:FBgn0001258	PANTHER:PTHR43128	20240126		NCBITaxon:7227
+MGI	MGI:MGI:96067	Htt	PMID:17708681		GO:0019244	lactate biosynthetic process from pyruvate	IMP		MGI:MGI:96067	PANTHER:PTHR10170	20080502		NCBITaxon:10090
+MGI	MGI:MGI:96764	Ldhc	PMID:18367675		GO:0019244	lactate biosynthetic process from pyruvate	IDA		MGI:MGI:96764	PANTHER:PTHR43128	20120221		NCBITaxon:10090
+Reactome	UniProtKB:Q9BYZ2	LDHAL6B	Reactome:R-HSA-6807826		GO:0019244	lactate biosynthetic process from pyruvate	TAS		UniProtKB:Q9BYZ2	PANTHER:PTHR43128	20250827		NCBITaxon:9606
+MGI	MGI:MGI:96759	Ldha	PMID:8224816		GO:0019661	homolactic fermentation	IMP	MGI:MGI:2384559	MGI:MGI:96759	PANTHER:PTHR43128	20150806	CL:0000232	NCBITaxon:10090
+MGI	MGI:MGI:2442752	Tigar	PMID:20935145		GO:1904024	negative regulation of glucose catabolic process to lactate via pyruvate	IMP		MGI:MGI:2442752	PANTHER:PTHR46517	20150316	CL:0000746|GO:0019661	NCBITaxon:10090
+RGD	RGD:1305181	Slc25a12	PMID:19764902		GO:1904024	negative regulation of glucose catabolic process to lactate via pyruvate	IMP		RGD:1305181	PANTHER:PTHR45678	20180621		NCBITaxon:10116
+ARUK-UCL	RNAcentral:URS000055128B_9606	hsa-miR-210-3p	PMID:20436681		GO:1904025	positive regulation of glucose catabolic process to lactate via pyruvate	IMP				20190314	GO:1900037	NCBITaxon:9606
+UniProt	MGI:MGI:99678	Actn3	PMID:17828264		GO:1904025	positive regulation of glucose catabolic process to lactate via pyruvate	IMP		MGI:MGI:99678	PANTHER:PTHR11915	20150511	GO:0014883	NCBITaxon:10090
