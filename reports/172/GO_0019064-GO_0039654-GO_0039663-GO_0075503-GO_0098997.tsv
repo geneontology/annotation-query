@@ -1,0 +1,19 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:P03172	gD	PMID:12915581		GO:0019064	fusion of virus membrane with host plasma membrane	IDA				20081127		NCBITaxon:10313
+BHF-UCL	UniProtKB:Q92692	NECTIN2	PMID:12915581		GO:0019064	fusion of virus membrane with host plasma membrane	IDA		UniProtKB:Q92692	PANTHER:PTHR47387	20081128		NCBITaxon:9606
+CACAO	UniProtKB:P35976	M	PMID:17442724		GO:0019064	fusion of virus membrane with host plasma membrane	IMP				20131007		NCBITaxon:36408
+CAFA	UniProtKB:Q80FJ1	Q80FJ1	PMID:15448165		GO:0019064	fusion of virus membrane with host plasma membrane	IMP				20180814		NCBITaxon:226613
+UniProt	UniProtKB:P36334	S	PMID:11162792		GO:0019064	fusion of virus membrane with host plasma membrane	TAS				20030508		NCBITaxon:31631
+UniProt	UniProtKB:P11223	S	PMID:16537586		GO:0019064	fusion of virus membrane with host plasma membrane	IDA				20140207		NCBITaxon:11122
+UniProt	UniProtKB:Q14393	GAS6	PMID:21501828		GO:0019064	fusion of virus membrane with host plasma membrane	IDA		UniProtKB:Q14393	PANTHER:PTHR24040	20120309		NCBITaxon:9606
+UniProt	UniProtKB:P04578	env	PMID:2191297		GO:0019064	fusion of virus membrane with host plasma membrane	IDA		UniProtKB:P04578-PRO_0000038428		20141201		NCBITaxon:11706
+UniProt	UniProtKB:Q786F3	F	PMID:22859308		GO:0019064	fusion of virus membrane with host plasma membrane	IMP				20240919		NCBITaxon:645098
+UniProt	UniProtKB:Q786F3	F	PMID:23027974		GO:0019064	fusion of virus membrane with host plasma membrane	IDA				20240919		NCBITaxon:645098
+UniProt	UniProtKB:P07711	CTSL	PMID:32855215		GO:0019064	fusion of virus membrane with host plasma membrane	IDA		UniProtKB:P07711	PANTHER:PTHR12411	20201109		NCBITaxon:9606
+UniProt	UniProtKB:P08668	GP	PMID:15367644		GO:0039654	fusion of virus membrane with host endosome membrane	IDA		UniProtKB:P08668-PRO_0000036817		20211216		NCBITaxon:11602
+UniProt	UniProtKB:P07711	CTSL	PMID:16081529		GO:0039654	fusion of virus membrane with host endosome membrane	IDA		UniProtKB:P07711	PANTHER:PTHR12411	20200528		NCBITaxon:9606
+UniProt	UniProtKB:P08667	G	PMID:1660200		GO:0039654	fusion of virus membrane with host endosome membrane	IDA				20241220		NCBITaxon:103929
+UniProt	UniProtKB:P07711	CTSL	PMID:18562523		GO:0039654	fusion of virus membrane with host endosome membrane	IDA		UniProtKB:P07711	PANTHER:PTHR12411	20200528		NCBITaxon:9606
+CAFA	UniProtKB:Q9IH63	F	PMID:17251577		GO:0039663	membrane fusion involved in viral entry into host cell	IDA				20161124		NCBITaxon:3052225
+CAFA	UniProtKB:Q9IH62	G	PMID:17251577		GO:0039663	membrane fusion involved in viral entry into host cell	IDA				20161124		NCBITaxon:3052225
+UniProt	UniProtKB:P17501	GP64	PMID:26655244		GO:0039663	membrane fusion involved in viral entry into host cell	IDA				20160606		NCBITaxon:46015

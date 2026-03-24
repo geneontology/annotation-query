@@ -1,0 +1,58 @@
+term	file	line
+GO:0019064	interpro2go	InterPro:IPR000149 Haemagglutinin, influenzavirus A > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	interpro2go	InterPro:IPR000386 Haemagglutinin, influenzavirus B > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	interpro2go	InterPro:IPR000776 Precursor fusion glycoprotein F0, Paramyxoviridae > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	interpro2go	InterPro:IPR001364 Haemagglutinin, influenzavirus A/B > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	interpro2go	InterPro:IPR002551 Spike glycoprotein S1, coronavirus > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	interpro2go	InterPro:IPR002552 Spike glycoprotein S2, coronavirus > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	interpro2go	InterPro:IPR003436 Chordopoxvirus fusion protein/multifunctional envelope protein A27 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	interpro2go	InterPro:IPR003860 Haemagglutinin-esterase glycoprotein, haemagglutinin domain > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	interpro2go	InterPro:IPR007142 Haemagglutinin-esterase glycoprotein, core > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	interpro2go	InterPro:IPR008980 Viral capsid/haemagglutinin protein > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	interpro2go	InterPro:IPR013828 Haemagglutinin, HA1 chain, alpha/beta domain superfamily > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	interpro2go	InterPro:IPR014831 Haemagglutinin stalk, influenza C > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	interpro2go	InterPro:IPR020175 Herpesvirus glycoprotein L, rhadinovirus-type > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	interpro2go	InterPro:IPR042545 Hemagglutinin-esterase > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	interpro2go	InterPro:IPR044873 Spike glycoprotein S2, coronavirus, heptad repeat 1 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	interpro2go	InterPro:IPR044874 Spike glycoprotein S2, coronavirus, heptad repeat 2 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	hamap2go	HAMAP:MF_04036 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	hamap2go	HAMAP:MF_04083 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	hamap2go	HAMAP:MF_04098 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	hamap2go	HAMAP:MF_04099 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	hamap2go	HAMAP:MF_04126 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	hamap2go	HAMAP:MF_04129 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	hamap2go	HAMAP:MF_04200 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	hamap2go	HAMAP:MF_04207 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	reactome2go	Reactome:R-HSA-168288 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	uniprotkb_kw2go	UniProtKB-KW:KW-1169 Fusion of virus membrane with host cell membrane > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	unirule2go	UniRule:UR000388331 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	unirule2go	UniRule:UR000613575 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	unirule2go	UniRule:UR000865645 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	unirule2go	UniRule:UR000865649 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	unirule2go	UniRule:UR000866555 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	unirule2go	UniRule:UR000866638 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	unirule2go	UniRule:UR000875841 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	unirule2go	UniRule:UR000875864 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0019064	unirule2go	UniRule:UR001683773 > GO:fusion of virus membrane with host plasma membrane ; GO:0019064
+GO:0039654	interpro2go	InterPro:IPR002552 Spike glycoprotein S2, coronavirus > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	interpro2go	InterPro:IPR044873 Spike glycoprotein S2, coronavirus, heptad repeat 1 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	interpro2go	InterPro:IPR044874 Spike glycoprotein S2, coronavirus, heptad repeat 2 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	hamap2go	HAMAP:MF_04072 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	hamap2go	HAMAP:MF_04083 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	hamap2go	HAMAP:MF_04084 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	hamap2go	HAMAP:MF_04098 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	hamap2go	HAMAP:MF_04099 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	hamap2go	HAMAP:MF_04200 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	uniprotkb_kw2go	UniProtKB-KW:KW-1170 Fusion of virus membrane with host endosomal membrane > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	unirule2go	UniRule:UR000568504 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	unirule2go	UniRule:UR000613575 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	unirule2go	UniRule:UR000775641 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	unirule2go	UniRule:UR000865645 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	unirule2go	UniRule:UR000875841 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	unirule2go	UniRule:UR000875864 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	unirule2go	UniRule:UR001529786 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039654	unirule2go	UniRule:UR001683773 > GO:fusion of virus membrane with host endosome membrane ; GO:0039654
+GO:0039663	hamap2go	HAMAP:MF_04075 > GO:membrane fusion involved in viral entry into host cell ; GO:0039663
+GO:0039663	uniprotkb_kw2go	UniProtKB-KW:KW-1168 Fusion of virus membrane with host membrane > GO:membrane fusion involved in viral entry into host cell ; GO:0039663
+GO:0039663	unirule2go	UniRule:UR000585024 > GO:membrane fusion involved in viral entry into host cell ; GO:0039663
+GO:0098997	uniprotkb_kw2go	UniProtKB-KW:KW-1239 Fusion of virus membrane with host outer membrane > GO:fusion of virus membrane with host outer membrane ; GO:0098997
