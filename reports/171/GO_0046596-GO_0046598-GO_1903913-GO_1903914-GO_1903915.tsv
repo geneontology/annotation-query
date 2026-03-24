@@ -1,0 +1,49 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CACAO	UniProtKB:Q92692	NECTIN2	PMID:11602758		GO:0046596	regulation of viral entry into host cell	IDA		UniProtKB:Q92692	PANTHER:PTHR47387	20130210		NCBITaxon:9606
+UniProt	UniProtKB:Q8IZT8	HS3ST5	PMID:12138164		GO:0046596	regulation of viral entry into host cell	IDA		UniProtKB:Q8IZT8	PANTHER:PTHR10605	20031216		NCBITaxon:9606
+UniProt	UniProtKB:Q14258	TRIM25	PMID:18248090		GO:0046596	regulation of viral entry into host cell	IDA		UniProtKB:Q14258	PANTHER:PTHR25465	20171212		NCBITaxon:9606
+UniProt	UniProtKB:Q9BVG3	TRIM62	PMID:18248090		GO:0046596	regulation of viral entry into host cell	IDA		UniProtKB:Q9BVG3	PANTHER:PTHR24103	20171212		NCBITaxon:9606
+AgBase	UniProtKB:Q9GL76	NECTIN1	PMID:11277703		GO:0046598	positive regulation of viral entry into host cell	IMP		UniProtKB:Q9GL76	PANTHER:PTHR23277	20160512		NCBITaxon:9823
+ComplexPortal	ComplexPortal:CPX-5767	cleaved-spike_9betc	PMID:23831647		GO:0046598	positive regulation of viral entry into host cell	NAS				20241112		NCBITaxon:1235996
+ComplexPortal	ComplexPortal:CPX-7090	uncleaved-spike_9betc	PMID:23831647		GO:0046598	positive regulation of viral entry into host cell	NAS				20241112		NCBITaxon:1235996
+ComplexPortal	UniProtKB:K0BRG7	S	PMID:23831647		GO:0046598	positive regulation of viral entry into host cell	NAS		UniProtKB:K0BRG7-PRO_5023435957		20241112		NCBITaxon:1235996
+ComplexPortal	UniProtKB:K0BRG7	S	PMID:23831647		GO:0046598	positive regulation of viral entry into host cell	NAS				20241112		NCBITaxon:1235996
+ComplexPortal	UniProtKB:P59594	S	PMID:30102747		GO:0046598	positive regulation of viral entry into host cell	EXP		UniProtKB:P59594-PRO_0000037209		20241125		NCBITaxon:694009
+ComplexPortal	UniProtKB:P59594	S	PMID:30102747		GO:0046598	positive regulation of viral entry into host cell	EXP				20241126		NCBITaxon:694009
+ComplexPortal	UniProtKB:P59594	S	PMID:30102747		GO:0046598	positive regulation of viral entry into host cell	EXP		UniProtKB:P59594-PRO_0000037210		20241125		NCBITaxon:694009
+ComplexPortal	ComplexPortal:CPX-5694	cleaved-spike_cvhsa	PMID:30102747		GO:0046598	positive regulation of viral entry into host cell	EXP				20241125		NCBITaxon:694009
+ComplexPortal	ComplexPortal:CPX-7088	uncleaved-spike_cvhsa	PMID:30102747		GO:0046598	positive regulation of viral entry into host cell	EXP				20241126		NCBITaxon:694009
+ComplexPortal	ComplexPortal:CPX-5766	cleaved-spike_cvemc	PMID:32203189		GO:0046598	positive regulation of viral entry into host cell	NAS				20240823		NCBITaxon:1263720
+ComplexPortal	ComplexPortal:CPX-7089	uncleaved-spike_cvemc	PMID:32203189		GO:0046598	positive regulation of viral entry into host cell	NAS				20240827		NCBITaxon:1263720
+ComplexPortal	UniProtKB:K9N5Q8	S	PMID:32203189		GO:0046598	positive regulation of viral entry into host cell	NAS		UniProtKB:K9N5Q8-PRO_0000422466		20240823		NCBITaxon:1263720
+ComplexPortal	UniProtKB:K9N5Q8	S	PMID:32203189		GO:0046598	positive regulation of viral entry into host cell	NAS				20240827		NCBITaxon:1263720
+ComplexPortal	UniProtKB:K9N5Q8	S	PMID:32203189		GO:0046598	positive regulation of viral entry into host cell	NAS		UniProtKB:K9N5Q8-PRO_0000422467		20240823		NCBITaxon:1263720
+ComplexPortal	ComplexPortal:CPX-5682	cleaved-spike_sars2	PMID:32225176		GO:0046598	positive regulation of viral entry into host cell	NAS				20250619		NCBITaxon:2697049
+ComplexPortal	UniProtKB:P0DTC2	S	PMID:32225176		GO:0046598	positive regulation of viral entry into host cell	NAS				20240827		NCBITaxon:2697049
+ComplexPortal	UniProtKB:P0DTC2	S	PMID:32225176		GO:0046598	positive regulation of viral entry into host cell	NAS		UniProtKB:P0DTC2-PRO_0000449648		20250619		NCBITaxon:2697049
+ComplexPortal	UniProtKB:P0DTC2	S	PMID:32225176		GO:0046598	positive regulation of viral entry into host cell	NAS		UniProtKB:P0DTC2-PRO_0000449647		20250619		NCBITaxon:2697049
+ComplexPortal	ComplexPortal:CPX-7042	uncleaved-spike_sars2	PMID:32225176		GO:0046598	positive regulation of viral entry into host cell	NAS				20240827		NCBITaxon:2697049
+ComplexPortal	UniProtKB:P0DTC2	S	PMID:32694201		GO:0046598	positive regulation of viral entry into host cell	NAS		UniProtKB:P0DTC2-PRO_0000449648		20250619		NCBITaxon:2697049
+ComplexPortal	ComplexPortal:CPX-7043	s2_sars2	PMID:32694201		GO:0046598	positive regulation of viral entry into host cell	NAS				20250619		NCBITaxon:2697049
+DisProt	UniProtKB:P0DTC2	S	PMID:32142651		GO:0046598	positive regulation of viral entry into host cell	IDA				20220228		NCBITaxon:2697049
+FlyBase	FB:FBgn0086357	Sec61alpha	PMID:24332855		GO:0046598	positive regulation of viral entry into host cell	IMP		FB:FBgn0086357	PANTHER:PTHR10906	20140213		NCBITaxon:7227
+FlyBase	FB:FBgn0286784	TER94	PMID:24332855		GO:0046598	positive regulation of viral entry into host cell	IMP		FB:FBgn0286784	PANTHER:PTHR23077	20140213		NCBITaxon:7227
+UniProt	UniProtKB:P35613	BSG	PMID:11353871		GO:0046598	positive regulation of viral entry into host cell	IMP		UniProtKB:P35613-2	PANTHER:PTHR10075	20200525		NCBITaxon:9606
+UniProt	UniProtKB:P35613	BSG	PMID:15688292		GO:0046598	positive regulation of viral entry into host cell	IMP		UniProtKB:P35613-2	PANTHER:PTHR10075	20200525		NCBITaxon:9606
+UniProt	MGI:MGI:2137355	Trim11	PMID:18248090		GO:0046598	positive regulation of viral entry into host cell	IDA		MGI:MGI:2137355	PANTHER:PTHR24103	20171212		NCBITaxon:10090
+UniProt	MGI:MGI:98178	Trim30a	PMID:18248090		GO:0046598	positive regulation of viral entry into host cell	IDA		MGI:MGI:98178	PANTHER:PTHR24103	20171212		NCBITaxon:10090
+UniProt	UniProtKB:O00635	TRIM38	PMID:18248090		GO:0046598	positive regulation of viral entry into host cell	IDA		UniProtKB:O00635	PANTHER:PTHR24103	20171212		NCBITaxon:9606
+UniProt	UniProtKB:Q96F44	TRIM11	PMID:18248090		GO:0046598	positive regulation of viral entry into host cell	IMP		UniProtKB:Q96F44	PANTHER:PTHR24103	20171212		NCBITaxon:9606
+UniProt	UniProtKB:O15393	TMPRSS2	PMID:21068237		GO:0046598	positive regulation of viral entry into host cell	IDA		UniProtKB:O15393	PANTHER:PTHR24253	20140406		NCBITaxon:9606
+UniProt	UniProtKB:O00182	LGALS9	PMID:21670307		GO:0046598	positive regulation of viral entry into host cell	IDA		UniProtKB:O00182	PANTHER:PTHR11346	20151124		NCBITaxon:9606
+UniProt	UniProtKB:P07237	P4HB	PMID:21670307		GO:0046598	positive regulation of viral entry into host cell	IMP		UniProtKB:P07237	PANTHER:PTHR18929	20150625		NCBITaxon:9606
+UniProt	UniProtKB:P09382	LGALS1	PMID:21670307		GO:0046598	positive regulation of viral entry into host cell	IDA		UniProtKB:P09382	PANTHER:PTHR11346	20150625		NCBITaxon:9606
+UniProt	UniProtKB:O15393	TMPRSS2	PMID:24227843		GO:0046598	positive regulation of viral entry into host cell	IDA		UniProtKB:O15393	PANTHER:PTHR24253	20140406		NCBITaxon:9606
+UniProt	UniProtKB:P35613	BSG	PMID:29739904		GO:0046598	positive regulation of viral entry into host cell	IDA		UniProtKB:P35613-2	PANTHER:PTHR10075	20200525		NCBITaxon:9606
+UniProt	UniProtKB:P09958	FURIN	PMID:32362314		GO:0046598	positive regulation of viral entry into host cell	IDA		UniProtKB:P09958	PANTHER:PTHR42884	20220506		NCBITaxon:9606
+UniProt	UniProtKB:Q9NRS4	TMPRSS4	PMID:32404436		GO:0046598	positive regulation of viral entry into host cell	IDA		UniProtKB:Q9NRS4	PANTHER:PTHR24253	20220506		NCBITaxon:9606
+UniProt	UniProtKB:O15393	TMPRSS2	PMID:32404436		GO:0046598	positive regulation of viral entry into host cell	IDA		UniProtKB:O15393	PANTHER:PTHR24253	20220506		NCBITaxon:9606
+UniProt	UniProtKB:P09429	HMGB1	PMID:33147444		GO:0046598	positive regulation of viral entry into host cell	IMP		UniProtKB:P09429	PANTHER:PTHR48112	20220506		NCBITaxon:9606
+UniProt	UniProtKB:P17405	SMPD1	PMID:33163980		GO:0046598	positive regulation of viral entry into host cell	IDA		UniProtKB:P17405	PANTHER:PTHR10340	20220506		NCBITaxon:9606
+UniProt	UniProtKB:O95992	CH25H	PMID:32944968		GO:1903914	negative regulation of fusion of virus membrane with host plasma membrane	IDA		UniProtKB:O95992	PANTHER:PTHR11863	20210616		NCBITaxon:9606
+UniProt	UniProtKB:O95992	CH25H	PMID:33239446		GO:1903914	negative regulation of fusion of virus membrane with host plasma membrane	IDA		UniProtKB:O95992	PANTHER:PTHR11863	20210616		NCBITaxon:9606

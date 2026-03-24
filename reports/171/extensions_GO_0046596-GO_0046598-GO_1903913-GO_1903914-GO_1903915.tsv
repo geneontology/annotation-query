@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:O00182	LGALS9	PMID:21670307		GO:0070492	oligosaccharide binding	IDA		UniProtKB:O00182	PANTHER:PTHR11346	20241023	GO:0046598|GO:2000406|UniProtKB:P07237|GO:0015035	NCBITaxon:9606
+UniProt	UniProtKB:O00182	LGALS9	PMID:21670307		GO:2000406	positive regulation of T cell migration	IDA		UniProtKB:O00182	PANTHER:PTHR11346	20241023	GO:0046598	NCBITaxon:9606
+UniProt	UniProtKB:P07237	P4HB	PMID:21670307		GO:0015035	protein-disulfide reductase activity	IDA		UniProtKB:P07237	PANTHER:PTHR18929	20241023	GO:0046598|GO:2000406|GO:0009897	NCBITaxon:9606
+UniProt	UniProtKB:P07237	P4HB	PMID:21670307		GO:2000406	positive regulation of T cell migration	IDA		UniProtKB:P07237	PANTHER:PTHR18929	20241023	GO:0046598	NCBITaxon:9606
