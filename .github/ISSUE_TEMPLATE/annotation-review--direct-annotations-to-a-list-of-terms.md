@@ -2,7 +2,7 @@
 name: 'Annotation review: direct annotations to a list of terms'
 about: Describe this issue template's purpose here.
 title: ''
-labels: direct_ann_to_list_of_terms
+labels: direct_ann_to_list_of_terms, term_usage
 assignees: ''
 
 ---
