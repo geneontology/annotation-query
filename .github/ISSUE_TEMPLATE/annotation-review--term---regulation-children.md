@@ -2,7 +2,7 @@
 name: 'Annotation review: term + regulation children'
 about: Describe this issue template's purpose here.
 title: ''
-labels: reg_ann_to_list_of_terms
+labels: reg_ann_to_list_of_terms, term_usage
 assignees: ''
 
 ---
