@@ -1,0 +1,110 @@
+term	file	line
+GO:0009274	interpro2go	InterPro:IPR004903 Lactobacillus surface layer protein > GO:peptidoglycan-based cell wall ; GO:0009274
+GO:0009274	interpro2go	InterPro:IPR011812 Biosynthetic peptidoglycan transglycosylase > GO:peptidoglycan-based cell wall ; GO:0009274
+GO:0009274	interpro2go	InterPro:IPR011813 Penicillin-binding protein 1B > GO:peptidoglycan-based cell wall ; GO:0009274
+GO:0009274	interpro2go	InterPro:IPR019909 Haem uptake protein IsdC > GO:peptidoglycan-based cell wall ; GO:0009274
+GO:0009274	unirule2go	UniRule:UR000142758 > GO:peptidoglycan-based cell wall ; GO:0009274
+GO:0009274	unirule2go	UniRule:UR001995736 > GO:peptidoglycan-based cell wall ; GO:0009274
+GO:0042597	interpro2go	InterPro:IPR001188 Spermidine/putrescine-binding periplasmic protein > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR003321 Cytochrome c552 > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR006376 Copper-resistance protein CopA > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR007195 TolB, N-terminal > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR007348 CopC domain > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR007444 Glucan biosynthesis, periplasmic, MdoG C-terminal > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR008397 Alginate lyase domain > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR008939 Lytic transglycosylase, superhelical U-shaped > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR008953 Iron hydrogenase, small subunit HydB-type > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR009094 Disulphide bond isomerase DsbC/G, N-terminal domain superfamily > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR009153 Cytochrome cL > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR009155 Cytochrome b562 > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR009451 Amine dehydrogenase heavy chain > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR010068 Taurine ABC transporter, substrate-binding protein TauA > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR010702 Periplasmic pectate lyase > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR010794 Maltose operon periplasmic > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR011795 Mercuric transport protein periplasmic component > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR011887 Trimethylamine-N-oxide reductase TorA > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR012127 Cytochrome c prime > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR012289 Lytic transglycosylase, superhelical linker > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR012899 LTXXQ motif family protein > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR013476 Methylamine dehydrogenase heavy chain > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR013504 Methylamine/Aralkylamine dehydrogenase light chain, C-terminal domain > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR014139 Peptidase S26C, conjugative transfer signal peptidase TraF > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR014167 Tol-Pal system protein TolB > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR014340 Lipopolysaccharide export system protein LptA > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR014453 Inhibitor of vertebrate lysozyme > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR014635 Alpha-amylase, MalS type > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR017564 Cytochrome c-type protein NrfB > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR017570 Formate-dependent cytochrome c nitrite reductase, c552 subunit > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR017783 Choline ABC transporter, substrate-binding protein > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR017838 DMSO reductase family, type II, haem b-binding subunit > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR017839 DMSO reductase family, type II, iron-sulphur subunit > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR018323 Outer membrane lipoprotein carrier protein LolA, Proteobacteria > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR022455 Methanol oxidation system protein MoxJ > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR022859 Alginate lyase > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR023544 ABC transporter, vitamin B12-binding protein > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR023720 Trehalase, periplasmic > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR024167 Cytochrome c4-like > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR036560 Methylamine/Aralkylamine dehydrogenase light chain superfamily > GO:periplasmic space ; GO:0042597
+GO:0042597	interpro2go	InterPro:IPR037061 Lytic transglycosylase, superhelical linker domain superfamily > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_00240 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_00546 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_00557 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_00594 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_00671 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_00706 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_00716 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_00780 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_00932 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_00933 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_00946 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_00947 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_00997 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_01000 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_01060 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_01068 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_01069 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_01182 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_01183 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_01195 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_01206 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_01304 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_01623 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_01630 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_01868 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_01914 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_02023 > GO:periplasmic space ; GO:0042597
+GO:0042597	hamap2go	HAMAP:MF_02212 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000001280 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000001321 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000058553 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000064687 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000065703 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000065728 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000065739 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000065744 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000068663 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000068699 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000080056 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000080092 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000098110 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000098374 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000098395 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000100372 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000100460 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000100881 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000100901 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000101154 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000106130 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000106155 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000121669 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000129062 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000165428 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000165544 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000165645 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000165756 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000261555 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR000504778 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR001155640 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR001348786 > GO:periplasmic space ; GO:0042597
+GO:0042597	unirule2go	UniRule:UR001661753 > GO:periplasmic space ; GO:0042597
+GO:0042597	uniprotkb_sl2go	UniProtKB-SubCell:SL-0200 Periplasm > GO:periplasmic space ; GO:0042597
