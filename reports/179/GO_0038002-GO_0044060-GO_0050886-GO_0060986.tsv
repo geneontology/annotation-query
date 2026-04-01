@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	MGI:MGI:106675	Adipoq	PMID:18431508		GO:0038002	endocrine signaling	IMP		MGI:MGI:106675	PANTHER:PTHR15427	20250527		NCBITaxon:10090
+RGD	RGD:727792	Isca1	PMID:8449243		GO:0050886	endocrine process	NAS		RGD:727792	PANTHER:PTHR10072	20050217		NCBITaxon:10116
+UniProt	UniProtKB:Q9XS63	CHGA	PMID:11039590		GO:0050886	endocrine process	NAS			PANTHER:PTHR10583	20040525		NCBITaxon:9796
