@@ -1,0 +1,4 @@
+used_id	used_by_id	predicate	source	dataset	context	axiom	description
+GO:0006782	CHEBI:57307	RO:0004008	UbergraphImplementation	None	UsageContext.RELATIONSHIP_SUBJECT	None	None
+GO:0019352	CHEBI:57305	RO:0004009	UbergraphImplementation	None	UsageContext.RELATIONSHIP_SUBJECT	None	None
+GO:0046501	CHEBI:57307	RO:0004007	UbergraphImplementation	None	UsageContext.RELATIONSHIP_SUBJECT	None	None
