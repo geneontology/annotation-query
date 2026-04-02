@@ -1,0 +1,20 @@
+term	file	line
+GO:0006782	interpro2go	InterPro:IPR044264 Protoporphyrinogen IX dehydrogenase [quinone] HemG > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	hamap2go	HAMAP:MF_00087 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	hamap2go	HAMAP:MF_00218 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	hamap2go	HAMAP:MF_00260 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	hamap2go	HAMAP:MF_00333 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	hamap2go	HAMAP:MF_00375 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	hamap2go	HAMAP:MF_00853 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	hamap2go	HAMAP:MF_02239 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	unirule2go	UniRule:UR000076341 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	unirule2go	UniRule:UR000079120 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	unirule2go	UniRule:UR000081074 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	unirule2go	UniRule:UR000083066 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	unirule2go	UniRule:UR000084069 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	unirule2go	UniRule:UR000084156 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	unirule2go	UniRule:UR000360756 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	unirule2go	UniRule:UR000573769 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	unirule2go	UniRule:UR001369417 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	unirule2go	UniRule:UR001378774 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
+GO:0006782	unirule2go	UniRule:UR001412954 > GO:protoporphyrinogen IX biosynthetic process ; GO:0006782
