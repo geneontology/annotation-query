@@ -1,0 +1,14 @@
+used_id	used_by_id	predicate	source	dataset	context	axiom	description
+GO:0019623	CHEBI:16199	RO:0004008	UbergraphImplementation	None	UsageContext.RELATIONSHIP_SUBJECT	None	None
+GO:0019624	CHEBI:57492	RO:0004008	UbergraphImplementation	None	UsageContext.RELATIONSHIP_SUBJECT	None	None
+GO:0019625	CHEBI:38028	RO:0004008	UbergraphImplementation	None	UsageContext.RELATIONSHIP_SUBJECT	None	None
+GO:0033387	CHEBI:46912	RO:0002505	UbergraphImplementation	None	UsageContext.RELATIONSHIP_SUBJECT	None	None
+GO:0033388	CHEBI:32682	RO:0004009	UbergraphImplementation	None	UsageContext.RELATIONSHIP_SUBJECT	None	None
+GO:0033389	CHEBI:58145	RO:0002505	UbergraphImplementation	None	UsageContext.RELATIONSHIP_SUBJECT	None	None
+GO:0033390	CHEBI:58318	RO:0002505	UbergraphImplementation	None	UsageContext.RELATIONSHIP_SUBJECT	None	None
+GO:1901056	CHEBI:57484	RO:0004009	UbergraphImplementation	None	UsageContext.RELATIONSHIP_SUBJECT	None	None
+GO:0019624	http://identifiers.org/metacyc.reaction/P141-PWY	skos:broadMatch	UbergraphImplementation	None	UsageContext.MAPPING_SUBJECT	None	None
+GO:0019625	http://identifiers.org/metacyc.reaction/P141-PWY	skos:broadMatch	UbergraphImplementation	None	UsageContext.MAPPING_SUBJECT	None	None
+GO:0033387	MetaCyc:PWY-46	oio:hasDbXref	UbergraphImplementation	None	UsageContext.MAPPING_SUBJECT	None	None
+GO:0033389	MetaCyc:PWY-40	oio:hasDbXref	UbergraphImplementation	None	UsageContext.MAPPING_SUBJECT	None	None
+GO:0033390	MetaCyc:PWY-43	oio:hasDbXref	UbergraphImplementation	None	UsageContext.MAPPING_SUBJECT	None	None
