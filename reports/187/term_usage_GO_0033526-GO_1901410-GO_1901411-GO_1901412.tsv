@@ -1,0 +1,3 @@
+used_id	used_by_id	predicate	source	dataset	context	axiom	description
+GO:0033526	CHEBI:14321	RO:0004009	UbergraphImplementation	None	UsageContext.RELATIONSHIP_SUBJECT	None	None
+GO:0033526	MetaCyc:PWY-5188	oio:hasDbXref	UbergraphImplementation	None	UsageContext.MAPPING_SUBJECT	None	None
