@@ -168,6 +168,7 @@ if __name__ == "__main__":
 
     ## Filter out GO-internal usages (used_by_id starting with "GO:").
     ## We only care about cross-ontology references for obsoletion review.
+    ## Also filter to only include rows where context is RELATIONSHIP_OBJECT.
     lines = usage_output.split("\n") if usage_output else []
     header = "used_id\tused_by_id\tpredicate\tsource\tdataset\tcontext\taxiom\tdescription"
     data_lines = []
@@ -176,6 +177,8 @@ if __name__ == "__main__":
             continue
         cols = l.split("\t")
         if len(cols) >= 2 and cols[1].startswith("GO:"):
+            continue
+        if len(cols) < 6 or cols[5] != "UsageContext.RELATIONSHIP_OBJECT":
             continue
         data_lines.append(l)
     saw_a_result_p = len(data_lines) > 0
