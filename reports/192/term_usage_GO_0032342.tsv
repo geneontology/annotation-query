@@ -1,0 +1,3 @@
+used_id	used_by_id	predicate	source	dataset	context	axiom	description
+GO:0032342	CL:0002099	RO:0002329	UbergraphImplementation	None	UsageContext.RELATIONSHIP_OBJECT	None	None
+GO:0032342	UBERON:0002053	RO:0002215	UbergraphImplementation	None	UsageContext.RELATIONSHIP_OBJECT	None	None
