@@ -2,6 +2,10 @@ on:
   issues:
     types: [opened]
 
+concurrency:
+  group: commit-reports-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
 jobs:
 
   run-term-usage-report:
