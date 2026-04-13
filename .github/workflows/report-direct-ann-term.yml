@@ -2,6 +2,10 @@ on:
   issues:
     types: [opened] # change to "locked"?
 
+concurrency:
+  group: commit-reports-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
 jobs:
 
   run-direct-report-on-issue:
