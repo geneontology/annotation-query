@@ -2,10 +2,6 @@ on:
   issues:
     types: [opened] # change to "locked"?
 
-concurrency:
-  group: commit-reports-${{ github.event.issue.number }}
-  cancel-in-progress: false
-
 jobs:
 
   run-direct-report-on-issue:
@@ -38,11 +34,17 @@ jobs:
         env:
           NUMBER: ${{ github.event.issue.number }}
         run: mkdir -p reports/$NUMBER && wget --recursive --no-parent http://snapshot.geneontology.org/ontology/external2go/ && rm -f snapshot.geneontology.org/ontology/external2go/README.md snapshot.geneontology.org/ontology/external2go/index.html snapshot.geneontology.org/ontology/external2go/pfam2go snapshot.geneontology.org/ontology/external2go/pirsf2go snapshot.geneontology.org/ontology/external2go/prints2go snapshot.geneontology.org/ontology/external2go/prodom2go snapshot.geneontology.org/ontology/external2go/prosite2go snapshot.geneontology.org/ontology/external2go/smart2go && python3 ./scripts/mapping-report.py geneontology/annotation-query 7 --number $NUMBER --label direct_ann_to_list_of_terms --input ./snapshot.geneontology.org/ontology/external2go/ --output ./reports/$NUMBER --verbose && rm -f snapshot.geneontology.org/ontology/external2go/*2go && ls snapshot.geneontology.org/ && rm snapshot.geneontology.org/robots.txt && rmdir snapshot.geneontology.org/ontology/external2go && rmdir snapshot.geneontology.org/ontology && rmdir snapshot.geneontology.org
-      - name: Commit reports back to main
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: |
-            Reports at https://github.com/geneontology/annotation-query/tree/main/reports/${{ github.event.issue.number }} for issue https://github.com/geneontology/annotation-query/issues/${{ github.event.issue.number }}
-          commit_user_email: sjcarbon@lbl.gov
-          # Please do the dirty check, don't skip
-          skip_dirty_check: false
+      - name: Commit and push reports
+        env:
+          NUMBER: ${{ github.event.issue.number }}
+        run: |
+          git config user.email sjcarbon@lbl.gov
+          git config user.name sjcarbon
+          git add reports/
+          git diff --cached --quiet && exit 0
+          git commit -m "Reports at https://github.com/geneontology/annotation-query/tree/main/reports/${NUMBER} for issue https://github.com/geneontology/annotation-query/issues/${NUMBER}"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            sleep $((RANDOM % 5 + 3))
+          done
+          exit 1
