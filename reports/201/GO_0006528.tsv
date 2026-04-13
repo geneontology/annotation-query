@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:Q9NQR4	NIT2	PMID:22674578		GO:0006528	asparagine metabolic process	IDA		UniProtKB:Q9NQR4	PANTHER:PTHR23088	20140516		NCBITaxon:9606
+UniProt	UniProtKB:Q9U518	Q9U518	PMID:10579432		GO:0006528	asparagine metabolic process	IDA				20011128		NCBITaxon:6287
+UniProt	RGD:708388	Aspg	PMID:9575212		GO:0006528	asparagine metabolic process	IDA		RGD:708388	PANTHER:PTHR11707	20011128		NCBITaxon:10116
