@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+Reactome	UniProtKB:Q9UBX3	SLC25A10	Reactome:R-HSA-1614517		GO:0070221	sulfide oxidation, using sulfide:quinone oxidoreductase	TAS		UniProtKB:Q9UBX3	PANTHER:PTHR45618	20251115		NCBITaxon:9606
+Reactome	UniProtKB:Q8NFU3	TSTD1	Reactome:R-HSA-1614517		GO:0070221	sulfide oxidation, using sulfide:quinone oxidoreductase	TAS		UniProtKB:Q8NFU3	PANTHER:PTHR45544	20251115		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6N5	SQOR	PMID:22852582		GO:0070221	sulfide oxidation, using sulfide:quinone oxidoreductase	IDA		UniProtKB:Q9Y6N5	PANTHER:PTHR10632	20140915		NCBITaxon:9606

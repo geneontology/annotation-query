@@ -1,0 +1,6 @@
+term	file	line
+GO:0070221	metacyc2go	MetaCyc:P222-PWY > GO:sulfide oxidation, using sulfide:quinone oxidoreductase ; GO:0070221
+GO:0070221	interpro2go	InterPro:IPR042457 Thiosulfate:glutathione sulfurtransferase, mammalian > GO:sulfide oxidation, using sulfide:quinone oxidoreductase ; GO:0070221
+GO:0070221	reactome2go	Reactome:R-HSA-1614517 > GO:sulfide oxidation, using sulfide:quinone oxidoreductase ; GO:0070221
+GO:0070222	metacyc2go	MetaCyc:PWY-5274 > GO:sulfide oxidation, using sulfide dehydrogenase ; GO:0070222
+GO:0070223	metacyc2go	MetaCyc:PWY-5285 > GO:sulfide oxidation, using sulfur dioxygenase ; GO:0070223
