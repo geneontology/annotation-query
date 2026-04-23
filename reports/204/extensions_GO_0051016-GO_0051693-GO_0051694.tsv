@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	MGI:MGI:1100520	Twf1	PMID:18837697		GO:0003785	actin monomer binding	IDA		MGI:MGI:1100520	PANTHER:PTHR13759	20241101	GO:0051016	NCBITaxon:10090
+BHF-UCL	MGI:MGI:1346078	Twf2	PMID:18837697		GO:0003785	actin monomer binding	IDA		PR:Q9Z0P5-1	PANTHER:PTHR13759	20241101	GO:0051016	NCBITaxon:10090
+BHF-UCL	MGI:MGI:1346078	Twf2	PMID:18837697		GO:0003785	actin monomer binding	IDA		PR:Q9Z0P5-2	PANTHER:PTHR13759	20241101	GO:0051016	NCBITaxon:10090

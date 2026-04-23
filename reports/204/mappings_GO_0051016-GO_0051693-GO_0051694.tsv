@@ -1,0 +1,10 @@
+term	file	line
+GO:0051016	interpro2go	InterPro:IPR001698 F-actin-capping protein subunit beta > GO:barbed-end actin filament capping ; GO:0051016
+GO:0051016	interpro2go	InterPro:IPR002189 F-actin-capping protein subunit alpha > GO:barbed-end actin filament capping ; GO:0051016
+GO:0051016	interpro2go	InterPro:IPR031370 Altered inheritance of mitochondria protein 3 > GO:barbed-end actin filament capping ; GO:0051016
+GO:0051016	unirule2go	UniRule:UR001001760 > GO:barbed-end actin filament capping ; GO:0051016
+GO:0051016	unirule2go	UniRule:UR001001761 > GO:barbed-end actin filament capping ; GO:0051016
+GO:0051016	unirule2go	UniRule:UR001429791 > GO:barbed-end actin filament capping ; GO:0051016
+GO:0051693	uniprotkb_kw2go	UniProtKB-KW:KW-0117 Actin capping > GO:actin filament capping ; GO:0051693
+GO:0051693	unirule2go	UniRule:UR000417763 > GO:actin filament capping ; GO:0051693
+GO:0051694	interpro2go	InterPro:IPR004934 Tropomodulin > GO:pointed-end actin filament capping ; GO:0051694
