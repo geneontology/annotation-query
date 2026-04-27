@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:O15438	ABCC3	PMID:18698235		GO:0015164	glucuronoside transmembrane transporter activity	IDA		UniProtKB:O15438	PANTHER:PTHR24223	20201124	CHEBI:136641|GO:0042908	NCBITaxon:9606
+MGI	MGI:MGI:1352447	Abcc2	PMID:22034653		GO:0015779	glucuronoside transport	IMP		MGI:MGI:1352447	PANTHER:PTHR24223	20250226	EMAPA:36554|CHEBI:15422	NCBITaxon:10090
+MGI	MGI:MGI:1352447	Abcc2	PMID:22034653		GO:0015779	glucuronoside transport	IMP		MGI:MGI:1352447	PANTHER:PTHR24223	20250226	EMAPA:36837	NCBITaxon:10090
+EcoCyc	EcoCyc:YHAU-MONOMER	GarP	PMID:10762278		GO:0019580	galactarate metabolic process	IEP		EcoCyc:YHAU-MONOMER		20191007		NCBITaxon:83333
+EcoCyc	EcoCyc:B2789-MONOMER	GudP	PMID:10762278		GO:0019580	galactarate metabolic process	IEP		EcoCyc:B2789-MONOMER		20191007		NCBITaxon:83333
+EcoCyc	EcoCyc:YJIZ-MONOMER	LgoT	PMID:17088549		GO:0042873	aldonate transmembrane transport	IMP		EcoCyc:YJIZ-MONOMER		20070409		NCBITaxon:83333
