@@ -1,0 +1,17 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+TAIR	AGI_LocusCode:AT3G47450	NOA1	PMID:18469163		GO:0010322	regulation of isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	IMP		AGI_LocusCode:AT3G47450		20080706		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G13830	ATJ20	PMID:24104567		GO:0010322	regulation of isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	IMP		AGI_LocusCode:AT4G13830		20131016		NCBITaxon:3702
+GeneDB	PlasmoDB:PF3D7_1033400	HAD1	PMID:25058848		GO:0010323	negative regulation of isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	IDA				20140725		NCBITaxon:36329
+TAIR	AGI_LocusCode:AT3G03710	PNP1	PMID:16531478		GO:0010323	negative regulation of isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	IMP	AGI_LocusCode:AT4G15560|AGI_LocusCode:AT5G62790	AGI_LocusCode:AT3G03710		20081003		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT4G34100	SUD1	PMID:23404890		GO:1900486	positive regulation of isopentenyl diphosphate biosynthetic process, mevalonate pathway	IMP		AGI_LocusCode:AT4G34100		20210316		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT1G80360	ISS1	PMID:23377040		GO:1901997	negative regulation of indoleacetic acid biosynthetic process via tryptophan	IDA		AGI_LocusCode:AT1G80360		20130319		NCBITaxon:3702
+MGI	MGI:MGI:107816	Pfkfb1	PMID:15331593		GO:1904539	negative regulation of glycolytic process through fructose-6-phosphate	IMP		MGI:MGI:107816	PANTHER:PTHR10606	20221208		NCBITaxon:10090
+MGI	MGI:MGI:109393	Slc4a1	PMID:18698006		GO:1904539	negative regulation of glycolytic process through fructose-6-phosphate	IMP		MGI:MGI:109393	PANTHER:PTHR11453	20190823		NCBITaxon:10090
+MGI	MGI:MGI:97592	Prkaca	PMID:23292513		GO:1904539	negative regulation of glycolytic process through fructose-6-phosphate	IDA		MGI:MGI:97592	PANTHER:PTHR24353	20221212		NCBITaxon:10090
+MGI	MGI:MGI:1321159	Ppp2ca	PMID:32192773		GO:1904539	negative regulation of glycolytic process through fructose-6-phosphate	IMP	MGI:MGI:4950915	MGI:MGI:1321159	PANTHER:PTHR45619	20221130	GO:0061615	NCBITaxon:10090
+FlyBase	RGD:3307	Pfkfb1	PMID:12230553		GO:1904540	positive regulation of glycolytic process through fructose-6-phosphate	IMP		RGD:3307	PANTHER:PTHR10606	20240315		NCBITaxon:10116
+UniProt	MGI:MGI:2443575	Etfbkmt	PMID:25023281		GO:1904736	negative regulation of fatty acid beta-oxidation using acyl-CoA dehydrogenase	IMP		MGI:MGI:2443575	PANTHER:PTHR43648	20151015		NCBITaxon:10090
+UniProt	UniProtKB:Q8IXQ9	ETFBKMT	PMID:25416781		GO:1904736	negative regulation of fatty acid beta-oxidation using acyl-CoA dehydrogenase	IMP		UniProtKB:Q8IXQ9	PANTHER:PTHR43648	20151015		NCBITaxon:9606
+SGD	SGD:S000005838	DGK1	PMID:32058036		GO:2001210	regulation of isopentenyl diphosphate biosynthetic process, mevalonate pathway	IMP		SGD:S000005838	PANTHER:PTHR31303	20200226		NCBITaxon:559292
+PomBase	PomBase:SPCC1739.12	ppe1	PMID:21680738		GO:2001211	negative regulation of isopentenyl diphosphate biosynthetic process, mevalonate pathway	IMP		PomBase:SPCC1739.12	PANTHER:PTHR45619	20120516	GO:0009267|PomBase:SPCC162.09c	NCBITaxon:4896
+PomBase	PomBase:SPBC646.13	sds23	PMID:21680738		GO:2001211	negative regulation of isopentenyl diphosphate biosynthetic process, mevalonate pathway	IMP		PomBase:SPBC646.13	PANTHER:PTHR13780	20120119	GO:0042149|PomBase:SPCC162.09c	NCBITaxon:4896
