@@ -1,0 +1,2 @@
+used_id	used_by_id	predicate	source	dataset	context	axiom	description
+GO:0008139	FYPO:0007070	UPHENO:0000001	UbergraphImplementation	None	UsageContext.RELATIONSHIP_OBJECT	None	None
