@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	SGD:S000001680	PEX1	PMID:16007078	contributes_to	GO:0140567	membrane protein dislocase activity	IDA		SGD:S000001680	PANTHER:PTHR23077	20260216	GO:0016562|GO:0043335|SGD:S000002652|GO:0005052	NCBITaxon:559292
+UniProt	SGD:S000005404	PEX15	PMID:16007078	contributes_to	GO:0140567	membrane protein dislocase activity	IDA		SGD:S000005404		20260216	GO:0016562|GO:0043335|SGD:S000002652|GO:0005052	NCBITaxon:559292
+UniProt	SGD:S000005273	PEX6	PMID:16007078	contributes_to	GO:0140567	membrane protein dislocase activity	IDA		SGD:S000005273	PANTHER:PTHR23077	20260216	GO:0016562|GO:0043335|SGD:S000002652|GO:0005052	NCBITaxon:559292
+UniProt	UniProtKB:Q13608	PEX6	PMID:16854980		GO:0140567	membrane protein dislocase activity	IDA		UniProtKB:Q13608	PANTHER:PTHR23077	20260216	GO:0016562|GO:0043335|GO:0005777|UniProtKB:P50542|GO:0005052	NCBITaxon:9606
+UniProt	UniProtKB:O43933	PEX1	PMID:16854980		GO:0140567	membrane protein dislocase activity	IDA		UniProtKB:O43933	PANTHER:PTHR23077	20260216	GO:0016562|GO:0043335|GO:0005777|UniProtKB:P50542|GO:0005052	NCBITaxon:9606

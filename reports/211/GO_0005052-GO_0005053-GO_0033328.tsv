@@ -1,0 +1,41 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AspGD	UniProtKB:C8VMQ0	ANIA_10215	PMID:18245820		GO:0005052	peroxisome matrix targeting signal-1 binding	IMP			PANTHER:PTHR10130	20091029		NCBITaxon:227321
+SGD	SGD:S000002652	PEX5	PMID:11154700		GO:0005052	peroxisome matrix targeting signal-1 binding	IMP		SGD:S000002652	PANTHER:PTHR10130	20130807		NCBITaxon:559292
+SGD	SGD:S000002652	PEX5	PMID:7980572		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA		SGD:S000002652	PANTHER:PTHR10130	20130807		NCBITaxon:559292
+UniProt	UniProtKB:P50542	PEX5	PMID:10514471		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA		UniProtKB:P50542	PANTHER:PTHR10130	20120425		NCBITaxon:9606
+UniProt	UniProtKB:A0A3S7X906	CGC21_6240	PMID:10788481		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA				20260217		NCBITaxon:5661
+UniProt	UniProtKB:P50542	PEX5	PMID:11463335		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA		UniProtKB:P50542	PANTHER:PTHR10130	20120925		NCBITaxon:9606
+UniProt	UniProtKB:Q8IYB4	PEX5L	PMID:11463335		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA		UniProtKB:Q8IYB4-1	PANTHER:PTHR10130	20120925		NCBITaxon:9606
+UniProt	UniProtKB:Q8IYB4	PEX5L	PMID:11463335		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA		UniProtKB:Q8IYB4-2	PANTHER:PTHR10130	20120925		NCBITaxon:9606
+UniProt	UniProtKB:Q8IYB4	PEX5L	PMID:11463335		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA		UniProtKB:Q8IYB4-3	PANTHER:PTHR10130	20120925		NCBITaxon:9606
+UniProt	UniProtKB:P50542	PEX5	PMID:12456682		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA		UniProtKB:P50542-1	PANTHER:PTHR10130	20070917		NCBITaxon:9606
+UniProt	UniProtKB:A0A3S7X906	CGC21_6240	PMID:15929724		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA				20260217		NCBITaxon:5661
+UniProt	UniProtKB:P50542	PEX5	PMID:17157249		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA		UniProtKB:P50542	PANTHER:PTHR10130	20220817		NCBITaxon:9606
+UniProt	UniProtKB:P50542	PEX5	PMID:21375735		GO:0005052	peroxisome matrix targeting signal-1 binding	IPI	UniProtKB:P22307	UniProtKB:P50542	PANTHER:PTHR10130	20120702		NCBITaxon:9606
+UniProt	UniProtKB:P50542	PEX5	PMID:21976670		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA		UniProtKB:P50542	PANTHER:PTHR10130	20220822		NCBITaxon:9606
+UniProt	UniProtKB:P50542	PEX5	PMID:26344566		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA		UniProtKB:P50542	PANTHER:PTHR10130	20220826	UniProtKB:Q13315	NCBITaxon:9606
+UniProt	SGD:S000002652	PEX5	PMID:35768507		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA		SGD:S000002652	PANTHER:PTHR10130	20220824	GO:0016558|GO:0140597	NCBITaxon:559292
+UniProt	Xenbase:XB-GENE-6486884	pex5.S	PMID:35931083		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA				20220822		NCBITaxon:8355
+UniProt	UniProtKB:A0A3S7X906	CGC21_6240	PMID:38675653		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA				20260218		NCBITaxon:5661
+UniProt	UniProtKB:Q4DPQ9	Tc00.1047053511181.90	PMID:39304044		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA				20260302		NCBITaxon:353153
+UniProt	UniProtKB:P50542	PEX5	PMID:7719337		GO:0005052	peroxisome matrix targeting signal-1 binding	IDA		UniProtKB:P50542-2	PANTHER:PTHR10130	20070920		NCBITaxon:9606
+UniProt	UniProtKB:P50542	PEX5	PMID:9668159		GO:0005052	peroxisome matrix targeting signal-1 binding	IMP		UniProtKB:P50542-1	PANTHER:PTHR10130	20070911		NCBITaxon:9606
+UniProt	UniProtKB:P50542	PEX5	PMID:9668159		GO:0005052	peroxisome matrix targeting signal-1 binding	IMP		UniProtKB:P50542-2	PANTHER:PTHR10130	20070911		NCBITaxon:9606
+AspGD	UniProtKB:Q5BF00	ANIA_00880	PMID:18245820		GO:0005053	peroxisome matrix targeting signal-2 binding	IMP			PANTHER:PTHR46027	20091029		NCBITaxon:227321
+ComplexPortal	SGD:S000217798	CPX-1906	PMID:23812376		GO:0005053	peroxisome matrix targeting signal-2 binding	IPI				20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000217797	CPX-1905	PMID:9864360		GO:0005053	peroxisome matrix targeting signal-2 binding	IPI				20240827		NCBITaxon:559292
+GeneDB	TriTrypDB:LmjF.29.0740	PEX7	PMID:18178267		GO:0005053	peroxisome matrix targeting signal-2 binding	IDA				20141209		NCBITaxon:347515
+SGD	SGD:S000002549	PEX7	PMID:8636211		GO:0005053	peroxisome matrix targeting signal-2 binding	IPI	SGD:S000001422	SGD:S000002549	PANTHER:PTHR46027	20130807	SGD:S000001422	NCBITaxon:559292
+SGD	SGD:S000002549	PEX7	PMID:8670791		GO:0005053	peroxisome matrix targeting signal-2 binding	IDA		SGD:S000002549	PANTHER:PTHR46027	20130807		NCBITaxon:559292
+UniProt	UniProtKB:Q8R537	PEX7	PMID:11756410		GO:0005053	peroxisome matrix targeting signal-2 binding	IDA				20220823		NCBITaxon:10029
+UniProt	UniProtKB:O00628	PEX7	PMID:11931631		GO:0005053	peroxisome matrix targeting signal-2 binding	IDA		UniProtKB:O00628	PANTHER:PTHR46027	20120523		NCBITaxon:9606
+UniProt	UniProtKB:Q8R537	PEX7	PMID:17040904		GO:0005053	peroxisome matrix targeting signal-2 binding	IDA				20220823		NCBITaxon:10029
+UniProt	UniProtKB:O00628	PEX7	PMID:22057399		GO:0005053	peroxisome matrix targeting signal-2 binding	IDA		UniProtKB:O00628	PANTHER:PTHR46027	20220823	UniProtKB:P09110	NCBITaxon:9606
+UniProt	SGD:S000002549	PEX7	PMID:23812376		GO:0005053	peroxisome matrix targeting signal-2 binding	IDA		SGD:S000002549	PANTHER:PTHR46027	20220824		NCBITaxon:559292
+UniProt	UniProtKB:O00628	PEX7	PMID:25538232		GO:0005053	peroxisome matrix targeting signal-2 binding	IDA		UniProtKB:O00628	PANTHER:PTHR46027	20220823	UniProtKB:P09110	NCBITaxon:9606
+UniProt	UniProtKB:Q5I0X4	PEX39	PMID:40739340		GO:0005053	peroxisome matrix targeting signal-2 binding	IDA		UniProtKB:Q5I0X4	PANTHER:PTHR40657	20251218		NCBITaxon:9606
+UniProt	UniProtKB:O00628	PEX7	PMID:9090381		GO:0005053	peroxisome matrix targeting signal-2 binding	IDA		UniProtKB:O00628	PANTHER:PTHR46027	20070912		NCBITaxon:9606
+UniProt	UniProtKB:O00628	PEX7	PMID:9090383		GO:0005053	peroxisome matrix targeting signal-2 binding	IDA		UniProtKB:O00628	PANTHER:PTHR46027	20170426		NCBITaxon:9606
+UniProt	UniProtKB:Q6C6R8	PEX20	PMID:9679140		GO:0005053	peroxisome matrix targeting signal-2 binding	IDA			PANTHER:PTHR10130	20220831		NCBITaxon:284591
+SGD	SGD:S000002223	PEX19	PMID:16679311		GO:0033328	peroxisome membrane targeting sequence binding	IPI	SGD:S000005158	SGD:S000002223	PANTHER:PTHR12774	20130807	SGD:S000005158	NCBITaxon:559292
+UniProt	UniProtKB:P50542	PEX5	PMID:21976670		GO:0033328	peroxisome membrane targeting sequence binding	IPI	UniProtKB:O75381	UniProtKB:P50542	PANTHER:PTHR10130	20191112		NCBITaxon:9606
