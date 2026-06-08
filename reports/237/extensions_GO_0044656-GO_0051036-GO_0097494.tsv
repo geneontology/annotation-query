@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:Q13492	PICALM	PMID:25898166		GO:0097753	membrane bending	IMP		UniProtKB:Q13492	PANTHER:PTHR22951	20170714	GO:0005905|GO:0097494	NCBITaxon:9606
