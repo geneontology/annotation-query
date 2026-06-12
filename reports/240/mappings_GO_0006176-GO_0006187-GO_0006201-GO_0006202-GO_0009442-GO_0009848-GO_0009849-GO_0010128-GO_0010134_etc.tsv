@@ -1,0 +1,37 @@
+term	file	line
+GO:0009442	unirule2go	UniRule:UR001996072 > GO:allantoin assimilation pathway ; GO:0009442
+GO:0009442	interpro2go	InterPro:IPR017591 Allantoate amidohydrolase > GO:allantoin assimilation pathway ; GO:0009442
+GO:0019285	hamap2go	HAMAP:MF_00750 > GO:glycine betaine biosynthetic process from choline ; GO:0019285
+GO:0019285	hamap2go	HAMAP:MF_00768 > GO:glycine betaine biosynthetic process from choline ; GO:0019285
+GO:0019285	hamap2go	HAMAP:MF_00804 > GO:glycine betaine biosynthetic process from choline ; GO:0019285
+GO:0019285	unirule2go	UniRule:UR000100055 > GO:glycine betaine biosynthetic process from choline ; GO:0019285
+GO:0019285	unirule2go	UniRule:UR000100081 > GO:glycine betaine biosynthetic process from choline ; GO:0019285
+GO:0019285	unirule2go	UniRule:UR000100232 > GO:glycine betaine biosynthetic process from choline ; GO:0019285
+GO:0019285	unirule2go	UniRule:UR001996055 > GO:glycine betaine biosynthetic process from choline ; GO:0019285
+GO:0019285	interpro2go	InterPro:IPR011264 Betaine aldehyde dehydrogenase > GO:glycine betaine biosynthetic process from choline ; GO:0019285
+GO:0019285	interpro2go	InterPro:IPR011533 Oxygen-dependent choline dehydrogenase > GO:glycine betaine biosynthetic process from choline ; GO:0019285
+GO:0019379	hamap2go	HAMAP:MF_00063 > GO:sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin) ; GO:0019379
+GO:0019379	unirule2go	UniRule:UR000037451 > GO:sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin) ; GO:0019379
+GO:0019379	interpro2go	InterPro:IPR004511 Phosphoadenosine phosphosulphate/adenosine 5'-phosphosulphate reductase > GO:sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin) ; GO:0019379
+GO:0019379	interpro2go	InterPro:IPR011800 Phosphoadenosine phosphosulphate reductase CysH > GO:sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin) ; GO:0019379
+GO:0019512	hamap2go	HAMAP:MF_01555 > GO:lactose catabolic process via tagatose-6-phosphate ; GO:0019512
+GO:0019512	hamap2go	HAMAP:MF_01556 > GO:lactose catabolic process via tagatose-6-phosphate ; GO:0019512
+GO:0019512	unirule2go	UniRule:UR000001303 > GO:lactose catabolic process via tagatose-6-phosphate ; GO:0019512
+GO:0019512	unirule2go	UniRule:UR000001306 > GO:lactose catabolic process via tagatose-6-phosphate ; GO:0019512
+GO:0019512	unirule2go	UniRule:UR001995976 > GO:lactose catabolic process via tagatose-6-phosphate ; GO:0019512
+GO:0019512	unirule2go	UniRule:UR001996077 > GO:lactose catabolic process via tagatose-6-phosphate ; GO:0019512
+GO:0019512	unirule2go	UniRule:UR001996078 > GO:lactose catabolic process via tagatose-6-phosphate ; GO:0019512
+GO:0019512	interpro2go	InterPro:IPR005926 Tagatose-6-phosphate kinase > GO:lactose catabolic process via tagatose-6-phosphate ; GO:0019512
+GO:0019512	interpro2go	InterPro:IPR005927 Tagatose 1,6-diphosphate aldolase > GO:lactose catabolic process via tagatose-6-phosphate ; GO:0019512
+GO:0019512	interpro2go	InterPro:IPR005928 6-phospho-beta-galactosidase > GO:lactose catabolic process via tagatose-6-phosphate ; GO:0019512
+GO:0019569	hamap2go	HAMAP:MF_00519 > GO:L-arabinose catabolic process to D-xylulose 5-phosphate ; GO:0019569
+GO:0019569	hamap2go	HAMAP:MF_00520 > GO:L-arabinose catabolic process to D-xylulose 5-phosphate ; GO:0019569
+GO:0019569	hamap2go	HAMAP:MF_00989 > GO:L-arabinose catabolic process to D-xylulose 5-phosphate ; GO:0019569
+GO:0019569	unirule2go	UniRule:UR000030633 > GO:L-arabinose catabolic process to D-xylulose 5-phosphate ; GO:0019569
+GO:0019569	unirule2go	UniRule:UR000094069 > GO:L-arabinose catabolic process to D-xylulose 5-phosphate ; GO:0019569
+GO:0019569	unirule2go	UniRule:UR000120514 > GO:L-arabinose catabolic process to D-xylulose 5-phosphate ; GO:0019569
+GO:0019569	unirule2go	UniRule:UR001597787 > GO:L-arabinose catabolic process to D-xylulose 5-phosphate ; GO:0019569
+GO:0019569	interpro2go	InterPro:IPR005929 Ribulokinase > GO:L-arabinose catabolic process to D-xylulose 5-phosphate ; GO:0019569
+GO:0019569	interpro2go	InterPro:IPR033748 L-ribulose-5-phosphate 4-epimerase AraD > GO:L-arabinose catabolic process to D-xylulose 5-phosphate ; GO:0019569
+GO:0033498	metacyc2go	MetaCyc:GALDEG-PWY > GO:galactose catabolic process via D-galactonate ; GO:0033498
+GO:2001129	interpro2go	InterPro:IPR048096 Methylcobamide:CoM methyltransferase MtbA > GO:methane biosynthetic process from dimethylamine ; GO:2001129

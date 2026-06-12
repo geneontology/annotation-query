@@ -1,0 +1,24 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MTBBASE	UniProtKB:P9WIK1	cysD	PMID:15184554		GO:0010134	obsolete sulfate assimilation via adenylyl sulfate reduction	IDA			PANTHER:PTHR43196	20100320		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WNM5	cysNC	PMID:15184554		GO:0010134	obsolete sulfate assimilation via adenylyl sulfate reduction	IDA			PANTHER:PTHR11055	20100320		NCBITaxon:83332
+UniProt	UniProtKB:P17202	BADH	PMID:22345508		GO:0019285	obsolete glycine betaine biosynthetic process from choline	IDA			PANTHER:PTHR43860	20220330		NCBITaxon:3562
+UniProt	UniProtKB:Q9KJ20	Q9KJ20	PMID:10896953		GO:0019286	obsolete glycine betaine biosynthetic process from glycine	IDA				20110902		NCBITaxon:1850
+UniProt	UniProtKB:Q9KJ22	Q9KJ22	PMID:11319079		GO:0019286	obsolete glycine betaine biosynthetic process from glycine	IDA				20110902		NCBITaxon:1052
+UniProt	UniProtKB:Q9KJ21	Q9KJ21	PMID:11319079		GO:0019286	obsolete glycine betaine biosynthetic process from glycine	IDA				20110902		NCBITaxon:1052
+UniProt	UniProtKB:Q83WC3	Q83WC3	PMID:12466265		GO:0019286	obsolete glycine betaine biosynthetic process from glycine	IDA				20110902		NCBITaxon:72020
+UniProt	UniProtKB:Q83WC4	Q83WC4	PMID:12466265		GO:0019286	obsolete glycine betaine biosynthetic process from glycine	IDA				20110902		NCBITaxon:72020
+UniProt	UniProtKB:Q7U4Z9	bsmB	PMID:17019606		GO:0019286	obsolete glycine betaine biosynthetic process from glycine	IDA				20110902		NCBITaxon:84588
+UniProt	UniProtKB:Q7U4Z8	bsmA	PMID:17019606		GO:0019286	obsolete glycine betaine biosynthetic process from glycine	IDA				20110902		NCBITaxon:84588
+UniProt	UniProtKB:Q53TZ2	araA	PMID:16326697		GO:0019570	obsolete L-arabinose catabolic process to 2-oxoglutarate	IDA				20120605		NCBITaxon:192
+UniProt	UniProtKB:Q1JUP4	araE	PMID:16835232		GO:0019570	obsolete L-arabinose catabolic process to 2-oxoglutarate	IDA				20120607		NCBITaxon:192
+UniProt	UniProtKB:Q1JUQ1	araC	PMID:16950779		GO:0019570	obsolete L-arabinose catabolic process to 2-oxoglutarate	IDA				20120607		NCBITaxon:192
+UniProt	UniProtKB:Q1JUQ0	araD	PMID:16950779		GO:0019570	obsolete L-arabinose catabolic process to 2-oxoglutarate	IDA				20120607		NCBITaxon:192
+UniProt	UniProtKB:Q1JUP5	araB	PMID:16950779		GO:0019570	obsolete L-arabinose catabolic process to 2-oxoglutarate	IDA				20120607		NCBITaxon:192
+UniProt	UniProtKB:O93715	gdh	PMID:12824170		GO:0033498	galactose catabolic process via D-galactonate	IDA				20111114		NCBITaxon:2287
+UniProt	UniProtKB:Q6L047	gdh2	PMID:15691337		GO:0033498	galactose catabolic process via D-galactonate	IDA				20111111		NCBITaxon:1122961
+UniProt	UniProtKB:P13203	gdh	PMID:2803257		GO:0033498	galactose catabolic process via D-galactonate	IDA				20111111		NCBITaxon:273075
+CACAO	UniProtKB:Q8Y0J4	fabH	PMID:26305336		GO:0044579	obsolete butyryl-CoA biosynthetic process from acetyl-CoA	IMP				20171015		NCBITaxon:267608
+MTBBASE	UniProtKB:P9WNS1	dxr	PMID:16321944		GO:0051483	obsolete terpenoid biosynthetic process, mevalonate-independent	IMP			PANTHER:PTHR30525	20100703		NCBITaxon:83332
+MTBBASE	UniProtKB:P9WKG5	ispF	PMID:20480490		GO:0051483	obsolete terpenoid biosynthetic process, mevalonate-independent	IDA			PANTHER:PTHR43181	20120701		NCBITaxon:83332
+UniProt	UniProtKB:O30640	mtbA	PMID:10852929		GO:2001129	obsolete methane biosynthetic process from dimethylamine	IDA				20211005		NCBITaxon:2208
+UniProt	UniProtKB:O93661	mtbB1	PMID:10852929		GO:2001129	obsolete methane biosynthetic process from dimethylamine	IDA				20211005		NCBITaxon:2208
