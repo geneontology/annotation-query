@@ -1,0 +1,24 @@
+term	file	line
+GO:0018876	um-bbd_pathwayid2go	UM-BBD_pathwayID:bzn > GO:benzonitrile metabolic process ; GO:0018876
+GO:0018877	um-bbd_pathwayid2go	UM-BBD_pathwayID:hch > GO:beta-1,2,3,4,5,6-hexachlorocyclohexane metabolic process ; GO:0018877
+GO:0018881	um-bbd_pathwayid2go	UM-BBD_pathwayID:box > GO:bromoxynil metabolic process ; GO:0018881
+GO:0018886	um-bbd_pathwayid2go	UM-BBD_pathwayID:ctc > GO:anaerobic carbon tetrachloride metabolic process ; GO:0018886
+GO:0018887	um-bbd_pathwayid2go	UM-BBD_pathwayID:csab > GO:4-carboxy-4'-sulfoazobenzene metabolic process ; GO:0018887
+GO:0018888	um-bbd_pathwayid2go	UM-BBD_pathwayID:caa > GO:3-chloroacrylic acid metabolic process ; GO:0018888
+GO:0018892	um-bbd_pathwayid2go	UM-BBD_pathwayID:chs > GO:cyclohexylsulfamate metabolic process ; GO:0018892
+GO:0018903	um-bbd_pathwayid2go	UM-BBD_pathwayID:cpr > GO:1,3-dichloropropene metabolic process ; GO:0018903
+GO:0018905	um-bbd_pathwayid2go	UM-BBD_pathwayID:dme > GO:dimethyl ether metabolic process ; GO:0018905
+GO:0018906	um-bbd_pathwayid2go	UM-BBD_pathwayID:mtb > GO:methyl tert-butyl ether metabolic process ; GO:0018906
+GO:0018919	metacyc2go	MetaCyc:GAMMAHEXCHLORDEG-PWY > GO:gamma-1,2,3,4,5,6-hexachlorocyclohexane metabolic process ; GO:0018919
+GO:0018919	um-bbd_pathwayid2go	UM-BBD_pathwayID:ghch > GO:gamma-1,2,3,4,5,6-hexachlorocyclohexane metabolic process ; GO:0018919
+GO:0018921	um-bbd_pathwayid2go	UM-BBD_pathwayID:mcr > GO:3-hydroxybenzyl alcohol metabolic process ; GO:0018921
+GO:0018922	um-bbd_pathwayid2go	UM-BBD_pathwayID:ipd > GO:iprodione metabolic process ; GO:0018922
+GO:0018926	um-bbd_pathwayid2go	UM-BBD_pathwayID:msa > GO:methanesulfonic acid metabolic process ; GO:0018926
+GO:0018929	um-bbd_pathwayid2go	UM-BBD_pathwayID:mf > GO:methyl fluoride metabolic process ; GO:0018929
+GO:0018944	um-bbd_pathwayid2go	UM-BBD_pathwayID:tbt > GO:tri-n-butyltin metabolic process ; GO:0018944
+GO:0018954	um-bbd_pathwayid2go	UM-BBD_pathwayID:petn > GO:pentaerythritol tetranitrate metabolic process ; GO:0018954
+GO:0018976	um-bbd_pathwayid2go	UM-BBD_pathwayID:tbp > GO:1,2,3-tribromopropane metabolic process ; GO:0018976
+GO:0018977	um-bbd_pathwayid2go	UM-BBD_pathwayID:ddt > GO:1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane metabolic process ; GO:0018977
+GO:0018978	um-bbd_pathwayid2go	UM-BBD_pathwayID:ddt2 > GO:anaerobic 1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane metabolic process ; GO:0018978
+GO:0018984	um-bbd_pathwayid2go	UM-BBD_pathwayID:nphs > GO:naphthalenesulfonate metabolic process ; GO:0018984
+GO:0019330	metacyc2go	MetaCyc:P345-PWY > GO:aldoxime metabolic process ; GO:0019330

@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:Q9WXT2	axeA	PMID:21255309		GO:1901266	cephalosporin C metabolic process	IDA		UniProtKB:Q9WXT2	PANTHER:PTHR40111	20180123		NCBITaxon:243274
