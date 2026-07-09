@@ -1,0 +1,7 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:Q9UBN7	HDAC6	PMID:18606987		GO:0010727	negative regulation of hydrogen peroxide metabolic process	IMP		UniProtKB:Q9UBN7	PANTHER:PTHR10625	20241215		NCBITaxon:9606
+TAIR	AGI_LocusCode:AT1G09530	PIF3	PMID:17319847		GO:0031539	positive regulation of anthocyanin metabolic process	IMP		AGI_LocusCode:AT1G09530		20070326		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT5G11260	HY5	PMID:17319847		GO:0031539	positive regulation of anthocyanin metabolic process	IMP		AGI_LocusCode:AT5G11260		20070326		NCBITaxon:3702
+RGD	RGD:62017	Pebp1	PMID:8888012		GO:0060409	positive regulation of acetylcholine metabolic process	IDA		RGD:62017	PANTHER:PTHR11362	20090312		NCBITaxon:10116
+FlyBase	UniProtKB:Q8TC71	SPATA18	PMID:38322995		GO:1900210	positive regulation of cardiolipin metabolic process	IMP		UniProtKB:Q8TC71	PANTHER:PTHR21771	20240619		NCBITaxon:9606
+RGD	RGD:1588532	Tafazzin	PMID:20348225		GO:1900210	positive regulation of cardiolipin metabolic process	IMP		RGD:1588532	PANTHER:PTHR12497	20170922		NCBITaxon:10116
