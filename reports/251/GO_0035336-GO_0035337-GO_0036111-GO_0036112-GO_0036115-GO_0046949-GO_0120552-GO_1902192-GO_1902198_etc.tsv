@@ -1,0 +1,50 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:Q96PD7	DGAT2	PMID:11481335		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IDA		UniProtKB:Q96PD7	PANTHER:PTHR12317	20111128		NCBITaxon:9606
+BHF-UCL	MGI:MGI:1333825	Dgat1	PMID:11481335		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IDA		MGI:MGI:1333825	PANTHER:PTHR10408	20111128		NCBITaxon:10090
+BHF-UCL	MGI:MGI:1915050	Dgat2	PMID:11481335		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IDA		MGI:MGI:1915050	PANTHER:PTHR12317	20111128		NCBITaxon:10090
+FlyBase	FB:FBgn0039620	wat	PMID:24183938		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IDA		FB:FBgn0039620	PANTHER:PTHR11011	20210117		NCBITaxon:7227
+MTBBASE	UniProtKB:P9WNG3	fabH	PMID:15713483		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IDA		UniProtKB:P9WNG3	PANTHER:PTHR43091	20100621		NCBITaxon:83332
+PomBase	PomBase:SPBC18H10.02	lcf1	PMID:12684881		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IMP		PomBase:SPBC18H10.02	PANTHER:PTHR43272	20141006		NCBITaxon:4896
+PomBase	PomBase:SPBP4H10.11c	lcf2	PMID:18071249		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IGI	PomBase:SPBC18H10.02	PomBase:SPBP4H10.11c	PANTHER:PTHR43272	20050712		NCBITaxon:4896
+PomBase	PomBase:SPBC18H10.02	lcf1	PMID:18071249		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IGI	PomBase:SPBP4H10.11c	PomBase:SPBC18H10.02	PANTHER:PTHR43272	20050712		NCBITaxon:4896
+SGD	SGD:S000004860	FAA4	PMID:11477098		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IGI	SGD:S000005844	SGD:S000004860	PANTHER:PTHR43272	20130807		NCBITaxon:559292
+SGD	SGD:S000004860	FAA4	PMID:11477098		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IMP		SGD:S000004860	PANTHER:PTHR43272	20130807		NCBITaxon:559292
+SGD	SGD:S000005844	FAA1	PMID:11477098		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IGI	SGD:S000004860	SGD:S000005844	PANTHER:PTHR43272	20130807		NCBITaxon:559292
+SGD	SGD:S000005844	FAA1	PMID:11477098		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IMP		SGD:S000005844	PANTHER:PTHR43272	20130807		NCBITaxon:559292
+UniProt	UniProtKB:Q96K12	FAR2	PMID:15220348		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IDA		UniProtKB:Q96K12	PANTHER:PTHR11011	20120927		NCBITaxon:9606
+UniProt	UniProtKB:Q8WVX9	FAR1	PMID:15220348		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IDA		UniProtKB:Q8WVX9	PANTHER:PTHR11011	20120927		NCBITaxon:9606
+UniProt	UniProtKB:Q8N1Q8	THEM5	PMID:22586271		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IDA		UniProtKB:Q8N1Q8	PANTHER:PTHR47362	20121005		NCBITaxon:9606
+UniProt	MGI:MGI:1913448	Them5	PMID:22586271		GO:0035336	long-chain fatty-acyl-CoA metabolic process	IMP		MGI:MGI:1913448	PANTHER:PTHR47362	20241211		NCBITaxon:10090
+UniProt	UniProtKB:P51659	HSD17B4	PMID:9482850		GO:0036111	very long-chain fatty-acyl-CoA metabolic process	IDA		UniProtKB:P51659	PANTHER:PTHR13078	20120719		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q08AH3	ACSM2A	PMID:19345228		GO:0036112	medium-chain fatty-acyl-CoA metabolic process	IDA		UniProtKB:Q08AH3	PANTHER:PTHR43605	20120516		NCBITaxon:9606
+UniProt	UniProtKB:P51659	HSD17B4	PMID:9089413		GO:0036112	medium-chain fatty-acyl-CoA metabolic process	IDA		UniProtKB:P51659	PANTHER:PTHR13078	20120531		NCBITaxon:9606
+UniProt	UniProtKB:Q8N6M3	FITM2	PMID:32915949		GO:0036115	fatty-acyl-CoA catabolic process	IMP		UniProtKB:Q8N6M3	PANTHER:PTHR23129	20201019		NCBITaxon:9606
+ComplexPortal	UniProtKB:P49327	FASN	PMID:39979457		GO:0046949	fatty-acyl-CoA biosynthetic process	NAS		UniProtKB:P49327	PANTHER:PTHR43775	20250828		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-26624	fasn_human	PMID:39979457		GO:0046949	fatty-acyl-CoA biosynthetic process	NAS				20250828		NCBITaxon:9606
+ComplexPortal	MGI:MGI:95485	Fasn	PMID:39979457		GO:0046949	fatty-acyl-CoA biosynthetic process	NAS		MGI:MGI:95485	PANTHER:PTHR43775	20250828		NCBITaxon:10090
+ComplexPortal	ComplexPortal:CPX-26630	fasn_pig	PMID:39979457		GO:0046949	fatty-acyl-CoA biosynthetic process	NAS				20250828		NCBITaxon:9823
+ComplexPortal	ComplexPortal:CPX-26628	fasn_mouse	PMID:39979457		GO:0046949	fatty-acyl-CoA biosynthetic process	NAS				20250828		NCBITaxon:10090
+FlyBase	FB:FBgn0039156	CG6178	PMID:15033536		GO:0046949	fatty-acyl-CoA biosynthetic process	IDA		FB:FBgn0039156	PANTHER:PTHR24096	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0027601	pdgy	PMID:22275878		GO:0046949	fatty-acyl-CoA biosynthetic process	IDA		FB:FBgn0027601	PANTHER:PTHR24096	20180117		NCBITaxon:7227
+RGD	RGD:1308829	Gcdh	PMID:6895440		GO:0046949	fatty-acyl-CoA biosynthetic process	IDA		RGD:1308829	PANTHER:PTHR42807	20061213		NCBITaxon:10116
+Reactome	UniProtKB:O14975	SLC27A2	Reactome:R-HSA-75105		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:O14975	PANTHER:PTHR43107	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q13085	ACACA	Reactome:R-HSA-75105		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q13085	PANTHER:PTHR45728	20260316		NCBITaxon:9606
+Reactome	UniProtKB:P50897	PPT1	Reactome:R-HSA-75105		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:P50897	PANTHER:PTHR11247	20260316		NCBITaxon:9606
+Reactome	UniProtKB:P86397	HTD2	Reactome:R-HSA-75105		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:P86397	PANTHER:PTHR43437	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q8N4T8	CBR4	Reactome:R-HSA-75105		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q8N4T8	PANTHER:PTHR42760	20260316		NCBITaxon:9606
+Reactome	UniProtKB:P49327	FASN	Reactome:R-HSA-75105		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:P49327	PANTHER:PTHR43775	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q9UMR5	PPT2	Reactome:R-HSA-75105		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q9UMR5	PANTHER:PTHR11247	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q13085	ACACA	Reactome:R-HSA-75851		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q13085	PANTHER:PTHR45728	20260316		NCBITaxon:9606
+TAIR	AGI_LocusCode:AT1G62940	4CLL1	PMID:19218397		GO:0046949	fatty-acyl-CoA biosynthetic process	IDA		AGI_LocusCode:AT1G62940		20090319		NCBITaxon:3702
+FlyBase	UniProtKB:P12694	BCKDHA	PMID:3593587		GO:0120552	branched-chain alpha-keto acid decarboxylation to branched-chain acyl-CoA	IDA		UniProtKB:P12694	PANTHER:PTHR43380	20250403		NCBITaxon:9606
+FlyBase	UniProtKB:P11182	DBT	PMID:3593587		GO:0120552	branched-chain alpha-keto acid decarboxylation to branched-chain acyl-CoA	IDA		UniProtKB:P11182	PANTHER:PTHR43178	20250403		NCBITaxon:9606
+FlyBase	UniProtKB:P09622	DLD	PMID:3593587		GO:0120552	branched-chain alpha-keto acid decarboxylation to branched-chain acyl-CoA	IDA		UniProtKB:P09622	PANTHER:PTHR22912	20250403		NCBITaxon:9606
+FlyBase	UniProtKB:P21953	BCKDHB	PMID:3593587		GO:0120552	branched-chain alpha-keto acid decarboxylation to branched-chain acyl-CoA	IDA		UniProtKB:P21953	PANTHER:PTHR42980	20250403		NCBITaxon:9606
+FlyBase	FB:FBgn0030612	Dbct	PMID:39255192		GO:0120552	branched-chain alpha-keto acid decarboxylation to branched-chain acyl-CoA	IMP		FB:FBgn0030612	PANTHER:PTHR43178	20250403		NCBITaxon:7227
+UniProt	UniProtKB:P12694	BCKDHA	PMID:10745006		GO:0120552	branched-chain alpha-keto acid decarboxylation to branched-chain acyl-CoA	IMP		UniProtKB:P12694	PANTHER:PTHR43380	20250409		NCBITaxon:9606
+UniProt	UniProtKB:P21953	BCKDHB	PMID:10745006		GO:0120552	branched-chain alpha-keto acid decarboxylation to branched-chain acyl-CoA	IMP		UniProtKB:P21953	PANTHER:PTHR42980	20250409		NCBITaxon:9606
+UniProt	UniProtKB:P11178	BCKDHA	PMID:283398		GO:0120552	branched-chain alpha-keto acid decarboxylation to branched-chain acyl-CoA	IDA		UniProtKB:P11178	PANTHER:PTHR43380	20250409		NCBITaxon:9913
+UniProt	UniProtKB:P11181	DBT	PMID:283398		GO:0120552	branched-chain alpha-keto acid decarboxylation to branched-chain acyl-CoA	IDA		UniProtKB:P11181	PANTHER:PTHR43178	20250409		NCBITaxon:9913
+UniProt	UniProtKB:P11178	BCKDHA	PMID:447664		GO:0120552	branched-chain alpha-keto acid decarboxylation to branched-chain acyl-CoA	IDA		UniProtKB:P11178	PANTHER:PTHR43380	20250409		NCBITaxon:9913
+UniProt	MGI:MGI:94203	Nudt19	PMID:29378847		GO:1902858	propionyl-CoA metabolic process	IDA		MGI:MGI:94203	PANTHER:PTHR12318	20210510		NCBITaxon:10090
+UniProt	MGI:MGI:1914778	Nudt7	PMID:29378847		GO:1902858	propionyl-CoA metabolic process	IDA		MGI:MGI:1914778	PANTHER:PTHR12992	20210510		NCBITaxon:10090
