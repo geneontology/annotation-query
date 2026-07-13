@@ -1,0 +1,42 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+FlyBase	FB:FBgn0263120	Acsl	PMID:27656110		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	IMP		FB:FBgn0263120	PANTHER:PTHR43272	20190430		NCBITaxon:7227
+RGD	RGD:69403	Acsl6	PMID:16466685		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	IGI	SGD:S000004860|SGD:S000005844	RGD:69403	PANTHER:PTHR43272	20100115		NCBITaxon:10116
+RGD	RGD:69402	Acsl5	PMID:16466685		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	IGI	SGD:S000004860|SGD:S000005844	RGD:69402	PANTHER:PTHR43272	20180316		NCBITaxon:10116
+RGD	RGD:69401	Acsl4	PMID:16466685		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	IGI	SGD:S000004860|SGD:S000005844	RGD:69401	PANTHER:PTHR43272	20090903		NCBITaxon:10116
+RGD	RGD:2015	Acsl1	PMID:16466685		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	IGI	SGD:S000004860|SGD:S000005844	RGD:2015	PANTHER:PTHR43272	20090903		NCBITaxon:10116
+Reactome	UniProtKB:B0YJ81	HACD1	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:B0YJ81	PANTHER:PTHR11035	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q9NYP7	ELOVL5	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q9NYP7	PANTHER:PTHR11157	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q9NZ01	TECR	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q9NZ01	PANTHER:PTHR10556	20260316		NCBITaxon:9606
+Reactome	UniProtKB:P33121	ACSL1	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:P33121	PANTHER:PTHR43272	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q53GQ0	HSD17B12	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q53GQ0	PANTHER:PTHR43899	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q4G176	ACSF3	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q4G176	PANTHER:PTHR24096	20260316		NCBITaxon:9606
+Reactome	UniProtKB:O95573	ACSL3	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:O95573	PANTHER:PTHR43272	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q6Y1H2	HACD2	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q6Y1H2	PANTHER:PTHR11035	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q9NXB9	ELOVL2	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q9NXB9	PANTHER:PTHR11157	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q9H5J4	ELOVL6	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q9H5J4	PANTHER:PTHR11157	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q96GR2	ACSBG1	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q96GR2	PANTHER:PTHR24096	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q5FVE4	ACSBG2	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q5FVE4	PANTHER:PTHR24096	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q9BW60	ELOVL1	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q9BW60	PANTHER:PTHR11157	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q9ULC5	ACSL5	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q9ULC5	PANTHER:PTHR43272	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q9HB03	ELOVL3	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q9HB03	PANTHER:PTHR11157	20260316		NCBITaxon:9606
+Reactome	UniProtKB:A1L3X0	ELOVL7	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:A1L3X0	PANTHER:PTHR11157	20260316		NCBITaxon:9606
+Reactome	UniProtKB:O60488	ACSL4	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:O60488	PANTHER:PTHR43272	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q9UKU0	ACSL6	Reactome:R-HSA-75876		GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q9UKU0	PANTHER:PTHR43272	20260316		NCBITaxon:9606
+ComplexPortal	UniProtKB:P49327	FASN	PMID:39979457		GO:0046949	fatty-acyl-CoA biosynthetic process	NAS		UniProtKB:P49327	PANTHER:PTHR43775	20250828		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-26624	fasn_human	PMID:39979457		GO:0046949	fatty-acyl-CoA biosynthetic process	NAS				20250828		NCBITaxon:9606
+ComplexPortal	MGI:MGI:95485	Fasn	PMID:39979457		GO:0046949	fatty-acyl-CoA biosynthetic process	NAS		MGI:MGI:95485	PANTHER:PTHR43775	20250828		NCBITaxon:10090
+ComplexPortal	ComplexPortal:CPX-26630	fasn_pig	PMID:39979457		GO:0046949	fatty-acyl-CoA biosynthetic process	NAS				20250828		NCBITaxon:9823
+ComplexPortal	ComplexPortal:CPX-26628	fasn_mouse	PMID:39979457		GO:0046949	fatty-acyl-CoA biosynthetic process	NAS				20250828		NCBITaxon:10090
+FlyBase	FB:FBgn0039156	CG6178	PMID:15033536		GO:0046949	fatty-acyl-CoA biosynthetic process	IDA		FB:FBgn0039156	PANTHER:PTHR24096	20060803		NCBITaxon:7227
+FlyBase	FB:FBgn0027601	pdgy	PMID:22275878		GO:0046949	fatty-acyl-CoA biosynthetic process	IDA		FB:FBgn0027601	PANTHER:PTHR24096	20180117		NCBITaxon:7227
+RGD	RGD:1308829	Gcdh	PMID:6895440		GO:0046949	fatty-acyl-CoA biosynthetic process	IDA		RGD:1308829	PANTHER:PTHR42807	20061213		NCBITaxon:10116
+Reactome	UniProtKB:O14975	SLC27A2	Reactome:R-HSA-75105		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:O14975	PANTHER:PTHR43107	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q13085	ACACA	Reactome:R-HSA-75105		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q13085	PANTHER:PTHR45728	20260316		NCBITaxon:9606
+Reactome	UniProtKB:P50897	PPT1	Reactome:R-HSA-75105		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:P50897	PANTHER:PTHR11247	20260316		NCBITaxon:9606
+Reactome	UniProtKB:P86397	HTD2	Reactome:R-HSA-75105		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:P86397	PANTHER:PTHR43437	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q8N4T8	CBR4	Reactome:R-HSA-75105		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q8N4T8	PANTHER:PTHR42760	20260316		NCBITaxon:9606
+Reactome	UniProtKB:P49327	FASN	Reactome:R-HSA-75105		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:P49327	PANTHER:PTHR43775	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q9UMR5	PPT2	Reactome:R-HSA-75105		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q9UMR5	PANTHER:PTHR11247	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q13085	ACACA	Reactome:R-HSA-75851		GO:0046949	fatty-acyl-CoA biosynthetic process	TAS		UniProtKB:Q13085	PANTHER:PTHR45728	20260316		NCBITaxon:9606
+TAIR	AGI_LocusCode:AT1G62940	4CLL1	PMID:19218397		GO:0046949	fatty-acyl-CoA biosynthetic process	IDA		AGI_LocusCode:AT1G62940		20090319		NCBITaxon:3702
+BHF-UCL	UniProtKB:P24752	ACAT1	PMID:17371050		GO:1902860	propionyl-CoA biosynthetic process	IDA		UniProtKB:P24752	PANTHER:PTHR18919	20160729		NCBITaxon:9606
