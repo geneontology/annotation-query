@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1261768	Stbd1	PMID:20810658		GO:0038024	cargo receptor activity	IDA		MGI:MGI:1261768	PANTHER:PTHR15048	20220401	GO:0061723|GO:0061753|CHEBI:28087|GO:0043495	NCBITaxon:10090
+MGI	MGI:MGI:1261768	Stbd1	PMID:27358407		GO:0038024	cargo receptor activity	IMP	MGI:MGI:6356543	MGI:MGI:1261768	PANTHER:PTHR15048	20220401	GO:0061753|CHEBI:28087	NCBITaxon:10090
+UniProt	UniProtKB:Q8WZA9	IRGQ	PMID:39481378		GO:0030674	protein-macromolecule adaptor activity	IDA		UniProtKB:Q8WZA9	PANTHER:PTHR19364	20241128	GO:0042612|UniProtKB:P60520|GO:0006515|GO:0061753|GO:0005764	NCBITaxon:9606
+UniProt	UniProtKB:Q8WZA9	IRGQ	PMID:39481378		GO:0030674	protein-macromolecule adaptor activity	IDA		UniProtKB:Q8WZA9	PANTHER:PTHR19364	20241128	GO:0042612|UniProtKB:Q9GZQ8|GO:0006515|GO:0061753|GO:0005764	NCBITaxon:9606
