@@ -1,0 +1,39 @@
+term	file	line
+GO:0002949	interpro2go	InterPro:IPR003442 tRNA threonylcarbamoyl adenosine modification protein TsaE > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	interpro2go	InterPro:IPR022450 tRNA N6-adenosine threonylcarbamoyltransferase, TsaD > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	interpro2go	InterPro:IPR022496 tRNA threonylcarbamoyl adenosine modification protein TsaB > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	interpro2go	InterPro:IPR023535 Threonylcarbamoyl-AMP synthase > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	interpro2go	InterPro:IPR034680 tRNA N6-adenosine threonylcarbamoyltransferase Kae1, archaeal/eukaryotic > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	unirule2go	UniRule:UR000034420 > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	unirule2go	UniRule:UR000057600 > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	unirule2go	UniRule:UR000078156 > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	unirule2go	UniRule:UR000078157 > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	unirule2go	UniRule:UR000165906 > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	unirule2go	UniRule:UR000376341 > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	hamap2go	HAMAP:MF_01445 > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	hamap2go	HAMAP:MF_01446 > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	hamap2go	HAMAP:MF_01447 > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	hamap2go	HAMAP:MF_01852 > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	hamap2go	HAMAP:MF_03179 > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0002949	hamap2go	HAMAP:MF_03180 > GO:tRNA threonylcarbamoyladenosine modification ; GO:0002949
+GO:0006666	interpro2go	InterPro:IPR045022 3-ketodihydrosphingosine reductase KDSR-like > GO:3-keto-sphinganine metabolic process ; GO:0006666
+GO:0008612	interpro2go	InterPro:IPR002773 Deoxyhypusine synthase > GO:peptidyl-hypusine biosynthetic process ; GO:0008612
+GO:0008612	interpro2go	InterPro:IPR027517 Deoxyhypusine hydroxylase > GO:peptidyl-hypusine biosynthetic process ; GO:0008612
+GO:0008612	interpro2go	InterPro:IPR036982 Deoxyhypusine synthase superfamily > GO:peptidyl-hypusine biosynthetic process ; GO:0008612
+GO:0008612	unirule2go	UniRule:UR000106249 > GO:peptidyl-hypusine biosynthetic process ; GO:0008612
+GO:0008612	reactome2go	Reactome:R-HSA-204626 > GO:peptidyl-hypusine biosynthetic process ; GO:0008612
+GO:0008612	metacyc2go	MetaCyc:PWY-5905 > GO:peptidyl-hypusine biosynthetic process ; GO:0008612
+GO:0008612	hamap2go	HAMAP:MF_03101 > GO:peptidyl-hypusine biosynthetic process ; GO:0008612
+GO:0008612	uniprotkb_kw2go	UniProtKB-KW:KW-0386 Hypusine biosynthesis > GO:peptidyl-hypusine biosynthetic process ; GO:0008612
+GO:0030148	interpro2go	InterPro:IPR011388 Sphingolipid delta4-desaturase > GO:sphingolipid biosynthetic process ; GO:0030148
+GO:0030148	interpro2go	InterPro:IPR045022 3-ketodihydrosphingosine reductase KDSR-like > GO:sphingolipid biosynthetic process ; GO:0030148
+GO:0030148	reactome2go	Reactome:R-HSA-1660661 > GO:sphingolipid biosynthetic process ; GO:0030148
+GO:0030148	metacyc2go	MetaCyc:PWY-5129 > GO:sphingolipid biosynthetic process ; GO:0030148
+GO:0030148	metacyc2go	MetaCyc:PWY-7277 > GO:sphingolipid biosynthetic process ; GO:0030148
+GO:0030148	metacyc2go	MetaCyc:SPHINGOLIPID-SYN-PWY > GO:sphingolipid biosynthetic process ; GO:0030148
+GO:0047560	rhea2go	RHEA:22640 > GO:3-dehydrosphinganine reductase activity ; GO:0047560
+GO:0047560	interpro2go	InterPro:IPR045022 3-ketodihydrosphingosine reductase KDSR-like > GO:3-dehydrosphinganine reductase activity ; GO:0047560
+GO:0047560	reactome2go	Reactome:R-HSA-428123 > GO:3-dehydrosphinganine reductase activity ; GO:0047560
+GO:0047560	kegg_reaction2go	KEGG_REACTION:R02978 > GO:3-dehydrosphinganine reductase activity ; GO:0047560
+GO:0047560	metacyc2go	MetaCyc:3-DEHYDROSPHINGANINE-REDUCTASE-RXN > GO:3-dehydrosphinganine reductase activity ; GO:0047560
+GO:0047560	ec2go	EC:1.1.1.102 > GO:3-dehydrosphinganine reductase activity ; GO:0047560

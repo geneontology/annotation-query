@@ -1,0 +1,5 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1915964	Dohh	PMID:24832488		GO:0019135	deoxyhypusine monooxygenase activity	IMP		MGI:MGI:1915964	PANTHER:PTHR12697	20240828	GO:0008612|MGI:MGI:106248|MGI:MGI:106248	NCBITaxon:10090
+MGI	MGI:MGI:1921494	Atg7	PMID:25332431		GO:0090155	negative regulation of sphingolipid biosynthetic process	IMP	MGI:MGI:2176073|MGI:MGI:3587769	MGI:MGI:1921494	PANTHER:PTHR10953	20210413	GO:0030148	NCBITaxon:10090
+MGI	MGI:MGI:1921494	Atg7	PMID:25332431		GO:0090155	negative regulation of sphingolipid biosynthetic process	IMP	MGI:MGI:2176073|MGI:MGI:3587769	MGI:MGI:1921494	PANTHER:PTHR10953	20210413	EMAPA:16846|GO:0030148	NCBITaxon:10090
+PomBase	PomBase:SPAC1B2.03c	elo2	PMID:30975915		GO:0009922	fatty acid elongase activity	IMP		PomBase:SPAC1B2.03c	PANTHER:PTHR11157	20190514	GO:0030148|GO:0071763	NCBITaxon:4896
