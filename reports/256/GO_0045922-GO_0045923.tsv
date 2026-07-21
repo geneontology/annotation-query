@@ -1,0 +1,13 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	UniProtKB:P01308	INS	PMID:1184755		GO:0045922	negative regulation of fatty acid metabolic process	IMP		UniProtKB:P01308	PANTHER:PTHR11454	20080602		NCBITaxon:9606
+BHF-UCL	UniProtKB:O75376	NCOR1	PMID:19955185		GO:0045922	negative regulation of fatty acid metabolic process	IMP		UniProtKB:O75376	PANTHER:PTHR13992	20191008		NCBITaxon:9606
+BHF-UCL	UniProtKB:O60656	UGT1A9	PMID:20610558		GO:0045922	negative regulation of fatty acid metabolic process	IDA		UniProtKB:O60656-2	PANTHER:PTHR48050	20141003		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9HAW9	UGT1A8	PMID:20610558		GO:0045922	negative regulation of fatty acid metabolic process	IDA		UniProtKB:Q9HAW9-2	PANTHER:PTHR48050	20141003		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9HAW7	UGT1A7	PMID:20610558		GO:0045922	negative regulation of fatty acid metabolic process	IDA		UniProtKB:Q9HAW7-2	PANTHER:PTHR48050	20141003		NCBITaxon:9606
+PseudoCAP	UniProtKB:Q9HUS3	desT	PMID:16573679		GO:0045922	negative regulation of fatty acid metabolic process	IMP		UniProtKB:Q9HUS3	PANTHER:PTHR47752	20190311		NCBITaxon:208964
+SGD	SGD:S000000589	FRM2	PMID:8701605		GO:0045922	negative regulation of fatty acid metabolic process	IMP		SGD:S000000589	PANTHER:PTHR43035	20130807		NCBITaxon:559292
+UniProt	UniProtKB:Q9Y226	SLC22A13	PMID:24769897		GO:0045922	negative regulation of fatty acid metabolic process	IDA		UniProtKB:Q9Y226	PANTHER:PTHR24064	20200131	UniProtKB:O00767	NCBITaxon:9606
+UniProt	MGI:MGI:2143107	Slc22a13	PMID:24769897		GO:0045922	negative regulation of fatty acid metabolic process	IDA		MGI:MGI:2143107	PANTHER:PTHR24064	20200131	UniProtKB:P13516	NCBITaxon:10090
+MGI	MGI:MGI:106675	Adipoq	PMID:12068289		GO:0045923	positive regulation of fatty acid metabolic process	IMP	MGI:MGI:2387344	MGI:MGI:106675	PANTHER:PTHR15427	20041103		NCBITaxon:10090
+RGD	RGD:621397	Ghsr	PMID:12045256		GO:0045923	positive regulation of fatty acid metabolic process	IMP		RGD:621397	PANTHER:PTHR24243	20050217		NCBITaxon:10116
+WB	WB:WBGene00003670	nhr-80	PMID:16839188		GO:0045923	positive regulation of fatty acid metabolic process	IMP	WB:WBVar00250031	WB:WBGene00003670	PANTHER:PTHR46011	20070129		NCBITaxon:6239
