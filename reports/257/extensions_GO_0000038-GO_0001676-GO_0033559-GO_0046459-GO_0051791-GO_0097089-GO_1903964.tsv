@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000004885	SCS7	PMID:9353282		GO:0102772	sphingolipid C4-monooxygenase activity	IMP		SGD:S000004885	PANTHER:PTHR12863	20200728	GO:0000038|GO:0016020	NCBITaxon:559292
