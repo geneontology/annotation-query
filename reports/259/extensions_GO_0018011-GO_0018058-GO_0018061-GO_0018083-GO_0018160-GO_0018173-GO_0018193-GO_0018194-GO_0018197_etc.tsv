@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	UniProtKB:O75460	ERN1	PMID:21317875		GO:0042803	protein homodimerization activity	IPI	UniProtKB:O75460	UniProtKB:O75460	PANTHER:PTHR13954	20230322	GO:1990579|GO:0070054	NCBITaxon:9606

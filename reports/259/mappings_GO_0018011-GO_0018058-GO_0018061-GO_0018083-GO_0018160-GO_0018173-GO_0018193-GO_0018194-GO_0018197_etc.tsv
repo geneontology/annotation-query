@@ -1,0 +1,21 @@
+term	file	line
+GO:0018011	resid2go	RESID:AA0061 > GO:N-terminal peptidyl-alanine methylation ; GO:0018011
+GO:0018011	resid2go	RESID:AA0062 > GO:N-terminal peptidyl-alanine methylation ; GO:0018011
+GO:0018058	resid2go	RESID:AA0127 > GO:N-terminal protein amino acid deamination, from amino carbon ; GO:0018058
+GO:0018058	resid2go	RESID:AA0128 > GO:N-terminal protein amino acid deamination, from amino carbon ; GO:0018058
+GO:0018058	resid2go	RESID:AA0129 > GO:N-terminal protein amino acid deamination, from amino carbon ; GO:0018058
+GO:0018061	resid2go	RESID:AA0128 > GO:peptidyl-L-3-phenyllactic acid biosynthetic process from peptidyl-phenylalanine ; GO:0018061
+GO:0018083	resid2go	RESID:AA0185 > GO:peptidyl-L-3-oxoalanine biosynthetic process from peptidyl-cysteine or peptidyl-serine ; GO:0018083
+GO:0018160	interpro2go	InterPro:IPR022419 Porphobilinogen deaminase, dipyrromethane cofactor binding site > GO:peptidyl-pyrromethane cofactor linkage ; GO:0018160
+GO:0018160	resid2go	RESID:AA0252 > GO:peptidyl-pyrromethane cofactor linkage ; GO:0018160
+GO:0018173	resid2go	RESID:AA0265 > GO:peptidyl-1-thioglycine biosynthetic process from peptidyl-glycine ; GO:0018173
+GO:0018193	interpro2go	InterPro:IPR007803 Aspartyl/asparaginy/proline hydroxylase > GO:peptidyl-amino acid modification ; GO:0018193
+GO:0018231	resid2go	RESID:AA0107 > GO:peptidyl-S-diacylglycerol-L-cysteine biosynthetic process from peptidyl-cysteine ; GO:0018231
+GO:0018251	resid2go	RESID:AA0183 > GO:peptidyl-tyrosine dehydrogenation ; GO:0018251
+GO:0018259	resid2go	RESID:AA0213 > GO:RNA-protein covalent cross-linking via peptidyl-serine ; GO:0018259
+GO:0018418	resid2go	RESID:AA0293 > GO:nickel incorporation into iron-sulfur cluster via tris-L-cysteinyl L-cysteine persulfido L-glutamato L-histidino L-serinyl nickel triiron disulfide trioxide ; GO:0018418
+GO:0030919	resid2go	RESID:AA0364 > GO:peptidyl-serine O-acetylation ; GO:0030919
+GO:0035568	resid2go	RESID:AA0419 > GO:N-terminal peptidyl-proline methylation ; GO:0035568
+GO:0051111	resid2go	RESID:AA0371 > GO:peptidyl-histidine adenylylation ; GO:0051111
+GO:0051114	resid2go	RESID:AA0372 > GO:peptidyl-histidine uridylylation ; GO:0051114
+GO:0120258	resid2go	RESID:AA0364 > GO:peptidyl-threonine O-acetylation ; GO:0120258
