@@ -1,0 +1,8 @@
+term	file	line
+GO:0006044	hamap2go	HAMAP:MF_01271 > GO:N-acetylglucosamine metabolic process ; GO:0006044
+GO:0006044	interpro2go	InterPro:IPR003764 N-acetylglucosamine-6-phosphate deacetylase > GO:N-acetylglucosamine metabolic process ; GO:0006044
+GO:0006044	interpro2go	InterPro:IPR004547 Glucosamine-6-phosphate isomerase > GO:N-acetylglucosamine metabolic process ; GO:0006044
+GO:0006044	interpro2go	InterPro:IPR018321 Glucosamine-6-phosphate isomerase, conserved site > GO:N-acetylglucosamine metabolic process ; GO:0006044
+GO:0006044	unirule2go	UniRule:UR000101603 > GO:N-acetylglucosamine metabolic process ; GO:0006044
+GO:0006047	interpro2go	InterPro:IPR020004 Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase > GO:UDP-N-acetylglucosamine metabolic process ; GO:0006047
+GO:0006051	interpro2go	InterPro:IPR007260 Putative N-acetylmannosamine-6-phosphate epimerase > GO:N-acetylmannosamine metabolic process ; GO:0006051
