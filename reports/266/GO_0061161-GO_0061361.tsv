@@ -1,0 +1,2 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+PomBase	PomBase:SPBC1604.14c	shk1	PMID:39012625		GO:0061361	positive regulation of maintenance of bipolar cell polarity regulating cell shape	EXP		PomBase:SPBC1604.14c	PANTHER:PTHR48015	20240727		NCBITaxon:4896
