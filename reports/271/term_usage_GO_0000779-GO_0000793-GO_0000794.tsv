@@ -1,0 +1,9 @@
+used_id	used_by_id	predicate	source	dataset	context	axiom	description
+GO:0000779	FYPO:0005646	UPHENO:0000001	UbergraphImplementation	None	UsageContext.RELATIONSHIP_OBJECT	None	None
+GO:0000793	FYPO:0005646	UPHENO:0000001	UbergraphImplementation	None	UsageContext.RELATIONSHIP_OBJECT	None	None
+GO:0000794	FYPO:0004585	UPHENO:0000001	UbergraphImplementation	None	UsageContext.RELATIONSHIP_OBJECT	None	None
+GO:0000794	FYPO:0004602	UPHENO:0000001	UbergraphImplementation	None	UsageContext.RELATIONSHIP_OBJECT	None	None
+GO:0000794	FYPO:0005986	UPHENO:0000001	UbergraphImplementation	None	UsageContext.RELATIONSHIP_OBJECT	None	None
+GO:0000794	MP:0009452	UPHENO:0000001	UbergraphImplementation	None	UsageContext.RELATIONSHIP_OBJECT	None	None
+GO:0000794	OBA:1000883	RO:0002314	UbergraphImplementation	None	UsageContext.RELATIONSHIP_OBJECT	None	None
+GO:0000794	WBPhenotype:0001814	UPHENO:0000001	UbergraphImplementation	None	UsageContext.RELATIONSHIP_OBJECT	None	None
