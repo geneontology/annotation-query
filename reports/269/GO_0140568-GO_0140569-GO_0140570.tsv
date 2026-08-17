@@ -1,0 +1,23 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+SGD	SGD:S000003260	MSP1	PMID:24821790		GO:0140570	extraction of mislocalized protein from mitochondrial outer membrane	IMP		SGD:S000003260	PANTHER:PTHR45644	20260303		NCBITaxon:559292
+SGD	SGD:S000003260	MSP1	PMID:24843043		GO:0140570	extraction of mislocalized protein from mitochondrial outer membrane	IMP		SGD:S000003260	PANTHER:PTHR45644	20260303		NCBITaxon:559292
+UniProt	SGD:S000003260	MSP1	PMID:24821790		GO:0140570	extraction of mislocalized protein from mitochondrial outer membrane	IDA		SGD:S000003260	PANTHER:PTHR45644	20210216		NCBITaxon:559292
+UniProt	SGD:S000003260	MSP1	PMID:24843043		GO:0140570	extraction of mislocalized protein from mitochondrial outer membrane	IDA		SGD:S000003260	PANTHER:PTHR45644	20210216		NCBITaxon:559292
+UniProt	UniProtKB:Q8NBU5	ATAD1	PMID:24843043		GO:0140570	extraction of mislocalized protein from mitochondrial outer membrane	IDA		UniProtKB:Q8NBU5	PANTHER:PTHR45644	20210216		NCBITaxon:9606
+UniProt	SGD:S000003260	MSP1	PMID:28712723		GO:0140570	extraction of mislocalized protein from mitochondrial outer membrane	IDA		SGD:S000003260	PANTHER:PTHR45644	20210216		NCBITaxon:559292
+UniProt	SGD:S000000757	SPF1	PMID:30858337		GO:0140569	extraction of mislocalized protein from ER membrane	IDA		SGD:S000000757	PANTHER:PTHR45630	20210216		NCBITaxon:559292
+UniProt	SGD:S000000757	SPF1	PMID:32541053		GO:0140569	extraction of mislocalized protein from ER membrane	IDA		SGD:S000000757	PANTHER:PTHR45630	20210216		NCBITaxon:559292
+UniProt	SGD:S000000757	SPF1	PMID:32973005		GO:0140569	extraction of mislocalized protein from ER membrane	IDA		SGD:S000000757	PANTHER:PTHR45630	20210216		NCBITaxon:559292
+UniProt	UniProtKB:Q9HD20	ATP13A1	PMID:32973005		GO:0140569	extraction of mislocalized protein from ER membrane	IDA		UniProtKB:Q9HD20	PANTHER:PTHR45630	20210216		NCBITaxon:9606
+UniProt	UniProtKB:Q9HD20	ATP13A1	PMID:36264797		GO:0140569	extraction of mislocalized protein from ER membrane	IDA		UniProtKB:Q9HD20	PANTHER:PTHR45630	20221114		NCBITaxon:9606
+UniProt	SGD:S000000757	SPF1	PMID:30858337		GO:0140569	extraction of mislocalized protein from ER membrane	IDA		SGD:S000000757	PANTHER:PTHR45630	20210216		NCBITaxon:559292
+UniProt	SGD:S000000757	SPF1	PMID:32541053		GO:0140569	extraction of mislocalized protein from ER membrane	IDA		SGD:S000000757	PANTHER:PTHR45630	20210216		NCBITaxon:559292
+UniProt	SGD:S000000757	SPF1	PMID:32973005		GO:0140569	extraction of mislocalized protein from ER membrane	IDA		SGD:S000000757	PANTHER:PTHR45630	20210216		NCBITaxon:559292
+UniProt	UniProtKB:Q9HD20	ATP13A1	PMID:32973005		GO:0140569	extraction of mislocalized protein from ER membrane	IDA		UniProtKB:Q9HD20	PANTHER:PTHR45630	20210216		NCBITaxon:9606
+UniProt	UniProtKB:Q9HD20	ATP13A1	PMID:36264797		GO:0140569	extraction of mislocalized protein from ER membrane	IDA		UniProtKB:Q9HD20	PANTHER:PTHR45630	20221114		NCBITaxon:9606
+SGD	SGD:S000003260	MSP1	PMID:24821790		GO:0140570	extraction of mislocalized protein from mitochondrial outer membrane	IMP		SGD:S000003260	PANTHER:PTHR45644	20260303		NCBITaxon:559292
+SGD	SGD:S000003260	MSP1	PMID:24843043		GO:0140570	extraction of mislocalized protein from mitochondrial outer membrane	IMP		SGD:S000003260	PANTHER:PTHR45644	20260303		NCBITaxon:559292
+UniProt	SGD:S000003260	MSP1	PMID:24821790		GO:0140570	extraction of mislocalized protein from mitochondrial outer membrane	IDA		SGD:S000003260	PANTHER:PTHR45644	20210216		NCBITaxon:559292
+UniProt	SGD:S000003260	MSP1	PMID:24843043		GO:0140570	extraction of mislocalized protein from mitochondrial outer membrane	IDA		SGD:S000003260	PANTHER:PTHR45644	20210216		NCBITaxon:559292
+UniProt	UniProtKB:Q8NBU5	ATAD1	PMID:24843043		GO:0140570	extraction of mislocalized protein from mitochondrial outer membrane	IDA		UniProtKB:Q8NBU5	PANTHER:PTHR45644	20210216		NCBITaxon:9606
+UniProt	SGD:S000003260	MSP1	PMID:28712723		GO:0140570	extraction of mislocalized protein from mitochondrial outer membrane	IDA		SGD:S000003260	PANTHER:PTHR45644	20210216		NCBITaxon:559292
