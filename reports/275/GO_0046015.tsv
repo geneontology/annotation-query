@@ -1,0 +1,15 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+CGD	CGD:CAL0000184758	MIG1	PMID:31961865		GO:0061987	negative regulation of transcription from RNA polymerase II promoter by glucose	IGI	CGD:CAL0000190333	CGD:CAL0000184758	PANTHER:PTHR47428	20200225		NCBITaxon:237561
+CGD	CGD:CAL0000190333	MIG2	PMID:31961865		GO:0061987	negative regulation of transcription from RNA polymerase II promoter by glucose	IGI	CGD:CAL0000184758	CGD:CAL0000190333	PANTHER:PTHR47428	20200225		NCBITaxon:237561
+ComplexPortal	ComplexPortal:CPX-467	kiaa0409-suv39h1_human	PMID:18485871		GO:0046015	regulation of transcription by glucose	IMP				20250905		NCBITaxon:9606
+ComplexPortal	UniProtKB:O43159	RRP8	PMID:18485871		GO:0046015	regulation of transcription by glucose	IMP		UniProtKB:O43159	PANTHER:PTHR12787	20250905		NCBITaxon:9606
+ComplexPortal	UniProtKB:O43463	SUV39H1	PMID:18485871		GO:0046015	regulation of transcription by glucose	IMP		UniProtKB:O43463	PANTHER:PTHR46223	20250905		NCBITaxon:9606
+ComplexPortal	UniProtKB:Q96EB6	SIRT1	PMID:18485871		GO:0046015	regulation of transcription by glucose	IMP		UniProtKB:Q96EB6	PANTHER:PTHR11085	20250905		NCBITaxon:9606
+RGD	RGD:2325125	Kpna2l1	PMID:11988093		GO:0046015	regulation of transcription by glucose	IDA		RGD:2325125		20050217		NCBITaxon:10116
+RGD	RGD:621419	Kpna2	PMID:11988093		GO:0046015	regulation of transcription by glucose	IDA		RGD:621419	PANTHER:PTHR23316	20050217		NCBITaxon:10116
+RGD	RGD:1559787	Srf	PMID:20655308		GO:0046016	positive regulation of transcription by glucose	IMP		RGD:1559787	PANTHER:PTHR48019	20110506		NCBITaxon:10116
+SGD	SGD:S000003222	HXK2	PMID:11311123		GO:0046015	regulation of transcription by glucose	IDA		SGD:S000003222	PANTHER:PTHR19443	20130807		NCBITaxon:559292
+TAIR	AGI_LocusCode:AT4G03190	GRH1	PMID:12008900		GO:0045014	carbon catabolite repression of transcription by glucose	TAS		AGI_LocusCode:AT4G03190		20060510		NCBITaxon:3702
+UniProt	UniProtKB:O43159	RRP8	PMID:21471221		GO:0046015	regulation of transcription by glucose	IMP		UniProtKB:O43159	PANTHER:PTHR12787	20110830		NCBITaxon:9606
+UniProt	UniProtKB:P32728	ylxR	PMID:30355672		GO:0000430	regulation of transcription from RNA polymerase II promoter by glucose	IMP		UniProtKB:P32728	PANTHER:PTHR34215	20260224		NCBITaxon:224308
+UniProt	UniProtKB:P39065	acuA	PMID:7913927		GO:0045014	carbon catabolite repression of transcription by glucose	IDA		UniProtKB:P39065		20130423		NCBITaxon:224308
