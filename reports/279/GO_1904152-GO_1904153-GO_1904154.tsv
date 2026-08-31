@@ -1,0 +1,20 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	UniProtKB:Q8IWQ3	BRSK2	PMID:23907667		GO:1904152	regulation of retrograde protein transport, ER to cytosol	NAS		UniProtKB:Q8IWQ3	PANTHER:PTHR24343	20150521		NCBITaxon:9606
+SGD	SGD:S000002819	DFM1	PMID:29351849		GO:1904152	regulation of retrograde protein transport, ER to cytosol	IMP		SGD:S000002819	PANTHER:PTHR11009	20191213		NCBITaxon:559292
+ParkinsonsUK-UCL	UniProtKB:Q5VVQ6	YOD1	PMID:24068323		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP		UniProtKB:Q5VVQ6	PANTHER:PTHR13312	20190530		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9Y385	UBE2J1	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP		UniProtKB:Q9Y385	PANTHER:PTHR24068	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q96Q80	DERL3	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP		UniProtKB:Q96Q80	PANTHER:PTHR11009	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:P60604	UBE2G2	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP		UniProtKB:P60604	PANTHER:PTHR24067	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8NBM4	UBAC2	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP		UniProtKB:Q8NBM4	PANTHER:PTHR43066	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q8NHG7	SVIP	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP		UniProtKB:Q8NHG7	PANTHER:PTHR35269	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q13438	OS9	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP		UniProtKB:Q13438	PANTHER:PTHR15414	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q96DZ1	ERLEC1	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP		UniProtKB:Q96DZ1	PANTHER:PTHR15414	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9GZP9	DERL2	PMID:25660456		GO:1904153	negative regulation of retrograde protein transport, ER to cytosol	IMP		UniProtKB:Q9GZP9	PANTHER:PTHR11009	20150421		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:A0A8I3Q0S5	BCAP31	PMID:18555783		GO:1904154	positive regulation of retrograde protein transport, ER to cytosol	IMP		UniProtKB:A0A8I3Q0S5	PANTHER:PTHR12701	20260516	PR:000001044|GO:1904294	NCBITaxon:9615
+ParkinsonsUK-UCL	UniProtKB:P51572	BCAP31	PMID:18555783		GO:1904154	positive regulation of retrograde protein transport, ER to cytosol	IDA		UniProtKB:P51572	PANTHER:PTHR12701	20150514	UniProtKB:P13569	NCBITaxon:9606
+ParkinsonsUK-UCL	MGI:MGI:2180139	Edem1	PMID:24200403		GO:1904154	positive regulation of retrograde protein transport, ER to cytosol	IDA		MGI:MGI:2180139	PANTHER:PTHR45679	20150609		NCBITaxon:10090
+ParkinsonsUK-UCL	MGI:MGI:1915540	Edem2	PMID:24200403		GO:1904154	positive regulation of retrograde protein transport, ER to cytosol	IDA		MGI:MGI:1915540	PANTHER:PTHR45679	20150623	GO:0097466	NCBITaxon:10090
+ParkinsonsUK-UCL	UniProtKB:Q9BV94	EDEM2	PMID:24200403		GO:1904154	positive regulation of retrograde protein transport, ER to cytosol	IGI	UniProtKB:Q92611	UniProtKB:Q9BV94	PANTHER:PTHR45679	20150609		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q9BV94	EDEM2	PMID:24200403		GO:1904154	positive regulation of retrograde protein transport, ER to cytosol	IMP		UniProtKB:Q9BV94	PANTHER:PTHR45679	20150609		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q92611	EDEM1	PMID:24200403		GO:1904154	positive regulation of retrograde protein transport, ER to cytosol	IGI	UniProtKB:Q9BV94	UniProtKB:Q92611	PANTHER:PTHR45679	20150609		NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q92611	EDEM1	PMID:24200403		GO:1904154	positive regulation of retrograde protein transport, ER to cytosol	IMP		UniProtKB:Q92611	PANTHER:PTHR45679	20150609		NCBITaxon:9606

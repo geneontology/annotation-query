@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ParkinsonsUK-UCL	UniProtKB:Q5VVQ6	YOD1	PMID:24068323		GO:0061578	K63-linked deubiquitinase activity	TAS		UniProtKB:Q5VVQ6	PANTHER:PTHR13312	20150528	GO:1904153	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q5VVQ6	YOD1	PMID:24068323		GO:0101005	deubiquitinase activity	TAS		UniProtKB:Q5VVQ6	PANTHER:PTHR13312	20190530	GO:1904153	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q5VVQ6	YOD1	PMID:24068323		GO:0035871	protein K11-linked deubiquitination	IMP		UniProtKB:Q5VVQ6	PANTHER:PTHR13312	20150528	GO:1904153	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q5VVQ6	YOD1	PMID:24068323		GO:0070536	protein K63-linked deubiquitination	IMP		UniProtKB:Q5VVQ6	PANTHER:PTHR13312	20150528	GO:1904153	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:Q5VVQ6	YOD1	PMID:24068323		GO:0071108	protein K48-linked deubiquitination	IMP		UniProtKB:Q5VVQ6	PANTHER:PTHR13312	20150528	GO:1904153	NCBITaxon:9606
