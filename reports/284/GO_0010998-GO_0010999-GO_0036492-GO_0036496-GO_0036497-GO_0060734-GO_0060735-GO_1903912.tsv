@@ -1,0 +1,18 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	MGI:MGI:1353427	Eif2ak4	PMID:10655230		GO:0010998	regulation of translational initiation by eIF2 alpha phosphorylation	IDA		MGI:MGI:1353427	PANTHER:PTHR11042	20151014		NCBITaxon:10090
+UniProt	MGI:MGI:1341830	Eif2ak3	PMID:11106749		GO:0010998	regulation of translational initiation by eIF2 alpha phosphorylation	IMP		MGI:MGI:1341830	PANTHER:PTHR11042	20151013		NCBITaxon:10090
+UniProt	MGI:MGI:1353427	Eif2ak4	PMID:11106749		GO:0010998	regulation of translational initiation by eIF2 alpha phosphorylation	IMP		MGI:MGI:1353427	PANTHER:PTHR11042	20151013		NCBITaxon:10090
+UniProt	MGI:MGI:1353427	Eif2ak4	PMID:12176355		GO:0010998	regulation of translational initiation by eIF2 alpha phosphorylation	IDA		MGI:MGI:1353427	PANTHER:PTHR11042	20151014		NCBITaxon:10090
+UniProt	MGI:MGI:1353427	Eif2ak4	PMID:16121183		GO:0010998	regulation of translational initiation by eIF2 alpha phosphorylation	IMP		MGI:MGI:1353427	PANTHER:PTHR11042	20151021		NCBITaxon:10090
+UniProt	MGI:MGI:1353427	Eif2ak4	PMID:16601681		GO:0010998	regulation of translational initiation by eIF2 alpha phosphorylation	IDA		MGI:MGI:1353427	PANTHER:PTHR11042	20151022		NCBITaxon:10090
+UniProt	UniProtKB:C6KTB8	PK4	PMID:22355110		GO:0010998	regulation of translational initiation by eIF2 alpha phosphorylation	IDA		UniProtKB:C6KTB8	PANTHER:PTHR11042	20220824		NCBITaxon:36329
+UniProt	MGI:MGI:1353427	Eif2ak4	PMID:26102367		GO:0010998	regulation of translational initiation by eIF2 alpha phosphorylation	IMP		MGI:MGI:1353427	PANTHER:PTHR11042	20151022		NCBITaxon:10090
+UniProt	UniProtKB:Q9P2K8	EIF2AK4	PMID:26102367		GO:0010998	regulation of translational initiation by eIF2 alpha phosphorylation	IMP		UniProtKB:Q9P2K8	PANTHER:PTHR11042	20151022		NCBITaxon:9606
+MGI	MGI:MGI:1353448	Eif2ak1	PMID:15931390		GO:0010999	regulation of eIF2 alpha phosphorylation by heme	IGI	MGI:MGI:95513	MGI:MGI:1353448	PANTHER:PTHR11042	20090615		NCBITaxon:10090
+MGI	MGI:MGI:95513	Fech	PMID:15931390		GO:0010999	regulation of eIF2 alpha phosphorylation by heme	IGI	MGI:MGI:1353448	MGI:MGI:95513	PANTHER:PTHR11108	20090615		NCBITaxon:10090
+MGI	MGI:MGI:95513	Fech	PMID:15931390		GO:0010999	regulation of eIF2 alpha phosphorylation by heme	IMP	MGI:MGI:1858114	MGI:MGI:95513	PANTHER:PTHR11108	20090615		NCBITaxon:10090
+MGI	MGI:MGI:96021	Hbb-b1	PMID:15931390		GO:0010999	regulation of eIF2 alpha phosphorylation by heme	IMP	MGI:MGI:1857179	MGI:MGI:96021	PANTHER:PTHR11442	20090615		NCBITaxon:10090
+UniProt	MGI:MGI:1341830	Eif2ak3	PMID:17707796		GO:0036492	eiF2alpha phosphorylation in response to endoplasmic reticulum stress	IMP		MGI:MGI:1341830	PANTHER:PTHR11042	20200902		NCBITaxon:10090
+UniProt	MGI:MGI:1341830	Eif2ak3	PMID:11106749		GO:0060734	regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	IMP		MGI:MGI:1341830	PANTHER:PTHR11042	20151013		NCBITaxon:10090
+MGI	MGI:MGI:1929269	Tmed2	PMID:28797121		GO:1903912	negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	IMP	MGI:MGI:4456438	MGI:MGI:1929269	PANTHER:PTHR22811	20200403	EMAPA:16846	NCBITaxon:10090
+UniProt	MGI:MGI:107373	Dnajc3	PMID:25329545		GO:1903912	negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation	IDA		MGI:MGI:107373	PANTHER:PTHR44140	20151029		NCBITaxon:10090
