@@ -78,11 +78,9 @@ collected_issues = []
 new_printed_count = 0
 updated_printed_count = 0
 
-## Stable, identifiable User-Agent so GO-side WAF rules can allowlist
+## Stable, identifiable User-Agent so service-side WAF rules can allowlist
 ## this workflow narrowly without exempting all of python-requests/*.
-## Origin of the approach: geneontology/go-annotation#6416. The WAF
-## allowlist must cover this repo's UA (or a geneontology-*-action
-## pattern) or GOlr will keep returning 429.
+## Origin of the approach: geneontology/go-annotation#6416.
 HTTP_HEADERS = {
     'User-Agent': 'geneontology-annotation-query-action/1.0 '
                   '(+https://github.com/geneontology/annotation-query)'
@@ -105,6 +103,51 @@ rfields = [
            'annotation_extension_class',
            'taxon'
         ]
+
+## QuickGO annotation service (EBI GOA):
+## https://www.ebi.ac.uk/QuickGO/api/index.html#/annotations
+QUICKGO_URL = 'https://www.ebi.ac.uk/QuickGO/services/annotation/downloadSearch'
+
+## Same cap as the old GOlr rows=100000; QuickGO allows up to 2000000.
+DOWNLOAD_LIMIT = 100000
+
+## Experimental (ECO:0000006) or author statement (ECO:0000204), with
+## descendants--equivalent to the old GOlr evidence_closure filter.
+EVIDENCE_PARAMS = {
+    'evidenceCode': 'ECO:0000006,ECO:0000204',
+    'evidenceCodeUsage': 'descendants'
+}
+
+## Map the old GOlr filter fields (--field) onto QuickGO parameters.
+## QuickGO's "regulates" relationship also covers positively/negatively
+## regulates, so descendants over these matches GOlr's regulates_closure.
+FIELD_PARAMS = {
+    'annotation_class': lambda term: {'goId': term, 'goUsage': 'exact'},
+    'regulates_closure': lambda term: {'goId': term,
+                                       'goUsage': 'descendants',
+                                       'goUsageRelationships': 'is_a,part_of,occurs_in,regulates'},
+    'annotation_extension_class': lambda term: {'extension': term},
+    'evidence_with': lambda term: {'withFrom': term}
+}
+if args.field not in FIELD_PARAMS:
+    die_screaming('unsupported filter query: ' + args.field + ' (expected one of: ' + ', '.join(FIELD_PARAMS) + ')')
+
+## QuickGO fields to download; the TSV columns are mapped back onto
+## rfields by header name in get_term_annotation_data.
+QUICKGO_FIELDS = [
+    'assignedBy',
+    'geneProductId',
+    'symbol',
+    'reference',
+    'qualifier',
+    'goId',
+    'goName',
+    'goEvidence',
+    'withFrom',
+    'date',
+    'extensions',
+    'taxonId'
+]
 
 ###
 ### Helpers.
@@ -152,23 +195,63 @@ def get_issues(repo: str, event_type: str, start_date: str):
     else:
         raise Exception("HTTP error status code: {} for url: {}".format(resp.status_code, url))
 
-## Get Annotation TSV from GOlr.
+## Get annotation TSV from QuickGO, in the rfields column layout.
 def get_term_annotation_data(fq: str, term: str):
-    url = "http://golr-aux.geneontology.io/solr/select?defType=edismax&qt=standard&indent=on&wt=csv&rows=100000&start=0&fl={}&facet=true&facet.mincount=1&facet.sort=count&json.nl=arrarr&facet.limit=25&hl=true&hl.simple.pre=%3Cem%20class=%22hilite%22%3E&hl.snippets=1000&csv.encapsulator=&csv.separator=%09&csv.header=false&csv.mv.separator=%7C&fq={}:%22{}%22&fq=evidence_closure:%22ECO:0000006%22+OR+evidence_closure:%22ECO:0000204%22&fq=document_category:%22annotation%22&q=*:*".format(','.join(rfields), fq, term)
-    LOG.info('url: ' + url)
-    resp = requests.get(url, headers=HTTP_HEADERS)
+    params = dict(FIELD_PARAMS[fq](term))
+    params.update(EVIDENCE_PARAMS)
+    params['downloadLimit'] = DOWNLOAD_LIMIT
+    params['selectedFields'] = ','.join(QUICKGO_FIELDS)
+    params['includeFields'] = 'goName'
+    headers = dict(HTTP_HEADERS)
+    headers['Accept'] = 'text/tsv'
+    resp = requests.get(QUICKGO_URL, params=params, headers=headers)
+    LOG.info('url: ' + resp.url)
     if resp.status_code != 200:
-        raise Exception("HTTP error status code: {} for url: {}".format(resp.status_code, url))
-    else:
-        resp_tsv = resp.text.rstrip()
-        #LOG.info('resp_tsv: ' + resp_tsv)
-
-        ## Move on if there are no annotations.
-        if resp_tsv == "":
+        ## Obsolete or unknown terms can't be expanded to descendants;
+        ## treat as no annotations rather than failing the whole report.
+        if 'No convertible results found' in resp.text:
+            LOG.warning('QuickGO could not resolve term (obsolete?): ' + term)
             return ""
+        raise Exception("HTTP error status code: {} for url: {}".format(resp.status_code, resp.url))
+    else:
+        lines = resp.text.rstrip("\n").split("\n")
+
+        ## Move on if there are no annotations (header only).
+        if len(lines) < 2:
+            return ""
+        if len(lines) - 1 >= DOWNLOAD_LIMIT:
+            LOG.warning('Hit download limit of {} for {}; results truncated'.format(DOWNLOAD_LIMIT, term))
+
+        ## Map QuickGO columns onto the GOlr-style rfields columns.
+        header = lines[0].split("\t")
+        resp_list = []
+        for line in lines[1:]:
+            q = dict(zip(header, line.split("\t")))
+            gp = q['GENE PRODUCT DB'] + ':' + q['GENE PRODUCT ID']
+            row = {
+                'assigned_by': q['ASSIGNED BY'],
+                ## Annotated form (may be an isoform) goes in
+                ## bioentity_isoform; bioentity is the canonical entry.
+                'bioentity': re.sub(r'-[0-9]+$', '', gp),
+                'bioentity_label': q['SYMBOL'],
+                'reference': q['REFERENCE'],
+                'qualifier': q['QUALIFIER'],
+                'annotation_class': q['GO TERM'],
+                'annotation_class_label': q['GO NAME'],
+                'evidence_type': q['GO EVIDENCE CODE'],
+                'evidence_with': q['WITH/FROM'],
+                'bioentity_isoform': gp,
+                ## Not available from QuickGO.
+                'panther_family': '',
+                'date': q['DATE'],
+                ## Full extension expressions, e.g. part_of(GO:0031508),
+                ## rather than GOlr's bare class IDs.
+                'annotation_extension_class': q['ANNOTATION EXTENSION'],
+                'taxon': 'NCBITaxon:' + q['TAXON ID'] if q['TAXON ID'] else ''
+            }
+            resp_list.append("\t".join(row[f] for f in rfields))
 
         ## Split and clean references column--PMID first if there.
-        resp_list = resp_tsv.split("\n")
         cleaned_list = []
         for r in resp_list:
             cols = r.split("\t")
