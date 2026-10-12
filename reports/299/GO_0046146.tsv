@@ -1,0 +1,9 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:1338783	Pts	PMID:11517215		GO:0046146	tetrahydrobiopterin metabolic process	IMP	MGI:MGI:2669870	MGI:MGI:1338783	PANTHER:PTHR12589	20241209		NCBITaxon:10090
+MGI	MGI:MGI:103078	Spr	PMID:16532389		GO:0046146	tetrahydrobiopterin metabolic process	IMP	MGI:MGI:3757641	MGI:MGI:103078	PANTHER:PTHR44085	20080627	EMAPA:16894	NCBITaxon:10090
+MGI	MGI:MGI:102676	Abcc1	PMID:17272743		GO:0046146	tetrahydrobiopterin metabolic process	IMP		MGI:MGI:102676	PANTHER:PTHR24223	20250311	GO:1990776|EMAPA:18601	NCBITaxon:10090
+MGI	MGI:MGI:95675	Gch1	PMID:19286659		GO:0046146	tetrahydrobiopterin metabolic process	IMP	MGI:MGI:1856903	MGI:MGI:95675	PANTHER:PTHR11109	20241210		NCBITaxon:10090
+MGI	MGI:MGI:103078	Spr	PMID:23647001		GO:0046146	tetrahydrobiopterin metabolic process	IMP	MGI:MGI:3528977	MGI:MGI:103078	PANTHER:PTHR44085	20241209		NCBITaxon:10090
+MGI	MGI:MGI:95675	Gch1	PMID:7524491		GO:0046146	tetrahydrobiopterin metabolic process	IMP	MGI:MGI:1856903	MGI:MGI:95675	PANTHER:PTHR11109	20241209		NCBITaxon:10090
+Reactome	UniProtKB:P29474	NOS3	Reactome:R-HSA-1474151		GO:0046146	tetrahydrobiopterin metabolic process	TAS		UniProtKB:P29474	PANTHER:PTHR19384	20260316		NCBITaxon:9606
+Reactome	UniProtKB:Q13237	PRKG2	Reactome:R-HSA-1474151		GO:0046146	tetrahydrobiopterin metabolic process	TAS		UniProtKB:Q13237	PANTHER:PTHR24353	20260316		NCBITaxon:9606
