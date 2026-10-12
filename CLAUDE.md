@@ -49,7 +49,7 @@ Note: unlike go-annotation, this repo has **no `specs/` directory** — the GPAD
 - **GOlr Solr** — `http://golr-aux.geneontology.io/solr/select?...`. Cloudflare 301s `http://` → `https://` and `requests` follows silently. The canonical `fl`/`rfields` list lives in `annotation-review-report.py`; add new fields there.
   - **WAF / User-Agent (important).** GOlr's WAF rate-limits bare `python-requests/*` with **HTTP 429**. `annotation-review-report.py` sets an identifiable `User-Agent` (`geneontology-annotation-query-action/...`) so the WAF can allowlist this workflow narrowly. This mirrors the go-annotation fix (`geneontology/go-annotation#6416`). **If this repo's UA is not on the WAF allowlist** (or the allowlist isn't a `geneontology-*-action` pattern), `report-direct-ann-term` will keep failing with 429 — coordinate the allowlist via `geneontology/operations`. The throttle is keyed to GitHub-Actions IP ranges, so it does **not** reproduce from a dev machine.
 - **Ubergraph** — queried by `term-usage-report.py` via `runoak -i ubergraph: usages ...` (oaklib). Not behind the GOlr WAF.
-- **External2go snapshot** — `http://snapshot.geneontology.org/ontology/external2go/`; the report workflows `wget -r` it then prune specific files (`pfam2go`, `pirsf2go`, …) — mirror that pattern if adding another mapping reporter.
+- **External2go mappings** — `https://current.geneontology.org/ontology/external2go/` (the current release; not `snapshot`, which stopped updating in 2026-05 — go-site#2754). Both report workflows `wget -r` it into `$RUNNER_TEMP/external2go` (outside the checkout, so nothing to clean up or accidentally commit), then prune specific files (`pfam2go`, `pirsf2go`, …) — mirror that pattern if adding another mapping reporter.
 - **GitHub issue search** — plain REST, `api.github.com/search/issues`. No auth in scripts; scripts `time.sleep(10)` before calling to respect rate limits.
 
 ## Commit / auto-commit conventions
@@ -85,6 +85,6 @@ Adding a new report type = three coordinated edits:
 
 - `geneontology/go-annotation` — source of these reporter scripts; changes here and there often move together. It has the `specs/` and a richer issue-template set.
 - `geneontology/pipeline-from-goa` — upstream data ingest feeding GOlr. Shares the `; for org/repo#NN` commit-trailer convention.
-- `geneontology/operations` — documents the hosts behind `snapshot.geneontology.org` and `golr-aux.geneontology.io`, and is where GOlr WAF allowlist rules are coordinated.
+- `geneontology/operations` — documents the hosts behind `current.geneontology.org` and `golr-aux.geneontology.io`, and is where GOlr WAF allowlist rules are coordinated.
 - `geneontology/go-ontology` — authoritative source for GO terms referenced in tickets.
 - `geneontology/go-site` / `geneontology/go-fastapi` — downstream public surface for the data this repo's reports describe.
