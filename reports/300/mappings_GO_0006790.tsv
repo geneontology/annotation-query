@@ -1,0 +1,8 @@
+term	file	line
+GO:0006790	interpro2go	InterPro:IPR006238 Cystathionine beta-lyase, eukaryotic > GO:sulfur compound metabolic process ; GO:0006790
+GO:0006790	interpro2go	InterPro:IPR006239 3(2),5 -bisphosphate nucleotidase > GO:sulfur compound metabolic process ; GO:0006790
+GO:0006790	interpro2go	InterPro:IPR006240 3'(2'),5'-bisphosphate nucleotidase CysQ > GO:sulfur compound metabolic process ; GO:0006790
+GO:0006790	interpro2go	InterPro:IPR011779 Sulphate adenylyltransferase, large subunit > GO:sulfur compound metabolic process ; GO:0006790
+GO:0006790	interpro2go	InterPro:IPR011808 Sulphite reductase, dissimilatory-type beta subunit > GO:sulfur compound metabolic process ; GO:0006790
+GO:0006790	interpro2go	InterPro:IPR023939 Cysteine desulfuration protein SufE > GO:sulfur compound metabolic process ; GO:0006790
+GO:0006790	unirule2go	UniRule:UR001995826 > GO:sulfur compound metabolic process ; GO:0006790
