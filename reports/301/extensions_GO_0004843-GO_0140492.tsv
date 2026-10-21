@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P32121	ARRB2	PMID:26839314		GO:0060090	molecular adaptor activity	IDA		UniProtKB:P32121	PANTHER:PTHR11792	20221017	GO:0043124|GO:0005737|UniProtKB:Q9Y2K6|UniProtKB:Q9Y4K3|GO:0004843	NCBITaxon:9606
+UniProt	UniProtKB:Q9UMW8	USP18	PMID:27801882		GO:0060090	molecular adaptor activity	IDA		UniProtKB:Q9UMW8	PANTHER:PTHR24006	20220929	GO:0140374|GO:0005737|UniProtKB:Q86WV6|UniProtKB:Q9Y2K6|GO:0004843	NCBITaxon:9606
+UniProt	UniProtKB:Q92793	CREBBP	PMID:35675826		GO:0061733	protein-lysine-acetyltransferase activity	IDA		UniProtKB:Q92793	PANTHER:PTHR13808	20220810	GO:0031669|GO:1900182|GO:0005737|UniProtKB:Q5T2D3|GO:0004843	NCBITaxon:9606
