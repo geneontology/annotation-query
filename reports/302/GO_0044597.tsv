@@ -1,0 +1,10 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+UniProt	UniProtKB:P14550	AKR1A1	PMID:18276838		GO:0044597	daunorubicin metabolic process	IDA		UniProtKB:P14550	PANTHER:PTHR11732	20181220		NCBITaxon:9606
+UniProt	UniProtKB:P17516	AKR1C4	PMID:20837989		GO:0044597	daunorubicin metabolic process	IMP		UniProtKB:P17516	PANTHER:PTHR11732	20120508		NCBITaxon:9606
+UniProt	UniProtKB:P15121	AKR1B1	PMID:20837989		GO:0044597	daunorubicin metabolic process	IMP		UniProtKB:P15121	PANTHER:PTHR11732	20120508		NCBITaxon:9606
+UniProt	UniProtKB:P52895	AKR1C2	PMID:20837989		GO:0044597	daunorubicin metabolic process	IMP		UniProtKB:P52895	PANTHER:PTHR11732	20120508		NCBITaxon:9606
+UniProt	UniProtKB:P42330	AKR1C3	PMID:20837989		GO:0044597	daunorubicin metabolic process	IMP		UniProtKB:P42330	PANTHER:PTHR11732	20120508		NCBITaxon:9606
+UniProt	UniProtKB:Q8N4T8	CBR4	PMID:20837989		GO:0044597	daunorubicin metabolic process	IMP		UniProtKB:Q8N4T8	PANTHER:PTHR42760	20120508		NCBITaxon:9606
+UniProt	UniProtKB:O43488	AKR7A2	PMID:20837989		GO:0044597	daunorubicin metabolic process	IMP		UniProtKB:O43488	PANTHER:PTHR43625	20120508		NCBITaxon:9606
+UniProt	UniProtKB:Q04828	AKR1C1	PMID:20837989		GO:0044597	daunorubicin metabolic process	IMP		UniProtKB:Q04828	PANTHER:PTHR11732	20120508		NCBITaxon:9606
+UniProt	UniProtKB:O60218	AKR1B10	PMID:20837989		GO:0044597	daunorubicin metabolic process	IMP		UniProtKB:O60218	PANTHER:PTHR11732	20120508		NCBITaxon:9606
