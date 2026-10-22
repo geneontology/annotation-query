@@ -1,0 +1,28 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ComplexPortal	EcoCyc:ENTB-MONOMER	EntB	PMID:19699210		GO:0009239	enterobactin biosynthetic process	IDA		EcoCyc:ENTB-MONOMER		20240827		NCBITaxon:83333
+ComplexPortal	EcoCyc:ENTE-MONOMER	EntE	PMID:19699210		GO:0009239	enterobactin biosynthetic process	IDA		EcoCyc:ENTE-MONOMER		20240827		NCBITaxon:83333
+ComplexPortal	ComplexPortal:CPX-5748	entb_ente_ecoli	PMID:19699210		GO:0009239	enterobactin biosynthetic process	IDA				20240827		NCBITaxon:83333
+ComplexPortal	EcoCyc:ENTE-MONOMER	EntE	PMID:21166461		GO:0009239	enterobactin biosynthetic process	IDA		EcoCyc:ENTE-MONOMER		20240827		NCBITaxon:83333
+ComplexPortal	ComplexPortal:CPX-5747	enta-ente_ecoli	PMID:21166461		GO:0009239	enterobactin biosynthetic process	IDA				20240827		NCBITaxon:83333
+ComplexPortal	EcoCyc:ENTA-MONOMER	EntA	PMID:21166461		GO:0009239	enterobactin biosynthetic process	IDA		EcoCyc:ENTA-MONOMER		20240827		NCBITaxon:83333
+EcoCyc	EcoCyc:EG11105-MONOMER	EntH	PMID:17675380		GO:0009239	enterobactin biosynthetic process	IMP		EcoCyc:EG11105-MONOMER		20070823		NCBITaxon:83333
+EcoCyc	EcoCyc:MONOMER0-2659	YbdZ	PMID:20845982		GO:0009239	enterobactin biosynthetic process	IMP		EcoCyc:MONOMER0-2659		20180725		NCBITaxon:83333
+EcoCyc	EcoCyc:ENTC-MONOMER	EntC	PMID:2536681		GO:0009239	enterobactin biosynthetic process	IMP		EcoCyc:ENTC-MONOMER		20070418		NCBITaxon:83333
+EcoCyc	EcoCyc:MONOMER0-2659	YbdZ	PMID:28880538		GO:0009239	enterobactin biosynthetic process	IDA		EcoCyc:MONOMER0-2659		20180725		NCBITaxon:83333
+EcoCyc	EcoCyc:ENTA-MONOMER	EntA	PMID:4928016		GO:0009239	enterobactin biosynthetic process	IMP		EcoCyc:ENTA-MONOMER		20070418		NCBITaxon:83333
+EcoCyc	EcoCyc:ENTE-MONOMER	EntE	PMID:4939766		GO:0009239	enterobactin biosynthetic process	IMP		EcoCyc:ENTE-MONOMER		20100412		NCBITaxon:83333
+EcoCyc	EcoCyc:ENTD-MONOMER	EntD	PMID:4939766		GO:0009239	enterobactin biosynthetic process	IMP		EcoCyc:ENTD-MONOMER		20120611		NCBITaxon:83333
+EcoCyc	EcoCyc:EG10299-MONOMER	Fes	PMID:8148617		GO:0046214	enterobactin catabolic process	IMP		EcoCyc:EG10299-MONOMER		20111128		NCBITaxon:83333
+EcoCyc	EcoCyc:ENTF-MONOMER	EntF	PMID:9485415		GO:0009239	enterobactin biosynthetic process	IMP		EcoCyc:ENTF-MONOMER		20120322		NCBITaxon:83333
+EcoliWiki	EcoCyc:ENTC-MONOMER	EntC	PMID:9795253		GO:0009239	enterobactin biosynthetic process	IMP		EcoCyc:ENTC-MONOMER		20110705		NCBITaxon:83333
+UniProt	EcoCyc:ENTB-MONOMER	EntB	PMID:9485415		GO:0009239	enterobactin biosynthetic process	IDA		EcoCyc:ENTB-MONOMER		20141208		NCBITaxon:83333
+UniProt	UniProtKB:P14550	AKR1A1	PMID:18276838		GO:0044598	doxorubicin metabolic process	IDA		UniProtKB:P14550	PANTHER:PTHR11732	20181220		NCBITaxon:9606
+UniProt	UniProtKB:P17516	AKR1C4	PMID:20837989		GO:0044598	doxorubicin metabolic process	IMP		UniProtKB:P17516	PANTHER:PTHR11732	20120508		NCBITaxon:9606
+UniProt	UniProtKB:P15121	AKR1B1	PMID:20837989		GO:0044598	doxorubicin metabolic process	IMP		UniProtKB:P15121	PANTHER:PTHR11732	20120508		NCBITaxon:9606
+UniProt	UniProtKB:P52895	AKR1C2	PMID:20837989		GO:0044598	doxorubicin metabolic process	IMP		UniProtKB:P52895	PANTHER:PTHR11732	20120508		NCBITaxon:9606
+UniProt	UniProtKB:P42330	AKR1C3	PMID:20837989		GO:0044598	doxorubicin metabolic process	IMP		UniProtKB:P42330	PANTHER:PTHR11732	20120508		NCBITaxon:9606
+UniProt	UniProtKB:Q8N4T8	CBR4	PMID:20837989		GO:0044598	doxorubicin metabolic process	IMP		UniProtKB:Q8N4T8	PANTHER:PTHR42760	20120508		NCBITaxon:9606
+UniProt	UniProtKB:O43488	AKR7A2	PMID:20837989		GO:0044598	doxorubicin metabolic process	IMP		UniProtKB:O43488	PANTHER:PTHR43625	20120508		NCBITaxon:9606
+UniProt	UniProtKB:Q04828	AKR1C1	PMID:20837989		GO:0044598	doxorubicin metabolic process	IMP		UniProtKB:Q04828	PANTHER:PTHR11732	20120508		NCBITaxon:9606
+UniProt	UniProtKB:O60218	AKR1B10	PMID:20837989		GO:0044598	doxorubicin metabolic process	IMP		UniProtKB:O60218	PANTHER:PTHR11732	20120508		NCBITaxon:9606
+UniProt	UniProtKB:O75897	SULT1C4	PMID:26948952		GO:0044598	doxorubicin metabolic process	IDA		UniProtKB:O75897	PANTHER:PTHR11783	20210520		NCBITaxon:9606
