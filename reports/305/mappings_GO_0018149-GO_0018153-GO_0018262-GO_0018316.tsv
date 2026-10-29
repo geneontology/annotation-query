@@ -1,0 +1,8 @@
+term	file	line
+GO:0018149	interpro2go	InterPro:IPR001102 Transglutaminase, N-terminal > GO:peptide cross-linking ; GO:0018149
+GO:0018149	interpro2go	InterPro:IPR008958 Transglutaminase, C-terminal > GO:peptide cross-linking ; GO:0018149
+GO:0018149	interpro2go	InterPro:IPR013808 Transglutaminase, active site > GO:peptide cross-linking ; GO:0018149
+GO:0018149	interpro2go	InterPro:IPR023608 Protein-glutamine gamma-glutamyltransferase, animal > GO:peptide cross-linking ; GO:0018149
+GO:0018149	interpro2go	InterPro:IPR036238 Transglutaminase, C-terminal domain superfamily > GO:peptide cross-linking ; GO:0018149
+GO:0018153	resid2go	RESID:AA0124 > GO:isopeptide cross-linking via N6-(L-isoglutamyl)-L-lysine ; GO:0018153
+GO:0018316	resid2go	RESID:AA0025 > GO:peptide cross-linking via L-cystine ; GO:0018316
