@@ -1,0 +1,4 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+MGI	MGI:MGI:2685945	Pstk	PMID:15317934		GO:0043915	L-seryl-tRNA(Sec) kinase activity	IDA		MGI:MGI:2685945	PANTHER:PTHR20873	20200319		NCBITaxon:10090
+UniProt	MGI:MGI:2685945	Pstk	PMID:17194211		GO:0043915	L-seryl-tRNA(Sec) kinase activity	IDA		MGI:MGI:2685945	PANTHER:PTHR20873	20250812		NCBITaxon:10090
+MGI	MGI:MGI:2685945	Pstk	PMID:15317934		GO:0098620	seryl-selenocysteinyl-tRNA kinase activity	IDA		MGI:MGI:2685945	PANTHER:PTHR20873	20260325		NCBITaxon:10090

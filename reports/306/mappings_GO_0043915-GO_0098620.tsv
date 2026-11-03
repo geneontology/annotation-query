@@ -1,0 +1,5 @@
+term	file	line
+GO:0043915	ec2go	EC:2.7.1.164 > GO:L-seryl-tRNA(Sec) kinase activity ; GO:0043915
+GO:0043915	rhea2go	RHEA:25037 > GO:L-seryl-tRNA(Sec) kinase activity ; GO:0043915
+GO:0043915	metacyc2go	MetaCyc:RXN-10038 > GO:L-seryl-tRNA(Sec) kinase activity ; GO:0043915
+GO:0098620	reactome2go	Reactome:R-HSA-2408507 > GO:seryl-selenocysteinyl-tRNA kinase activity ; GO:0098620
