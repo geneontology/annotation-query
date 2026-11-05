@@ -1,0 +1,231 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+BHF-UCL	MGI:MGI:99919	Vcp	PMID:11483959		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		MGI:MGI:99919	PANTHER:PTHR23077	20100120		NCBITaxon:10090
+BHF-UCL	UniProtKB:P55072	VCP	PMID:11483959		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:P55072	PANTHER:PTHR23077	20100120		NCBITaxon:9606
+BHF-UCL	UniProtKB:Q9UBN7	HDAC6	PMID:14675537		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9UBN7	PANTHER:PTHR10625	20090730		NCBITaxon:9606
+BHF-UCL	UniProtKB:P25686	DNAJB2	PMID:15936278		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:P25686-2	PANTHER:PTHR45168	20140416		NCBITaxon:9606
+BHF-UCL	MGI:MGI:2654703	Otud7b	PMID:18281465		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		MGI:MGI:2654703	PANTHER:PTHR13367	20110704		NCBITaxon:10090
+BHF-UCL	UniProtKB:Q9UGI0	ZRANB1	PMID:18281465		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9UGI0	PANTHER:PTHR13367	20110704		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-485	ube2n-ube2v1_human	PMID:11057907		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA				20251105		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-138	vcp-npl4-ufd1_rat	PMID:12411482		GO:0031593	polyubiquitin modification-dependent protein binding	IDA				20240827		NCBITaxon:10116
+ComplexPortal	ComplexPortal:CPX-4702	brca1-a_mouse	PMID:20656689		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	NAS				20250807		NCBITaxon:10090
+ComplexPortal	ComplexPortal:CPX-4425	brca1-a_human	PMID:20656689		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	NAS				20250904		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-8095	vcp-faf1_human	PMID:21645854		GO:0031593	polyubiquitin modification-dependent protein binding	NAS				20251229		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-4625	ubc1_caeel-1	PMID:24595290		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	NAS				20250415		NCBITaxon:6239
+ComplexPortal	ComplexPortal:CPX-8104	vcp-npl4-ufd1-faf2_human	PMID:28819009		GO:0031593	polyubiquitin modification-dependent protein binding	NAS				20251229		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-8096	vcp-npl4-ufd1-faf1_human-1	PMID:28819009		GO:0031593	polyubiquitin modification-dependent protein binding	NAS				20251229		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-8105	vcp-ubxn1_human	PMID:33712450		GO:0031593	polyubiquitin modification-dependent protein binding	NAS				20251229		NCBITaxon:9606
+ComplexPortal	ComplexPortal:CPX-8101	vcp-ubxn7_human	PMID:39329031		GO:0031593	polyubiquitin modification-dependent protein binding	NAS				20251229		NCBITaxon:9606
+EcoCyc	EcoCyc:EG11171-MONOMER	TsaD	PMID:20824107		GO:0140032	glycosylation-dependent protein binding	IDA		EcoCyc:EG11171-MONOMER		20170710		NCBITaxon:83333
+FlyBase	FB:FBgn0037734	trbd	PMID:18281465		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		FB:FBgn0037734	PANTHER:PTHR13367	20250721	FB:FBgn0015589	NCBITaxon:7227
+FlyBase	FB:FBgn0003891	tud	PMID:19959991		GO:0140034	methylation-dependent protein binding	IPI	FB:FBgn0000146|FB:FBgn0250816	FB:FBgn0003891	PANTHER:PTHR22948	20230919	FB:FBgn0000146|GO:0140965|FB:FBgn0250816	NCBITaxon:7227
+FlyBase	FB:FBgn0039348	Npl4	PMID:23747190		GO:0071795	K11-linked polyubiquitin modification-dependent protein binding	IDA		FB:FBgn0039348	PANTHER:PTHR12710	20191217	FB:FBgn0004859	NCBITaxon:7227
+FlyBase	FB:FBgn0027609	morgue	PMID:24098672		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		FB:FBgn0027609	PANTHER:PTHR24068	20140612		NCBITaxon:7227
+FlyBase	FB:FBgn0031857	LUBEL	PMID:27702987		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		FB:FBgn0031857	PANTHER:PTHR16004	20161215		NCBITaxon:7227
+FlyBase	FB:FBgn0031857	LUBEL	PMID:27702987		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		FB:FBgn0031857	PANTHER:PTHR16004	20161215		NCBITaxon:7227
+FlyBase	FB:FBgn0050418	nord	PMID:35609633		GO:0140032	glycosylation-dependent protein binding	IPI	FB:FBgn0263930	FB:FBgn0050418	PANTHER:PTHR14619	20230505	GO:0030514	NCBITaxon:7227
+FlyBase	FB:FBgn0031213	galectin	PMID:39191750		GO:0140032	glycosylation-dependent protein binding	IDA		FB:FBgn0031213	PANTHER:PTHR11346	20240920	FB:FBgn0027594	NCBITaxon:7227
+FlyBase	FB:FBgn0034365	ctg	PMID:39191750		GO:0140032	glycosylation-dependent protein binding	IDA		FB:FBgn0034365	PANTHER:PTHR11346	20240920	FB:FBgn0027594	NCBITaxon:7227
+MGI	MGI:MGI:2183446	Agap3	PMID:16461359		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		MGI:MGI:2183446	PANTHER:PTHR45819	20111116		NCBITaxon:10090
+MGI	MGI:MGI:1338074	Ikbkg	PMID:17702576		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		MGI:MGI:1338074	PANTHER:PTHR31553	20140731		NCBITaxon:10090
+MGI	MGI:MGI:1918898	Optn	PMID:17702576		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		MGI:MGI:1918898	PANTHER:PTHR31553	20140731		NCBITaxon:10090
+MGI	MGI:MGI:1924809	Agl	PMID:17908927		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		MGI:MGI:1924809	PANTHER:PTHR10569	20080409		NCBITaxon:10090
+MGI	MGI:MGI:1924809	Agl	PMID:17908927		GO:0031593	polyubiquitin modification-dependent protein binding	IMP		MGI:MGI:1924809	PANTHER:PTHR10569	20080409		NCBITaxon:10090
+ParkinsonsUK-UCL	MGI:MGI:99919	Vcp	PMID:12847084		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		MGI:MGI:99919	PANTHER:PTHR23077	20150420		NCBITaxon:10090
+ParkinsonsUK-UCL	ComplexPortal:CPX-136	vcp-npl4-ufd1_mouse	PMID:12847084		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA				20150702		NCBITaxon:10090
+ParkinsonsUK-UCL	MGI:MGI:109353	Ufd1	PMID:12847084		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		MGI:MGI:109353	PANTHER:PTHR12555	20150420		NCBITaxon:10090
+ParkinsonsUK-UCL	SGD:S000218134	CPX-2946	PMID:12847084	not	GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA				20150420		NCBITaxon:559292
+ParkinsonsUK-UCL	SGD:S000218134	CPX-2946	PMID:12847084		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA				20150420		NCBITaxon:559292
+ParkinsonsUK-UCL	RGD:620794	Nploc4	PMID:12847084	contributes_to	GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		RGD:620794	PANTHER:PTHR12710	20150420		NCBITaxon:10116
+ParkinsonsUK-UCL	RGD:620794	Nploc4	PMID:12847084	contributes_to	GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		RGD:620794	PANTHER:PTHR12710	20150420		NCBITaxon:10116
+ParkinsonsUK-UCL	UniProtKB:Q04323	UBXN1	PMID:21135095		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q04323	PANTHER:PTHR46340	20150611	GO:1904293	NCBITaxon:9606
+PomBase	PomBase:SPAC26A3.16	dsk2	PMID:11584278		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		PomBase:SPAC26A3.16	PANTHER:PTHR10677	20080115		NCBITaxon:4896
+PomBase	PomBase:SPBC4F6.15c	swi10	PMID:11584278		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		PomBase:SPBC4F6.15c	PANTHER:PTHR12749	20080115		NCBITaxon:4896
+PomBase	PomBase:SPAC56F8.08	mud1	PMID:11584278		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		PomBase:SPAC56F8.08	PANTHER:PTHR12917	20080115		NCBITaxon:4896
+PomBase	PomBase:SPBC83.01	ucp8	PMID:12672455		GO:0031593	polyubiquitin modification-dependent protein binding	TAS		PomBase:SPBC83.01	PANTHER:PTHR11216	20050920		NCBITaxon:4896
+PomBase	PomBase:SPAC17A5.12	ucp7	PMID:12672455		GO:0031593	polyubiquitin modification-dependent protein binding	TAS		PomBase:SPAC17A5.12	PANTHER:PTHR23172	20050920		NCBITaxon:4896
+PomBase	PomBase:SPBC21D10.05c	ucp3	PMID:12672455		GO:0031593	polyubiquitin modification-dependent protein binding	TAS		PomBase:SPBC21D10.05c	PANTHER:PTHR45705	20050920		NCBITaxon:4896
+PomBase	PomBase:SPAC3F10.13	ucp6	PMID:12672455		GO:0031593	polyubiquitin modification-dependent protein binding	TAS		PomBase:SPAC3F10.13	PANTHER:PTHR39597	20050920		NCBITaxon:4896
+PomBase	PomBase:SPAC56F8.08	mud1	PMID:16138082		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		PomBase:SPAC56F8.08	PANTHER:PTHR12917	20230215		NCBITaxon:4896
+PomBase	PomBase:SPAC637.10c	rpn10	PMID:20739285		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		PomBase:SPAC637.10c		20130918		NCBITaxon:4896
+PomBase	PomBase:SPAC19B12.10	sst2	PMID:26368668		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		PomBase:SPAC19B12.10	PANTHER:PTHR12947	20151203		NCBITaxon:4896
+RGD	RGD:3803	Syt1	PMID:14715137		GO:0140032	glycosylation-dependent protein binding	IMP		RGD:3803	PANTHER:PTHR10024	20260526		NCBITaxon:10116
+RGD	RGD:621314	Hspd1	PMID:9811814		GO:0140030	modification-dependent protein binding	IPI	RGD:1359615|RGD:1561359	RGD:621314	PANTHER:PTHR45633	20080717		NCBITaxon:10116
+SGD	SGD:S000003280	UFD1	PMID:16004872		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		SGD:S000003280	PANTHER:PTHR12555	20130807		NCBITaxon:559292
+SGD	SGD:S000000154	SHP1	PMID:28525741		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		SGD:S000000154	PANTHER:PTHR23333	20220414		NCBITaxon:559292
+SGD	SGD:S000004196	ENT2	PMID:28525741		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		SGD:S000004196	PANTHER:PTHR12276	20220414		NCBITaxon:559292
+SGD	SGD:S000004196	ENT2	PMID:28525741		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		SGD:S000004196	PANTHER:PTHR12276	20220414		NCBITaxon:559292
+SGD	SGD:S000005568	CUE5	PMID:28525741		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		SGD:S000005568	PANTHER:PTHR16461	20220414		NCBITaxon:559292
+SGD	SGD:S000005568	CUE5	PMID:28525741		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		SGD:S000005568	PANTHER:PTHR16461	20220414		NCBITaxon:559292
+SGD	SGD:S000004889	DSK2	PMID:28525741		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		SGD:S000004889	PANTHER:PTHR10677	20220414		NCBITaxon:559292
+SGD	SGD:S000005289	VPS27	PMID:28525741		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		SGD:S000005289	PANTHER:PTHR47794	20220414		NCBITaxon:559292
+SGD	SGD:S000005289	VPS27	PMID:28525741		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		SGD:S000005289	PANTHER:PTHR47794	20220414		NCBITaxon:559292
+SGD	SGD:S000000763	RAD23	PMID:28525741		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		SGD:S000000763	PANTHER:PTHR10621	20220414		NCBITaxon:559292
+SGD	SGD:S000000374	NPL4	PMID:28525741		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		SGD:S000000374	PANTHER:PTHR12710	20220414		NCBITaxon:559292
+SGD	SGD:S000001696	DOA1	PMID:28525741		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		SGD:S000001696	PANTHER:PTHR19849	20220414		NCBITaxon:559292
+SGD	SGD:S000002320	ENT1	PMID:28525741		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		SGD:S000002320	PANTHER:PTHR12276	20220414		NCBITaxon:559292
+SGD	SGD:S000000945	DDI1	PMID:32193351		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		SGD:S000000945	PANTHER:PTHR12917	20200415		NCBITaxon:559292
+SGD	SGD:S000000945	DDI1	PMID:32193351		GO:0031593	polyubiquitin modification-dependent protein binding	IMP		SGD:S000000945	PANTHER:PTHR12917	20200415		NCBITaxon:559292
+SGD	SGD:S000001243	RPN10	PMID:8887631		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		SGD:S000001243	PANTHER:PTHR10223	20190731		NCBITaxon:559292
+UniProt	MGI:MGI:97616	Plcg2	PMID:10744659		GO:0140031	phosphorylation-dependent protein binding	IPI	UniProtKB:Q9QZE2	MGI:MGI:97616	PANTHER:PTHR10336	20200423		NCBITaxon:10090
+UniProt	MGI:MGI:98923	Vav1	PMID:10744659		GO:0140031	phosphorylation-dependent protein binding	IPI	UniProtKB:Q9QZE2	MGI:MGI:98923	PANTHER:PTHR45818	20200423		NCBITaxon:10090
+UniProt	UniProtKB:P29350	PTPN6	PMID:11162587		GO:0140031	phosphorylation-dependent protein binding	IPI	UniProtKB:Q96LA5	UniProtKB:P29350	PANTHER:PTHR46257	20200401		NCBITaxon:9606
+UniProt	UniProtKB:O14508	SOCS2	PMID:11781573		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:O14508	PANTHER:PTHR10155	20240424	UniProtKB:P19235	NCBITaxon:9606
+UniProt	UniProtKB:P07948	LYN	PMID:11782428		GO:0140031	phosphorylation-dependent protein binding	IPI	UniProtKB:Q8NDB2	UniProtKB:P07948	PANTHER:PTHR24418	20170818		NCBITaxon:9606
+UniProt	UniProtKB:P29350	PTPN6	PMID:12163025		GO:0140031	phosphorylation-dependent protein binding	IPI	UniProtKB:Q96LC7	UniProtKB:P29350	PANTHER:PTHR46257	20171214		NCBITaxon:9606
+UniProt	UniProtKB:Q86Y13	DZIP3	PMID:12538761		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q86Y13	PANTHER:PTHR15727	20051123		NCBITaxon:9606
+UniProt	UniProtKB:P54725	RAD23A	PMID:12643283		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:P54725	PANTHER:PTHR10621	20100924		NCBITaxon:9606
+UniProt	UniProtKB:P47543	gapA	PMID:12787366		GO:0140032	glycosylation-dependent protein binding	IPI	UniProtKB:Q9HC84	UniProtKB:P47543	PANTHER:PTHR43148	20170725		NCBITaxon:243273
+UniProt	UniProtKB:P47516	pdhA	PMID:12787366		GO:0140032	glycosylation-dependent protein binding	IPI	UniProtKB:Q9HC84	UniProtKB:P47516	PANTHER:PTHR43380	20170725		NCBITaxon:243273
+UniProt	UniProtKB:P47515	pdhB	PMID:12787366		GO:0140032	glycosylation-dependent protein binding	IPI	UniProtKB:Q9HC84	UniProtKB:P47515	PANTHER:PTHR42980	20170725		NCBITaxon:243273
+UniProt	UniProtKB:O60784	TOM1	PMID:14563850		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:O60784	PANTHER:PTHR13856	20220520		NCBITaxon:9606
+UniProt	UniProtKB:O60784	TOM1	PMID:15047686		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:O60784	PANTHER:PTHR13856	20220520		NCBITaxon:9606
+UniProt	UniProtKB:Q9UMX0	UBQLN1	PMID:15147878		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9UMX0	PANTHER:PTHR10677	20150401		NCBITaxon:9606
+UniProt	UniProtKB:Q9NRR5	UBQLN4	PMID:15280365		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9NRR5	PANTHER:PTHR10677	20120125		NCBITaxon:9606
+UniProt	UniProtKB:Q8N5C8	TAB3	PMID:15327770		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8N5C8	PANTHER:PTHR46253	20210216		NCBITaxon:9606
+UniProt	UniProtKB:Q9NYJ8	TAB2	PMID:15327770		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9NYJ8	PANTHER:PTHR46253	20210216		NCBITaxon:9606
+UniProt	UniProtKB:Q04323	UBXN1	PMID:15362974		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q04323	PANTHER:PTHR46340	20081128		NCBITaxon:9606
+UniProt	MGI:MGI:1201787	Socs2	PMID:15690087		GO:0140031	phosphorylation-dependent protein binding	IMP		MGI:MGI:1201787	PANTHER:PTHR10155	20240423	UniProtKB:P16882	NCBITaxon:10090
+UniProt	UniProtKB:Q9BSL1	UBAC1	PMID:16227581		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9BSL1	PANTHER:PTHR46738	20230329		NCBITaxon:9606
+UniProt	MGI:MGI:107931	Sqstm1	PMID:16252010		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		MGI:MGI:107931	PANTHER:PTHR15090	20110223		NCBITaxon:10090
+UniProt	UniProtKB:Q96RL1	UIMC1	PMID:17525341		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q96RL1	PANTHER:PTHR15932	20090422		NCBITaxon:9606
+UniProt	UniProtKB:Q96RL1	UIMC1	PMID:17525342		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q96RL1	PANTHER:PTHR15932	20090422		NCBITaxon:9606
+UniProt	UniProtKB:Q92547	TOPBP1	PMID:17575048		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:Q92547	PANTHER:PTHR13561	20230915	UniProtKB:Q99638	NCBITaxon:9606
+UniProt	UniProtKB:Q8IW19	APLF	PMID:18172500		GO:0160002	ADP-D-ribose modification-dependent protein binding	IDA		UniProtKB:Q8IW19	PANTHER:PTHR21315	20220518		NCBITaxon:9606
+UniProt	MGI:MGI:1926194	Tnip1	PMID:18212736		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		MGI:MGI:1926194	PANTHER:PTHR31882	20120511		NCBITaxon:10090
+UniProt	UniProtKB:Q8NFZ5	TNIP2	PMID:18212736		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8NFZ5	PANTHER:PTHR31882	20120511		NCBITaxon:9606
+UniProt	UniProtKB:Q96KP6	TNIP3	PMID:18212736		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q96KP6	PANTHER:PTHR31882	20120511		NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6K9	IKBKG	PMID:18287044		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9Y6K9	PANTHER:PTHR31553	20210331		NCBITaxon:9606
+UniProt	UniProtKB:O60934	NBN	PMID:18411307		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:O60934	PANTHER:PTHR12162	20240118	UniProtKB:Q14676	NCBITaxon:9606
+UniProt	UniProtKB:O60934	NBN	PMID:18582474		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:O60934	PANTHER:PTHR12162	20240118	UniProtKB:Q14676	NCBITaxon:9606
+UniProt	UniProtKB:O60934	NBN	PMID:18583988		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:O60934	PANTHER:PTHR12162	20240118	UniProtKB:Q14676	NCBITaxon:9606
+UniProt	UniProtKB:O60934	NBN	PMID:18678890		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:O60934	PANTHER:PTHR12162	20240118	UniProtKB:Q14676	NCBITaxon:9606
+UniProt	UniProtKB:Q09472	EP300	PMID:18782771		GO:0140033	acetylation-dependent protein binding	IDA		UniProtKB:Q09472	PANTHER:PTHR13808	20231027	UniProtKB:P40763	NCBITaxon:9606
+UniProt	UniProtKB:P46736	BRCC3	PMID:19261749		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:P46736	PANTHER:PTHR10410	20090422		NCBITaxon:9606
+UniProt	UniProtKB:Q6UWZ7	ABRAXAS1	PMID:19261749		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q6UWZ7	PANTHER:PTHR31728	20090422		NCBITaxon:9606
+UniProt	UniProtKB:Q96RL1	UIMC1	PMID:19261749		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q96RL1	PANTHER:PTHR15932	20090422		NCBITaxon:9606
+UniProt	UniProtKB:Q9NXR7	BABAM2	PMID:19261749		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9NXR7	PANTHER:PTHR15189	20090422		NCBITaxon:9606
+UniProt	UniProtKB:Q15018	ABRAXAS2	PMID:19261749		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q15018	PANTHER:PTHR31728	20090422		NCBITaxon:9606
+UniProt	UniProtKB:P54727	RAD23B	PMID:19435460		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:P54727	PANTHER:PTHR10621	20100924		NCBITaxon:9606
+UniProt	UniProtKB:Q8IYW5	RNF168	PMID:19500350		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8IYW5	PANTHER:PTHR23328	20120827		NCBITaxon:9606
+UniProt	PomBase:SPBC6B1.09c	nbs1	PMID:19804755		GO:0140031	phosphorylation-dependent protein binding	IDA		PomBase:SPBC6B1.09c	PANTHER:PTHR12162	20240118		NCBITaxon:4896
+UniProt	PomBase:SPBC6B1.09c	nbs1	PMID:19804756		GO:0140031	phosphorylation-dependent protein binding	IDA		PomBase:SPBC6B1.09c	PANTHER:PTHR12162	20240118		NCBITaxon:4896
+UniProt	UniProtKB:O60934	NBN	PMID:19804756		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:O60934	PANTHER:PTHR12162	20240118		NCBITaxon:9606
+UniProt	UniProtKB:Q9NYJ8	TAB2	PMID:19935683		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9NYJ8	PANTHER:PTHR46253	20100624		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT1G16190	RAD23A	PMID:20086187		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		AGI_LocusCode:AT1G16190		20130612		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT3G02540	RAD23C	PMID:20086187		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		AGI_LocusCode:AT3G02540		20130612		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT1G79650	RAD23B	PMID:20086187		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		AGI_LocusCode:AT1G79650		20130612		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT5G38470	RAD23D	PMID:20086187		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		AGI_LocusCode:AT5G38470		20130612		NCBITaxon:3702
+UniProt	UniProtKB:Q04323	UBXN1	PMID:20351172		GO:0071796	K6-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q04323	PANTHER:PTHR46340	20110622		NCBITaxon:9606
+UniProt	UniProtKB:Q92547	TOPBP1	PMID:20545769		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:Q92547	PANTHER:PTHR13561	20230915	UniProtKB:Q99638	NCBITaxon:9606
+UniProt	UniProtKB:Q6P2Q9	PRPF8	PMID:20595234		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q6P2Q9	PANTHER:PTHR11140	20140918		NCBITaxon:9606
+UniProt	MGI:MGI:1919439	Bag6	PMID:20713601		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		MGI:MGI:1919439	PANTHER:PTHR15204	20101105		NCBITaxon:10090
+UniProt	WB:WBGene00018586	ubxn-3	PMID:20977550		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		WB:WBGene00018586	PANTHER:PTHR23322	20180327		NCBITaxon:6239
+UniProt	WB:WBGene00017733	ubxn-1	PMID:20977550		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		WB:WBGene00017733	PANTHER:PTHR46340	20180327		NCBITaxon:6239
+UniProt	WB:WBGene00022381	ubxn-2	PMID:20977550		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		WB:WBGene00022381	PANTHER:PTHR23333	20180327		NCBITaxon:6239
+UniProt	UniProtKB:Q8IYW5	RNF168	PMID:21041483		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8IYW5	PANTHER:PTHR23328	20120827		NCBITaxon:9606
+UniProt	UniProtKB:Q9H0F6	SHARPIN	PMID:21455173		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9H0F6	PANTHER:PTHR22770	20110415		NCBITaxon:9606
+UniProt	UniProtKB:Q9H0F6	SHARPIN	PMID:21455181		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9H0F6	PANTHER:PTHR22770	20110415		NCBITaxon:9606
+UniProt	UniProtKB:Q92547	TOPBP1	PMID:21482717		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:Q92547	PANTHER:PTHR13561	20230915	UniProtKB:Q14676	NCBITaxon:9606
+UniProt	UniProtKB:Q96CV9	OPTN	PMID:21617041		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q96CV9	PANTHER:PTHR31553	20140702		NCBITaxon:9606
+UniProt	UniProtKB:P25686	DNAJB2	PMID:21625540		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:P25686-2	PANTHER:PTHR45168	20161021		NCBITaxon:9606
+UniProt	AGI_LocusCode:AT3G02540	RAD23C	PMID:21764993		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		AGI_LocusCode:AT3G02540		20130612		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT3G13235	DDI1	PMID:21764993		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		AGI_LocusCode:AT3G13235		20130612		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT2G17190	DSK2A	PMID:21764993		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		AGI_LocusCode:AT2G17190		20130612		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT4G38630	RPN10	PMID:21764993		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		AGI_LocusCode:AT4G38630		20130612		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT2G17200	DSK2B	PMID:21764993		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		AGI_LocusCode:AT2G17200		20130612		NCBITaxon:3702
+UniProt	UniProtKB:Q92547	TOPBP1	PMID:21777809		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:Q92547	PANTHER:PTHR13561	20230915	UniProtKB:Q13535	NCBITaxon:9606
+UniProt	UniProtKB:O14508	SOCS2	PMID:21980433		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:O14508	PANTHER:PTHR10155	20240423	UniProtKB:P10912	NCBITaxon:9606
+UniProt	MGI:MGI:1929510	Zfand6	PMID:21980954		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		MGI:MGI:1929510	PANTHER:PTHR10634	20120604		NCBITaxon:10090
+UniProt	UniProtKB:Q8N5C8	TAB3	PMID:22158122		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8N5C8	PANTHER:PTHR46253	20210216		NCBITaxon:9606
+UniProt	UniProtKB:Q9NYJ8	TAB2	PMID:22158122		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9NYJ8	PANTHER:PTHR46253	20210216		NCBITaxon:9606
+UniProt	UniProtKB:Q6NZ36	FAAP20	PMID:22343915		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q6NZ36	PANTHER:PTHR37862	20120824		NCBITaxon:9606
+UniProt	UniProtKB:Q6NZ36	FAAP20	PMID:22396592		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q6NZ36	PANTHER:PTHR37862	20120824		NCBITaxon:9606
+UniProt	UniProtKB:Q8NCN4	RNF169	PMID:22492721		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8NCN4	PANTHER:PTHR23328	20120430		NCBITaxon:9606
+UniProt	UniProtKB:Q9H040	SPRTN	PMID:22681887		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9H040	PANTHER:PTHR21220	20120726		NCBITaxon:9606
+UniProt	UniProtKB:Q5FWF4	ZRANB3	PMID:22704558		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q5FWF4	PANTHER:PTHR45766	20120824		NCBITaxon:9606
+UniProt	UniProtKB:Q5FWF4	ZRANB3	PMID:22705370		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q5FWF4	PANTHER:PTHR45766	20120824		NCBITaxon:9606
+UniProt	UniProtKB:Q6NZ36	FAAP20	PMID:22705371		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q6NZ36	PANTHER:PTHR37862	20120824		NCBITaxon:9606
+UniProt	UniProtKB:Q8NCN4	RNF169	PMID:22733822		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8NCN4	PANTHER:PTHR23328	20120824		NCBITaxon:9606
+UniProt	UniProtKB:Q8IYW5	RNF168	PMID:22742833		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8IYW5	PANTHER:PTHR23328	20120827		NCBITaxon:9606
+UniProt	UniProtKB:Q8NCN4	RNF169	PMID:22742833		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8NCN4	PANTHER:PTHR23328	20120824		NCBITaxon:9606
+UniProt	UniProtKB:Q96RL1	UIMC1	PMID:22742833		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q96RL1	PANTHER:PTHR15932	20120827		NCBITaxon:9606
+UniProt	UniProtKB:Q9NS91	RAD18	PMID:22742833		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9NS91	PANTHER:PTHR14134	20120827		NCBITaxon:9606
+UniProt	UniProtKB:Q5FWF4	ZRANB3	PMID:22759634		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q5FWF4	PANTHER:PTHR45766	20120824		NCBITaxon:9606
+UniProt	UniProtKB:Q9H040	SPRTN	PMID:23042605		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9H040	PANTHER:PTHR21220	20121102		NCBITaxon:9606
+UniProt	UniProtKB:Q53GL7	PARP10	PMID:23575687		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IMP		UniProtKB:Q53GL7	PANTHER:PTHR14453	20140103		NCBITaxon:9606
+UniProt	UniProtKB:Q92547	TOPBP1	PMID:23891287		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:Q92547	PANTHER:PTHR13561	20230914	UniProtKB:Q14676	NCBITaxon:9606
+UniProt	MGI:MGI:1916068	Zfand2b	PMID:24160817		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		MGI:MGI:1916068	PANTHER:PTHR14677	20180405		NCBITaxon:10090
+UniProt	MGI:MGI:2651588	Socs7	PMID:24210661		GO:0140031	phosphorylation-dependent protein binding	IDA		MGI:MGI:2651588	PANTHER:PTHR10155	20240425	UniProtKB:P97318	NCBITaxon:10090
+UniProt	UniProtKB:Q8WXE1	ATRIP	PMID:24332808		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8WXE1	PANTHER:PTHR28594	20140917		NCBITaxon:9606
+UniProt	UniProtKB:A8MW92	PHF20L1	PMID:24492612		GO:0140034	methylation-dependent protein binding	IPI	UniProtKB:P26358	UniProtKB:A8MW92	PANTHER:PTHR15856	20221010		NCBITaxon:9606
+UniProt	UniProtKB:O60934	NBN	PMID:24534091		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:O60934	PANTHER:PTHR12162	20240118	UniProtKB:O75943	NCBITaxon:9606
+UniProt	UniProtKB:Q9Y2K1	ZBTB1	PMID:24657165		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9Y2K1	PANTHER:PTHR24399	20160111		NCBITaxon:9606
+UniProt	UniProtKB:P42566	EPS15	PMID:24768539		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:P42566	PANTHER:PTHR11216	20140701		NCBITaxon:9606
+UniProt	MGI:MGI:1929612	Ikbke	PMID:24882218		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		MGI:MGI:1929612	PANTHER:PTHR22969	20160104	UBERON:0002048|UniProtKB:Q8BGE7|WBls:0034340	NCBITaxon:10090
+UniProt	UniProtKB:Q14164	IKBKE	PMID:24882218	not	GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IMP		UniProtKB:Q14164	PANTHER:PTHR22969	20150709		NCBITaxon:9606
+UniProt	UniProtKB:Q14164	IKBKE	PMID:24882218		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IMP	UniProtKB:Q9C030	UniProtKB:Q14164	PANTHER:PTHR22969	20160104	UniProtKB:Q9C030|GO:0006468|GO:0051260	NCBITaxon:9606
+UniProt	UniProtKB:Q13438	OS9	PMID:24899641		GO:0140032	glycosylation-dependent protein binding	IDA		UniProtKB:Q13438	PANTHER:PTHR15414	20241126	UniProtKB:P14625|GO:0036503	NCBITaxon:9606
+UniProt	UniProtKB:O14508	SOCS2	PMID:25505247		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:O14508	PANTHER:PTHR10155	20240423	UniProtKB:P10912	NCBITaxon:9606
+UniProt	UniProtKB:Q9UGI0	ZRANB1	PMID:25752573		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9UGI0	PANTHER:PTHR13367	20210730		NCBITaxon:9606
+UniProt	UniProtKB:Q9UGI0	ZRANB1	PMID:25752577		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9UGI0	PANTHER:PTHR13367	20210730		NCBITaxon:9606
+UniProt	UniProtKB:Q01484	ANK2	PMID:25950943		GO:0140031	phosphorylation-dependent protein binding	IPI	UniProtKB:B3KU38	UniProtKB:Q01484	PANTHER:PTHR24133	20181004		NCBITaxon:9606
+UniProt	UniProtKB:Q01484	ANK2	PMID:25950943		GO:0140031	phosphorylation-dependent protein binding	IPI	UniProtKB:P0DPB3	UniProtKB:Q01484	PANTHER:PTHR24133	20181004		NCBITaxon:9606
+UniProt	RGD:620157	Ank3	PMID:25950943		GO:0140031	phosphorylation-dependent protein binding	IPI	UniProtKB:B3KU38	RGD:620157	PANTHER:PTHR24126	20181003		NCBITaxon:10116
+UniProt	RGD:620157	Ank3	PMID:25950943		GO:0140031	phosphorylation-dependent protein binding	IPI	UniProtKB:P0DPB3	RGD:620157	PANTHER:PTHR24126	20181003		NCBITaxon:10116
+UniProt	UniProtKB:Q92547	TOPBP1	PMID:26811421		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:Q92547	PANTHER:PTHR13561	20230918	UniProtKB:Q06609	NCBITaxon:9606
+UniProt	MGI:MGI:1916068	Zfand2b	PMID:26876100		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		MGI:MGI:1916068	PANTHER:PTHR14677	20180410		NCBITaxon:10090
+UniProt	UniProtKB:Q8WV99	ZFAND2B	PMID:26876100		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8WV99	PANTHER:PTHR14677	20180406		NCBITaxon:9606
+UniProt	UniProtKB:Q9ULM3	YEATS2	PMID:27103431		GO:0140030	modification-dependent protein binding	IDA		UniProtKB:Q9ULM3	PANTHER:PTHR23195	20170824		NCBITaxon:9606
+UniProt	UniProtKB:P42568	MLLT3	PMID:27105114		GO:0140030	modification-dependent protein binding	IDA		UniProtKB:P42568	PANTHER:PTHR47827	20170824		NCBITaxon:9606
+UniProt	SGD:S000002284	CDC48	PMID:27129255		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		SGD:S000002284	PANTHER:PTHR23077	20230301	GO:1990116	NCBITaxon:559292
+UniProt	UniProtKB:P42568	MLLT3	PMID:27545619		GO:0140030	modification-dependent protein binding	IDA		UniProtKB:P42568	PANTHER:PTHR47827	20170824		NCBITaxon:9606
+UniProt	UniProtKB:Q9NYJ8	TAB2	PMID:27746020		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9NYJ8	PANTHER:PTHR46253	20240930	GO:0043123	NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6K9	IKBKG	PMID:27777308		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9Y6K9	PANTHER:PTHR31553	20230324	GO:0042742|GO:0043123	NCBITaxon:9606
+UniProt	UniProtKB:Q9Y6K9	IKBKG	PMID:27777308		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9Y6K9	PANTHER:PTHR31553	20230324	GO:0043123|GO:0008384	NCBITaxon:9606
+UniProt	UniProtKB:O60934	NBN	PMID:27814491		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:O60934	PANTHER:PTHR12162	20240123	UniProtKB:Q99708	NCBITaxon:9606
+UniProt	UniProtKB:Q8N5J2	MINDY1	PMID:28082312		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8N5J2	PANTHER:PTHR18063	20170224		NCBITaxon:9606
+UniProt	UniProtKB:Q8NBR6	MINDY2	PMID:28082312		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8NBR6	PANTHER:PTHR18063	20170224		NCBITaxon:9606
+UniProt	UniProtKB:Q8NBR6	MINDY2	PMID:28082312		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8NBR6	PANTHER:PTHR18063	20170224		NCBITaxon:9606
+UniProt	UniProtKB:Q8NBR6	MINDY2	PMID:28082312		GO:0071795	K11-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8NBR6	PANTHER:PTHR18063	20170224		NCBITaxon:9606
+UniProt	UniProtKB:Q8NBR6	MINDY2	PMID:28082312		GO:0071796	K6-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q8NBR6	PANTHER:PTHR18063	20170224		NCBITaxon:9606
+UniProt	MGI:MGI:99495	Brd2	PMID:28262505		GO:0140033	acetylation-dependent protein binding	IDA		MGI:MGI:99495	PANTHER:PTHR22880	20231030	UniProtKB:P42227	NCBITaxon:10090
+UniProt	UniProtKB:P25440	BRD2	PMID:28262505		GO:0140033	acetylation-dependent protein binding	IDA		UniProtKB:P25440	PANTHER:PTHR45926	20231030	UniProtKB:P40763	NCBITaxon:9606
+UniProt	UniProtKB:Q562E7	WDR81	PMID:28404643		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q562E7	PANTHER:PTHR44662	20170808		NCBITaxon:9606
+UniProt	UniProtKB:Q13501	SQSTM1	PMID:28404643		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q13501	PANTHER:PTHR15090	20170809		NCBITaxon:9606
+UniProt	MGI:MGI:1349392	Macroh2a1	PMID:28991266		GO:0160002	ADP-D-ribose modification-dependent protein binding	IDA		PR:Q9QZQ8-2	PANTHER:PTHR23430	20220518	UniProtKB:P11103|GO:0010836	NCBITaxon:10090
+UniProt	MGI:MGI:1349392	Macroh2a1	PMID:28991266		GO:0160002	ADP-D-ribose modification-dependent protein binding	IDA		MGI:MGI:1349392	PANTHER:PTHR23430	20220525	GO:0002082|GO:1902688|GO:0005634|MGI:MGI:1340806|GO:0003950	NCBITaxon:10090
+UniProt	UniProtKB:Q86WJ1	CHD1L	PMID:29220652		GO:0160004	poly-ADP-D-ribose modification-dependent protein binding	IDA		UniProtKB:Q86WJ1	PANTHER:PTHR47157	20220504		NCBITaxon:9606
+UniProt	UniProtKB:Q86WJ1	CHD1L	PMID:29220653		GO:0160004	poly-ADP-D-ribose modification-dependent protein binding	IDA		UniProtKB:Q86WJ1	PANTHER:PTHR47157	20220504		NCBITaxon:9606
+UniProt	FB:FBgn0052113	Vps13D	PMID:29307555		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		FB:FBgn0052113	PANTHER:PTHR16166	20181030		NCBITaxon:7227
+UniProt	UniProtKB:Q13501	SQSTM1	PMID:29343546		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q13501	PANTHER:PTHR15090	20231109	GO:0140694	NCBITaxon:9606
+UniProt	UniProtKB:A8MW92	PHF20L1	PMID:29358331		GO:0140034	methylation-dependent protein binding	IPI	UniProtKB:P48431	UniProtKB:A8MW92	PANTHER:PTHR15856	20221010		NCBITaxon:9606
+UniProt	UniProtKB:Q9NRR5	UBQLN4	PMID:29666234		GO:0031593	polyubiquitin modification-dependent protein binding	IPI	UniProtKB:Q6ICB0	UniProtKB:Q9NRR5	PANTHER:PTHR10677	20200130		NCBITaxon:9606
+UniProt	UniProtKB:Q9NRR5	UBQLN4	PMID:29666234		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9NRR5	PANTHER:PTHR10677	20200130		NCBITaxon:9606
+UniProt	UniProtKB:Q96JM7	L3MBTL3	PMID:29691401		GO:0140034	methylation-dependent protein binding	IPI	UniProtKB:P26358	UniProtKB:Q96JM7	PANTHER:PTHR12247	20221010		NCBITaxon:9606
+UniProt	UniProtKB:Q9UGN5	PARP2	PMID:30104678		GO:0160004	poly-ADP-D-ribose modification-dependent protein binding	IDA		UniProtKB:Q9UGN5	PANTHER:PTHR10459	20220525	GO:0006281|GO:0090734|UniProtKB:P09874|GO:0003950	NCBITaxon:9606
+UniProt	UniProtKB:Q9NRR5	UBQLN4	PMID:30612738		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9NRR5	PANTHER:PTHR10677	20190318		NCBITaxon:9606
+UniProt	UniProtKB:O60934	NBN	PMID:30787182		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:O60934	PANTHER:PTHR12162	20240123	UniProtKB:Q99708	NCBITaxon:9606
+UniProt	UniProtKB:Q92547	TOPBP1	PMID:30898438		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:Q92547	PANTHER:PTHR13561	20230915	UniProtKB:Q14676	NCBITaxon:9606
+UniProt	UniProtKB:Q92547	TOPBP1	PMID:31135337		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:Q92547	PANTHER:PTHR13561	20230915	UniProtKB:Q12888	NCBITaxon:9606
+UniProt	UniProtKB:O14508	SOCS2	PMID:31182716		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:O14508	PANTHER:PTHR10155	20240424	UniProtKB:P10912	NCBITaxon:9606
+UniProt	UniProtKB:O14508	SOCS2	PMID:31182716		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:O14508	PANTHER:PTHR10155	20240424	UniProtKB:P19235	NCBITaxon:9606
+UniProt	UniProtKB:P18887	XRCC1	PMID:34102106		GO:0160002	ADP-D-ribose modification-dependent protein binding	IDA		UniProtKB:P18887	PANTHER:PTHR11370	20220525	GO:0006284|GO:1905051|UniProtKB:P09874|GO:1990404	NCBITaxon:9606
+UniProt	UniProtKB:Q86WJ1	CHD1L	PMID:34486521		GO:0160004	poly-ADP-D-ribose modification-dependent protein binding	IDA		UniProtKB:Q86WJ1	PANTHER:PTHR47157	20220505		NCBITaxon:9606
+UniProt	UniProtKB:Q86WJ1	CHD1L	PMID:34486521		GO:0160004	poly-ADP-D-ribose modification-dependent protein binding	IDA		UniProtKB:Q86WJ1-5	PANTHER:PTHR47157	20220518	GO:0006281|GO:0090734|GO:0140658	NCBITaxon:9606
+UniProt	UniProtKB:O14508	SOCS2	PMID:34857742		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:O14508	PANTHER:PTHR10155	20240424	UniProtKB:P10912	NCBITaxon:9606
+UniProt	UniProtKB:Q86WJ1	CHD1L	PMID:34874266		GO:0160004	poly-ADP-D-ribose modification-dependent protein binding	IDA		UniProtKB:Q86WJ1	PANTHER:PTHR47157	20220505		NCBITaxon:9606
+UniProt	MGI:MGI:1922815	Sgf29	PMID:35210392		GO:0140034	methylation-dependent protein binding	IDA		MGI:MGI:1922815	PANTHER:PTHR21539	20220516	UniProtKB:Q8C6L5	NCBITaxon:10090
+UniProt	MGI:MGI:2442261	Cgas	PMID:35210392		GO:0160004	poly-ADP-D-ribose modification-dependent protein binding	IDA		MGI:MGI:2442261	PANTHER:PTHR10656	20220516	UniProtKB:P11103|GO:2000042	NCBITaxon:10090
+UniProt	UniProtKB:Q92547	TOPBP1	PMID:35597237		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:Q92547	PANTHER:PTHR13561	20230918	UniProtKB:O43719	NCBITaxon:9606
+UniProt	UniProtKB:O43719	HTATSF1	PMID:35597237		GO:0160004	poly-ADP-D-ribose modification-dependent protein binding	IDA		UniProtKB:O43719	PANTHER:PTHR15608	20230918	UniProtKB:P27694	NCBITaxon:9606
+UniProt	UniProtKB:Q9H1I8	ASCC2	PMID:36302773		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:Q9H1I8	PANTHER:PTHR21494	20230215	UniProtKB:P60866|GO:0072344	NCBITaxon:9606
+UniProt	SGD:S000001573	CUE2	PMID:36583309		GO:0031593	polyubiquitin modification-dependent protein binding	IDA		SGD:S000001573	PANTHER:PTHR46535	20230215		NCBITaxon:559292
+UniProt	SGD:S000001573	CUE2	PMID:36583309		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	TAS		SGD:S000001573	PANTHER:PTHR46535	20230214	SGD:S000005040|SGD:S000005622	NCBITaxon:559292
+UniProt	SGD:S000001731	RQT4	PMID:36627279		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		SGD:S000001731	PANTHER:PTHR12963	20230214	UniProtKB:P38701	NCBITaxon:559292
+UniProt	SGD:S000003078	CUE3	PMID:36627279		GO:0070530	K63-linked polyubiquitin modification-dependent protein binding	IDA		SGD:S000003078	PANTHER:PTHR21494	20230214	UniProtKB:P38701	NCBITaxon:559292
+UniProt	UniProtKB:P61981	YWHAG	PMID:36732624		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:P61981	PANTHER:PTHR18860	20240321	UniProtKB:Q96S15	NCBITaxon:9606
+UniProt	UniProtKB:Q92547	TOPBP1	PMID:37674080		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:Q92547	PANTHER:PTHR13561	20230914	UniProtKB:O75417	NCBITaxon:9606
+UniProt	UniProtKB:P55072	VCP	PMID:37816088		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IDA		UniProtKB:P55072	PANTHER:PTHR23077	20231026	GO:1901224|UniProtKB:Q00653|GO:0001228	NCBITaxon:9606
+UniProt	UniProtKB:O14508	SOCS2	PMID:37816714		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:O14508	PANTHER:PTHR10155	20240425		NCBITaxon:9606
+UniProt	UniProtKB:P61981	YWHAG	PMID:38377992		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:P61981	PANTHER:PTHR18860	20240321	UniProtKB:O94874	NCBITaxon:9606
+UniProt	UniProtKB:Q9HAT8	PELI2	PMID:38917796		GO:0140031	phosphorylation-dependent protein binding	IDA		UniProtKB:Q9HAT8	PANTHER:PTHR12098	20260422	UniProtKB:Q86WV6	NCBITaxon:9606
