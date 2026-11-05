@@ -1,0 +1,5 @@
+term	file	line
+GO:0033727	ec2go	EC:1.2.99.7 > GO:aldehyde dehydrogenase (FAD-independent) activity ; GO:0033727
+GO:0033727	metacyc2go	MetaCyc:1.2.99.7-RXN > GO:aldehyde dehydrogenase (FAD-independent) activity ; GO:0033727
+GO:0047770	ec2go	EC:1.2.99.6 > GO:carboxylate reductase activity ; GO:0047770
+GO:0047770	metacyc2go	MetaCyc:CARBOXYLATE-REDUCTASE-RXN > GO:carboxylate reductase activity ; GO:0047770
