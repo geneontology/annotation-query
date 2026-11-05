@@ -1,0 +1,85 @@
+term	file	line
+GO:0007155	hamap2go	HAMAP:MF_03016 > GO:cell adhesion ; GO:0007155
+GO:0007155	unirule2go	UniRule:UR000107182 > GO:cell adhesion ; GO:0007155
+GO:0007155	unirule2go	UniRule:UR000143785 > GO:cell adhesion ; GO:0007155
+GO:0007155	unirule2go	UniRule:UR000168462 > GO:cell adhesion ; GO:0007155
+GO:0007155	unirule2go	UniRule:UR000931755 > GO:cell adhesion ; GO:0007155
+GO:0007155	unirule2go	UniRule:UR001348786 > GO:cell adhesion ; GO:0007155
+GO:0007155	unirule2go	UniRule:UR001528771 > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR000259 Fimbrial-type adhesion domain > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR000413 Integrin alpha chain > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR000538 Link domain > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR000633 Vinculin, conserved site > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR000931 Adenovirus fibre protein > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR001033 Alpha-catenin > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR001082 Fimbrial protein pilin > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR001136 Merozoite surface protein 2 > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR001231 CD44 antigen > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR001577 Peptidase M8, leishmanolysin > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR002038 Osteopontin > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR002396 Selectin superfamily > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR002463 Ornatin > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR002592 Outer capsid protein sigma-1, C-terminal domain > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR003367 Thrombospondin, type 3-like repeat > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR003452 Stem cell factor > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR003467 K88 fimbrial minor subunit FaeH > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR003535 Intimin/invasin bacterial adhesion mediator protein > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR003992 Pertactin autotransporter > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR004086 Fimbrial protein PapE > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR005310 PapG, carbohydrate-binding domain > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR005387 CX3C chemokine receptor 1 > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR006077 Vinculin/alpha-catenin > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR006128 Adhesion lipoprotein PsaA-like > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR006129 Adhesin B > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR007007 Ninjurin > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR008083 CD34 antigen > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR008110 Porphyromonas gingivalis fimbrillin protein > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR008126 Outer membrane adhesion, Yersinia > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR008412 Integrin-binding sialoprotein > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR008424 Immunoglobulin C2-set > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR008440 Agglutinin, central repeat > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR008601 Cell-cell adhesion > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR008859 Thrombospondin, C-terminal > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR008982 Adenovirus pIV-like, attachment domain > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR009138 Neural cell adhesion > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR009742 Curlin associated > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR010809 Flagellar hook-associated protein 2, C-terminal > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR011252 Fibrogen-binding domain 1 > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR011266 Fibrinogen-binding domain 2 > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR013284 Beta-catenin > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR015169 Adhesion molecule, immunoglobulin-like > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR016348 L-selectin > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR019019 H-type lectin domain > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR019841 Osteopontin, conserved site > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR020894 Cadherin conserved site > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR028029 Signal transducer CD24 > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR028433 Parvin > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR030718 Extracellular cadherin domain superfamily > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR032077 Adhesin JlpA, Campylobacter > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR033292 Thy-1 membrane glycoprotein > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR033320 Nectin-3/4, second Ig domain > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR033504 Agglutinin-like protein > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR036723 Alpha-catenin/vinculin-like superfamily > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR036937 Fimbrial-type adhesion domain superfamily > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR037413 Mucosal addressin cell adhesion molecule 1 > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR039458 FimA-like > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR042456 Junctional adhesion molecule A > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR042472 Matrix remodeling-associated protein 8 > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR042974 Junctional adhesion molecule C > GO:cell adhesion ; GO:0007155
+GO:0007155	interpro2go	InterPro:IPR047012 Intercellular adhesion molecule/vascular cell adhesion molecule > GO:cell adhesion ; GO:0007155
+GO:0007155	uniprotkb_kw2go	UniProtKB-KW:KW-0130 Cell adhesion > GO:cell adhesion ; GO:0007155
+GO:0007162	unirule2go	UniRule:UR000172769 > GO:negative regulation of cell adhesion ; GO:0007162
+GO:0022407	interpro2go	InterPro:IPR017403 Podocalyxin > GO:regulation of cell-cell adhesion ; GO:0022407
+GO:0022409	interpro2go	InterPro:IPR006704 Leukocyte surface antigen CD47 > GO:positive regulation of cell-cell adhesion ; GO:0022409
+GO:0030155	interpro2go	InterPro:IPR009254 Laminin alpha, domain I > GO:regulation of cell adhesion ; GO:0030155
+GO:0030155	interpro2go	InterPro:IPR029978 LIM domain only protein 7 > GO:regulation of cell adhesion ; GO:0030155
+GO:0098609	interpro2go	InterPro:IPR003987 Intercellular adhesion molecule/vascular cell adhesion molecule, N-terminal > GO:cell-cell adhesion ; GO:0098609
+GO:0098609	interpro2go	InterPro:IPR003988 Intercellular adhesion molecule > GO:cell-cell adhesion ; GO:0098609
+GO:0098609	interpro2go	InterPro:IPR003989 Vascular cell adhesion molecule-1 > GO:cell-cell adhesion ; GO:0098609
+GO:0098609	interpro2go	InterPro:IPR015059 Calcium-dependent cell adhesion molecule, N-terminal > GO:cell-cell adhesion ; GO:0098609
+GO:0098609	interpro2go	InterPro:IPR026858 Vezatin > GO:cell-cell adhesion ; GO:0098609
+GO:0098609	interpro2go	InterPro:IPR028435 Plakophilin/Delta catenin > GO:cell-cell adhesion ; GO:0098609
+GO:0098609	interpro2go	InterPro:IPR039808 Cadherin > GO:cell-cell adhesion ; GO:0098609
+GO:0098609	interpro2go	InterPro:IPR042757 Endothelial cell-selective adhesion molecule > GO:cell-cell adhesion ; GO:0098609
+GO:2000047	reactome2go	Reactome:R-HSA-9764260 > GO:regulation of cell-cell adhesion mediated by cadherin ; GO:2000047
+GO:2000047	reactome2go	Reactome:R-HSA-9764274 > GO:regulation of cell-cell adhesion mediated by cadherin ; GO:2000047
