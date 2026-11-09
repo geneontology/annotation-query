@@ -1,0 +1,14 @@
+term	file	line
+GO:0006650	hamap2go	HAMAP:MF_00394 > GO:glycerophospholipid metabolic process ; GO:0006650
+GO:0006650	hamap2go	HAMAP:MF_00497 > GO:glycerophospholipid metabolic process ; GO:0006650
+GO:0006650	unirule2go	UniRule:UR000085065 > GO:glycerophospholipid metabolic process ; GO:0006650
+GO:0006650	unirule2go	UniRule:UR000103182 > GO:glycerophospholipid metabolic process ; GO:0006650
+GO:0006650	unirule2go	UniRule:UR000380751 > GO:glycerophospholipid metabolic process ; GO:0006650
+GO:0006650	interpro2go	InterPro:IPR010946 Geranylgeranylglyceryl phosphate synthase > GO:glycerophospholipid metabolic process ; GO:0006650
+GO:0006650	interpro2go	InterPro:IPR016222 Glycerol-3-phosphate O-acyltransferase, chloroplast > GO:glycerophospholipid metabolic process ; GO:0006650
+GO:0006673	interpro2go	InterPro:IPR013862 Inositolphosphorylceramide synthase subunit Kei1 > GO:inositol phosphoceramide metabolic process ; GO:0006673
+GO:0045338	interpro2go	InterPro:IPR044844 Trans-isoprenyl diphosphate synthases, eukaryotic-type > GO:farnesyl diphosphate metabolic process ; GO:0045338
+GO:0046493	hamap2go	HAMAP:MF_01166 > GO:lipid A metabolic process ; GO:0046493
+GO:0046493	hamap2go	HAMAP:MF_01167 > GO:lipid A metabolic process ; GO:0046493
+GO:0046493	unirule2go	UniRule:UR000100805 > GO:lipid A metabolic process ; GO:0046493
+GO:0046493	unirule2go	UniRule:UR000100807 > GO:lipid A metabolic process ; GO:0046493
