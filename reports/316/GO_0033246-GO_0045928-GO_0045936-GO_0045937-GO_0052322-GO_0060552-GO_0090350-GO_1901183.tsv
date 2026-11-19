@@ -1,0 +1,21 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+AspGD	UniProtKB:C8VQG9	laeA	PMID:15075281		GO:0033246	positive regulation of penicillin metabolic process	IMP		UniProtKB:C8VQG9	PANTHER:PTHR43591	20090330		NCBITaxon:227321
+AspGD	UniProtKB:C8VQM0	ANIA_00106	PMID:16598003		GO:0033246	positive regulation of penicillin metabolic process	IMP		UniProtKB:C8VQM0	PANTHER:PTHR24356	20090625		NCBITaxon:227321
+AspGD	UniProtKB:C8V7D1	mpkB	PMID:18378656		GO:0033246	positive regulation of penicillin metabolic process	IMP		UniProtKB:C8V7D1	PANTHER:PTHR24055	20090608		NCBITaxon:227321
+AspGD	UniProtKB:Q5ASI9	ANIA_08741	PMID:24066102		GO:0033246	positive regulation of penicillin metabolic process	IMP		UniProtKB:Q5ASI9		20131007		NCBITaxon:227321
+UniProt	FB:FBgn0035206	sturkopf	PMID:30917324		GO:0045928	negative regulation of juvenile hormone metabolic process	IDA		FB:FBgn0035206	PANTHER:PTHR13390	20210218		NCBITaxon:7227
+ComplexPortal	SGD:S000005952	PHO85	PMID:8108735		GO:0045936	negative regulation of phosphate metabolic process	IDA		SGD:S000005952	PANTHER:PTHR24056	20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000218076	CPX-1688	PMID:8108735		GO:0045936	negative regulation of phosphate metabolic process	IDA				20240827		NCBITaxon:559292
+ComplexPortal	SGD:S000005361	PHO80	PMID:8108735		GO:0045936	negative regulation of phosphate metabolic process	IDA		SGD:S000005361	PANTHER:PTHR15615	20240827		NCBITaxon:559292
+EcoliWiki	EcoCyc:EG10735-MONOMER	PhoU	PMID:1459954		GO:0045936	negative regulation of phosphate metabolic process	IMP		EcoCyc:EG10735-MONOMER		20090727		NCBITaxon:83333
+SGD	SGD:S000005952	PHO85	PMID:3915785		GO:0045936	negative regulation of phosphate metabolic process	IGI	SGD:S000000296	SGD:S000005952	PANTHER:PTHR24056	20130807		NCBITaxon:559292
+SGD	SGD:S000005361	PHO80	PMID:3915785		GO:0045936	negative regulation of phosphate metabolic process	IGI	SGD:S000000296	SGD:S000005361	PANTHER:PTHR15615	20130807		NCBITaxon:559292
+UniProt	EcoCyc:EG10735-MONOMER	PhoU	PMID:6090402		GO:0045936	negative regulation of phosphate metabolic process	IMP		EcoCyc:EG10735-MONOMER		20121120		NCBITaxon:83333
+UniProt	EcoCyc:EG10735-MONOMER	PhoU	PMID:6310121		GO:0045936	negative regulation of phosphate metabolic process	IMP		EcoCyc:EG10735-MONOMER		20121120		NCBITaxon:83333
+SGD	SGD:S000001930	PHO4	PMID:3915785		GO:0045937	positive regulation of phosphate metabolic process	IGI	SGD:S000000296	SGD:S000001930		20140404		NCBITaxon:559292
+SGD	SGD:S000002264	PHO2	PMID:3915785		GO:0045937	positive regulation of phosphate metabolic process	IGI	SGD:S000000296	SGD:S000002264	PANTHER:PTHR24324	20130807		NCBITaxon:559292
+BHF-UCL	UniProtKB:P01579	IFNG	PMID:9282826		GO:0060552	positive regulation of fructose 1,6-bisphosphate metabolic process	IDA		UniProtKB:P01579	PANTHER:PTHR11419	20090730		NCBITaxon:9606
+BHF-UCL	UniProtKB:P10635	CYP2D6	PMID:19448135		GO:0090350	negative regulation of organofluorine metabolic process	IDA		UniProtKB:P10635	PANTHER:PTHR24300	20110110		NCBITaxon:9606
+TAIR	AGI_LocusCode:AT4G27260	GH3.5	PMID:22624950		GO:1901183	positive regulation of camalexin biosynthetic process	IMP		AGI_LocusCode:AT4G27260		20120723		NCBITaxon:3702
+TAIR	AGI_LocusCode:AT2G41760	NTAQ1	PMID:30117535		GO:1901183	positive regulation of camalexin biosynthetic process	IMP		AGI_LocusCode:AT2G41760		20180904		NCBITaxon:3702
+UniProt	AGI_LocusCode:AT3G52430	PAD4	PMID:10557364		GO:1901183	positive regulation of camalexin biosynthetic process	IMP		AGI_LocusCode:AT3G52430		20140415		NCBITaxon:3702
