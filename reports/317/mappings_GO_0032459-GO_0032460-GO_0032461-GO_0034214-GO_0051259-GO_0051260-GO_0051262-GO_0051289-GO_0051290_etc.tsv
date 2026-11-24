@@ -1,0 +1,29 @@
+term	file	line
+GO:0034214	hamap2go	HAMAP:MF_03021 > GO:protein hexamerization ; GO:0034214
+GO:0034214	unirule2go	UniRule:UR000107246 > GO:protein hexamerization ; GO:0034214
+GO:0051259	hamap2go	HAMAP:MF_04069 > GO:protein complex oligomerization ; GO:0051259
+GO:0051259	unirule2go	UniRule:UR000568405 > GO:protein complex oligomerization ; GO:0051259
+GO:0051259	interpro2go	InterPro:IPR009073 Co-chaperone HscB, C-terminal oligomerisation domain > GO:protein complex oligomerization ; GO:0051259
+GO:0051259	interpro2go	InterPro:IPR020899 Arginine repressor, C-terminal > GO:protein complex oligomerization ; GO:0051259
+GO:0051259	interpro2go	InterPro:IPR032499 Bacteriophage CI repressor, C-terminal > GO:protein complex oligomerization ; GO:0051259
+GO:0051259	interpro2go	InterPro:IPR036251 Arginine repressor, C-terminal domain superfamily > GO:protein complex oligomerization ; GO:0051259
+GO:0051259	interpro2go	InterPro:IPR036386 HscB, C-terminal domain superfamily > GO:protein complex oligomerization ; GO:0051259
+GO:0051260	hamap2go	HAMAP:MF_04080 > GO:protein homooligomerization ; GO:0051260
+GO:0051260	unirule2go	UniRule:UR000613581 > GO:protein homooligomerization ; GO:0051260
+GO:0051260	interpro2go	InterPro:IPR000817 Prion protein > GO:protein homooligomerization ; GO:0051260
+GO:0051260	interpro2go	InterPro:IPR003131 Potassium channel tetramerisation-type BTB domain > GO:protein homooligomerization ; GO:0051260
+GO:0051260	interpro2go	InterPro:IPR022416 Prion/Doppel protein, beta-ribbon domain > GO:protein homooligomerization ; GO:0051260
+GO:0051260	interpro2go	InterPro:IPR027439 Protective antigen, heptamerisation domain > GO:protein homooligomerization ; GO:0051260
+GO:0051260	interpro2go	InterPro:IPR036924 Prion/Doppel beta-ribbon domain superfamily > GO:protein homooligomerization ; GO:0051260
+GO:0051260	interpro2go	InterPro:IPR037149 Protective antigen, heptamerisation domain superfamily > GO:protein homooligomerization ; GO:0051260
+GO:0051262	interpro2go	InterPro:IPR003708 Bacterial protein export chaperone SecB > GO:protein tetramerization ; GO:0051262
+GO:0051262	interpro2go	InterPro:IPR010991 p53, tetramerisation domain > GO:protein tetramerization ; GO:0051262
+GO:0051262	interpro2go	InterPro:IPR032415 TRPM, tetramerisation domain > GO:protein tetramerization ; GO:0051262
+GO:0051262	interpro2go	InterPro:IPR036674 p53-like tetramerisation domain superfamily > GO:protein tetramerization ; GO:0051262
+GO:0051262	interpro2go	InterPro:IPR037162 TRPM, tetramerisation domain superfamily > GO:protein tetramerization ; GO:0051262
+GO:0051289	hamap2go	HAMAP:MF_03062 > GO:protein homotetramerization ; GO:0051289
+GO:0051289	unirule2go	UniRule:UR000160894 > GO:protein homotetramerization ; GO:0051289
+GO:0051289	interpro2go	InterPro:IPR017354 Vasodilator-stimulated phosphoprotein/ENA/VASP-like > GO:protein homotetramerization ; GO:0051289
+GO:0051289	interpro2go	InterPro:IPR024783 Transducer of regulated CREB activity, N-terminal > GO:protein homotetramerization ; GO:0051289
+GO:0070206	interpro2go	InterPro:IPR032519 YbgF, trimerisation domain > GO:protein trimerization ; GO:0070206
+GO:0070206	interpro2go	InterPro:IPR036613 MHC class II-associated invariant chain, trimerisation domain superfamily > GO:protein trimerization ; GO:0070206

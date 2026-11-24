@@ -1,0 +1,6 @@
+assigned_by	bioentity	bioentity_label	reference	qualifier	annotation_class	annotation_class_label	evidence_type	evidence_with	bioentity_isoform	panther_family	date	annotation_extension_class	taxon
+ARUK-UCL	UniProtKB:Q09472	EP300	PMID:23962722		GO:0061733	protein-lysine-acetyltransferase activity	IDA		UniProtKB:Q09472	PANTHER:PTHR13808	20241129	UniProtKB:P10636-6|GO:0032460	NCBITaxon:9606
+ARUK-UCL	MGI:MGI:1333752	Hdac6	PMID:23962722		GO:0033558	protein lysine deacetylase activity	IMP		MGI:MGI:1333752	PANTHER:PTHR10625	20241129	UniProtKB:P10637|GO:0032461	NCBITaxon:10090
+ARUK-UCL	UniProtKB:Q9UBN7	HDAC6	PMID:23962722		GO:0033558	protein lysine deacetylase activity	IMP		UniProtKB:Q9UBN7	PANTHER:PTHR10625	20241129	UniProtKB:P10636-6|GO:0032461	NCBITaxon:9606
+ParkinsonsUK-UCL	UniProtKB:A6NFA1	TRABD2B	PMID:22726442		GO:0006508	proteolysis	IDA		UniProtKB:A6NFA1	PANTHER:PTHR31120	20160107	UniProtKB:P56704|GO:0030178|GO:0032461|UniProtKB:P41221|GO:0030178	NCBITaxon:9606
+UniProt	UniProtKB:Q14164	IKBKE	PMID:24882218		GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	IMP	UniProtKB:Q9C030	UniProtKB:Q14164	PANTHER:PTHR22969	20160104	UniProtKB:Q9C030|GO:0006468|GO:0051260	NCBITaxon:9606
